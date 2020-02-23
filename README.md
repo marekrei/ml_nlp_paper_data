@@ -17,15 +17,15 @@ Country annotation
 
 *annotated_orgs.tsv* contains the following columns in tab-separated format:
 
-* id
-* org_name - the name of the organization, as crawled
-* paper_count - the number of papers that matched that name, after initial processing
-* is_org - manually annotated field, indicating whether this is an actual organization or crawling noise
-* canonical_org_name - a canonical name for this organization, to match together different versions
-* country - manually annotated country name for each organization
-* example1 - an example paper where this organization was crawled from
-* example2 - another example
-* example3 - another example
+* **id**
+* **org_name** - the name of the organization, as crawled
+* **paper_count** - the number of papers that matched that name, after initial processing
+* **is_org** - manually annotated field, indicating whether this is an actual organization or crawling noise
+* **canonical_org_name** - a canonical name for this organization, to match together different versions
+* **country** - manually annotated country name for each organization
+* **example1** - an example paper where this organization was crawled from
+* **example2** - another example
+* **example3** - another example
 
 
 License
