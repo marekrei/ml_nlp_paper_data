@@ -1,0 +1,765 @@
+[
+    {
+        "id": "TACL13-0",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Token and Type Constraints for Cross-Lingual Part-of-Speech Tagging",
+        "authors": [
+            "Oscar Täckström",
+            "Dipanjan Das",
+            "Slav Petrov",
+            "Ryan McDonald",
+            "Joakim Nivre"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1001.pdf",
+        "orgs": [
+            {
+                "name": "California Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Uppsala University",
+                "country": "Sweden"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-1",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Finding Optimal 1-Endpoint-Crossing Trees",
+        "authors": [
+            "Emily Pitler",
+            "Sampath Kannan",
+            "Mitchell Marcus"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1002.pdf",
+        "orgs": [
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-2",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Grounding Action Descriptions in Videos",
+        "authors": [
+            "Michaela Regneri",
+            "Marcus Rohrbach",
+            "Dominikus Wetzel",
+            "Stefan Thater",
+            "Bernt Schiele",
+            "Manfred Pinkal"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1003.pdf",
+        "orgs": [
+            {
+                "name": "Saarland University",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-3",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Branch and Bound Algorithm for Dependency Parsing with Non-local Features",
+        "authors": [
+            "Xian Qian",
+            "Yang Liu"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1004.pdf",
+        "orgs": [
+            {
+                "name": "University of Texas at Dallas",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-4",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions",
+        "authors": [
+            "Yoav Artzi",
+            "Luke Zettlemoyer"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1005.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-5",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Unsupervised Dependency Parsing with Acoustic Cues",
+        "authors": [
+            "John K Pate",
+            "Sharon Goldwater"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1006.pdf",
+        "orgs": [
+            {
+                "name": "Macquarie University",
+                "country": "Australia"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-6",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "An HDP Model for Inducing Combinatory Categorial Grammars",
+        "authors": [
+            "Yonatan Bisk",
+            "Julia Hockenmaier"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1007.pdf",
+        "orgs": [
+            {
+                "name": "University of Illinois at Urbana–Champaign",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-7",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "A Novel Feature-based Bayesian Model for Query Focused Multi-document Summarization",
+        "authors": [
+            "Jiwei Li",
+            "Sujian Li"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1008.pdf",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-8",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Using Pivot-Based Paraphrasing and Sentiment Profiles to Improve a Subjectivity Lexicon for Essay Data",
+        "authors": [
+            "Beata Beigman Klebanov",
+            "Nitin Madnani",
+            "Jill Burstein"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1009.pdf",
+        "orgs": [
+            {
+                "name": "Educational Testing Service",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-9",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Incremental Tree Substitution Grammar for Parsing and Sentence Prediction",
+        "authors": [
+            "Federico Sangati",
+            "Frank Keller"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1010.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-10",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Modeling Child Divergences from Adult Grammar",
+        "authors": [
+            "Sam Sahakian",
+            "Benjamin Snyder"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1011.pdf",
+        "orgs": [
+            {
+                "name": "University of Wisconsin–Madison",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-11",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Efficient Stacked Dependency Parsing by Forest Reranking",
+        "authors": [
+            "Katsuhiko Hayashi",
+            "Shuhei Kondo",
+            "Yuji Matsumoto"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1012.pdf",
+        "orgs": []
+    },
+    {
+        "id": "TACL13-12",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Dijkstra-WSA: A Graph-Based Approach to Word Sense Alignment",
+        "authors": [
+            "Michael Matuschek",
+            "Iryna Gurevych"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1013.pdf",
+        "orgs": [
+            {
+                "name": "Technische Universität Darmstadt",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-13",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Learning to translate with products of novices: a suite of open-ended challenge problems for teaching MT",
+        "authors": [
+            "Adam Lopez",
+            "Matt Post",
+            "Chris Callison-Burch",
+            "Jonathan Weese",
+            "Juri Ganitkevitch",
+            "Narges Ahmidi",
+            "Olivia Buzek",
+            "Leah Hanson",
+            "Beenish Jamil",
+            "Matthias Lee",
+            "Ya-Ting Lin",
+            "Henry Pao",
+            "Fatima Rivera",
+            "Leili Shahriyari",
+            "Debu Sinha",
+            "Adam Teichert",
+            "Stephen Wampler",
+            "Michael Weinberger",
+            "Daguang Xu",
+            "Lin Yang",
+            "Shang Zhao"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1014.pdf",
+        "orgs": [
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-14",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Combined Distributional and Logical Semantics",
+        "authors": [
+            "Mike Lewis",
+            "Mark Steedman"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1015.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-15",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Jointly Learning to Parse and Perceive: Connecting Natural Language to the Physical World",
+        "authors": [
+            "Jayant Krishnamurthy",
+            "Thomas Kollar"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1016.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-16",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Dual Coordinate Descent Algorithms for Efficient Large Margin Structured Prediction",
+        "authors": [
+            "Ming-Wei Chang",
+            "Wen-tau Yih"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1017.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-17",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Joint Arc-factored Parsing of Syntactic and Semantic Dependencies",
+        "authors": [
+            "Xavier Lluís",
+            "Xavier Carreras",
+            "Lluís Màrquez"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1018.pdf",
+        "orgs": [
+            {
+                "name": "Polytechnic University of Catalonia",
+                "country": "Spain"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-18",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Modeling Semantic Relations Expressed by Prepositions",
+        "authors": [
+            "Vivek Srikumar",
+            "Dan Roth"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1019.pdf",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-19",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Unsupervised Tree Induction for Tree-based Translation",
+        "authors": [
+            "Feifei Zhai",
+            "Jiajun Zhang",
+            "Yu Zhou",
+            "Chengqing Zong"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1020.pdf",
+        "orgs": [
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-20",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Minimally-Supervised Morphological Segmentation using Adaptor Grammars",
+        "authors": [
+            "Kairit Sirts",
+            "Sharon Goldwater"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1021.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            },
+            {
+                "name": "Tallinn University of Technology",
+                "country": "Estonia"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-21",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Efficient Parsing for Head-Split Dependency Trees",
+        "authors": [
+            "Giorgio Satta",
+            "Marco Kuhlmann"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1022.pdf",
+        "orgs": [
+            {
+                "name": "University of Padua",
+                "country": "Italy"
+            },
+            {
+                "name": "Uppsala University",
+                "country": "Sweden"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-22",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Good, Great, Excellent: Global Inference of Semantic Intensities",
+        "authors": [
+            "Gerard de Melo",
+            "Mohit Bansal"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1023.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-23",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Large-scale Word Alignment Using Soft Dependency Cohesion Constraints",
+        "authors": [
+            "Zhiguo Wang",
+            "Chengqing Zong"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1024.pdf",
+        "orgs": [
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-24",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Data-driven, PCFG-based and Pseudo-PCFG-based Models for Chinese Dependency Parsing",
+        "authors": [
+            "Weiwei Sun",
+            "Xiaojun Wan"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1025.pdf",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-25",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Parsing entire discourses as very long strings: Capturing topic continuity in grounded language learning",
+        "authors": [
+            "Minh-Thang Luong",
+            "Michael C. Frank",
+            "Mark Johnson"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1026.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Macquarie University",
+                "country": "Australia"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-26",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Dynamically Shaping the Reordering Search Space of Phrase-Based Statistical Machine Translation",
+        "authors": [
+            "Arianna Bisazza",
+            "Marcello Federico"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1027.pdf",
+        "orgs": []
+    },
+    {
+        "id": "TACL13-27",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "What Makes Writing Great? First Experiments on Article Quality Prediction in the Science Journalism Domain",
+        "authors": [
+            "Annie Louis",
+            "Ani Nenkova"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1028.pdf",
+        "orgs": [
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-28",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Distributional Semantics Beyond Words: Supervised Learning of Analogy and Paraphrase",
+        "authors": [
+            "Peter D. Turney"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1029.pdf",
+        "orgs": [
+            {
+                "name": "National Research Council Canada",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-29",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Modeling Missing Data in Distant Supervision for Information Extraction",
+        "authors": [
+            "Alan Ritter",
+            "Luke Zettlemoyer",
+            "Mausam",
+            "Oren Etzioni"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1030.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "University of North Carolina at Chapel Hill",
+                "country": "USA"
+            },
+            {
+                "name": "Apple",
+                "country": "USA"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-30",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Data-Driven Metaphor Recognition and Explanation",
+        "authors": [
+            "Hongsong Li",
+            "Kenny Q. Zhu",
+            "Haixun Wang"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1031.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Shanghai Jiao Tong University",
+                "country": "China"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-31",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Powergrading: a Clustering Approach to Amplify Human Effort for Short Answer Grading",
+        "authors": [
+            "Sumit Basu",
+            "Chuck Jacobs",
+            "Lucy Vanderwende"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1032.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-32",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Training Deterministic Parsers with Non-Deterministic Oracles",
+        "authors": [
+            "Yoav Goldberg",
+            "Joakim Nivre"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1033.pdf",
+        "orgs": [
+            {
+                "name": "Uppsala University",
+                "country": "Sweden"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-33",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Joint Morphological and Syntactic Analysis for Richly Inflected Languages",
+        "authors": [
+            "Bernd Bohnet",
+            "Joakim Nivre",
+            "Igor Boguslavsky",
+            "Richárd Farkas",
+            "Filip Ginter",
+            "Jan Hajič"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1034.pdf",
+        "orgs": [
+            {
+                "name": "Uppsala University",
+                "country": "Sweden"
+            },
+            {
+                "name": "University of Birmingham",
+                "country": "UK"
+            },
+            {
+                "name": "University of Szeged",
+                "country": "Hungary"
+            },
+            {
+                "name": "Technical University of Madrid",
+                "country": "Spain"
+            },
+            {
+                "name": "University of Turku",
+                "country": "Finland"
+            },
+            {
+                "name": "Charles University in Prague",
+                "country": "Czech Republic"
+            },
+            {
+                "name": "Russian Academy of Sciences",
+                "country": "Russia"
+            }
+        ]
+    },
+    {
+        "id": "TACL13-34",
+        "source": "TACL13",
+        "source_type": "TACL",
+        "year": "2013",
+        "title": "Measuring Machine Translation Errors in New Domains",
+        "authors": [
+            "Ann Irvine",
+            "John Morgan",
+            "Marine Carpuat",
+            "Hal Daumé III",
+            "Dragos Munteanu"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q13-1035.pdf",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            },
+            {
+                "name": "SDL Research",
+                "country": "USA"
+            },
+            {
+                "name": "National Research Council Canada",
+                "country": "Canada"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    }
+]

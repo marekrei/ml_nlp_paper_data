@@ -1,0 +1,4550 @@
+[
+    {
+        "id": "ICLR17-0",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Making Neural Programming Architectures Generalize via Recursion",
+        "authors": [
+            "Jonathon Cai",
+            "Richard Shin",
+            "Dawn Song"
+        ],
+        "url": "https://openreview.net/pdf?id=BkbY4psgg",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-1",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "End-to-end Optimized Image Compression",
+        "authors": [
+            "Johannes Ballé",
+            "Valero Laparra",
+            "Eero P. Simoncelli"
+        ],
+        "url": "https://openreview.net/pdf?id=rJxdQ3jeg",
+        "orgs": [
+            {
+                "name": "Universität Politècnica de València",
+                "country": "Spain"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-2",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Optimization as a Model for Few-Shot Learning",
+        "authors": [
+            "Sachin Ravi",
+            "Hugo Larochelle"
+        ],
+        "url": "https://openreview.net/pdf?id=rJY0-Kcll",
+        "orgs": []
+    },
+    {
+        "id": "ICLR17-3",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning End-to-End Goal-Oriented Dialog",
+        "authors": [
+            "Antoine Bordes",
+            "Y-Lan Boureau",
+            "Jason Weston"
+        ],
+        "url": "https://openreview.net/pdf?id=S1Bb3D5gg",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-4",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Towards Principled Methods for Training Generative Adversarial Networks",
+        "authors": [
+            "Martin Arjovsky",
+            "Leon Bottou"
+        ],
+        "url": "https://openreview.net/pdf?id=Hk4_qw5xe",
+        "orgs": [
+            {
+                "name": "Courant Institute of Mathematical Sciences",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-5",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Reinforcement Learning with Unsupervised Auxiliary Tasks",
+        "authors": [
+            "Max Jaderberg",
+            "Volodymyr Mnih",
+            "Wojciech Marian Czarnecki",
+            "Tom Schaul",
+            "Joel Z Leibo",
+            "David Silver",
+            "Koray Kavukcuoglu"
+        ],
+        "url": "https://openreview.net/pdf?id=SJ6yPD5xg",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-6",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Multi-Agent Cooperation and the Emergence of (Natural) Language",
+        "authors": [
+            "Angeliki Lazaridou",
+            "Alexander Peysakhovich",
+            "Marco Baroni"
+        ],
+        "url": "https://openreview.net/pdf?id=Hk8N3Sclg",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            },
+            {
+                "name": "University of Trento",
+                "country": "Italy"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-7",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Understanding deep learning requires rethinking generalization",
+        "authors": [
+            "Chiyuan Zhang",
+            "Samy Bengio",
+            "Moritz Hardt",
+            "Benjamin Recht",
+            "Oriol Vinyals"
+        ],
+        "url": "https://openreview.net/pdf?id=Sy8gdB9xx",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-8",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Neural Architecture Search with Reinforcement Learning",
+        "authors": [
+            "Barret Zoph",
+            "Quoc Le"
+        ],
+        "url": "https://openreview.net/pdf?id=r1Ue8Hcxg",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-9",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic",
+        "authors": [
+            "Shixiang Gu",
+            "Timothy Lillicrap",
+            "Zoubin Ghahramani",
+            "Richard E. Turner",
+            "Sergey Levine"
+        ],
+        "url": "https://openreview.net/pdf?id=SJ3rcZcxl",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Uber AI Labs",
+                "country": "USA"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "Max Planck Institute for Intelligent Systems",
+                "country": "Germany"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-10",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning to Act by Predicting the Future",
+        "authors": [
+            "Alexey Dosovitskiy",
+            "Vladlen Koltun"
+        ],
+        "url": "https://openreview.net/pdf?id=rJLS7qKel",
+        "orgs": [
+            {
+                "name": "Intel Labs",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-11",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima",
+        "authors": [
+            "Nitish Shirish Keskar",
+            "Dheevatsa Mudigere",
+            "Jorge Nocedal",
+            "Mikhail Smelyanskiy",
+            "Ping Tak Peter Tang"
+        ],
+        "url": "https://openreview.net/pdf?id=H1oyRlYgg",
+        "orgs": [
+            {
+                "name": "Intel Labs",
+                "country": "USA"
+            },
+            {
+                "name": "Northwestern University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-12",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data",
+        "authors": [
+            "Nicolas Papernot",
+            "Martín Abadi",
+            "Úlfar Erlingsson",
+            "Ian Goodfellow",
+            "Kunal Talwar"
+        ],
+        "url": "https://openreview.net/pdf?id=HkwoSDPgg",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Pennsylvania State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-13",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Amortised MAP Inference for Image Super-resolution",
+        "authors": [
+            "Casper Kaae Sønderby",
+            "Jose Caballero",
+            "Lucas Theis",
+            "Wenzhe Shi",
+            "Ferenc Huszár"
+        ],
+        "url": "https://openreview.net/pdf?id=S1RP6GLle",
+        "orgs": [
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-14",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning Graphical State Transitions",
+        "authors": [
+            "Daniel D. Johnson"
+        ],
+        "url": "https://openreview.net/pdf?id=HJ0NvFzxl",
+        "orgs": [
+            {
+                "name": "Harvey Mudd College",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-15",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Maximum Entropy Flow Networks",
+        "authors": [
+            "Gabriel Loaiza-Ganem *",
+            "Yuanjun Gao *",
+            "John P. Cunningham"
+        ],
+        "url": "https://openreview.net/pdf?id=H1acq85gx",
+        "orgs": [
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-16",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Topology and Geometry of Half-Rectified Network Optimization",
+        "authors": [
+            "C. Daniel Freeman",
+            "Joan Bruna"
+        ],
+        "url": "https://openreview.net/pdf?id=Bk0FWVcgx",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "Courant Institute of Mathematical Sciences",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-17",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer",
+        "authors": [
+            "Sergey Zagoruyko",
+            "Nikos Komodakis"
+        ],
+        "url": "https://openreview.net/pdf?id=Sks9_ajex",
+        "orgs": [
+            {
+                "name": "Université Paris-Est",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-18",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning Visual Servoing with Deep Features and Fitted Q-Iteration",
+        "authors": [
+            "Alex X. Lee",
+            "Sergey Levine",
+            "Pieter Abbeel"
+        ],
+        "url": "https://openreview.net/pdf?id=r1YNw6sxg",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "OpenAI",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-19",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Stochastic Neural Networks for Hierarchical Reinforcement Learning",
+        "authors": [
+            "Carlos Florensa",
+            "Yan Duan",
+            "Pieter Abbeel"
+        ],
+        "url": "https://openreview.net/pdf?id=B1oK8aoxe",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "OpenAI",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-20",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Nonparametric Neural Networks",
+        "authors": [
+            "George Philipp",
+            "Jaime G. Carbonell"
+        ],
+        "url": "https://openreview.net/pdf?id=BJK3Xasel",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-21",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Distributed Second-Order Optimization using Kronecker-Factored Approximations",
+        "authors": [
+            "Jimmy Ba",
+            "Roger Grosse",
+            "James Martens"
+        ],
+        "url": "https://jimmylba.github.io/papers/nsync.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-22",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Pruning Filters for Efficient ConvNets",
+        "authors": [
+            "Hao Li",
+            "Asim Kadav",
+            "Igor Durdanovic",
+            "Hanan Samet",
+            "Hans Peter Graf"
+        ],
+        "url": "https://openreview.net/pdf?id=rJqFGTslg",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            },
+            {
+                "name": "NEC Corporation",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-23",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning to Generate Samples from Noise through Infusion Training",
+        "authors": [
+            "Florian Bordes",
+            "Sina Honari",
+            "Pascal Vincent"
+        ],
+        "url": "https://openreview.net/pdf?id=BJAFbaolg",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "Montreal Institute of Learning Algorithms",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-24",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "FILTER SHAPING FOR CONVOLUTIONAL NEURAL NETWORKS",
+        "authors": [
+            "Xingyi Li",
+            "Fuxin Li",
+            "Xiaoli Fern",
+            "Raviv Raich"
+        ],
+        "url": "https://openreview.net/pdf?id=S1TER2oll",
+        "orgs": [
+            {
+                "name": "Oregon State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-25",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Normalizing the Normalizers: Comparing and Extending Network Normalization Schemes",
+        "authors": [
+            "Mengye Ren",
+            "Renjie Liao",
+            "Raquel Urtasun",
+            "Fabian H. Sinz",
+            "Richard S. Zemel"
+        ],
+        "url": "https://openreview.net/pdf?id=rk5upnsxe",
+        "orgs": [
+            {
+                "name": "Canadian Institute for Advanced Research",
+                "country": "Canada"
+            },
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            },
+            {
+                "name": "Rice University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-26",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Multilayer Recurrent Network Models of Primate Retinal Ganglion Cell Responses",
+        "authors": [
+            "Eleanor Batty",
+            "Josh Merel",
+            "Nora Brackbill",
+            "Alexander Heitman",
+            "Alexander Sher",
+            "Alan Litke",
+            "E.J. Chichilnisky",
+            "Liam Paninski"
+        ],
+        "url": "https://openreview.net/pdf?id=HkEI22jeg",
+        "orgs": [
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            },
+            {
+                "name": "UC Santa Cruz",
+                "country": "USA"
+            },
+            {
+                "name": "University of California San Diego",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-27",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Improving Generative Adversarial Networks with Denoising Feature Matching",
+        "authors": [
+            "David Warde-Farley",
+            "Yoshua Bengio"
+        ],
+        "url": "https://openreview.net/pdf?id=S1X7nhsxl",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "Montreal Institute of Learning Algorithms",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-28",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Efficient Vector Representation for Documents through Corruption",
+        "authors": [
+            "Minmin Chen"
+        ],
+        "url": "https://openreview.net/pdf?id=B1Igu2ogg",
+        "orgs": [
+            {
+                "name": "Criteo",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-29",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning",
+        "authors": [
+            "Abhishek Gupta",
+            "Coline Devin",
+            "YuXuan Liu",
+            "Pieter Abbeel",
+            "Sergey Levine"
+        ],
+        "url": "https://openreview.net/pdf?id=Hyq4yhile",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "OpenAI",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-30",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Transfer of View-manifold Learning to Similarity Perception of Novel Objects",
+        "authors": [
+            "Xingyu Lin",
+            "Hao Wang",
+            "Zhihao Li",
+            "Yimeng Zhang",
+            "Alan Yuille",
+            "Tai Sing Lee"
+        ],
+        "url": "https://openreview.net/pdf?id=B1gtu5ilg",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Johns Hopkins Univeristy",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-31",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "What does it take to generate natural textures?",
+        "authors": [
+            "Ivan Ustyuzhaninov *",
+            "Wieland Brendel *",
+            "Leon Gatys",
+            "Matthias Bethge"
+        ],
+        "url": "https://openreview.net/pdf?id=BJhZeLsxx",
+        "orgs": [
+            {
+                "name": "University of Tübingen",
+                "country": "Germany"
+            },
+            {
+                "name": "Max Planck Institute for Biological Cybernetics",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-32",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Emergence of foveal image sampling from learning to attend in visual scenes",
+        "authors": [
+            "Brian Cheung",
+            "Eric Weiss",
+            "Bruno Olshausen"
+        ],
+        "url": "https://openreview.net/pdf?id=SJJKxrsgl",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-33",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "An Information-Theoretic Framework for Fast and Robust Unsupervised Learning via Neural Population Infomax",
+        "authors": [
+            "Wentao Huang",
+            "Kechen Zhang"
+        ],
+        "url": "https://openreview.net/pdf?id=SkYbF1slg",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-34",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications",
+        "authors": [
+            "Tim Salimans",
+            "Andrej Karpathy",
+            "Xi Chen",
+            "Diederik P. Kingma"
+        ],
+        "url": "https://openreview.net/pdf?id=BJrFC6ceg",
+        "orgs": []
+    },
+    {
+        "id": "ICLR17-35",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Mode Regularized Generative Adversarial Networks",
+        "authors": [
+            "Tong Che",
+            "Yanran Li",
+            "Athul Jacob",
+            "Yoshua Bengio",
+            "Wenjie Li"
+        ],
+        "url": "https://openreview.net/pdf?id=HJKkY35le",
+        "orgs": [
+            {
+                "name": "University of Waterloo",
+                "country": "Canada"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "The Hong Kong Polytechnic University",
+                "country": "China"
+            },
+            {
+                "name": "Montreal Institute of Learning Algorithms",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-36",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Highway and Residual Networks learn Unrolled Iterative Estimation",
+        "authors": [
+            "Klaus Greff",
+            "Rupesh K. Srivastava",
+            "Jürgen Schmidhuber"
+        ],
+        "url": "https://openreview.net/pdf?id=Skn9Shcxe",
+        "orgs": []
+    },
+    {
+        "id": "ICLR17-37",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Improving Neural Language Models with a Continuous Cache",
+        "authors": [
+            "Edouard Grave",
+            "Armand Joulin",
+            "Nicolas Usunier"
+        ],
+        "url": "https://openreview.net/pdf?id=B184E5qee",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-38",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Unsupervised Cross-Domain Image Generation",
+        "authors": [
+            "Yaniv Taigman",
+            "Adam Polyak",
+            "Lior Wolf"
+        ],
+        "url": "https://openreview.net/pdf?id=Sk2Im59ex",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-39",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Third Person Imitation Learning",
+        "authors": [
+            "Bradly C Stadie",
+            "Pieter Abbeel",
+            "Ilya Sutskever"
+        ],
+        "url": "https://openreview.net/pdf?id=B16dGcqlx",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "OpenAI",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-40",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Variational Recurrent Adversarial Deep Domain Adaptation",
+        "authors": [
+            "Sanjay Purushotham",
+            "Wilka Carvalho",
+            "Tanachat Nilanon",
+            "Yan Liu"
+        ],
+        "url": "https://openreview.net/pdf?id=rk9eAFcxg",
+        "orgs": [
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-41",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Program Synthesis for Character Level Language Modeling",
+        "authors": [
+            "Pavol Bielik",
+            "Veselin Raychev",
+            "Martin Vechev"
+        ],
+        "url": "https://openreview.net/pdf?id=ry_sjFqgx",
+        "orgs": []
+    },
+    {
+        "id": "ICLR17-42",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Episodic Exploration for Deep Deterministic Policies for StarCraft Micromanagement",
+        "authors": [
+            "Nicolas Usunier",
+            "Gabriel Synnaeve",
+            "Zeming Lin",
+            "Soumith Chintala"
+        ],
+        "url": "https://openreview.net/pdf?id=r1LXit5ee",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-43",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Soft Weight-Sharing for Neural Network Compression",
+        "authors": [
+            "Karen Ullrich",
+            "Edward Meeds",
+            "Max Welling"
+        ],
+        "url": "https://openreview.net/pdf?id=HJGwcKclx",
+        "orgs": [
+            {
+                "name": "Canadian Institute for Advanced Research",
+                "country": "Canada"
+            },
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-44",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Neural Program Lattices",
+        "authors": [
+            "Chengtao Li",
+            "Daniel Tarlow",
+            "Alexander L. Gaunt",
+            "Marc Brockschmidt",
+            "Nate Kushman"
+        ],
+        "url": "https://openreview.net/pdf?id=HJjiFK5gx",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-45",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Tracking the World State with Recurrent Entity Networks",
+        "authors": [
+            "Mikael Henaff",
+            "Jason Weston",
+            "Arthur Szlam",
+            "Antoine Bordes",
+            "Yann LeCun"
+        ],
+        "url": "https://openreview.net/pdf?id=rJTKKKqeg",
+        "orgs": [
+            {
+                "name": "Courant Institute of Mathematical Sciences",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-46",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Steerable CNNs",
+        "authors": [
+            "Taco S. Cohen",
+            "Max Welling"
+        ],
+        "url": "https://openreview.net/pdf?id=rJQKYt5ll",
+        "orgs": [
+            {
+                "name": "Canadian Institute for Advanced Research",
+                "country": "Canada"
+            },
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-47",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning to Query, Reason, and Answer Questions On Ambiguous Texts",
+        "authors": [
+            "Xiaoxiao Guo",
+            "Tim Klinger",
+            "Clemens Rosenbaum",
+            "Joseph P. Bigus",
+            "Murray Campbell",
+            "Ban Kawas",
+            "Kartik Talamadupula",
+            "Gerry Tesauro",
+            "Satinder Singh"
+        ],
+        "url": "https://openreview.net/pdf?id=rJ0-tY5xe",
+        "orgs": [
+            {
+                "name": "University of Michigan",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-48",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning",
+        "authors": [
+            "William Lotter",
+            "Gabriel Kreiman",
+            "David Cox"
+        ],
+        "url": "https://openreview.net/pdf?id=B1ewdt9xe",
+        "orgs": [
+            {
+                "name": "Harvard University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-49",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Diet Networks: Thin Parameters for Fat Genomics",
+        "authors": [
+            "Adriana Romero",
+            "Pierre Luc Carrier",
+            "Akram Erraqabi",
+            "Tristan Sylvain",
+            "Alex Auvolat",
+            "Etienne Dejoie",
+            "Marc-André Legault",
+            "Marie-Pierre Dubé",
+            "Julie G. Hussin"
+        ],
+        "url": "https://openreview.net/pdf?id=Sk-oDY9ge",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            },
+            {
+                "name": "Montreal Institute of Learning Algorithms",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-50",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Deep Biaffine Attention for Neural Dependency Parsing",
+        "authors": [
+            "Timothy Dozat",
+            "Christopher D. Manning"
+        ],
+        "url": "https://openreview.net/pdf?id=Hk95PK9le",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-51",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "PixelVAE: A Latent Variable Model for Natural Images",
+        "authors": [
+            "Ishaan Gulrajani",
+            "Kundan Kumar",
+            "Faruk Ahmed",
+            "Adrien Ali Taiga",
+            "Francesco Visin",
+            "David Vazquez",
+            "Aaron Courville"
+        ],
+        "url": "https://openreview.net/pdf?id=BJKYvt5lg",
+        "orgs": [
+            {
+                "name": "IIT Kanpur",
+                "country": "India"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "Politecnico di Milano",
+                "country": "Italy"
+            },
+            {
+                "name": "Montreal Institute of Learning Algorithms",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-52",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Snapshot Ensembles: Train 1, Get M for Free",
+        "authors": [
+            "Gao Huang",
+            "Yixuan Li",
+            "Geoff Pleiss",
+            "Zhuang Liu",
+            "John E. Hopcroft",
+            "Kilian Q. Weinberger"
+        ],
+        "url": "https://openreview.net/pdf?id=BJYwwY9ll",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-53",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Training Agent for First-Person Shooter Game with Actor-Critic Curriculum Learning",
+        "authors": [
+            "Yuxin Wu",
+            "Yuandong Tian"
+        ],
+        "url": "https://openreview.net/pdf?id=Hk3mPK5gg",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-54",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Neuro-Symbolic Program Synthesis",
+        "authors": [
+            "Emilio Parisotto",
+            "Abdel-rahman Mohamed",
+            "Rishabh Singh",
+            "Lihong Li",
+            "Dengyong Zhou",
+            "Pushmeet Kohli"
+        ],
+        "url": "https://openreview.net/pdf?id=rJ0JwFcex",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-55",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Decomposing Motion and Content for Natural Video Sequence Prediction",
+        "authors": [
+            "Ruben Villegas",
+            "Jimei Yang",
+            "Seunghoon Hong",
+            "Xunyu Lin",
+            "Honglak Lee"
+        ],
+        "url": "https://openreview.net/pdf?id=rkEFLFqee",
+        "orgs": [
+            {
+                "name": "Beihang University",
+                "country": "China"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "University of Michigan",
+                "country": "USA"
+            },
+            {
+                "name": "Adobe Research",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-56",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Towards a Neural Statistician",
+        "authors": [
+            "Harrison Edwards",
+            "Amos Storkey"
+        ],
+        "url": "https://openreview.net/pdf?id=HJDBUF5le",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-57",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Generative Models and Model Criticism via Optimized Maximum Mean Discrepancy",
+        "authors": [
+            "Dougal J. Sutherland",
+            "Hsiao-Yu Tung",
+            "Heiko Strathmann",
+            "Soumyajit De",
+            "Aaditya Ramdas",
+            "Alex Smola",
+            "Arthur Gretton"
+        ],
+        "url": "https://openreview.net/pdf?id=HJWHIKqgl",
+        "orgs": [
+            {
+                "name": "University College London",
+                "country": "UK"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-58",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Generalizing Skills with Semi-Supervised Reinforcement Learning",
+        "authors": [
+            "Chelsea Finn",
+            "Tianhe Yu",
+            "Justin Fu",
+            "Pieter Abbeel",
+            "Sergey Levine"
+        ],
+        "url": "https://openreview.net/pdf?id=ryHlUtqge",
+        "orgs": [
+            {
+                "name": "OpenAI",
+                "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-59",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning Curve Prediction with Bayesian Neural Networks",
+        "authors": [
+            "Aaron Klein",
+            "Stefan Falkner",
+            "Jost Tobias Springenberg",
+            "Frank Hutter"
+        ],
+        "url": "https://openreview.net/pdf?id=S11KBYclx",
+        "orgs": [
+            {
+                "name": "University of Freiburg",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-60",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning to Optimize",
+        "authors": [
+            "Ke Li",
+            "Jitendra Malik"
+        ],
+        "url": "https://openreview.net/pdf?id=ry4Vrt5gl",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-61",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "A Compare-Aggregate Model for Matching Text Sequences",
+        "authors": [
+            "Shuohang Wang",
+            "Jing Jiang"
+        ],
+        "url": "https://openreview.net/pdf?id=HJTzHtqee",
+        "orgs": [
+            {
+                "name": "Singapore Management University",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-62",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Data Noising as Smoothing in Neural Network Language Models",
+        "authors": [
+            "Ziang Xie",
+            "Sida I. Wang",
+            "Jiwei Li",
+            "Daniel Lévy",
+            "Aiming Nie",
+            "Dan Jurafsky",
+            "Andrew Y. Ng"
+        ],
+        "url": "https://arxiv.org/pdf/1703.02573.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-63",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Training Compressed Fully-Connected Networks with a Density-Diversity Penalty",
+        "authors": [
+            "Shengjie Wang",
+            "Haoran Cai",
+            "Jeff Bilmes",
+            "William Noble"
+        ],
+        "url": "https://openreview.net/pdf?id=Hku9NK5lx",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-64",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Autoencoding Variational Inference For Topic Models",
+        "authors": [
+            "Akash Srivastava",
+            "Charles Sutton"
+        ],
+        "url": "https://openreview.net/pdf?id=BybtVK9lg",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-65",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Optimal Binary Autoencoding with Pairwise Correlations",
+        "authors": [
+            "Akshay Balsubramani"
+        ],
+        "url": "https://openreview.net/pdf?id=ryelgY5eg",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-66",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "On the Quantitative Analysis of Decoder-Based Generative Models",
+        "authors": [
+            "Yuhuai Wu",
+            "Yuri Burda",
+            "Ruslan Salakhutdinov",
+            "Roger Grosse"
+        ],
+        "url": "https://openreview.net/pdf?id=B1M8JF9xx",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            },
+            {
+                "name": "OpenAI",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-67",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Trained Ternary Quantization",
+        "authors": [
+            "Chenzhuo Zhu",
+            "Song Han",
+            "Huizi Mao",
+            "William J. Dally"
+        ],
+        "url": "https://openreview.net/pdf?id=S1_pAu9xl",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-68",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "DSD: Dense-Sparse-Dense Training for Deep Neural Networks",
+        "authors": [
+            "Song Han",
+            "Jeff Pool",
+            "Sharan Narang",
+            "Huizi Mao",
+            "Enhao Gong",
+            "Shijian Tang",
+            "Erich Elsen",
+            "Peter Vajda",
+            "Manohar Paluri",
+            "John Tran",
+            "Bryan Catanzaro",
+            "William J. Dally"
+        ],
+        "url": "https://openreview.net/pdf?id=HyoST_9xl",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Baidu",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-69",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "A Compositional Object-Based Approach to Learning Physical Dynamics",
+        "authors": [
+            "Michael Chang",
+            "Tomer Ullman",
+            "Antonio Torralba",
+            "Joshua Tenenbaum"
+        ],
+        "url": "https://openreview.net/pdf?id=Bkab5dqxe",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-70",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning to Remember Rare Events",
+        "authors": [
+            "Lukasz Kaiser",
+            "Ofir Nachum",
+            "Aurko Roy",
+            "Samy Bengio"
+        ],
+        "url": "https://openreview.net/pdf?id=SJTQLdqlg",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-71",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks",
+        "authors": [
+            "Zhilin Yang",
+            "Ruslan Salakhutdinov",
+            "William W. Cohen"
+        ],
+        "url": "https://openreview.net/pdf?id=ByxpMd9lx",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-72",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Words or Characters? Fine-grained Gating for Reading Comprehension",
+        "authors": [
+            "Zhilin Yang",
+            "Bhuwan Dhingra",
+            "Ye Yuan",
+            "Junjie Hu",
+            "William W. Cohen",
+            "Ruslan Salakhutdinov"
+        ],
+        "url": "https://openreview.net/pdf?id=B1hdzd5lg",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-73",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "A Simple but Tough-to-Beat Baseline for Sentence Embeddings",
+        "authors": [
+            "Sanjeev Arora",
+            "Yingyu Liang",
+            "Tengyu Ma"
+        ],
+        "url": "https://openreview.net/pdf?id=SyK00v5xx",
+        "orgs": [
+            {
+                "name": "Princeton University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-74",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Capacity and Trainability in Recurrent Neural Networks",
+        "authors": [
+            "Jasmine Collins",
+            "Jascha Sohl-Dickstein",
+            "David Sussillo"
+        ],
+        "url": "https://openreview.net/pdf?id=BydARw9ex",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-75",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning to Perform Physics Experiments via Deep Reinforcement Learning",
+        "authors": [
+            "Misha Denil",
+            "Pulkit Agrawal",
+            "Tejas D Kulkarni",
+            "Tom Erez",
+            "Peter Battaglia",
+            "Nando de Freitas"
+        ],
+        "url": "https://openreview.net/pdf?id=r1nTpv9eg",
+        "orgs": [
+            {
+                "name": "Canadian Institute for Advanced Research",
+                "country": "Canada"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-76",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Improving Policy Gradient by Exploring Under-appreciated Rewards",
+        "authors": [
+            "Ofir Nachum",
+            "Mohammad Norouzi",
+            "Dale Schuurmans"
+        ],
+        "url": "https://openreview.net/pdf?id=ryT4pvqll",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "University of Alberta",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-77",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Deep Learning with Dynamic Computation Graphs",
+        "authors": [
+            "Moshe Looks",
+            "Marcello Herreshoff",
+            "DeLesley Hutchins",
+            "Peter Norvig"
+        ],
+        "url": "https://openreview.net/pdf?id=ryrGawqex",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-78",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Calibrating Energy-based Generative Adversarial Networks",
+        "authors": [
+            "Zihang Dai",
+            "Amjad Almahairi",
+            "Philip Bachman",
+            "Eduard Hovy",
+            "Aaron Courville"
+        ],
+        "url": "https://openreview.net/pdf?id=SyxeqhP9ll",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "Maluuba Research",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-79",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Pruning Convolutional Neural Networks for Resource Efficient Inference",
+        "authors": [
+            "Pavlo Molchanov",
+            "Stephen Tyree",
+            "Tero Karras",
+            "Timo Aila",
+            "Jan Kautz"
+        ],
+        "url": "https://openreview.net/pdf?id=SJGCiw5gl",
+        "orgs": []
+    },
+    {
+        "id": "ICLR17-80",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Query-Reduction Networks for Question Answering",
+        "authors": [
+            "Minjoon Seo",
+            "Sewon Min",
+            "Ali Farhadi",
+            "Hannaneh Hajishirzi"
+        ],
+        "url": "https://arxiv.org/pdf/1606.04582.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            },
+            {
+                "name": "Seoul National University",
+                "country": "South Korea"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-81",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Designing Neural Network Architectures using Reinforcement Learning",
+        "authors": [
+            "Bowen Baker",
+            "Otkrist Gupta",
+            "Nikhil Naik",
+            "Ramesh Raskar"
+        ],
+        "url": "https://openreview.net/pdf?id=S1c2cvqee",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-82",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Machine Comprehension Using Match-LSTM and Answer Pointer",
+        "authors": [
+            "Shuohang Wang",
+            "Jing Jiang"
+        ],
+        "url": "https://openreview.net/pdf?id=B1-q5Pqxl",
+        "orgs": [
+            {
+                "name": "Singapore Management University",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-83",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "DeepDSL: A Compilation-based Domain-Specific Language for Deep Learning",
+        "authors": [
+            "Tian Zhao",
+            "Xiao Bing Huang",
+            "Yu Cao"
+        ],
+        "url": "https://openreview.net/pdf?id=Bks8cPcxe",
+        "orgs": [
+            {
+                "name": "UMass Amherst",
+                "country": "USA"
+            },
+            {
+                "name": "University of Wisconsin–Milwaukee",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-84",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Bidirectional Attention Flow for Machine Comprehension",
+        "authors": [
+            "Minjoon Seo",
+            "Aniruddha Kembhavi",
+            "Ali Farhadi",
+            "Hannaneh Hajishirzi"
+        ],
+        "url": "https://arxiv.org/pdf/1611.01603.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-85",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Incorporating long-range consistency in CNN-based texture generation",
+        "authors": [
+            "Guillaume Berger",
+            "Roland Memisevic"
+        ],
+        "url": "https://openreview.net/pdf?id=HyGTuv9eg",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-86",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Dynamic Coattention Networks For Question Answering",
+        "authors": [
+            "Caiming Xiong",
+            "Victor Zhong",
+            "Richard Socher"
+        ],
+        "url": "https://openreview.net/pdf?id=rJeKjwvclx",
+        "orgs": [
+            {
+                "name": "Salesforce Research",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-87",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "SampleRNN: An Unconditional End-to-End Neural Audio Generation Model",
+        "authors": [
+            "Soroush Mehri",
+            "Kundan Kumar",
+            "Ishaan Gulrajani",
+            "Rithesh Kumar",
+            "Shubham Jain",
+            "Jose Sotelo",
+            "Aaron Courville",
+            "Yoshua Bengio"
+        ],
+        "url": "https://openreview.net/pdf?id=SkxKPDv5xl",
+        "orgs": [
+            {
+                "name": "IIT Kanpur",
+                "country": "India"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-88",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Metacontrol for Adaptive Imagination-Based Optimization",
+        "authors": [
+            "Jessica B. Hamrick",
+            "Andrew J. Ballard",
+            "Razvan Pascanu",
+            "Oriol Vinyals",
+            "Nicolas Heess",
+            "Peter W. Battaglia"
+        ],
+        "url": "https://openreview.net/pdf?id=Bk8BvDqex",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-89",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Exploring Sparsity in Recurrent Neural Networks",
+        "authors": [
+            "Sharan Narang",
+            "Greg Diamos",
+            "Shubho Sengupta",
+            "Erich Elsen"
+        ],
+        "url": "https://openreview.net/pdf?id=BylSPv9gx",
+        "orgs": [
+            {
+                "name": "Baidu",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-90",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Lossy Image Compression with Compressive Autoencoders",
+        "authors": [
+            "Lucas Theis",
+            "Wenzhe Shi",
+            "Andrew Cunningham",
+            "Ferenc Huszár"
+        ],
+        "url": "https://openreview.net/pdf?id=rJiNwv9gg",
+        "orgs": []
+    },
+    {
+        "id": "ICLR17-91",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Structured Attention Networks",
+        "authors": [
+            "Yoon Kim",
+            "Carl Denton",
+            "Luong Hoang",
+            "Alexander M. Rush"
+        ],
+        "url": "https://openreview.net/pdf?id=HkE0Nvqlg",
+        "orgs": [
+            {
+                "name": "Harvard University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-92",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations",
+        "authors": [
+            "David Krueger",
+            "Tegan Maharaj",
+            "Janos Kramar"
+        ],
+        "url": "https://openreview.net/pdf?id=rJqBEPcxe",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "École Polytechnique de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-93",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Deep Probabilistic Programming",
+        "authors": [
+            "Dustin Tran",
+            "Matthew D. Hoffman",
+            "Rif A. Saurous",
+            "Eugene Brevdo",
+            "Kevin Murphy",
+            "David M. Blei"
+        ],
+        "url": "https://openreview.net/pdf?id=Hy6b4Pqee",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Adobe Research",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-94",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation",
+        "authors": [
+            "Jianwei Yang",
+            "Anitha Kannan",
+            "Dhruv Batra",
+            "Devi Parikh"
+        ],
+        "url": "https://openreview.net/pdf?id=HJ1kmv9xx",
+        "orgs": [
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-95",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Variational Lossy Autoencoder",
+        "authors": [
+            "Xi Chen",
+            "Diederik P. Kingma",
+            "Tim Salimans",
+            "Yan Duan",
+            "Prafulla Dhariwal",
+            "John Schulman",
+            "Ilya Sutskever",
+            "Pieter Abbeel"
+        ],
+        "url": "https://openreview.net/pdf?id=BysvGP5ee",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "OpenAI",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-96",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "A recurrent neural network without chaos",
+        "authors": [
+            "Thomas Laurent",
+            "James von Brecht"
+        ],
+        "url": "https://openreview.net/pdf?id=S1dIzvclg",
+        "orgs": [
+            {
+                "name": "California State University Los Angeles",
+                "country": "USA"
+            },
+            {
+                "name": "Loyola Marymount University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-97",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer",
+        "authors": [
+            "Noam Shazeer",
+            "*Azalia Mirhoseini",
+            "*Krzysztof Maziarz",
+            "Andy Davis",
+            "Quoc Le",
+            "Geoffrey Hinton",
+            "Jeff Dean"
+        ],
+        "url": "https://openreview.net/pdf?id=B1ckMDqlg",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Jagiellonian University",
+                "country": "Poland"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-98",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Tree-structured decoding with doubly-recurrent neural networks",
+        "authors": [
+            "David Alvarez-Melis",
+            "Tommi S. Jaakkola"
+        ],
+        "url": "https://openreview.net/pdf?id=HkYhZDqxg",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-99",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Introspection:Accelerating Neural Network Training By Learning Weight Evolution",
+        "authors": [
+            "Abhishek Sinha",
+            "Aahitagni Mukherjee",
+            "Mausoom Sarkar",
+            "Balaji Krishnamurthy"
+        ],
+        "url": "https://openreview.net/pdf?id=Hkg8bDqee",
+        "orgs": [
+            {
+                "name": "IIT Kanpur",
+                "country": "India"
+            },
+            {
+                "name": "IIT Kharagpur",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-100",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Hyperband: Bandit-Based Configuration Evaluation for Hyperparameter Optimization",
+        "authors": [
+            "Lisha Li",
+            "Kevin Jamieson",
+            "Giulia DeSalvo",
+            "Afshin Rostamizadeh",
+            "Ameet Talwalkar"
+        ],
+        "url": "https://openreview.net/pdf?id=ry18Ww5ee",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-101",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Lie-Access Neural Turing Machines",
+        "authors": [
+            "Greg Yang",
+            "Alexander Rush"
+        ],
+        "url": "https://openreview.net/pdf?id=Byiy-Pqlx",
+        "orgs": [
+            {
+                "name": "Harvard University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-102",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Quasi-Recurrent Neural Networks",
+        "authors": [
+            "James Bradbury",
+            "Stephen Merity",
+            "Caiming Xiong",
+            "Richard Socher"
+        ],
+        "url": "https://openreview.net/pdf?id=H1zJ-v5xl",
+        "orgs": [
+            {
+                "name": "Salesforce Research",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-103",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Recurrent Environment Simulators",
+        "authors": [
+            "Silvia Chiappa",
+            "Sébastien Racaniere",
+            "Daan Wierstra",
+            "Shakir Mohamed"
+        ],
+        "url": "https://openreview.net/pdf?id=B1s6xvqlx",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-104",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "EPOpt: Learning Robust Neural Network Policies Using Model Ensembles",
+        "authors": [
+            "Aravind Rajeswaran",
+            "Sarvjeet Ghotra",
+            "Balaraman Ravindran",
+            "Sergey Levine"
+        ],
+        "url": "https://openreview.net/pdf?id=SyWvgP5el",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Indian Institute of Technology Madras",
+                "country": "India"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-105",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources in the same domain",
+        "authors": [
+            "Janarthanan Rajendran",
+            "Aravind Lakshminarayanan",
+            "Mitesh M. Khapra",
+            "Prasanna P",
+            "Balaraman Ravindran"
+        ],
+        "url": "https://openreview.net/pdf?id=Sy6iJDqlx",
+        "orgs": [
+            {
+                "name": "McGill University",
+                "country": "Canada"
+            },
+            {
+                "name": "Indian Institute of Technology Madras",
+                "country": "India"
+            },
+            {
+                "name": "University of Michigan",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-106",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Multi-view Recurrent Neural Acoustic Word Embeddings",
+        "authors": [
+            "Wanjia He",
+            "Weiran Wang",
+            "Karen Livescu"
+        ],
+        "url": "https://openreview.net/pdf?id=rJxDkvqee",
+        "orgs": [
+            {
+                "name": "University of Chicago",
+                "country": "USA"
+            },
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-107",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning Features of Music From Scratch",
+        "authors": [
+            "John Thickstun",
+            "Zaid Harchaoui",
+            "Sham Kakade"
+        ],
+        "url": "https://openreview.net/pdf?id=rkFBJv9gg",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-108",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks",
+        "authors": [
+            "Dan Hendrycks",
+            "Kevin Gimpel"
+        ],
+        "url": "https://arxiv.org/pdf/1610.02136.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-109",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning to superoptimize programs",
+        "authors": [
+            "Rudy Bunel",
+            "Alban Desmaison",
+            "M. Pawan Kumar",
+            "Philip H.S. Torr",
+            "Pushmeet Kohli"
+        ],
+        "url": "https://openreview.net/pdf?id=r1rz6U5lg",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Alan Turing Institute",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-110",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Trusting SVM for Piecewise Linear CNNs",
+        "authors": [
+            "Leonard Berrada",
+            "Andrew Zisserman",
+            "M. Pawan Kumar"
+        ],
+        "url": "https://openreview.net/pdf?id=By5e2L9gl",
+        "orgs": [
+            {
+                "name": "Alan Turing Institute",
+                "country": "UK"
+            },
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-111",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Sigma Delta Quantized Networks",
+        "authors": [
+            "Peter O'Connor",
+            "Max Welling"
+        ],
+        "url": "https://openreview.net/pdf?id=HkNRsU5ge",
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-112",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING",
+        "authors": [
+            "Zhouhan Lin",
+            "Minwei Feng",
+            "Cicero Nogueira dos Santos",
+            "Mo Yu",
+            "Bing Xiang",
+            "Bowen Zhou",
+            "Yoshua Bengio"
+        ],
+        "url": "https://openreview.net/pdf?id=BJC_jUqxe",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "Montreal Institute of Learning Algorithms",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-113",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Regularizing CNNs with Locally Constrained Decorrelations",
+        "authors": [
+            "Pau Rodríguez",
+            "Jordi Gonzàlez",
+            "Guillem Cucurull",
+            "Josep M. Gonfaus"
+        ],
+        "url": "https://openreview.net/pdf?id=ByOvsIqeg",
+        "orgs": []
+    },
+    {
+        "id": "ICLR17-114",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables",
+        "authors": [
+            "Chris J. Maddison",
+            "Andriy Mnih",
+            "Yee Whye Teh"
+        ],
+        "url": "http://www.stats.ox.ac.uk/~cmaddis/pubs/concrete.pdf",
+        "orgs": [
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-115",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Unrolled Generative Adversarial Networks",
+        "authors": [
+            "Luke Metz",
+            "Ben Poole",
+            "David Pfau",
+            "Jascha Sohl-Dickstein"
+        ],
+        "url": "https://openreview.net/pdf?id=BydrOIcle",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-116",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "TopicRNN: A Recurrent Neural Network with Long-Range Semantic Dependency",
+        "authors": [
+            "Adji B. Dieng",
+            "Chong Wang",
+            "Jianfeng Gao",
+            "John Paisley"
+        ],
+        "url": "https://openreview.net/pdf?id=rJbbOLcex",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-117",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Frustratingly Short Attention Spans in Neural Language Modeling",
+        "authors": [
+            "Michał Daniluk",
+            "Tim Rocktäschel",
+            "Johannes Welbl",
+            "Sebastian Riedel"
+        ],
+        "url": "https://openreview.net/pdf?id=ByIAPUcee",
+        "orgs": [
+            {
+                "name": "University College London",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-118",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Recurrent Hidden Semi-Markov Model",
+        "authors": [
+            "Hanjun Dai",
+            "Bo Dai",
+            "Yan-Ming Zhang",
+            "Shuang Li",
+            "Le Song"
+        ],
+        "url": "https://openreview.net/pdf?id=HJGODLqgx",
+        "orgs": [
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-119",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Deep Variational Bayes Filters: Unsupervised Learning of State Space Models from Raw Data",
+        "authors": [
+            "Maximilian Karl",
+            "Maximilian Soelch",
+            "Justin Bayer",
+            "Patrick van der Smagt"
+        ],
+        "url": "https://openreview.net/pdf?id=HyTqHL5xg",
+        "orgs": []
+    },
+    {
+        "id": "ICLR17-120",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Generative Multi-Adversarial Networks",
+        "authors": [
+            "Ishan Durugkar",
+            "Ian Gemp",
+            "Sridhar Mahadevan"
+        ],
+        "url": "https://openreview.net/pdf?id=Byk-VI9eg",
+        "orgs": [
+            {
+                "name": "UMass Amherst",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-121",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Mollifying Networks",
+        "authors": [
+            "Caglar Gulcehre",
+            "Marcin Moczulski",
+            "Francesco Visin",
+            "Yoshua Bengio"
+        ],
+        "url": "https://openreview.net/pdf?id=r1G4z8cge",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            },
+            {
+                "name": "Politecnico di Milano",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-122",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework",
+        "authors": [
+            "Irina Higgins",
+            "Loic Matthey",
+            "Arka Pal",
+            "Christopher Burgess",
+            "Xavier Glorot",
+            "Matthew Botvinick",
+            "Shakir Mohamed",
+            "Alexander Lerchner"
+        ],
+        "url": "https://openreview.net/pdf?id=Sy2fzU9gl",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-123",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Offline bilingual word vectors, orthogonal transformations and the inverted softmax",
+        "authors": [
+            "Samuel L. Smith",
+            "David H. P. Turban",
+            "Steven Hamblin",
+            "Nils Y. Hammerla"
+        ],
+        "url": "https://openreview.net/pdf?id=r1Aab85gg",
+        "orgs": []
+    },
+    {
+        "id": "ICLR17-124",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Visualizing Deep Neural Network Decisions: Prediction Difference Analysis",
+        "authors": [
+            "Luisa M Zintgraf",
+            "Taco S Cohen",
+            "Tameem Adel",
+            "Max Welling"
+        ],
+        "url": "https://openreview.net/pdf?id=BJ5UeU9xx",
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            },
+            {
+                "name": "Vrije Universiteit Brussel",
+                "country": "Belgium"
+            },
+            {
+                "name": "Canadian Institute for Advanced Research",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-125",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Categorical Reparameterization with Gumbel-Softmax",
+        "authors": [
+            "Eric Jang",
+            "Shixiang Gu",
+            "Ben Poole"
+        ],
+        "url": "https://openreview.net/pdf?id=rkE3y85ee",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-126",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Online Bayesian Transfer Learning for Sequential Data Modeling",
+        "authors": [
+            "Priyank Jaini",
+            "Zhitang Chen",
+            "Pablo Carbajal",
+            "Edith Law",
+            "Laura Middleton",
+            "Kayla Regan",
+            "Mike Schaekermann",
+            "George Trimponias",
+            "James Tung",
+            "Pascal Poupart"
+        ],
+        "url": "https://openreview.net/pdf?id=ByqiJIqxg",
+        "orgs": [
+            {
+                "name": "University of Waterloo",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-127",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Latent Sequence Decompositions",
+        "authors": [
+            "William Chan",
+            "Yu Zhang",
+            "Quoc Le",
+            "Navdeep Jaitly"
+        ],
+        "url": "https://openreview.net/pdf?id=SyQq185lg",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-128",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Paleo: A Performance Model for Deep Neural Networks",
+        "authors": [
+            "Hang Qi",
+            "Evan R. Sparks",
+            "Ameet Talwalkar"
+        ],
+        "url": "https://openreview.net/pdf?id=SyVVJ85lg",
+        "orgs": [
+            {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-129",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Combining policy gradient and Q-learning",
+        "authors": [
+            "Brendan O'Donoghue",
+            "Remi Munos",
+            "Koray Kavukcuoglu",
+            "Volodymyr Mnih"
+        ],
+        "url": "https://openreview.net/pdf?id=B1kJ6H9ex",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-130",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Density estimation using Real NVP",
+        "authors": [
+            "Laurent Dinh",
+            "Jascha Sohl-Dickstein",
+            "Samy Bengio"
+        ],
+        "url": "https://openreview.net/pdf?id=HkpbnH9lx",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "Montreal Institute of Learning Algorithms",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-131",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Recurrent Batch Normalization",
+        "authors": [
+            "Tim Cooijmans",
+            "Nicolas Ballas",
+            "César Laurent",
+            "Çağlar Gülçehre",
+            "Aaron Courville"
+        ],
+        "url": "https://openreview.net/pdf?id=r1VdcHcxx",
+        "orgs": [
+            {
+                "name": "Montreal Institute of Learning Algorithms",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-132",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "SGDR: Stochastic Gradient Descent with Warm Restarts",
+        "authors": [
+            "Ilya Loshchilov",
+            "Frank Hutter"
+        ],
+        "url": "https://openreview.net/pdf?id=Skq89Scxx",
+        "orgs": [
+            {
+                "name": "University of Freiburg",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-133",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning a Natural Language Interface with Neural Programmer",
+        "authors": [
+            "Arvind Neelakantan",
+            "Quoc V. Le",
+            "Martin Abadi",
+            "Andrew McCallum",
+            "Dario Amodei"
+        ],
+        "url": "https://openreview.net/pdf?id=ry2YOrcge",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "OpenAI",
+                "country": "USA"
+            },
+            {
+                "name": "University of Massachusetts Amherst",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-134",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU",
+        "authors": [
+            "Mohammad Babaeizadeh",
+            "Iuri Frosio",
+            "Stephen Tyree",
+            "Jason Clemons",
+            "Jan Kautz"
+        ],
+        "url": "https://openreview.net/pdf?id=r1VGvBcxl",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-135",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning to Navigate in Complex Environments",
+        "authors": [
+            "Piotr Mirowski",
+            "Razvan Pascanu",
+            "Fabio Viola",
+            "Hubert Soyer",
+            "Andy Ballard",
+            "Andrea Banino",
+            "Misha Denil",
+            "Ross Goroshin",
+            "Laurent Sifre",
+            "Koray Kavukcuoglu",
+            "Dharshan Kumaran",
+            "Raia Hadsell"
+        ],
+        "url": "https://openreview.net/pdf?id=SJMGPrcle",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-136",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "DeepCoder: Learning to Write Programs",
+        "authors": [
+            "Matej Balog",
+            "Alexander L. Gaunt",
+            "Marc Brockschmidt",
+            "Sebastian Nowozin",
+            "Daniel Tarlow"
+        ],
+        "url": "https://openreview.net/pdf?id=ByldLrqlx",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-137",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning and Policy Search in Stochastic Dynamical Systems with Bayesian Neural Networks",
+        "authors": [
+            "Stefan Depeweg",
+            "José Miguel Hernández-Lobato",
+            "Finale Doshi-Velez",
+            "Steffen Udluft"
+        ],
+        "url": "https://openreview.net/pdf?id=H1fl8S9ee",
+        "orgs": [
+            {
+                "name": "Harvard University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "Siemens Corporation",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-138",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Variable Computation in Recurrent Neural Networks",
+        "authors": [
+            "Yacine Jernite",
+            "Edouard Grave",
+            "Armand Joulin",
+            "Tomas Mikolov"
+        ],
+        "url": "https://openreview.net/pdf?id=S1LVSrcge",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-139",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Deep Variational Information Bottleneck",
+        "authors": [
+            "Alexander A. Alemi",
+            "Ian Fischer",
+            "Joshua V. Dillon",
+            "Kevin Murphy"
+        ],
+        "url": "https://openreview.net/pdf?id=HyxQzBceg",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-140",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "The Neural Noisy Channel",
+        "authors": [
+            "Lei Yu",
+            "Phil Blunsom",
+            "Chris Dyer",
+            "Edward Grefenstette",
+            "Tomas Kocisky"
+        ],
+        "url": "https://openreview.net/pdf?id=SJ25-B5eg",
+        "orgs": [
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-141",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Automatic Rule Extraction from Long Short Term Memory Networks",
+        "authors": [
+            "W. James Murdoch",
+            "Arthur Szlam"
+        ],
+        "url": "https://openreview.net/pdf?id=SJvYgH9xe",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-142",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Dialogue Learning With Human-in-the-Loop",
+        "authors": [
+            "Jiwei Li",
+            "Alexander H. Miller",
+            "Sumit Chopra",
+            "Marc'Aurelio Ranzato",
+            "Jason Weston"
+        ],
+        "url": "https://openreview.net/pdf?id=HJgXCV9xx",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-143",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Adversarially Learned Inference",
+        "authors": [
+            "Vincent Dumoulin",
+            "Ishmael Belghazi",
+            "Ben Poole",
+            "Alex Lamb",
+            "Martin Arjovsky",
+            "Olivier Mastropietro",
+            "Aaron Courville"
+        ],
+        "url": "https://openreview.net/pdf?id=B1ElR4cgg",
+        "orgs": [
+            {
+                "name": "New York University",
+                "country": "USA"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-144",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning through Dialogue Interactions by Asking Questions",
+        "authors": [
+            "Jiwei Li",
+            "Alexander H. Miller",
+            "Sumit Chopra",
+            "Marc'Aurelio Ranzato",
+            "Jason Weston"
+        ],
+        "url": "https://openreview.net/pdf?id=rkE8pVcle",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-145",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Deep Information Propagation",
+        "authors": [
+            "Samuel S. Schoenholz",
+            "Justin Gilmer",
+            "Surya Ganguli",
+            "Jascha Sohl-Dickstein"
+        ],
+        "url": "https://openreview.net/pdf?id=H1W1UN9gg",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-146",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "FractalNet: Ultra-Deep Neural Networks without Residuals",
+        "authors": [
+            "Gustav Larsson",
+            "Michael Maire",
+            "Gregory Shakhnarovich"
+        ],
+        "url": "https://openreview.net/pdf?id=S1VaB4cex",
+        "orgs": [
+            {
+                "name": "University of Chicago",
+                "country": "USA"
+            },
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-147",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Revisiting Classifier Two-Sample Tests",
+        "authors": [
+            "David Lopez-Paz",
+            "Maxime Oquab"
+        ],
+        "url": "https://openreview.net/pdf?id=SJkXfE5xx",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "INRIA",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-148",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning to Repeat: Fine Grained Action Repetition for Deep Reinforcement Learning",
+        "authors": [
+            "Sahil Sharma",
+            "Aravind S. Lakshminarayanan",
+            "Balaraman Ravindran"
+        ],
+        "url": "https://openreview.net/pdf?id=B1GOWV5eg",
+        "orgs": [
+            {
+                "name": "Indian Institute of Technology",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-149",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Loss-aware Binarization of Deep Networks",
+        "authors": [
+            "Lu Hou",
+            "Quanming Yao",
+            "James T. Kwok"
+        ],
+        "url": "https://openreview.net/pdf?id=S1oWlN9ll",
+        "orgs": [
+            {
+                "name": "Hong Kong University of Science and Technology",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-150",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning to Play in a Day: Faster Deep Reinforcement Learning by Optimality Tightening",
+        "authors": [
+            "Frank S.He",
+            "Yang Liu",
+            "Alexander G. Schwing",
+            "Jian Peng"
+        ],
+        "url": "https://openreview.net/pdf?id=rJ8Je4clg",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            },
+            {
+                "name": "Zhejiang University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-151",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Energy-based Generative Adversarial Networks",
+        "authors": [
+            "Junbo Zhao",
+            "Michael Mathieu",
+            "Yann LeCun"
+        ],
+        "url": "https://openreview.net/pdf?id=ryh9pmcee",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-152",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Central Moment Discrepancy (CMD) for Domain-Invariant Representation Learning",
+        "authors": [
+            "Werner Zellinger",
+            "Thomas Grubinger",
+            "Edwin Lughofer",
+            "Thomas Natschläger",
+            "Susanne Saminger-Platz"
+        ],
+        "url": "https://openreview.net/pdf?id=SkB-_mcel",
+        "orgs": [
+            {
+                "name": "Software Competence Center Hagenberg",
+                "country": "Austria"
+            },
+            {
+                "name": "Amazon",
+                "country": "USA"
+            },
+            {
+                "name": "University Linz",
+                "country": "Austria"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-153",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Incremental Network Quantization: Towards Lossless CNNs with Low-precision Weights",
+        "authors": [
+            "Aojun Zhou",
+            "Anbang Yao",
+            "Yiwen Guo",
+            "Lin Xu",
+            "Yurong Chen"
+        ],
+        "url": "https://openreview.net/pdf?id=HyQJ-mclg",
+        "orgs": [
+            {
+                "name": "Intel Labs",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-154",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Entropy-SGD: Biasing Gradient Descent Into Wide Valleys",
+        "authors": [
+            "Pratik Chaudhari",
+            "Anna Choromanska",
+            "Stefano Soatto",
+            "Yann LeCun",
+            "Carlo Baldassi",
+            "Christian Borgs",
+            "Jennifer Chayes",
+            "Levent Sagun",
+            "Riccardo Zecchina"
+        ],
+        "url": "https://openreview.net/pdf?id=B1YfAfcgl",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            },
+            {
+                "name": "Courant Institute of Mathematical Sciences",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "Politecnico di Torino",
+                "country": "Italy"
+            },
+            {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-155",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Deep Multi-task Representation Learning: A Tensor Factorisation Approach",
+        "authors": [
+            "Yongxin Yang",
+            "Timothy M. Hospedales"
+        ],
+        "url": "https://openreview.net/pdf?id=SkhU2fcll",
+        "orgs": [
+            {
+                "name": "University of London",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-156",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Sample Efficient Actor-Critic with Experience Replay",
+        "authors": [
+            "Ziyu Wang",
+            "Victor Bapst",
+            "Nicolas Heess",
+            "Volodymyr Mnih",
+            "Remi Munos",
+            "Koray Kavukcuoglu",
+            "Nando de Freitas"
+        ],
+        "url": "https://openreview.net/pdf?id=HyM25Mqel",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            },
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-157",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Temporal Ensembling for Semi-Supervised Learning",
+        "authors": [
+            "Samuli Laine",
+            "Timo Aila"
+        ],
+        "url": "https://openreview.net/pdf?id=BJ6oOfqge",
+        "orgs": []
+    },
+    {
+        "id": "ICLR17-158",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "On Detecting Adversarial Perturbations",
+        "authors": [
+            "Jan Hendrik Metzen",
+            "Tim Genewein",
+            "Volker Fischer",
+            "Bastian Bischoff"
+        ],
+        "url": "https://openreview.net/pdf?id=SJzCSf9xg",
+        "orgs": [
+            {
+                "name": "Robert Bosch GmbH",
+                "country": "Germany"
+            },
+            {
+                "name": "Robert Bosch GmbH",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-159",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Training deep neural-networks using a noise adaptation layer",
+        "authors": [
+            "Jacob Goldberger",
+            "Ehud Ben-Reuven"
+        ],
+        "url": "https://openreview.net/pdf?id=H12GRgcxg",
+        "orgs": [
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-160",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning to Compose Words into Sentences with Reinforcement Learning",
+        "authors": [
+            "Dani Yogatama",
+            "Phil Blunsom",
+            "Chris Dyer",
+            "Edward Grefenstette",
+            "Wang Ling"
+        ],
+        "url": "https://openreview.net/pdf?id=Skvgqgqxe",
+        "orgs": [
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-161",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Delving into Transferable Adversarial Examples and Black-box Attacks",
+        "authors": [
+            "Yanpei Liu",
+            "Xinyun Chen",
+            "Chang Liu",
+            "Dawn Song"
+        ],
+        "url": "https://openreview.net/pdf?id=Sys6GJqxl",
+        "orgs": [
+            {
+                "name": "University of California",
+                "country": "USA"
+            },
+            {
+                "name": "Shanghai Jiao Tong University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-162",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Identity Matters in Deep Learning",
+        "authors": [
+            "Moritz Hardt",
+            "Tengyu Ma"
+        ],
+        "url": "https://openreview.net/pdf?id=ryxB0Rtxx",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Princeton University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-163",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Adversarial Feature Learning",
+        "authors": [
+            "Jeff Donahue",
+            "Philipp Krähenbühl",
+            "Trevor Darrell"
+        ],
+        "url": "https://openreview.net/pdf?id=BJtNZAFgg",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-164",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Towards the Limit of Network Quantization",
+        "authors": [
+            "Yoojin Choi",
+            "Mostafa El-Khamy",
+            "Jungwon Lee"
+        ],
+        "url": "https://openreview.net/pdf?id=rJ8uNptgl",
+        "orgs": [
+            {
+                "name": "Samsung Research",
+                "country": "South Korea"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-165",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Faster CNNs with Direct Sparse Convolutions and Guided Pruning",
+        "authors": [
+            "Jongsoo Park",
+            "Sheng Li",
+            "Wei Wen",
+            "Ping Tak Peter Tang",
+            "Hai Li",
+            "Yiran Chen",
+            "Pradeep Dubey"
+        ],
+        "url": "https://openreview.net/pdf?id=rJPcZ3txx",
+        "orgs": [
+            {
+                "name": "University of Pittsburgh",
+                "country": "USA"
+            },
+            {
+                "name": "Duke University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-166",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Stick-Breaking Variational Autoencoders",
+        "authors": [
+            "Eric Nalisnick",
+            "Padhraic Smyth"
+        ],
+        "url": "https://openreview.net/pdf?id=S1jmAotxg",
+        "orgs": [
+            {
+                "name": "UC Irvine",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-167",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Batch Policy Gradient Methods for Improving Neural Conversation Models",
+        "authors": [
+            "Kirthevasan Kandasamy",
+            "Yoram Bachrach",
+            "Ryota Tomioka",
+            "Daniel Tarlow",
+            "David Carter"
+        ],
+        "url": "https://openreview.net/pdf?id=rJfMusFll",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-168",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Support Regularized Sparse Coding and Its Fast Encoder",
+        "authors": [
+            "Yingzhen Yang",
+            "Jiahui Yu",
+            "Pushmeet Kohli",
+            "Jianchao Yang",
+            "Thomas S. Huang"
+        ],
+        "url": "https://openreview.net/pdf?id=HkljfjFee",
+        "orgs": [
+            {
+                "name": "Snap Research",
+                "country": "USA"
+            },
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-169",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling",
+        "authors": [
+            "Hakan Inan",
+            "Khashayar Khosravi",
+            "Richard Socher"
+        ],
+        "url": "https://openreview.net/pdf?id=r1aPbsFle",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Salesforce Research",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-170",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Towards Deep Interpretability (MUS-ROVER II): Learning Hierarchical Representations of Tonal Music",
+        "authors": [
+            "Haizi Yu",
+            "Lav R. Varshney"
+        ],
+        "url": "https://openreview.net/pdf?id=ryhqQFKgl",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-171",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Discrete Variational Autoencoders",
+        "authors": [
+            "Jason Tyler Rolfe"
+        ],
+        "url": "https://openreview.net/pdf?id=ryMxXPFex",
+        "orgs": []
+    },
+    {
+        "id": "ICLR17-172",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Do Deep Convolutional Nets Really Need to be Deep and Convolutional?",
+        "authors": [
+            "Gregor Urban",
+            "Krzysztof J. Geras",
+            "Samira Ebrahimi Kahou",
+            "Ozlem Aslan",
+            "Shengjie Wang",
+            "Abdelrahman Mohamed",
+            "Matthai Philipose",
+            "Matt Richardson",
+            "Rich Caruana"
+        ],
+        "url": "https://openreview.net/pdf?id=r10FA8Kxg",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "University of Alberta",
+                "country": "Canada"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "UC Irvine",
+                "country": "USA"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-173",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Geometry of Polysemy",
+        "authors": [
+            "Jiaqi Mu",
+            "Suma Bhat",
+            "Pramod Viswanath"
+        ],
+        "url": "https://openreview.net/pdf?id=HJpfMIFll",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-174",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning Invariant Representations Of Planar Curves",
+        "authors": [
+            "Gautam Pai",
+            "Aaron Wetzler",
+            "Ron Kimmel"
+        ],
+        "url": "https://openreview.net/pdf?id=BymIbLKgl",
+        "orgs": [
+            {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-175",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Reasoning with Memory Augmented Neural Networks for Language Comprehension",
+        "authors": [
+            "Tsendsuren Munkhdalai",
+            "Hong Yu"
+        ],
+        "url": "https://openreview.net/pdf?id=Hk8TGSKlg",
+        "orgs": [
+            {
+                "name": "University of Massachusetts Medical School",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-176",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Learning Recurrent Representations for Hierarchical Behavior Modeling",
+        "authors": [
+            "Eyrun Eyjolfsdottir",
+            "Kristin Branson",
+            "Yisong Yue",
+            "Pietro Perona"
+        ],
+        "url": "https://openreview.net/pdf?id=BkLhzHtlg",
+        "orgs": [
+            {
+                "name": "California Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-177",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Adversarial Machine Learning at Scale",
+        "authors": [
+            "Alexey Kurakin",
+            "Ian J. Goodfellow",
+            "Samy Bengio"
+        ],
+        "url": "https://openreview.net/pdf?id=BJm4T4Kgx",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "OpenAI",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-178",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Predicting Medications from Diagnostic Codes with Recurrent Neural Networks",
+        "authors": [
+            "Jacek M. Bajor",
+            "Thomas A. Lasko"
+        ],
+        "url": "https://openreview.net/pdf?id=rJEgeXFex",
+        "orgs": [
+            {
+                "name": "Vanderbilt University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-179",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Recurrent Mixture Density Network for Spatiotemporal Visual Attention",
+        "authors": [
+            "Loris Bazzani",
+            "Hugo Larochelle",
+            "Lorenzo Torresani"
+        ],
+        "url": "https://openreview.net/pdf?id=SJRpRfKxx",
+        "orgs": [
+            {
+                "name": "Dartmouth College",
+                "country": "USA"
+            },
+            {
+                "name": "Université de Sherbrooke",
+                "country": "Canada"
+            },
+            {
+                "name": "Amazon",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-180",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Inductive Bias of Deep Convolutional Networks through Pooling Geometry",
+        "authors": [
+            "Nadav Cohen",
+            "Amnon Shashua"
+        ],
+        "url": "https://openreview.net/pdf?id=BkVsEMYel",
+        "orgs": []
+    },
+    {
+        "id": "ICLR17-181",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Efficient Representation of Low-Dimensional Manifolds using Deep Networks",
+        "authors": [
+            "Ronen Basri",
+            "David W. Jacobs"
+        ],
+        "url": "https://openreview.net/pdf?id=BJ3filKll",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            },
+            {
+                "name": "Weizmann Institute of Science",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-182",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+        "authors": [
+            "Thomas N. Kipf",
+            "Max Welling"
+        ],
+        "url": "https://openreview.net/pdf?id=SJU4ayYgl",
+        "orgs": [
+            {
+                "name": "Canadian Institute for Advanced Research",
+                "country": "Canada"
+            },
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-183",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Sparsely-Connected Neural Networks: Towards Efficient VLSI Implementation of Deep Neural Networks",
+        "authors": [
+            "Arash Ardakani",
+            "Carlo Condo",
+            "Warren J. Gross"
+        ],
+        "url": "https://openreview.net/pdf?id=r1fYuytex",
+        "orgs": [
+            {
+                "name": "McGill University",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-184",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Adversarial Training Methods for Semi-Supervised Text Classification",
+        "authors": [
+            "Takeru Miyato",
+            "Andrew M. Dai",
+            "Ian Goodfellow"
+        ],
+        "url": "https://openreview.net/pdf?id=r1X3g2_xl",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Kyoto University",
+                "country": "Japan"
+            },
+            {
+                "name": "OpenAI",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-185",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks",
+        "authors": [
+            "Yossi Adi",
+            "Einat Kermany",
+            "Yonatan Belinkov",
+            "Ofer Lavi",
+            "Yoav Goldberg"
+        ],
+        "url": "https://openreview.net/pdf?id=BJh6Ztuxl",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-186",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Pointer Sentinel Mixture Models",
+        "authors": [
+            "Stephen Merity",
+            "Caiming Xiong",
+            "James Bradbury",
+            "Richard Socher"
+        ],
+        "url": "https://openreview.net/pdf?id=Byj72udxe",
+        "orgs": []
+    },
+    {
+        "id": "ICLR17-187",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "An Actor-Critic Algorithm for Sequence Prediction",
+        "authors": [
+            "Dzmitry Bahdanau",
+            "Philemon Brakel",
+            "Kelvin Xu",
+            "Anirudh Goyal",
+            "Ryan Lowe",
+            "Joelle Pineau",
+            "Aaron Courville",
+            "Yoshua Bengio"
+        ],
+        "url": "https://openreview.net/pdf?id=SJDaqqveg",
+        "orgs": [
+            {
+                "name": "McGill University",
+                "country": "Canada"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-188",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Understanding Trainable Sparse Coding with Matrix Factorization",
+        "authors": [
+            "Thomas Moreau",
+            "Joan Bruna"
+        ],
+        "url": "https://openreview.net/pdf?id=SJGPL9Dex",
+        "orgs": [
+            {
+                "name": "Courant Institute of Mathematical Sciences",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            },
+            {
+                "name": "Université́ Paris Saclay",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-189",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Tighter bounds lead to improved classifiers",
+        "authors": [
+            "Nicolas Le Roux"
+        ],
+        "url": "https://openreview.net/pdf?id=HyAbMKwxe",
+        "orgs": [
+            {
+                "name": "Criteo",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-190",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving",
+        "authors": [
+            "Cezary Kaliszyk",
+            "François Chollet",
+            "Christian Szegedy"
+        ],
+        "url": "https://openreview.net/pdf?id=ryuxYmvel",
+        "orgs": [
+            {
+                "name": "University of Innsbruck",
+                "country": "Austria"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-191",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Why Deep Neural Networks for Function Approximation?",
+        "authors": [
+            "Shiyu Liang",
+            "R. Srikant"
+        ],
+        "url": "https://openreview.net/pdf?id=SkpSlKIel",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-192",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Hierarchical Multiscale Recurrent Neural Networks",
+        "authors": [
+            "Junyoung Chung",
+            "Sungjin Ahn",
+            "Yoshua Bengio"
+        ],
+        "url": "https://openreview.net/pdf?id=S1di0sfgl",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-193",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Neural Photo Editing with Introspective Adversarial Networks",
+        "authors": [
+            "Andrew Brock",
+            "Theodore Lim",
+            "J.M. Ritchie",
+            "Nick Weston"
+        ],
+        "url": "https://openreview.net/pdf?id=HkNKFiGex",
+        "orgs": [
+            {
+                "name": "Heriot Watt University",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-194",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Dropout with Expectation-linear Regularization",
+        "authors": [
+            "Xuezhe Ma",
+            "Yingkai Gao",
+            "Zhiting Hu",
+            "Yaoliang Yu",
+            "Yuntian Deng",
+            "Eduard Hovy"
+        ],
+        "url": "https://openreview.net/pdf?id=rkGabzZgl",
+        "orgs": [
+            {
+                "name": "Harvard University",
+                "country": "USA"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-195",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "HyperNetworks",
+        "authors": [
+            "David Ha",
+            "Andrew M. Dai",
+            "Quoc V. Le"
+        ],
+        "url": "https://openreview.net/pdf?id=rkpACe1lx",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-196",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "A Learned Representation For Artistic Style",
+        "authors": [
+            "Vincent Dumoulin",
+            "Jonathon Shlens",
+            "Manjunath Kudlur"
+        ],
+        "url": "https://arxiv.org/pdf/1610.07629.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR17-197",
+        "source": "ICLR17",
+        "source_type": "ICLR",
+        "year": "2017",
+        "title": "Hadamard Product for Low-rank Bilinear Pooling",
+        "authors": [
+            "Jin-Hwa Kim",
+            "Kyoung-Woon On",
+            "Woosang Lim",
+            "Jeonghee Kim",
+            "Jung-Woo Ha",
+            "Byoung-Tak Zhang"
+        ],
+        "url": "https://openreview.net/pdf?id=r1rhWnZkg",
+        "orgs": [
+            {
+                "name": "Seoul National University",
+                "country": "South Korea"
+            },
+            {
+                "name": "Seoul National University",
+                "country": "South Korea"
+            }
+        ]
+    }
+]

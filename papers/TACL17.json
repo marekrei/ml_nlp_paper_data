@@ -1,0 +1,813 @@
+[
+    {
+        "id": "TACL17-0",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Evaluating Visual Representations for Topic Understanding and Their Effects on Manually Generated Topic Labels",
+        "authors": [
+            "Alison Smith",
+            "Tak Yeon Lee",
+            "Forough Poursabzi-Sangdeh",
+            "Jordan Boyd-Graber",
+            "Niklas Elmqvist",
+            "Leah Findlater"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1001.pdf",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            },
+            {
+                "name": "University of Colorado",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-1",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Visually Grounded and Textual Semantic Models Differentially Decode Brain Activity Associated with Concrete and Abstract Nouns",
+        "authors": [
+            "Andrew J. Anderson",
+            "Douwe Kiela",
+            "Stephen Clark",
+            "Massimo Poesio"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1002.pdf",
+        "orgs": [
+            {
+                "name": "University of Rochester",
+                "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "University of Essex",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-2",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Modeling Semantic Expectation: Using Script Knowledge for Referent Prediction",
+        "authors": [
+            "Ashutosh Modi",
+            "Ivan Titov",
+            "Vera Demberg",
+            "Asad Sayeed",
+            "Manfred Pinkal"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1003.pdf",
+        "orgs": [
+            {
+                "name": "Saarland University",
+                "country": "Germany"
+            },
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-3",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Shift-Reduce Constituent Parsing with Neural Lookahead Features",
+        "authors": [
+            "Jiangming Liu",
+            "Yue Zhang"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1004.pdf",
+        "orgs": [
+            {
+                "name": "Singapore University of Technology and Design",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-4",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "A Polynomial-Time Dynamic Programming Algorithm for Phrase-Based Decoding with a Fixed Distortion Limit",
+        "authors": [
+            "Yin-Wen Chang",
+            "Michael Collins"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1005.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-5",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "A Generative Model of Phonotactics",
+        "authors": [
+            "Richard Futrell",
+            "Adam Albright",
+            "Peter Graff",
+            "Timothy J. O’Donnell"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1006.pdf",
+        "orgs": [
+            {
+                "name": "McGill University",
+                "country": "Canada"
+            },
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Intel Labs",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-6",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Context Gates for Neural Machine Translation",
+        "authors": [
+            "Zhaopeng Tu",
+            "Yang Liu",
+            "Zhengdong Lu",
+            "Xiaohua Liu",
+            "Hang Li"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1007.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-7",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Cross-Sentence N-ary Relation Extraction with Graph LSTMs",
+        "authors": [
+            "Nanyun Peng",
+            "Hoifung Poon",
+            "Chris Quirk",
+            "Kristina Toutanova",
+            "Wen-tau Yih"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1008.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-8",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Automatically Tagging Constructions of Causation and Their Slot-Fillers",
+        "authors": [
+            "Jesse Dunietz",
+            "Lori Levin",
+            "Jaime Carbonell"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1009.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-9",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Enriching Word Vectors with Subword Information",
+        "authors": [
+            "Piotr Bojanowski",
+            "Edouard Grave",
+            "Armand Joulin",
+            "Tomas Mikolov"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1010.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-10",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Fine-Grained Prediction of Syntactic Typology: Discovering Latent Structure with Supervised Learning",
+        "authors": [
+            "Dingquan Wang",
+            "Jason Eisner"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1011.pdf",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-11",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Head-Lexicalized Bidirectional Tree LSTMs",
+        "authors": [
+            "Zhiyang Teng",
+            "Yue Zhang"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1012.pdf",
+        "orgs": [
+            {
+                "name": "Singapore University of Technology and Design",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-12",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Nonparametric Bayesian Semi-supervised Word Segmentation",
+        "authors": [
+            "Ryo Fujii",
+            "Ryo Domoto",
+            "Daichi Mochihashi"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1013.pdf",
+        "orgs": [
+            {
+                "name": "The Institute of Statistical Mathematics",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-13",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Joint Modeling of Topics, Citations, and Topical Authority in Academic Corpora",
+        "authors": [
+            "Jooyeon Kim",
+            "Dongwoo Kim",
+            "Alice Oh"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1014.pdf",
+        "orgs": [
+            {
+                "name": "Australian National University",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-14",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Pushing the Limits of Translation Quality Estimation",
+        "authors": [
+            "André F. T. Martins",
+            "Marcin Junczys-Dowmunt",
+            "Fabio N. Kepler",
+            "Ramón Astudillo",
+            "Chris Hokamp",
+            "Roman Grundkiewicz"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1015.pdf",
+        "orgs": [
+            {
+                "name": "University of Pampa",
+                "country": "Brazil"
+            },
+            {
+                "name": "Adam Mickiewicz University in Poznań",
+                "country": "Poland"
+            },
+            {
+                "name": "Dublin City University",
+                "country": "Ireland"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-15",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Winning on the Merits: The Joint Effects of Content and Style on Debate Outcomes",
+        "authors": [
+            "Lu Wang",
+            "Nick Beauchamp",
+            "Sarah Shugars",
+            "Kechen Qin"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1016.pdf",
+        "orgs": [
+            {
+                "name": "Northeastern University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-16",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Domain-Targeted, High Precision Knowledge Extraction",
+        "authors": [
+            "Bhavana Dalvi Mishra",
+            "Niket Tandon",
+            "Peter Clark"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1017.pdf",
+        "orgs": [
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-17",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Sparse Coding of Neural Word Embeddings for Multilingual Sequence Labeling",
+        "authors": [
+            "Gábor Berend"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1018.pdf",
+        "orgs": [
+            {
+                "name": "University of Szeged",
+                "country": "Hungary"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-18",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Learning to Prune: Exploring the Frontier of Fast and Accurate Parsing",
+        "authors": [
+            "Tim Vieira",
+            "Jason Eisner"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1019.pdf",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-19",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Cross-Lingual Syntactic Transfer with Limited Resources",
+        "authors": [
+            "Mohammad Sadegh Rasooli",
+            "Michael Collins"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1020.pdf",
+        "orgs": [
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-20",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Overcoming Language Variation in Sentiment Analysis with Social Attention",
+        "authors": [
+            "Yi Yang",
+            "Jacob Eisenstein"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1021.pdf",
+        "orgs": [
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-21",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Semantic Specialization of Distributional Word Vector Spaces using Monolingual and Cross-Lingual Constraints",
+        "authors": [
+            "Nikola Mrkšić",
+            "Ivan Vulić",
+            "Diarmuid Ó Séaghdha",
+            "Ira Leviant",
+            "Roi Reichart",
+            "Milica Gašić",
+            "Anna Korhonen",
+            "Steve Young"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1022.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            },
+            {
+                "name": "Apple",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-22",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Colors in Context: A Pragmatic Neural Model for Grounded Language Understanding",
+        "authors": [
+            "Will Monroe",
+            "Robert X.D. Hawkins",
+            "Noah D. Goodman",
+            "Christopher Potts"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1023.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-23",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation",
+        "authors": [
+            "Melvin Johnson",
+            "Mike Schuster",
+            "Quoc V. Le",
+            "Maxim Krikun",
+            "Yonghui Wu",
+            "Zhifeng Chen",
+            "Nikhil Thorat",
+            "Fernanda Viégas",
+            "Martin Wattenberg",
+            "Greg Corrado",
+            "Macduff Hughes",
+            "Jeffrey Dean"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1024.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-24",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Unsupervised Learning of Morphological Forests",
+        "authors": [
+            "Jiaming Luo",
+            "Karthik Narasimhan",
+            "Regina Barzilay"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1025.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-25",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Fully Character-Level Neural Machine Translation without Explicit Segmentation",
+        "authors": [
+            "Jason Lee",
+            "Kyunghyun Cho",
+            "Thomas Hofmann"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1026.pdf",
+        "orgs": [
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-26",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Ordinal Common-sense Inference",
+        "authors": [
+            "Sheng Zhang",
+            "Rachel Rudinger",
+            "Kevin Duh",
+            "Benjamin Van Durme"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1027.pdf",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-27",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Learning Distributed Representations of Texts and Entities from Knowledge Base",
+        "authors": [
+            "Ikuya Yamada",
+            "Hiroyuki Shindo",
+            "Hideaki Takeda",
+            "Yoshiyasu Takefuji"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1028.pdf",
+        "orgs": [
+            {
+                "name": "Nara Institute of Science and Technology",
+                "country": "Japan"
+            },
+            {
+                "name": "National Institute of Informatics",
+                "country": "Japan"
+            },
+            {
+                "name": "Keio University",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-28",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "In-Order Transition-based Constituent Parsing",
+        "authors": [
+            "Jiangming Liu",
+            "Yue Zhang"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1029.pdf",
+        "orgs": [
+            {
+                "name": "Singapore University of Technology and Design",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-29",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Evaluating Low-Level Speech Features Against Human Perceptual Data",
+        "authors": [
+            "Caitlin Richter",
+            "Naomi H. Feldman",
+            "Harini Salgado",
+            "Aren Jansen"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1030.pdf",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            },
+            {
+                "name": "Pomona College",
+                "country": "USA"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-30",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Parsing with Traces: An O(n4) Algorithm and a Structural Representation",
+        "authors": [
+            "Jonathan K. Kummerfeld",
+            "Dan Klein"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1031.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-31",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Unsupervised Acquisition of Comprehensive Multiword Lexicons using Competition in an n-gram Lattice",
+        "authors": [
+            "Julian Brooke",
+            "Jan Šnajder",
+            "Timothy Baldwin"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1032.pdf",
+        "orgs": [
+            {
+                "name": "University of Zagreb",
+                "country": "Croatia"
+            },
+            {
+                "name": "University of Melbourne",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-32",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Replicability Analysis for Natural Language Processing: Testing Significance with Multiple Datasets",
+        "authors": [
+            "Rotem Dror",
+            "Gili Baumer",
+            "Marina Bogomolov",
+            "Roi Reichart"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1033.pdf",
+        "orgs": [
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-33",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Phrase Table Induction Using In-Domain Monolingual Data for Domain Adaptation in Statistical Machine Translation",
+        "authors": [
+            "Benjamin Marie",
+            "Atsushi Fujita"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1034.pdf",
+        "orgs": [
+            {
+                "name": "National Institute of Information",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-34",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Joint Prediction of Word Alignment with Alignment Types",
+        "authors": [
+            "Anahita Mansouri Bigvand",
+            "Te Bu",
+            "Anoop Sarkar"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1035.pdf",
+        "orgs": [
+            {
+                "name": "Simon Fraser University",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-35",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Aspect-augmented Adversarial Networks for Domain Adaptation",
+        "authors": [
+            "Yuan Zhang",
+            "Regina Barzilay",
+            "Tommi Jaakkola"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1036.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL17-36",
+        "source": "TACL17",
+        "source_type": "TACL",
+        "year": "2017",
+        "title": "Anchored Correlation Explanation: Topic Modeling with Minimal Domain Knowledge",
+        "authors": [
+            "Ryan J. Gallagher",
+            "Kyle Reing",
+            "David Kale",
+            "Greg Ver Steeg"
+        ],
+        "url": "https://www.aclweb.org/anthology/Q17-1037.pdf",
+        "orgs": [
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            },
+            {
+                "name": "Information Sciences Institute",
+                "country": "USA"
+            },
+            {
+                "name": "University of Vermont",
+                "country": "USA"
+            }
+        ]
+    }
+]

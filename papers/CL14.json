@@ -1,0 +1,811 @@
+[
+    {
+        "id": "CL14-0",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Obituary: Ivan A. Sag",
+        "authors": [
+            "Emily M. Bender"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-1001.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "University of Paris",
+                "country": "France"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CL14-1",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Frame-Semantic Parsing",
+        "authors": [
+            "Dipanjan Das",
+            "Desai Chen",
+            "André F. T. Martins",
+            "Nathan Schneider",
+            "Noah A. Smith"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-1002.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Priberam Labs",
+                "country": "Portugal"
+            }
+        ]
+    },
+    {
+        "id": "CL14-2",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Random Walks for Knowledge-Based Word Sense Disambiguation",
+        "authors": [
+            "Eneko Agirre",
+            "Oier López de Lacalle",
+            "Aitor Soroa"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-1003.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            },
+            {
+                "name": "University of the Basque Country",
+                "country": "Spain"
+            }
+        ]
+    },
+    {
+        "id": "CL14-3",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Learning Representations for Weakly Supervised Natural Language Processing Tasks",
+        "authors": [
+            "Fei Huang",
+            "Arun Ahuja",
+            "Doug Downey",
+            "Yi Yang",
+            "Yuhong Guo",
+            "Alexander Yates"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-1004.pdf",
+        "orgs": [
+            {
+                "name": "Temple University",
+                "country": "USA"
+            },
+            {
+                "name": "Northwestern University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CL14-4",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "A Survey and Classification of Controlled Natural Languages",
+        "authors": [
+            "Tobias Kuhn"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-1005.pdf",
+        "orgs": [
+            {
+                "name": "University of Zurich",
+                "country": "Switzerland"
+            },
+            {
+                "name": "ETH Zürich",
+                "country": "Switzerland"
+            },
+            {
+                "name": "ETH Zürich",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "CL14-5",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Arabic Dialect Identification",
+        "authors": [
+            "Omar F. Zaidan",
+            "Chris Callison-Burch"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-1006.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CL14-6",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Sampling Tree Fragments from Forests",
+        "authors": [
+            "Tagyoung Chung",
+            "Licheng Fang",
+            "Daniel Gildea",
+            "Daniel Štefankovič"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-1007.pdf",
+        "orgs": [
+            {
+                "name": "University of Rochester",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CL14-7",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Book Review: Natural Language Processing for Historical Texts by Michael Piotrowski",
+        "authors": [
+            "Laurent Romary"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-1008.pdf",
+        "orgs": [
+            {
+                "name": "Humboldt-Universität zu Berlin (HUB)",
+                "country": "Germany"
+            },
+            {
+                "name": "Leibniz Institute of European History",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CL14-8",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Last Words: On the Problem of Theoretical Terms in Empirical Computational Linguistics",
+        "authors": [
+            "Stefan Riezler"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-1009.pdf",
+        "orgs": [
+            {
+                "name": "University of Heidelberg",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CL14-9",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Squibs: Constrained Arc-Eager Dependency Parsing",
+        "authors": [
+            "Joakim Nivre",
+            "Yoav Goldberg",
+            "Ryan McDonald"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-2001.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Uppsala University",
+                "country": "Sweden"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "CL14-10",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Squibs: Arc-Eager Parsing with the Tree Constraint",
+        "authors": [
+            "Joakim Nivre",
+            "Daniel Fernández-González"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-2002.pdf",
+        "orgs": [
+            {
+                "name": "University of Vigo",
+                "country": "Spain"
+            },
+            {
+                "name": "University of Vigo",
+                "country": "Spain"
+            },
+            {
+                "name": "Uppsala University",
+                "country": "Sweden"
+            }
+        ]
+    },
+    {
+        "id": "CL14-11",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Authorship Attribution with Topic Models",
+        "authors": [
+            "Yanir Seroussi",
+            "Ingrid Zukerman",
+            "Fabian Bohnert"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-2003.pdf",
+        "orgs": [
+            {
+                "name": "Monash University",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "CL14-12",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Unsupervised Event Coreference Resolution",
+        "authors": [
+            "Cosmin Adrian Bejan",
+            "Sanda Harabagiu"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-2004.pdf",
+        "orgs": [
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            },
+            {
+                "name": "Vanderbilt University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Texas at Dallas",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CL14-13",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Phrase Dependency Machine Translation with Quasi-Synchronous Tree-to-Tree Features",
+        "authors": [
+            "Kevin Gimpel",
+            "Noah A. Smith"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-2005.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            },
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CL14-14",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Practical Linguistic Steganography using Contextual Synonym Substitution and a Novel Vertex Coding Method",
+        "authors": [
+            "Ching-Yun Chang",
+            "Stephen Clark"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-2006.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CL14-15",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Identification of Multiword Expressions by Combining Multiple Linguistic Information Sources",
+        "authors": [
+            "Yulia Tsvetkov",
+            "Shuly Wintner"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-2007.pdf",
+        "orgs": [
+            {
+                "name": "University of Haifa",
+                "country": "Israel"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Haifa",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "CL14-16",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "A Survey of Arabic Named Entity Recognition and Classification",
+        "authors": [
+            "Khaled Shaalan"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-2008.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            },
+            {
+                "name": "The British University in Dubai",
+                "country": "UAE"
+            }
+        ]
+    },
+    {
+        "id": "CL14-17",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Book Reviews: Sentiment Analysis and Opinion Mining by Bing Liu",
+        "authors": [
+            "Claire Cardie"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-2009.pdf",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Illinois at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CL14-18",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Book Reviews: Semantic Relations Between Nominals by Vivi Nastase, Preslav Nakov, Diarmuid Ó Séaghdha, and Stan Szpakowicz",
+        "authors": [
+            "Lucy Vanderwende"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-2010.pdf",
+        "orgs": [
+            {
+                "name": "Fondazione Bruno Kessler",
+                "country": "Italy"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CL14-19",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Book Reviews: Semi-Supervised Learning and Domain Adaptation in Natural Language Processing by Anders Søgaard",
+        "authors": [
+            "George Foster"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-2011.pdf",
+        "orgs": [
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            },
+            {
+                "name": "National Research Council Canada",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "CL14-20",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Squibs: Automatic Selection of HPSG-Parsed Sentences for Treebank Construction",
+        "authors": [
+            "Montserrat Marimon",
+            "Núria Bel",
+            "Lluís Padró"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-3001.pdf",
+        "orgs": [
+            {
+                "name": "University of Barcelona",
+                "country": "Spain"
+            },
+            {
+                "name": "University of Barcelona",
+                "country": "Spain"
+            },
+            {
+                "name": "Polytechnic University of Catalonia",
+                "country": "Spain"
+            }
+        ]
+    },
+    {
+        "id": "CL14-21",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Squibs: On the Universal Generation Problem for Unification Grammars",
+        "authors": [
+            "Jürgen Wedekind"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-3002.pdf",
+        "orgs": [
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            }
+        ]
+    },
+    {
+        "id": "CL14-22",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "A Random Walk–Based Model for Identifying Semantic Orientation",
+        "authors": [
+            "Ahmed Hassan",
+            "Amjad Abu-Jbara",
+            "Wanchen Lu",
+            "Dragomir Radev"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-3003.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "University of Michigan",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CL14-23",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Feature-Frequency–Adaptive On-line Training for Fast and Accurate Natural Language Processing",
+        "authors": [
+            "Xu Sun",
+            "Wenjie Li",
+            "Houfeng Wang",
+            "Qin Lu"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-3004.pdf",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            },
+            {
+                "name": "Hong Kong Polytechnic University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CL14-24",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Probabilistic Distributional Semantics with Latent Variable Models",
+        "authors": [
+            "Diarmuid Ó Séaghdha",
+            "Anna Korhonen"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-3005.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CL14-25",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Similarity-Driven Semantic Role Induction via Graph Partitioning",
+        "authors": [
+            "Joel Lang",
+            "Mirella Lapata"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-3006.pdf",
+        "orgs": [
+            {
+                "name": "University of Geneva",
+                "country": "Switzerland"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CL14-26",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Improved Estimation of Entropy for Evaluation of Word Sense Induction",
+        "authors": [
+            "Linlin Li",
+            "Ivan Titov",
+            "Caroline Sporleder"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-3007.pdf",
+        "orgs": [
+            {
+                "name": "Universität Trier",
+                "country": "Germany"
+            },
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CL14-27",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Pushdown Automata in Statistical Machine Translation",
+        "authors": [
+            "Cyril Allauzen",
+            "Bill Byrne",
+            "Adrià de Gispert",
+            "Gonzalo Iglesias",
+            "Michael Riley"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-3008.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CL14-28",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Obituary: Charles J. Fillmore",
+        "authors": [
+            "Dan Jurafsky"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-3009.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Minnesota",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CL14-29",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Applications of Lexicographic Semirings to Problems in Speech and Language Processing",
+        "authors": [
+            "Richard Sproat",
+            "Mahsa Yarmohammadi",
+            "Izhak Shafran",
+            "Brian Roark"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-4002.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Oregon Health & Science University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CL14-30",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Stochastic Language Generation in Dialogue using Factored Language Models",
+        "authors": [
+            "François Mairesse",
+            "Steve Young"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-4003.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CL14-31",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Latent Trees for Coreference Resolution",
+        "authors": [
+            "Eraldo Rezende Fernandes",
+            "Cícero Nogueira dos Santos",
+            "Ruy Luiz Milidiú"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-4004.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CL14-32",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "A Large-Scale Pseudoword-Based Evaluation Framework for State-of-the-Art Word Sense Disambiguation",
+        "authors": [
+            "Mohammad Taher Pilehvar",
+            "Roberto Navigli"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-4005.pdf",
+        "orgs": [
+            {
+                "name": "Sapienza University of Rome",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "CL14-33",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Adaptive Generation in Dialogue Systems Using Dynamic User Modeling",
+        "authors": [
+            "Srinivasan Janarthanam",
+            "Oliver Lemon"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-4006.pdf",
+        "orgs": [
+            {
+                "name": "Heriot Watt University",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CL14-34",
+        "source": "CL14",
+        "source_type": "CL",
+        "year": "2014",
+        "title": "Reflections on the Penn Discourse TreeBank, Comparable Corpora, and Complementary Annotation",
+        "authors": [
+            "Rashmi Prasad",
+            "Bonnie Webber",
+            "Aravind Joshi"
+        ],
+        "url": "https://www.aclweb.org/anthology/J14-4007.pdf",
+        "orgs": [
+            {
+                "name": "University of Wisconsin–Milwaukee",
+                "country": "USA"
+            },
+            {
+                "name": "University of Wisconsin–Milwaukee",
+                "country": "USA"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    }
+]

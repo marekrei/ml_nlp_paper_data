@@ -1,0 +1,2212 @@
+[
+    {
+        "id": "CoNLL19-0",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Analysing Neural Language Models: Contextual Decomposition Reveals Default Reasoning in Number and Gender Assignment",
+        "authors": [
+            "Jaap Jumelet",
+            "Willem Zuidema",
+            "Dieuwke Hupkes"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1001.pdf",
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            },
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-1",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Deconstructing Supertagging into Multi-Task Sequence Prediction",
+        "authors": [
+            "Zhenqi Zhu",
+            "Anoop Sarkar"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1002.pdf",
+        "orgs": [
+            {
+                "name": "Simon Fraser University",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-2",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Multilingual Model Using Cross-Task Embedding Projection",
+        "authors": [
+            "Jin Sakuma",
+            "Naoki Yoshinaga"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1003.pdf",
+        "orgs": [
+            {
+                "name": "University of Tokyo",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-3",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Investigating Cross-Lingual Alignment Methods for Contextualized Embeddings with Token-Level Evaluation",
+        "authors": [
+            "Qianchu Liu",
+            "Diana McCarthy",
+            "Ivan Vulić",
+            "Anna Korhonen"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1004.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-4",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Large-Scale, Diverse, Paraphrastic Bitexts via Sampling and Clustering",
+        "authors": [
+            "J. Edward Hu",
+            "Abhinav Singh",
+            "Nils Holzenberger",
+            "Matt Post",
+            "Benjamin Van Durme"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1005.pdf",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-5",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Large-Scale Representation Learning from Visually Grounded Untranscribed Speech",
+        "authors": [
+            "Gabriel Ilharco",
+            "Yuan Zhang",
+            "Jason Baldridge"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1006.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-6",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Using Priming to Uncover the Organization of Syntactic Representations in Neural Language Models",
+        "authors": [
+            "Grusha Prasad",
+            "Marten van Schijndel",
+            "Tal Linzen"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1007.pdf",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-7",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Say Anything: Automatic Semantic Infelicity Detection in L2 English Indefinite Pronouns",
+        "authors": [
+            "Ella Rabinovich",
+            "Julia Watson",
+            "Barend Beekhuizen",
+            "Suzanne Stevenson"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1008.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-8",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Compositional Generalization in Image Captioning",
+        "authors": [
+            "Mitja Nikolaus",
+            "Mostafa Abdou",
+            "Matthew Lamm",
+            "Rahul Aralikatte",
+            "Desmond Elliott"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1009.pdf",
+        "orgs": [
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Tübingen",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-9",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Representing Movie Characters in Dialogues",
+        "authors": [
+            "Mahmoud Azab",
+            "Noriyuki Kojima",
+            "Jia Deng",
+            "Rada Mihalcea"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1010.pdf",
+        "orgs": [
+            {
+                "name": "Princeton University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Michigan",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-10",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Cross-Lingual Word Embeddings and the Structure of the Human Bilingual Lexicon",
+        "authors": [
+            "Paola Merlo",
+            "Maria Andueza Rodriguez"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1011.pdf",
+        "orgs": [
+            {
+                "name": "University of Geneva",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-11",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Federated Learning of N-Gram Language Models",
+        "authors": [
+            "Mingqing Chen",
+            "Ananda Theertha Suresh",
+            "Rajiv Mathews",
+            "Adeline Wong",
+            "Cyril Allauzen",
+            "Françoise Beaufays",
+            "Michael Riley"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1012.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-12",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Learning Conceptual Spaces with Disentangled Facets",
+        "authors": [
+            "Rana Alshaikh",
+            "Zied Bouraoui",
+            "Steven Schockaert"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1013.pdf",
+        "orgs": [
+            {
+                "name": "Cardiff University",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-13",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Weird Inflects but OK: Making Sense of Morphological Generation Errors",
+        "authors": [
+            "Kyle Gorman",
+            "Arya D. McCarthy",
+            "Ryan Cotterell",
+            "Ekaterina Vylomova",
+            "Miikka Silfverberg",
+            "Magdalena Markowska"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1014.pdf",
+        "orgs": [
+            {
+                "name": "University of Helsinki",
+                "country": "Finland"
+            },
+            {
+                "name": "University of Melbourne",
+                "country": "Australia"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            },
+            {
+                "name": "City University of New York",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-14",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Learning to Represent Bilingual Dictionaries",
+        "authors": [
+            "Muhao Chen",
+            "Yingtao Tian",
+            "Haochen Chen",
+            "Kai-Wei Chang",
+            "Steven Skiena",
+            "Carlo Zaniolo"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1015.pdf",
+        "orgs": [
+            {
+                "name": "State University of New York at Buffalo",
+                "country": "USA"
+            },
+            {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-15",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Improving Natural Language Understanding by Reverse Mapping Bytepair Encoding",
+        "authors": [
+            "Chaodong Tong",
+            "Huailiang Peng",
+            "Qiong Dai",
+            "Lei Jiang",
+            "Jianghua Huang"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1016.pdf",
+        "orgs": [
+            {
+                "name": "OpenAI",
+                "country": "USA"
+            },
+            {
+                "name": "University of Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-16",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Made for Each Other: Broad-Coverage Semantic Structures Meet Preposition Supersenses",
+        "authors": [
+            "Jakob Prange",
+            "Nathan Schneider",
+            "Omri Abend"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1017.pdf",
+        "orgs": [
+            {
+                "name": "Georgetown University",
+                "country": "USA"
+            },
+            {
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-17",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Generating Timelines by Modeling Semantic Change",
+        "authors": [
+            "Guy D. Rosin",
+            "Kira Radinsky"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1018.pdf",
+        "orgs": [
+            {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-18",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Diversify Your Datasets: Analyzing Generalization via Controlled Variance in Adversarial Datasets",
+        "authors": [
+            "Ohad Rozen",
+            "Vered Shwartz",
+            "Roee Aharoni",
+            "Ido Dagan"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1019.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-19",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Fully Unsupervised Crosslingual Semantic Textual Similarity Metric Based on BERT for Identifying Parallel Data",
+        "authors": [
+            "Chi-kiu Lo",
+            "Michel Simard"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1020.pdf",
+        "orgs": [
+            {
+                "name": "National Research Council Canada",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-20",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "On the Importance of Subword Information for Morphological Tasks in Truly Low-Resource Languages",
+        "authors": [
+            "Yi Zhu",
+            "Benjamin Heinzerling",
+            "Ivan Vulić",
+            "Michael Strube",
+            "Roi Reichart",
+            "Anna Korhonen"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1021.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            },
+            {
+                "name": "Tohoku University",
+                "country": "Japan"
+            },
+            {
+                "name": "Heidelberg Institute for Theoretical Studies",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-21",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Comparing Top-Down and Bottom-Up Neural Generative Dependency Models",
+        "authors": [
+            "Austin Matthews",
+            "Graham Neubig",
+            "Chris Dyer"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1022.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-22",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Representation Learning and Dynamic Programming for Arc-Hybrid Parsing",
+        "authors": [
+            "Joseph Le Roux",
+            "Antoine Rozenknop",
+            "Mathieu Lacroix"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1023.pdf",
+        "orgs": [
+            {
+                "name": "University of Paris",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-23",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Policy Preference Detection in Parliamentary Debate Motions",
+        "authors": [
+            "Gavin Abercrombie",
+            "Federico Nanni",
+            "Riza Batista-Navarro",
+            "Simone Paolo Ponzetto"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1024.pdf",
+        "orgs": [
+            {
+                "name": "University of Mannheim",
+                "country": "Germany"
+            },
+            {
+                "name": "University of Manchester",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-24",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Improving Neural Machine Translation by Achieving Knowledge Transfer with Sentence Alignment Learning",
+        "authors": [
+            "Xuewen Shi",
+            "Heyan Huang",
+            "Wenguan Wang",
+            "Ping Jian",
+            "Yi-Kun Tang"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1025.pdf",
+        "orgs": [
+            {
+                "name": "Beijing Institute of Technology",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-25",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences",
+        "authors": [
+            "Genta Indra Winata",
+            "Andrea Madotto",
+            "Chien-Sheng Wu",
+            "Pascale Fung"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1026.pdf",
+        "orgs": []
+    },
+    {
+        "id": "CoNLL19-26",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Unsupervised Neural Machine Translation with Future Rewarding",
+        "authors": [
+            "Xiangpeng Wei",
+            "Yue Hu",
+            "Luxi Xing",
+            "Li Gao"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1027.pdf",
+        "orgs": [
+            {
+                "name": "University of Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-27",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Automatically Extracting Challenge Sets for Non-Local Phenomena in Neural Machine Translation",
+        "authors": [
+            "Leshem Choshen",
+            "Omri Abend"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1028.pdf",
+        "orgs": [
+            {
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-28",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Low-Resource Parsing with Crosslingual Contextualized Representations",
+        "authors": [
+            "Phoebe Mulcaire",
+            "Jungo Kasai",
+            "Noah A. Smith"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1029.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-29",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Improving Pre-Trained Multilingual Model with Vocabulary Expansion",
+        "authors": [
+            "Hai Wang",
+            "Dian Yu",
+            "Kai Sun",
+            "Jianshu Chen",
+            "Dong Yu"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1030.pdf",
+        "orgs": [
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-30",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "On the Relation between Position Information and Sentence Length in Neural Machine Translation",
+        "authors": [
+            "Masato Neishi",
+            "Naoki Yoshinaga"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1031.pdf",
+        "orgs": [
+            {
+                "name": "University of Tokyo",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-31",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Word Recognition, Competition, and Activation in a Model of Visually Grounded Speech",
+        "authors": [
+            "William N. Havard",
+            "Jean-Pierre Chevrot",
+            "Laurent Besacier"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1032.pdf",
+        "orgs": [
+            {
+                "name": "Grenoble Alps University",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-32",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "EQUATE: A Benchmark Evaluation Framework for Quantitative Reasoning in Natural Language Inference",
+        "authors": [
+            "Abhilasha Ravichander",
+            "Aakanksha Naik",
+            "Carolyn Rose",
+            "Eduard Hovy"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1033.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-33",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Linguistic Analysis Improves Neural Metaphor Detection",
+        "authors": [
+            "Kevin Stowe",
+            "Sarah Moeller",
+            "Laura Michaelis",
+            "Martha Palmer"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1034.pdf",
+        "orgs": [
+            {
+                "name": "University of Colorado",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-34",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Cross-Lingual Dependency Parsing with Unlabeled Auxiliary Languages",
+        "authors": [
+            "Wasi Uddin Ahmad",
+            "Zhisong Zhang",
+            "Xuezhe Ma",
+            "Kai-Wei Chang",
+            "Nanyun Peng"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1035.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            },
+            {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-35",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "A Dual-Attention Hierarchical Recurrent Neural Network for Dialogue Act Classification",
+        "authors": [
+            "Ruizhe Li",
+            "Chenghua Lin",
+            "Matthew Collinson",
+            "Xiao Li",
+            "Guanyi Chen"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1036.pdf",
+        "orgs": [
+            {
+                "name": "Utrecht University",
+                "country": "Netherlands"
+            },
+            {
+                "name": "University of Sheffield",
+                "country": "UK"
+            },
+            {
+                "name": "University of Aberdeen",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-36",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Mimic and Rephrase: Reflective Listening in Open-Ended Dialogue",
+        "authors": [
+            "Justin Dieter",
+            "Tian Wang",
+            "Arun Tejasvi Chaganty",
+            "Gabor Angeli",
+            "Angel X. Chang"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1037.pdf",
+        "orgs": [
+            {
+                "name": "Simon Fraser University",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-37",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Automated Pyramid Summarization Evaluation",
+        "authors": [
+            "Yanjun Gao",
+            "Chen Sun",
+            "Rebecca J. Passonneau"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1038.pdf",
+        "orgs": [
+            {
+                "name": "Pennsylvania State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-38",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "A Case Study on Combining ASR and Visual Features for Generating Instructional Video Captions",
+        "authors": [
+            "Jack Hessel",
+            "Bo Pang",
+            "Zhenhai Zhu",
+            "Radu Soricut"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1039.pdf",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-39",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Leveraging Past References for Robust Language Grounding",
+        "authors": [
+            "Subhro Roy",
+            "Michael Noseworthy",
+            "Rohan Paul",
+            "Daehyung Park",
+            "Nicholas Roy"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1040.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-40",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Procedural Reasoning Networks for Understanding Multimodal Procedures",
+        "authors": [
+            "Mustafa Sercan Amac",
+            "Semih Yagcioglu",
+            "Aykut Erdem",
+            "Erkut Erdem"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1041.pdf",
+        "orgs": [
+            {
+                "name": "Hacettepe University",
+                "country": "Turkey"
+            },
+            {
+                "name": "Hacettepe University",
+                "country": "Turkey"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-41",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "On the Limits of Learning to Actively Learn Semantic Representations",
+        "authors": [
+            "Omri Koshorek",
+            "Gabriel Stanovsky",
+            "Yichu Zhou",
+            "Vivek Srikumar",
+            "Jonathan Berant"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1042.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            },
+            {
+                "name": "University of Utah",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-42",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "How Does Grammatical Gender Affect Noun Representations in Gender-Marking Languages?",
+        "authors": [
+            "Hila Gonen",
+            "Yova Kementchedjhieva",
+            "Yoav Goldberg"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1043.pdf",
+        "orgs": [
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-43",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Active Learning via Membership Query Synthesis for Semi-Supervised Sentence Classification",
+        "authors": [
+            "Raphael Schumann",
+            "Ines Rehbein"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1044.pdf",
+        "orgs": [
+            {
+                "name": "University of Heidelberg",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-44",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "A General-Purpose Algorithm for Constrained Sequential Inference",
+        "authors": [
+            "Daniel Deutsch",
+            "Shyam Upadhyay",
+            "Dan Roth"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1045.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-45",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "A Richly Annotated Corpus for Different Tasks in Automated Fact-Checking",
+        "authors": [
+            "Andreas Hanselowski",
+            "Christian Stab",
+            "Claudia Schulz",
+            "Zile Li",
+            "Iryna Gurevych"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1046.pdf",
+        "orgs": [
+            {
+                "name": "Technische Universität Darmstadt",
+                "country": "Germany"
+            },
+            {
+                "name": "Research Training Group AIPHES",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-46",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Detecting Frames in News Headlines and Its Application to Analyzing News Framing Trends Surrounding U.S. Gun Violence",
+        "authors": [
+            "Siyi Liu",
+            "Lei Guo",
+            "Kate Mays",
+            "Margrit Betke",
+            "Derry Tanti Wijaya"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1047.pdf",
+        "orgs": [
+            {
+                "name": "Boston University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-47",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Learning a Unified Named Entity Tagger from Multiple Partially Annotated Corpora for Efficient Adaptation",
+        "authors": [
+            "Xiao Huang",
+            "Li Dong",
+            "Elizabeth Boschee",
+            "Nanyun Peng"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1048.pdf",
+        "orgs": [
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            },
+            {
+                "name": "Information Sciences Institute",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-48",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Learning Dense Representations for Entity Retrieval",
+        "authors": [
+            "Daniel Gillick",
+            "Sayali Kulkarni",
+            "Larry Lansing",
+            "Alessandro Presta",
+            "Jason Baldridge",
+            "Eugene Ie",
+            "Diego Garcia-Olano"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1049.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-49",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "CogniVal: A Framework for Cognitive Word Embedding Evaluation",
+        "authors": [
+            "Nora Hollenstein",
+            "Antonio de la Torre",
+            "Nicolas Langer",
+            "Ce Zhang"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1050.pdf",
+        "orgs": [
+            {
+                "name": "University of Zurich",
+                "country": "Switzerland"
+            },
+            {
+                "name": "ETH Zürich",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-50",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "KnowSemLM: A Knowledge Infused Semantic Language Model",
+        "authors": [
+            "Haoruo Peng",
+            "Qiang Ning",
+            "Dan Roth"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1051.pdf",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-51",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Neural Attentive Bag-of-Entities Model for Text Classification",
+        "authors": [
+            "Ikuya Yamada",
+            "Hiroyuki Shindo"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1052.pdf",
+        "orgs": [
+            {
+                "name": "Apple",
+                "country": "USA"
+            },
+            {
+                "name": "Nara Institute of Science and Technology",
+                "country": "Japan"
+            },
+            {
+                "name": "Apple",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-52",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Roll Call Vote Prediction with Knowledge Augmented Models",
+        "authors": [
+            "Pallavi Patil",
+            "Kriti Myer",
+            "Ronak Zala",
+            "Arpit Singh",
+            "Sheshera Mysore",
+            "Andrew McCallum",
+            "Adrian Benton",
+            "Amanda Stent"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1053.pdf",
+        "orgs": [
+            {
+                "name": "University of Massachusetts Amherst",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-53",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "BeamSeg: A Joint Model for Multi-Document Segmentation and Topic Identification",
+        "authors": [
+            "Pedro Mota",
+            "Maxine Eskenazi",
+            "Luísa Coheur"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1054.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-54",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "MrMep: Joint Extraction of Multiple Relations and Multiple Entity Pairs Based on Triplet Attention",
+        "authors": [
+            "Jiayu Chen",
+            "Caixia Yuan",
+            "Xiaojie Wang",
+            "Ziwei Bai"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1055.pdf",
+        "orgs": [
+            {
+                "name": "Beijing University of Posts and Telecommunications",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-55",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Effective Attention Modeling for Neural Relation Extraction",
+        "authors": [
+            "Tapas Nayak",
+            "Hwee Tou Ng"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1056.pdf",
+        "orgs": [
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-56",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Exploiting the Entity Type Sequence to Benefit Event Detection",
+        "authors": [
+            "Yuze Ji",
+            "Youfang Lin",
+            "Jianwei Gao",
+            "Huaiyu Wan"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1057.pdf",
+        "orgs": [
+            {
+                "name": "Beijing Jiaotong University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-57",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Named Entity Recognition - Is There a Glass Ceiling?",
+        "authors": [
+            "Tomasz Stanislawek",
+            "Anna Wróblewska",
+            "Alicja Wójcicka",
+            "Daniel Ziembicki",
+            "Przemyslaw Biecek"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1058.pdf",
+        "orgs": [
+            {
+                "name": "University of Warsaw",
+                "country": "Poland"
+            },
+            {
+                "name": "Samsung Research",
+                "country": "South Korea"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Warsaw University of Technology",
+                "country": "Poland"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-58",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Low-Rank Approximations of Second-Order Document Representations",
+        "authors": [
+            "Jarkko Lagus",
+            "Janne Sinkkonen",
+            "Arto Klami"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1059.pdf",
+        "orgs": [
+            {
+                "name": "University of Helsinki",
+                "country": "Finland"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-59",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Named Entity Recognition with Partially Annotated Training Data",
+        "authors": [
+            "Stephen Mayhew",
+            "Snigdha Chaturvedi",
+            "Chen-Tse Tsai",
+            "Dan Roth"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1060.pdf",
+        "orgs": [
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            },
+            {
+                "name": "University of North Carolina at Chapel Hill",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-60",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Contextualized Cross-Lingual Event Trigger Extraction with Minimal Resources",
+        "authors": [
+            "Meryem M’hamdi",
+            "Marjorie Freedman",
+            "Jonathan May"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1061.pdf",
+        "orgs": [
+            {
+                "name": "Information Sciences Institute Computer Science Department",
+                "country": "USA"
+            },
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-61",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Deep Structured Neural Network for Event Temporal Relation Extraction",
+        "authors": [
+            "Rujun Han",
+            "I-Hung Hsu",
+            "Mu Yang",
+            "Aram Galstyan",
+            "Ralph Weischedel",
+            "Nanyun Peng"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1062.pdf",
+        "orgs": [
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            },
+            {
+                "name": "Information Sciences Institute",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-62",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Investigating Entity Knowledge in BERT with Simple Neural End-To-End Entity Linking",
+        "authors": [
+            "Samuel Broscheit"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1063.pdf",
+        "orgs": [
+            {
+                "name": "University of Mannheim",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-63",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Unsupervised Adversarial Domain Adaptation for Implicit Discourse Relation Classification",
+        "authors": [
+            "Hsin-Ping Huang",
+            "Junyi Jessy Li"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1064.pdf",
+        "orgs": [
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-64",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Evidence Sentence Extraction for Machine Reading Comprehension",
+        "authors": [
+            "Hai Wang",
+            "Dian Yu",
+            "Kai Sun",
+            "Jianshu Chen",
+            "Dong Yu",
+            "David McAllester",
+            "Dan Roth"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1065.pdf",
+        "orgs": [
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            },
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-65",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "SimVecs: Similarity-Based Vectors for Utterance Representation in Conversational AI Systems",
+        "authors": [
+            "Ashraf Mahgoub",
+            "Youssef Shahin",
+            "Riham Mansour",
+            "Saurabh Bagchi"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1066.pdf",
+        "orgs": [
+            {
+                "name": "Purdue University",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-66",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Incorporating Interlocutor-Aware Context into Response Generation on Multi-Party Chatbots",
+        "authors": [
+            "Cao Liu",
+            "Kang Liu",
+            "Shizhu He",
+            "Zaiqing Nie",
+            "Jun Zhao"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1067.pdf",
+        "orgs": [
+            {
+                "name": "University of Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "Alibaba AI Labs",
+                "country": "China"
+            },
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-67",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Memory Graph Networks for Explainable Memory-grounded Question Answering",
+        "authors": [
+            "Seungwhan Moon",
+            "Pararth Shah",
+            "Anuj Kumar",
+            "Rajen Subba"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1068.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-68",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "TripleNet: Triple Attention Network for Multi-Turn Response Selection in Retrieval-Based Chatbots",
+        "authors": [
+            "Wentao Ma",
+            "Yiming Cui",
+            "Nan Shao",
+            "Su He",
+            "Wei-Nan Zhang",
+            "Ting Liu",
+            "Shijin Wang",
+            "Guoping Hu"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1069.pdf",
+        "orgs": [
+            {
+                "name": "Harbin Institute of Technology",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-69",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Relation Module for Non-Answerable Predictions on Reading Comprehension",
+        "authors": [
+            "Kevin Huang",
+            "Yun Tang",
+            "Jing Huang",
+            "Xiaodong He",
+            "Bowen Zhou"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1070.pdf",
+        "orgs": [
+            {
+                "name": "JD AI Research",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-70",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Slot Tagging for Task Oriented Spoken Language Understanding in Human-to-Human Conversation Scenarios",
+        "authors": [
+            "Kunho Kim",
+            "Rahul Jha",
+            "Kyle Williams",
+            "Alex Marin",
+            "Imed Zitouni"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1071.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-71",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Window-Based Neural Tagging for Shallow Discourse Argument Labeling",
+        "authors": [
+            "René Knaebel",
+            "Manfred Stede",
+            "Sebastian Stober"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1072.pdf",
+        "orgs": [
+            {
+                "name": "Otto-von-Guericke-Universität Magdeburg",
+                "country": "Germany"
+            },
+            {
+                "name": "Universität Potsdam",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-72",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "TILM: Neural Language Models with Evolving Topical Influence",
+        "authors": [
+            "Shubhra Kanti Karmaker Santu",
+            "Kalyan Veeramachaneni",
+            "Chengxiang Zhai"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1073.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-73",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Pretraining-Based Natural Language Generation for Text Summarization",
+        "authors": [
+            "Haoyu Zhang",
+            "Jingjing Cai",
+            "Jianjun Xu",
+            "Ji Wang"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1074.pdf",
+        "orgs": [
+            {
+                "name": "National University of Defense Technology",
+                "country": "China"
+            },
+            {
+                "name": "Dalian Neusoft University of Information",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-74",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Goal-Embedded Dual Hierarchical Model for Task-Oriented Dialogue Generation",
+        "authors": [
+            "Yi-An Lai",
+            "Arshit Gupta",
+            "Yi Zhang"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1075.pdf",
+        "orgs": [
+            {
+                "name": "Amazon",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-75",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Putting the Horse before the Cart: A Generator-Evaluator Framework for Question Generation from Text",
+        "authors": [
+            "Vishwajeet Kumar",
+            "Ganesh Ramakrishnan",
+            "Yuan-Fang Li"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1076.pdf",
+        "orgs": [
+            {
+                "name": "Monash University",
+                "country": "Australia"
+            },
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            },
+            {
+                "name": "IITB Monash Research Academy",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-76",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "In Conclusion Not Repetition: Comprehensive Abstractive Summarization with Diversified Attention Based on Determinantal Point Processes",
+        "authors": [
+            "Lei Li",
+            "Wei Liu",
+            "Marina Litvak",
+            "Natalia Vanetik",
+            "Zuying Huang"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1077.pdf",
+        "orgs": [
+            {
+                "name": "Shamoon College of Engineering",
+                "country": "Israel"
+            },
+            {
+                "name": "Beijing University of Posts and Telecommunications",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-77",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Generating Formality-Tuned Summaries Using Input-Dependent Rewards",
+        "authors": [
+            "Kushal Chawla",
+            "Balaji Vasan Srinivasan",
+            "Niyati Chhaya"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1078.pdf",
+        "orgs": [
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            },
+            {
+                "name": "Adobe Research",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-78",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Do Massively Pretrained Language Models Make Better Storytellers?",
+        "authors": [
+            "Abigail See",
+            "Aneesh Pappu",
+            "Rohun Saxena",
+            "Akhila Yerukola",
+            "Christopher D. Manning"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1079.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "OpenAI",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-79",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Self-Adaptive Scaling for Learnable Residual Structure",
+        "authors": [
+            "Fenglin Liu",
+            "Meng Gao",
+            "Yuanxin Liu",
+            "Kai Lei"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1080.pdf",
+        "orgs": [
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "Beijing University of Posts and Telecommunications",
+                "country": "China"
+            },
+            {
+                "name": "Peking University",
+                "country": "China"
+            },
+            {
+                "name": "University of Chinese Academy of Sciences",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-80",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "BIOfid Dataset: Publishing a German Gold Standard for Named Entity Recognition in Historical Biodiversity Literature",
+        "authors": [
+            "Sajawel Ahmed",
+            "Manuel Stoeckel",
+            "Christine Driller",
+            "Adrian Pachzelt",
+            "Alexander Mehler"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1081.pdf",
+        "orgs": [
+            {
+                "name": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+                "country": "Germany"
+            },
+            {
+                "name": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-81",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Slang Detection and Identification",
+        "authors": [
+            "Zhengqi Pei",
+            "Zhewei Sun",
+            "Yang Xu"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1082.pdf",
+        "orgs": [
+            {
+                "name": "HAETEK Institute of Machine Intelligence",
+                "country": "China"
+            },
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-82",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Alleviating Sequence Information Loss with Data Overlapping and Prime Batch Sizes",
+        "authors": [
+            "Noémien Kocher",
+            "Christian Scuito",
+            "Lorenzo Tarantino",
+            "Alexandros Lazaridis",
+            "Andreas Fischer",
+            "Claudiu Musat"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1083.pdf",
+        "orgs": [
+            {
+                "name": "University of Fribourg",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-83",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Global Autoregressive Models for Data-Efficient Sequence Learning",
+        "authors": [
+            "Tetiana Parshakova",
+            "Jean-Marc Andreoli",
+            "Marc Dymetman"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1084.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Naver Corp",
+                "country": "South Korea"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-84",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Learning Analogy-Preserving Sentence Embeddings for Answer Selection",
+        "authors": [
+            "Aïssatou Diallo",
+            "Markus Zopf",
+            "Johannes Fürnkranz"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1085.pdf",
+        "orgs": [
+            {
+                "name": "Technische Universität Darmstadt",
+                "country": "Germany"
+            },
+            {
+                "name": "Research Training Group AIPHES",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-85",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "A Simple and Effective Method for Injecting Word-Level Information into Character-Aware Neural Language Models",
+        "authors": [
+            "Yukun Feng",
+            "Hidetaka Kamigaito",
+            "Hiroya Takamura",
+            "Manabu Okumura"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1086.pdf",
+        "orgs": [
+            {
+                "name": "Tokyo Institute of Technology",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-86",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "On Model Stability as a Function of Random Seed",
+        "authors": [
+            "Pranava Madhyastha",
+            "Rishabh Jain"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1087.pdf",
+        "orgs": [
+            {
+                "name": "Imperial College London",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-87",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Studying Generalisability across Abusive Language Detection Datasets",
+        "authors": [
+            "Steve Durairaj Swamy",
+            "Anupam Jamatia",
+            "Björn Gambäck"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1088.pdf",
+        "orgs": [
+            {
+                "name": "Norwegian University of Science and Technology",
+                "country": "Norway"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-88",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Reduce & Attribute: Two-Step Authorship Attribution for Large-Scale Problems",
+        "authors": [
+            "Michael Tschuggnall",
+            "Benjamin Murauer",
+            "Günther Specht"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1089.pdf",
+        "orgs": [
+            {
+                "name": "University of Innsbruck",
+                "country": "Austria"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-89",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Variational Semi-Supervised Aspect-Term Sentiment Analysis via Transformer",
+        "authors": [
+            "Xingyi Cheng",
+            "Weidi Xu",
+            "Taifeng Wang",
+            "Wei Chu",
+            "Weipeng Huang",
+            "Kunlong Chen",
+            "Junfeng Hu"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1090.pdf",
+        "orgs": [
+            {
+                "name": "Ant Financial Services Group",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-90",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Learning to Detect Opinion Snippet for Aspect-Based Sentiment Analysis",
+        "authors": [
+            "Mengting Hu",
+            "Shiwan Zhao",
+            "Honglei Guo",
+            "Renhong Cheng",
+            "Zhong Su"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1091.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Nankai University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-91",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Multi-Level Sentiment Analysis of PolEmo 2.0: Extended Corpus of Multi-Domain Consumer Reviews",
+        "authors": [
+            "Jan Kocoń",
+            "Piotr Miłkowski",
+            "Monika Zaśko-Zielińska"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1092.pdf",
+        "orgs": [
+            {
+                "name": "University of Wrocław",
+                "country": "Poland"
+            },
+            {
+                "name": "University of Wrocław",
+                "country": "Poland"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-92",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "A Personalized Sentiment Model with Textual and Contextual Information",
+        "authors": [
+            "Siwen Guo",
+            "Sviatlana Höhn",
+            "Christoph Schommer"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1093.pdf",
+        "orgs": [
+            {
+                "name": "University of Luxembourg",
+                "country": "Luxembourg"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-93",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Cluster-Gated Convolutional Neural Network for Short Text Classification",
+        "authors": [
+            "Haidong Zhang",
+            "Wancheng Ni",
+            "Meijing Zhao",
+            "Ziqi Lin"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1094.pdf",
+        "orgs": [
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-94",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Coherence-based Modeling of Clinical Concepts Inferred from Heterogeneous Clinical Notes for ICU Patient Risk Stratification",
+        "authors": [
+            "Tushaar Gangavarapu",
+            "Gokul S Krishnan",
+            "Sowmya Kamath S"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1095.pdf",
+        "orgs": [
+            {
+                "name": "National Institute of Technology Karnataka",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-95",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Predicting the Role of Political Trolls in Social Media",
+        "authors": [
+            "Atanas Atanasov",
+            "Gianmarco De Francisci Morales",
+            "Preslav Nakov"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1096.pdf",
+        "orgs": [
+            {
+                "name": "Sofia University",
+                "country": "Bulgaria"
+            },
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL19-96",
+        "source": "CoNLL19",
+        "source_type": "CoNLL",
+        "year": "2019",
+        "title": "Towards a Unified End-to-End Approach for Fully Unsupervised Cross-Lingual Sentiment Analysis",
+        "authors": [
+            "Yanlin Feng",
+            "Xiaojun Wan"
+        ],
+        "url": "https://www.aclweb.org/anthology/K19-1097.pdf",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            },
+            {
+                "name": "Wangxuan Institute of Computer Technology",
+                "country": "China"
+            }
+        ]
+    }
+]

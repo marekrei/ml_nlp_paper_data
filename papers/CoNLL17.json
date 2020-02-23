@@ -1,0 +1,976 @@
+[
+    {
+        "id": "CoNLL17-0",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Should Neural Network Architecture Reflect Linguistic Structure?",
+        "authors": [
+            "Chris Dyer"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1001.pdf",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-1",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Rational Distortions of Learners’ Linguistic Input",
+        "authors": [
+            "Naomi Feldman"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1002.pdf",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-2",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Exploring the Syntactic Abilities of RNNs with Multi-task Learning",
+        "authors": [
+            "Émile Enguehard",
+            "Yoav Goldberg",
+            "Tal Linzen"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1003.pdf",
+        "orgs": [
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            },
+            {
+                "name": "PSL Research University",
+                "country": "France"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-3",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "The Effect of Different Writing Tasks on Linguistic Style: A Case Study of the ROC Story Cloze Task",
+        "authors": [
+            "Roy Schwartz",
+            "Maarten Sap",
+            "Ioannis Konstas",
+            "Leila Zilles",
+            "Yejin Choi",
+            "Noah A. Smith"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1004.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-4",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Parsing for Grammatical Relations via Graph Merging",
+        "authors": [
+            "Weiwei Sun",
+            "Yantao Du",
+            "Xiaojun Wan"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1005.pdf",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-5",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Leveraging Eventive Information for Better Metaphor Detection and Classification",
+        "authors": [
+            "I-Hsuan Chen",
+            "Yunfei Long",
+            "Qin Lu",
+            "Chu-Ren Huang"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1006.pdf",
+        "orgs": [
+            {
+                "name": "The Hong Kong Polytechnic University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-6",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Collaborative Partitioning for Coreference Resolution",
+        "authors": [
+            "Olga Uryupina",
+            "Alessandro Moschitti"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1007.pdf",
+        "orgs": [
+            {
+                "name": "University of Trento",
+                "country": "Italy"
+            },
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-7",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Named Entity Disambiguation for Noisy Text",
+        "authors": [
+            "Yotam Eshel",
+            "Noam Cohen",
+            "Kira Radinsky",
+            "Shaul Markovitch",
+            "Ikuya Yamada",
+            "Omer Levy"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1008.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-8",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Tell Me Why: Using Question Answering as Distant Supervision for Answer Justification",
+        "authors": [
+            "Rebecca Sharp",
+            "Mihai Surdeanu",
+            "Peter Jansen",
+            "Marco A. Valenzuela-Escárcega",
+            "Peter Clark",
+            "Michael Hammond"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1009.pdf",
+        "orgs": [
+            {
+                "name": "University of Arizona",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-9",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Learning What is Essential in Questions",
+        "authors": [
+            "Daniel Khashabi",
+            "Tushar Khot",
+            "Ashish Sabharwal",
+            "Dan Roth"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1010.pdf",
+        "orgs": [
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-10",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Top-Rank Enhanced Listwise Optimization for Statistical Machine Translation",
+        "authors": [
+            "Huadong Chen",
+            "Shujian Huang",
+            "David Chiang",
+            "Xinyu Dai",
+            "Jiajun Chen"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1011.pdf",
+        "orgs": [
+            {
+                "name": "University of Notre Dame",
+                "country": "USA"
+            },
+            {
+                "name": "Nanjing University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-11",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Embedding Words and Senses Together via Joint Knowledge-Enhanced Training",
+        "authors": [
+            "Massimiliano Mancini",
+            "Jose Camacho-Collados",
+            "Ignacio Iacobacci",
+            "Roberto Navigli"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1012.pdf",
+        "orgs": [
+            {
+                "name": "Sapienza University of Rome",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-12",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Automatic Selection of Context Configurations for Improved Class-Specific Word Representations",
+        "authors": [
+            "Ivan Vulić",
+            "Roy Schwartz",
+            "Ari Rappoport",
+            "Roi Reichart",
+            "Anna Korhonen"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1013.pdf",
+        "orgs": [
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-13",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Modeling Context Words as Regions: An Ordinal Regression Approach to Word Embedding",
+        "authors": [
+            "Shoaib Jameel",
+            "Steven Schockaert"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1014.pdf",
+        "orgs": [
+            {
+                "name": "Cardiff University",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-14",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "An Artificial Language Evaluation of Distributional Semantic Models",
+        "authors": [
+            "Fatemeh Torabi Asr",
+            "Michael Jones"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1015.pdf",
+        "orgs": [
+            {
+                "name": "Indiana University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-15",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Learning Word Representations with Regularization from Prior Knowledge",
+        "authors": [
+            "Yan Song",
+            "Chia-Jung Lee",
+            "Fei Xia"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1016.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-16",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Attention-based Recurrent Convolutional Neural Network for Automatic Essay Scoring",
+        "authors": [
+            "Fei Dong",
+            "Yue Zhang",
+            "Jie Yang"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1017.pdf",
+        "orgs": [
+            {
+                "name": "Singapore University of Technology and Design",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-17",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Feature Selection as Causal Inference: Experiments with Text Classification",
+        "authors": [
+            "Michael J. Paul"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1018.pdf",
+        "orgs": [
+            {
+                "name": "University of Colorado",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-18",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "A Joint Model for Semantic Sequences: Frames, Entities, Sentiments",
+        "authors": [
+            "Haoruo Peng",
+            "Snigdha Chaturvedi",
+            "Dan Roth"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1019.pdf",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-19",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Neural Sequence-to-sequence Learning of Internal Word Structure",
+        "authors": [
+            "Tatyana Ruzsics",
+            "Tanja Samardžić"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1020.pdf",
+        "orgs": [
+            {
+                "name": "University of Zurich",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-20",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "A Supervised Approach to Extractive Summarisation of Scientific Papers",
+        "authors": [
+            "Ed Collins",
+            "Isabelle Augenstein",
+            "Sebastian Riedel"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1021.pdf",
+        "orgs": [
+            {
+                "name": "University College London",
+                "country": "UK"
+            },
+            {
+                "name": "University College London",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-21",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "An Automatic Approach for Document-level Topic Model Evaluation",
+        "authors": [
+            "Shraey Bhatia",
+            "Jey Han Lau",
+            "Timothy Baldwin"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1022.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "University of Melbourne",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-22",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Robust Coreference Resolution and Entity Linking on Dialogues: Character Identification on TV Show Transcripts",
+        "authors": [
+            "Henry Y. Chen",
+            "Ethan Zhou",
+            "Jinho D. Choi"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1023.pdf",
+        "orgs": [
+            {
+                "name": "Emory University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-23",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Cross-language Learning with Adversarial Neural Networks",
+        "authors": [
+            "Shafiq Joty",
+            "Preslav Nakov",
+            "Lluís Màrquez",
+            "Israa Jaradat"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1024.pdf",
+        "orgs": [
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-24",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Knowledge Tracing in Sequential Learning of Inflected Vocabulary",
+        "authors": [
+            "Adithya Renduchintala",
+            "Philipp Koehn",
+            "Jason Eisner"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1025.pdf",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-25",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "A Probabilistic Generative Grammar for Semantic Parsing",
+        "authors": [
+            "Abulhair Saparov",
+            "Vijay Saraswat",
+            "Tom Mitchell"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1026.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-26",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Learning Contextual Embeddings for Structural Semantic Similarity using Categorical Information",
+        "authors": [
+            "Massimo Nicosia",
+            "Alessandro Moschitti"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1027.pdf",
+        "orgs": [
+            {
+                "name": "University of Trento",
+                "country": "Italy"
+            },
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-27",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Making Neural QA as Simple as Possible but not Simpler",
+        "authors": [
+            "Dirk Weissenborn",
+            "Georg Wiese",
+            "Laura Seiffe"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1028.pdf",
+        "orgs": [
+            {
+                "name": "DFKI",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-28",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Neural Domain Adaptation for Biomedical Question Answering",
+        "authors": [
+            "Georg Wiese",
+            "Dirk Weissenborn",
+            "Mariana Neves"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1029.pdf",
+        "orgs": [
+            {
+                "name": "DFKI",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-29",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "A phoneme clustering algorithm based on the obligatory contour principle",
+        "authors": [
+            "Mans Hulden"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1030.pdf",
+        "orgs": [
+            {
+                "name": "University of Colorado",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-30",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Learning Stock Market Sentiment Lexicon and Sentiment-Oriented Word Vector from StockTwits",
+        "authors": [
+            "Quanzhi Li",
+            "Sameena Shah"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1031.pdf",
+        "orgs": []
+    },
+    {
+        "id": "CoNLL17-31",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Learning local and global contexts using a convolutional recurrent network model for relation classification in biomedical text",
+        "authors": [
+            "Desh Raj",
+            "Sunil Sahu",
+            "Ashish Anand"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1032.pdf",
+        "orgs": [
+            {
+                "name": "Indian Institute of Technology Guwahati",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-32",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Idea density for predicting Alzheimer’s disease from transcribed speech",
+        "authors": [
+            "Kairit Sirts",
+            "Olivier Piguet",
+            "Mark Johnson"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1033.pdf",
+        "orgs": [
+            {
+                "name": "University of Tartu",
+                "country": "Estonia"
+            },
+            {
+                "name": "University of Sydney",
+                "country": "Australia"
+            },
+            {
+                "name": "Macquarie University",
+                "country": "Australia"
+            },
+            {
+                "name": "University of New South Wales",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-33",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Zero-Shot Relation Extraction via Reading Comprehension",
+        "authors": [
+            "Omer Levy",
+            "Minjoon Seo",
+            "Eunsol Choi",
+            "Luke Zettlemoyer"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1034.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-34",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "The Covert Helps Parse the Overt",
+        "authors": [
+            "Xun Zhang",
+            "Weiwei Sun",
+            "Xiaojun Wan"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1035.pdf",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-35",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "German in Flux: Detecting Metaphoric Change via Word Entropy",
+        "authors": [
+            "Dominik Schlechtweg",
+            "Stefanie Eckmann",
+            "Enrico Santus",
+            "Sabine Schulte im Walde",
+            "Daniel Hole"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1036.pdf",
+        "orgs": [
+            {
+                "name": "Singapore University of Technology and Design",
+                "country": "Singapore"
+            },
+            {
+                "name": "University of Stuttgart",
+                "country": "Germany"
+            },
+            {
+                "name": "University of Munich",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-36",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Encoding of phonology in a recurrent neural model of grounded speech",
+        "authors": [
+            "Afra Alishahi",
+            "Marie Barking",
+            "Grzegorz Chrupała"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1037.pdf",
+        "orgs": [
+            {
+                "name": "Tilburg University",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-37",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Multilingual Semantic Parsing And Code-Switching",
+        "authors": [
+            "Long Duong",
+            "Hadi Afshar",
+            "Dominique Estival",
+            "Glen Pink",
+            "Philip Cohen",
+            "Mark Johnson"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1038.pdf",
+        "orgs": []
+    },
+    {
+        "id": "CoNLL17-38",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Optimizing Differentiable Relaxations of Coreference Evaluation Metrics",
+        "authors": [
+            "Phong Le",
+            "Ivan Titov"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1039.pdf",
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-39",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Neural Structural Correspondence Learning for Domain Adaptation",
+        "authors": [
+            "Yftah Ziser",
+            "Roi Reichart"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1040.pdf",
+        "orgs": [
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-40",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "A Simple and Accurate Syntax-Agnostic Neural Model for Dependency-based Semantic Role Labeling",
+        "authors": [
+            "Diego Marcheggiani",
+            "Anton Frolov",
+            "Ivan Titov"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1041.pdf",
+        "orgs": [
+            {
+                "name": "Yandex",
+                "country": "Russia"
+            },
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-41",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Joint Prediction of Morphosyntactic Categories for Fine-Grained Arabic Part-of-Speech Tagging Exploiting Tag Dictionary Information",
+        "authors": [
+            "Go Inoue",
+            "Hiroyuki Shindo",
+            "Yuji Matsumoto"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1042.pdf",
+        "orgs": [
+            {
+                "name": "Nara Institute of Science and Technology",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-42",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Learning from Relatives: Unified Dialectal Arabic Segmentation",
+        "authors": [
+            "Younes Samih",
+            "Mohamed Eldesouki",
+            "Mohammed Attia",
+            "Kareem Darwish",
+            "Ahmed Abdelali",
+            "Hamdy Mubarak",
+            "Laura Kallmeyer"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1043.pdf",
+        "orgs": [
+            {
+                "name": "University of Düsseldorf",
+                "country": "Germany"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-43",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Natural Language Generation for Spoken Dialogue System using RNN Encoder-Decoder Networks",
+        "authors": [
+            "Van-Khanh Tran",
+            "Le-Minh Nguyen"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1044.pdf",
+        "orgs": [
+            {
+                "name": "Japan Advanced Institute of Science and Technology",
+                "country": "Japan"
+            },
+            {
+                "name": "Thai Nguyen University",
+                "country": "Vietnam"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL17-44",
+        "source": "CoNLL17",
+        "source_type": "CoNLL",
+        "year": "2017",
+        "title": "Graph-based Neural Multi-Document Summarization",
+        "authors": [
+            "Michihiro Yasunaga",
+            "Rui Zhang",
+            "Kshitijh Meelu",
+            "Ayush Pareek",
+            "Krishnan Srinivasan",
+            "Dragomir Radev"
+        ],
+        "url": "https://www.aclweb.org/anthology/K17-1045.pdf",
+        "orgs": [
+            {
+                "name": "Yale University",
+                "country": "USA"
+            }
+        ]
+    }
+]

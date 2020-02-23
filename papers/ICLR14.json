@@ -1,0 +1,715 @@
+[
+    {
+        "id": "ICLR14-0",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Multilingual Distributed Representations without Word Alignment",
+        "authors": [
+            "Karl Moritz Hermann",
+            "Phil Blunsom"
+        ],
+        "url": "http://arxiv.org/pdf/1312.6173.pdf",
+        "orgs": [
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-1",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Zero-Shot Learning by Convex Combination of Semantic Embeddings",
+        "authors": [
+            "Mohammad Norouzi",
+            "Tomas Mikolov",
+            "Samy Bengio",
+            "Yoram Singer",
+            "Jonathon Shlens",
+            "Andrea Frome",
+            "Greg S. Corrado",
+            "Jeffrey Dean"
+        ],
+        "url": "http://arxiv.org/pdf/1312.5650.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-2",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Exact solutions to the nonlinear dynamics of learning in deep linear neural networks",
+        "authors": [
+            "Andrew M. Saxe",
+            "James L. McClelland",
+            "Surya Ganguli"
+        ],
+        "url": "http://arxiv.org/pdf/1312.6120.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-3",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Revisiting Natural Gradient for Deep Networks",
+        "authors": [
+            "Razvan Pascanu",
+            "Yoshua Bengio"
+        ],
+        "url": "http://arxiv.org/pdf/1301.3584.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-4",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "The return of AdaBoost.MH: multi-class Hamming trees",
+        "authors": [
+            "Balázs Kégl"
+        ],
+        "url": "http://arxiv.org/pdf/1312.6086.pdf",
+        "orgs": [
+            {
+                "name": "Univ Paris Sud",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-5",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Neuronal Synchrony in Complex-Valued Deep Networks",
+        "authors": [
+            "David P. Reichert",
+            "Thomas Serre"
+        ],
+        "url": "http://arxiv.org/pdf/1312.6115.pdf",
+        "orgs": [
+            {
+                "name": "Brown University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-6",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Bounding the Test Log-Likelihood of Generative Models",
+        "authors": [
+            "Yoshua Bengio",
+            "Li Yao",
+            "KyungHyun Cho"
+        ],
+        "url": "http://arxiv.org/pdf/1311.6184.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "Aalto University",
+                "country": "Finland"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-7",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "A Generative Product-of-Filters Model of Audio",
+        "authors": [
+            "Dawen Liang",
+            "Mathew D. Hoffman",
+            "Gautham Mysore"
+        ],
+        "url": "http://arxiv.org/pdf/1312.5857.pdf",
+        "orgs": [
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            },
+            {
+                "name": "Adobe Research",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-8",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "How to Construct Deep Recurrent Neural Networks",
+        "authors": [
+            "Razvan Pascanu",
+            "Caglar Gulcehre",
+            "Kyunghyun Cho",
+            "Yoshua Bengio"
+        ],
+        "url": "http://arxiv.org/pdf/1312.6026.pdf",
+        "orgs": [
+            {
+                "name": "Aalto University",
+                "country": "Finland"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-9",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Zero-Shot Learning and Clustering for Semantic Utterance Classification",
+        "authors": [
+            "Yann N. Dauphin",
+            "Gokhan Tur",
+            "Dilek Hakkani-Tur",
+            "Larry Heck"
+        ],
+        "url": "http://arxiv.org/pdf/1401.0509.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-10",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "An empirical analysis of dropout in piecewise linear networks",
+        "authors": [
+            "David Warde-Farley",
+            "Ian J. Goodfellow",
+            "Aaron Courville",
+            "Yoshua Bengio"
+        ],
+        "url": "http://arxiv.org/pdf/1312.6197.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-11",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "An Empirical Investigation of Catastrophic Forgeting in Gradient-Based Neural Networks",
+        "authors": [
+            "Ian J. Goodfellow",
+            "Mehdi Mirza",
+            "Da Xiao",
+            "Aaron Courville",
+            "Yoshua Bengio",
+            ""
+        ],
+        "url": "http://arxiv.org/pdf/1312.6211.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICLR14-12",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "On Fast Dropout and its Applicability to Recurrent Networks",
+        "authors": [
+            "Justin Bayer",
+            "Christian Osendorfer",
+            "Daniela Korhammer",
+            "Nutan Chen",
+            "Sebastian Urban",
+            "Patrick van der Smagt"
+        ],
+        "url": "http://arxiv.org/pdf/1311.0701.pdf",
+        "orgs": [
+            {
+                "name": "Technical University of Munich",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-13",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Network In Network",
+        "authors": [
+            "Min Lin",
+            "Qiang Chen",
+            "Shuicheng Yan"
+        ],
+        "url": "http://arxiv.org/pdf/1312.4400.pdf",
+        "orgs": [
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-14",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Auto-Encoding Variational Bayes",
+        "authors": [
+            "Diederik P. Kingma",
+            "Max Welling"
+        ],
+        "url": "http://arxiv.org/pdf/1312.6114.pdf",
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-15",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Group-sparse Embeddings in Collective Matrix Factorization",
+        "authors": [
+            "Arto Klami",
+            "Guillaume Bouchard",
+            "Abhishek Tripathi"
+        ],
+        "url": "http://arxiv.org/pdf/1312.5921.pdf",
+        "orgs": [
+            {
+                "name": "Xerox",
+                "country": "USA"
+            },
+            {
+                "name": "Helsinki Institute for Information Technology",
+                "country": "Finland"
+            },
+            {
+                "name": "University of Helsinki",
+                "country": "Finland"
+            },
+            {
+                "name": "Xerox",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-16",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Learning Human Pose Estimation Features with Convolutional Networks",
+        "authors": [
+            "Ajrun Jain",
+            "Jonathan Tompson",
+            "Mykhaylo Andriluka",
+            "Graham W. Taylor",
+            "Christoph Bregler"
+        ],
+        "url": "http://arxiv.org/pdf/1312.7302.pdf",
+        "orgs": [
+            {
+                "name": "New York University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Guelph",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-17",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "EXMOVES: Classifier-based Features for Scalable Action Recognition",
+        "authors": [
+            "Du Tran",
+            "Lorenzo Torresani"
+        ],
+        "url": "http://arxiv.org/pdf/1312.5785.pdf",
+        "orgs": [
+            {
+                "name": "Dartmouth College",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-18",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "On the number of inference regions of deep feed forward networks with piece-wise linear activations",
+        "authors": [
+            "Razvan Pascanu",
+            "Guido Montufar",
+            "Yoshua Bengio"
+        ],
+        "url": "http://arxiv.org/pdf/1312.6098.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-19",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Intriguing properties of neural networks",
+        "authors": [
+            "Christian Szegedy",
+            "Wojciech Zaremba",
+            "Ilya Sutskever",
+            "Joan Bruna",
+            "Dumitru Erhan",
+            "Ian Goodfellow",
+            "Rob Fergus"
+        ],
+        "url": "http://arxiv.org/pdf/1312.6199.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-20",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Fast Training of Convolutional Networks through FFTs",
+        "authors": [
+            "Michael Mathieu",
+            "Mikael Henaff",
+            "Yann LeCun"
+        ],
+        "url": "http://arxiv.org/pdf/1312.5851.pdf",
+        "orgs": [
+            {
+                "name": "Courant Institute of Mathematical Sciences",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-21",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Deep and Wide Multiscale Recursive Networks for Robust Image Labeling",
+        "authors": [
+            "Gary B. Huang",
+            "Viren Jain"
+        ],
+        "url": "http://arxiv.org/pdf/1310.0354.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICLR14-22",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Some Improvements on Deep Convolutional Neural Network Based Image Classification",
+        "authors": [
+            "Andrew G. Howard"
+        ],
+        "url": "http://arxiv.org/pdf/1312.5402.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICLR14-23",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Deep Convolutional Ranking for Multilabel Image Annotation",
+        "authors": [
+            "Yunchao Gong",
+            "Yangqing Jia",
+            "Thomas Leung",
+            "Alexander Toshev",
+            "Sergey Ioffe"
+        ],
+        "url": "http://arxiv.org/pdf/1312.4894.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-24",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Learning to encode motion using spatio-temporal synchrony",
+        "authors": [
+            "Kishore Reddy Konda",
+            "Roland Memisevic",
+            "Vincent Michalski"
+        ],
+        "url": "http://arxiv.org/pdf/1306.3162.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-25",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Multi-View Priors for Learning Detectors from Sparse Viewpoint Data",
+        "authors": [
+            "Bojan Pepik",
+            "Michael Stark",
+            "Peter Gehler",
+            "Bernt Schiele"
+        ],
+        "url": "http://arxiv.org/pdf/1312.6095.pdf",
+        "orgs": [
+            {
+                "name": "MMax Planck Institute for Informatics",
+                "country": "Germany"
+            },
+            {
+                "name": "Max Planck Institute for Intelligent Systems",
+                "country": "Germany"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-26",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "k-Sparse Autoencoders",
+        "authors": [
+            "Alireza Makhzani",
+            "Brendan Frey"
+        ],
+        "url": "http://arxiv.org/pdf/1312.5663.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-27",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks",
+        "authors": [
+            "Pierre Sermanet",
+            "Rob Fergus",
+            "Yann LeCun",
+            "Xiang Zhang",
+            "David Eigen",
+            "Michael Mathieu"
+        ],
+        "url": "http://arxiv.org/pdf/1312.6229.pdf",
+        "orgs": [
+            {
+                "name": "Courant Institute of Mathematical Sciences",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-28",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks",
+        "authors": [
+            "Ian J. Goodfellow",
+            "Yaroslav Bulatov",
+            "Julian Ibarz",
+            "Sacha Arnoud",
+            "Vinay Shet"
+        ],
+        "url": "http://arxiv.org/pdf/1312.6082.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-29",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Sequentially Generated Instance-Dependent Image Representations for Classification",
+        "authors": [
+            "Ludovic Denoyer",
+            "Matthieu Cord",
+            "Patrick Gallinari",
+            "Nicolas Thome",
+            "Gabriel Dulac-Arnold"
+        ],
+        "url": "http://arxiv.org/pdf/1312.6594.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICLR14-30",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Learned versus Hand-Designed Feature Representations for 3d Agglomeration",
+        "authors": [
+            "John A. Bogovic",
+            "Gary B. Huang",
+            "Viren Jain"
+        ],
+        "url": "http://arxiv.org/pdf/1312.6159.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICLR14-31",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Spectral Networks and Locally Connected Networks on Graphs",
+        "authors": [
+            "Joan Bruna",
+            "Wojciech Zaremba",
+            "Arthur Szlam",
+            "Yann LeCun"
+        ],
+        "url": "http://arxiv.org/pdf/1312.6203.pdf",
+        "orgs": [
+            {
+                "name": "City University of New York",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR14-32",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Sparse similarity-preserving hashing",
+        "authors": [
+            "Alex M. Bronstein",
+            "Pablo Sprechmann",
+            "Michael M. Bronstein",
+            "Jonathan Masci",
+            "Guillermo Sapiro"
+        ],
+        "url": "http://arxiv.org/pdf/1312.5479.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICLR14-33",
+        "source": "ICLR14",
+        "source_type": "ICLR",
+        "year": "2014",
+        "title": "Learning Transformations for Classification Forests",
+        "authors": [
+            "Qiang Qiu",
+            "Guillermo Sapiro"
+        ],
+        "url": "http://arxiv.org/pdf/1312.5604.pdf",
+        "orgs": [
+            {
+                "name": "Duke University",
+                "country": "USA"
+            }
+        ]
+    }
+]

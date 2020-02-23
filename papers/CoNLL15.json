@@ -1,0 +1,829 @@
+[
+    {
+        "id": "CoNLL15-0",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "A Coactive Learning View of Online Structured Prediction in Statistical Machine Translation",
+        "authors": [
+            "Artem Sokolov",
+            "Stefan Riezler",
+            "Shay B. Cohen"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1001.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-1",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "A Joint Framework for Coreference Resolution and Mention Head Detection",
+        "authors": [
+            "Haoruo Peng",
+            "Kai-Wei Chang",
+            "Dan Roth"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1002.pdf",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-2",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "A Supertag-Context Model for Weakly-Supervised CCG Parser Learning",
+        "authors": [
+            "Dan Garrette",
+            "Chris Dyer",
+            "Jason Baldridge",
+            "Noah A. Smith"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1003.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-3",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "A Synchronous Hyperedge Replacement Grammar based approach for AMR parsing",
+        "authors": [
+            "Xiaochang Peng",
+            "Linfeng Song",
+            "Daniel Gildea"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1004.pdf",
+        "orgs": [
+            {
+                "name": "University of Rochester",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-4",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "AIDA2: A Hybrid Approach for Token and Sentence Level Dialect Identification in Arabic",
+        "authors": [
+            "Mohamed Al-Badrashiny",
+            "Heba Elfardy",
+            "Mona Diab"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1005.pdf",
+        "orgs": [
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            },
+            {
+                "name": "The George Washington University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-5",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "An Iterative Similarity based Adaptation Technique for Cross-domain Text Classification",
+        "authors": [
+            "Himanshu Sharad Bhatt",
+            "Deepali Semwal",
+            "Shourya Roy"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1006.pdf",
+        "orgs": [
+            {
+                "name": "Xerox",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-6",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Analyzing Optimization for Statistical Machine Translation: MERT Learns Verbosity, PRO Learns Length",
+        "authors": [
+            "Francisco Guzmán",
+            "Preslav Nakov",
+            "Stephan Vogel"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1007.pdf",
+        "orgs": [
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-7",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Annotation Projection-based Representation Learning for Cross-lingual Dependency Parsing",
+        "authors": [
+            "Min Xiao",
+            "Yuhong Guo"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1008.pdf",
+        "orgs": [
+            {
+                "name": "Temple University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-8",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Big Data Small Data, In Domain Out-of Domain, Known Word Unknown Word: The Impact of Word Representations on Sequence Labelling Tasks",
+        "authors": [
+            "Lizhen Qu",
+            "Gabriela Ferraro",
+            "Liyuan Zhou",
+            "Weiwei Hou",
+            "Nathan Schneider",
+            "Timothy Baldwin"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1009.pdf",
+        "orgs": [
+            {
+                "name": "University of Melbourne",
+                "country": "Australia"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            },
+            {
+                "name": "Australian National University",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-9",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Contrastive Analysis with Predictive Power: Typology Driven Estimation of Grammatical Error Distributions in ESL",
+        "authors": [
+            "Yevgeni Berzak",
+            "Roi Reichart",
+            "Boris Katz"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1010.pdf",
+        "orgs": [
+            {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            },
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-10",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Cross-lingual syntactic variation over age and gender",
+        "authors": [
+            "Anders Johannsen",
+            "Dirk Hovy",
+            "Anders Søgaard"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1011.pdf",
+        "orgs": [
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-11",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Cross-lingual Transfer for Unsupervised Dependency Parsing Without Parallel Data",
+        "authors": [
+            "Long Duong",
+            "Trevor Cohn",
+            "Steven Bird",
+            "Paul Cook"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1012.pdf",
+        "orgs": [
+            {
+                "name": "University of New Brunswick",
+                "country": "Canada"
+            },
+            {
+                "name": "University of Melbourne",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-12",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Detecting Semantically Equivalent Questions in Online User Forums",
+        "authors": [
+            "Dasha Bogdanova",
+            "Cícero dos Santos",
+            "Luciano Barbosa",
+            "Bianca Zadrozny"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1013.pdf",
+        "orgs": [
+            {
+                "name": "Dublin City University",
+                "country": "Ireland"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-13",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Entity Linking Korean Text: An Unsupervised Learning Approach using Semantic Relations",
+        "authors": [
+            "Youngsik Kim",
+            "Key-Sun Choi"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1014.pdf",
+        "orgs": []
+    },
+    {
+        "id": "CoNLL15-14",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Incremental Recurrent Neural Network Dependency Parser with Search-based Discriminative Training",
+        "authors": [
+            "Majid Yazdani",
+            "James Henderson"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1015.pdf",
+        "orgs": [
+            {
+                "name": "University of Geneva",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Xerox",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-15",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Instance Selection Improves Cross-Lingual Model Training for Fine-Grained Sentiment Analysis",
+        "authors": [
+            "Roman Klinger",
+            "Philipp Cimiano"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1016.pdf",
+        "orgs": [
+            {
+                "name": "Bielefeld University",
+                "country": "Germany"
+            },
+            {
+                "name": "University of Stuttgart",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-16",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Labeled Morphological Segmentation with Semi-Markov Models",
+        "authors": [
+            "Ryan Cotterell",
+            "Thomas Müller",
+            "Alexander Fraser",
+            "Hinrich Schütze"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1017.pdf",
+        "orgs": [
+            {
+                "name": "University of Munich",
+                "country": "Germany"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-17",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Learning to Exploit Structured Resources for Lexical Inference",
+        "authors": [
+            "Vered Shwartz",
+            "Omer Levy",
+            "Ido Dagan",
+            "Jacob Goldberger"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1018.pdf",
+        "orgs": [
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-18",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Linking Entities Across Images and Text",
+        "authors": [
+            "Rebecka Weegar",
+            "Kalle Åström",
+            "Pierre Nugues"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1019.pdf",
+        "orgs": [
+            {
+                "name": "Lund University",
+                "country": "Sweden"
+            },
+            {
+                "name": "Stockholm University",
+                "country": "Sweden"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-19",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Making the Most of Crowdsourced Document Annotations: Confused Supervised LDA",
+        "authors": [
+            "Paul Felt",
+            "Eric Ringger",
+            "Jordan Boyd-Graber",
+            "Kevin Seppi"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1020.pdf",
+        "orgs": [
+            {
+                "name": "Brigham Young University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Colorado Boulder",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-20",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Multichannel Variable-Size Convolution for Sentence Classification",
+        "authors": [
+            "Wenpeng Yin",
+            "Hinrich Schütze"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1021.pdf",
+        "orgs": [
+            {
+                "name": "University of Munich",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-21",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Opinion Holder and Target Extraction based on the Induction of Verbal Categories",
+        "authors": [
+            "Michael Wiegand",
+            "Josef Ruppenhofer"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1022.pdf",
+        "orgs": [
+            {
+                "name": "Saarland University",
+                "country": "Germany"
+            },
+            {
+                "name": "Universität Hildesheim",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-22",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Quantity, Contrast, and Convention in Cross-Situated Language Comprehension",
+        "authors": [
+            "Ian Perera",
+            "James Allen"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1023.pdf",
+        "orgs": [
+            {
+                "name": "University of Rochester",
+                "country": "USA"
+            },
+            {
+                "name": "Institute for Human and Machine Cognition",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-23",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Recovering Traceability Links in Requirements Documents",
+        "authors": [
+            "Zeheng Li",
+            "Mingrui Chen",
+            "LiGuo Huang",
+            "Vincent Ng"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1024.pdf",
+        "orgs": [
+            {
+                "name": "University of Texas at Dallas",
+                "country": "USA"
+            },
+            {
+                "name": "Southern Methodist University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-24",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Structural and lexical factors in adjective placement in complex noun phrases across Romance languages",
+        "authors": [
+            "Kristina Gulordava",
+            "Paola Merlo"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1025.pdf",
+        "orgs": [
+            {
+                "name": "University of Geneva",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-25",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Symmetric Pattern Based Word Embeddings for Improved Word Similarity Prediction",
+        "authors": [
+            "Roy Schwartz",
+            "Roi Reichart",
+            "Ari Rappoport"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1026.pdf",
+        "orgs": [
+            {
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
+            },
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-26",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Task-Oriented Learning of Word Embeddings for Semantic Relation Classification",
+        "authors": [
+            "Kazuma Hashimoto",
+            "Pontus Stenetorp",
+            "Makoto Miwa",
+            "Yoshimasa Tsuruoka"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1027.pdf",
+        "orgs": [
+            {
+                "name": "University of Tokyo",
+                "country": "Japan"
+            },
+            {
+                "name": "University College London",
+                "country": "UK"
+            },
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-27",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Temporal Information Extraction from Korean Texts",
+        "authors": [
+            "Young-Seob Jeong",
+            "Zae Myung Kim",
+            "Hyun-Woo Do",
+            "Chae-Gyun Lim",
+            "Ho-Jin Choi"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1028.pdf",
+        "orgs": [
+            {
+                "name": "Korea Advanced Institute of Science and Technology",
+                "country": "South Korea"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-28",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Transition-based Spinal Parsing",
+        "authors": [
+            "Miguel Ballesteros",
+            "Xavier Carreras"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1029.pdf",
+        "orgs": [
+            {
+                "name": "Xerox",
+                "country": "USA"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Barcelona",
+                "country": "Spain"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-29",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Accurate Cross-lingual Projection between Count-based Word Vectors by Exploiting Translatable Context Pairs",
+        "authors": [
+            "Shonosuke Ishiwatari",
+            "Nobuhiro Kaji",
+            "Naoki Yoshinaga",
+            "Masashi Toyoda",
+            "Masaru Kitsuregawa"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1030.pdf",
+        "orgs": [
+            {
+                "name": "National Institute of Informatics",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-30",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Deep Neural Language Models for Machine Translation",
+        "authors": [
+            "Thang Luong",
+            "Michael Kayser",
+            "Christopher D. Manning"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1031.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-31",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Finding Opinion Manipulation Trolls in News Community Forums",
+        "authors": [
+            "Todor Mihaylov",
+            "Georgi Georgiev",
+            "Preslav Nakov"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1032.pdf",
+        "orgs": [
+            {
+                "name": "Sofia University",
+                "country": "Bulgaria"
+            },
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-32",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Do dependency parsing metrics correlate with human judgments?",
+        "authors": [
+            "Barbara Plank",
+            "Héctor Martínez Alonso",
+            "Željko Agić",
+            "Danijela Merkler",
+            "Anders Søgaard"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1033.pdf",
+        "orgs": [
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            },
+            {
+                "name": "University of Zagreb",
+                "country": "Croatia"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-33",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Feature Selection for Short Text Classification using Wavelet Packet Transform",
+        "authors": [
+            "Anuj Mahajan",
+            "Sharmistha Jat",
+            "Shourya Roy"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1034.pdf",
+        "orgs": [
+            {
+                "name": "Xerox",
+                "country": "USA"
+            },
+            {
+                "name": "Indian Institute of Technology",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-34",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Learning Adjective Meanings with a Tensor-Based Skip-Gram Model",
+        "authors": [
+            "Jean Maillard",
+            "Stephen Clark"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1035.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-35",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Model Selection for Type-Supervised Learning with Application to POS Tagging",
+        "authors": [
+            "Kristina Toutanova",
+            "Waleed Ammar",
+            "Pallavi Choudhury",
+            "Hoifung Poon"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1036.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-36",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "One Million Sense-Tagged Instances for Word Sense Disambiguation and Induction",
+        "authors": [
+            "Kaveh Taghipour",
+            "Hwee Tou Ng"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1037.pdf",
+        "orgs": [
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL15-37",
+        "source": "CoNLL15",
+        "source_type": "CoNLL",
+        "year": "2015",
+        "title": "Reading behavior predicts syntactic categories",
+        "authors": [
+            "Maria Barrett",
+            "Anders Søgaard"
+        ],
+        "url": "https://www.aclweb.org/anthology/K15-1038.pdf",
+        "orgs": [
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            }
+        ]
+    }
+]

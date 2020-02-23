@@ -1,0 +1,4013 @@
+[
+    {
+        "id": "NAACL15-0",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Unsupervised Induction of Semantic Roles within a Reconstruction-Error Minimization Framework",
+        "authors": [
+            "Ivan Titov",
+            "Ehsan Khoddam"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1001.pdf",
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-1",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Predicate Argument Alignment using a Global Coherence Model",
+        "authors": [
+            "Travis Wolfe",
+            "Mark Dredze",
+            "Benjamin Van Durme"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1002.pdf",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-2",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Improving unsupervised vector-space thematic fit evaluation via role-filler prototype clustering",
+        "authors": [
+            "Clayton Greenberg",
+            "Asad Sayeed",
+            "Vera Demberg"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1003.pdf",
+        "orgs": [
+            {
+                "name": "Saarland University",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-3",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "A Compositional and Interpretable Semantic Space",
+        "authors": [
+            "Alona Fyshe",
+            "Leila Wehbe",
+            "Partha P. Talukdar",
+            "Brian Murphy",
+            "Tom M. Mitchell"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1004.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Indian Institute of Science",
+                "country": "India"
+            },
+            {
+                "name": "Queen's University Belfast",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-4",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Randomized Greedy Inference for Joint Segmentation, POS Tagging and Dependency Parsing",
+        "authors": [
+            "Yuan Zhang",
+            "Chengtao Li",
+            "Regina Barzilay",
+            "Kareem Darwish"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1005.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-5",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "An Incremental Algorithm for Transition-based CCG Parsing",
+        "authors": [
+            "Bharat Ram Ambati",
+            "Tejaswini Deoskar",
+            "Mark Johnson",
+            "Mark Steedman"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1006.pdf",
+        "orgs": [
+            {
+                "name": "Macquarie University",
+                "country": "Australia"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-6",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Because Syntax Does Matter: Improving Predicate-Argument Structures Parsing with Syntactic Features",
+        "authors": [
+            "Corentin Ribeyre",
+            "Eric Villemonte de la Clergerie",
+            "Djamé Seddah"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1007.pdf",
+        "orgs": [
+            {
+                "name": "Sorbonne University",
+                "country": "France"
+            },
+            {
+                "name": "INRIA",
+                "country": "France"
+            },
+            {
+                "name": "University Paris Diderot",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-7",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "A Hybrid Generative/Discriminative Approach To Citation Prediction",
+        "authors": [
+            "Chris Tanner",
+            "Eugene Charniak"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1008.pdf",
+        "orgs": [
+            {
+                "name": "Brown University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-8",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Weakly Supervised Slot Tagging with Partially Labeled Sequences from Web Search Click Logs",
+        "authors": [
+            "Young-Bum Kim",
+            "Minwoo Jeong",
+            "Karl Stratos",
+            "Ruhi Sarikaya"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1009.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-9",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Not All Character N-grams Are Created Equal: A Study in Authorship Attribution",
+        "authors": [
+            "Upendra Sapkota",
+            "Steven Bethard",
+            "Manuel Montes",
+            "Thamar Solorio"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1010.pdf",
+        "orgs": [
+            {
+                "name": "University of Alabama at Birmingham",
+                "country": "USA"
+            },
+            {
+                "name": "University of Houston",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-10",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Effective Use of Word Order for Text Categorization with Convolutional Neural Networks",
+        "authors": [
+            "Rie Johnson",
+            "Tong Zhang"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1011.pdf",
+        "orgs": [
+            {
+                "name": "RJ Research Consulting",
+                "country": "USA"
+            },
+            {
+                "name": "Rutgers University",
+                "country": "USA"
+            },
+            {
+                "name": "Baidu",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-11",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Transition-Based Syntactic Linearization",
+        "authors": [
+            "Yijia Liu",
+            "Yue Zhang",
+            "Wanxiang Che",
+            "Bing Qin"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1012.pdf",
+        "orgs": [
+            {
+                "name": "Singapore University of Technology and Design",
+                "country": "Singapore"
+            },
+            {
+                "name": "Harbin Institute of Technology",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-12",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Extractive Summarisation Based on Keyword Profile and Language Model",
+        "authors": [
+            "Han Xu",
+            "Eric Martin",
+            "Ashesh Mahidadia"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1013.pdf",
+        "orgs": [
+            {
+                "name": "University of New South Wales",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-13",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "HEADS: Headline Generation as Sequence Prediction Using an Abstract Feature-Rich Space",
+        "authors": [
+            "Carlos A. Colmenares",
+            "Marina Litvak",
+            "Amin Mantrach",
+            "Fabrizio Silvestri"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1014.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Shamoon College of Engineering",
+                "country": "Israel"
+            },
+            {
+                "name": "Yahoo",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-14",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "What’s Cookin’? Interpreting Cooking Videos using Text, Speech and Vision",
+        "authors": [
+            "Jonathan Malmaud",
+            "Jonathan Huang",
+            "Vivek Rathod",
+            "Nicholas Johnston",
+            "Andrew Rabinovich",
+            "Kevin Murphy"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1015.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-15",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Combining Language and Vision with a Multimodal Skip-gram Model",
+        "authors": [
+            "Angeliki Lazaridou",
+            "Nghia The Pham",
+            "Marco Baroni"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1016.pdf",
+        "orgs": [
+            {
+                "name": "University of Trento",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-16",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Discriminative Unsupervised Alignment of Natural Language Instructions with Corresponding Video Segments",
+        "authors": [
+            "Iftekhar Naim",
+            "Young C. Song",
+            "Qiguang Liu",
+            "Liang Huang",
+            "Henry Kautz",
+            "Jiebo Luo",
+            "Daniel Gildea"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1017.pdf",
+        "orgs": [
+            {
+                "name": "University of Rochester",
+                "country": "USA"
+            },
+            {
+                "name": "Queens College",
+                "country": "USA"
+            },
+            {
+                "name": "City University of New York",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-17",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "TopicCheck: Interactive Alignment for Assessing Topic Model Stability",
+        "authors": [
+            "Jason Chuang",
+            "Margaret E. Roberts",
+            "Brandon M. Stewart",
+            "Rebecca Weiss",
+            "Dustin Tingley",
+            "Justin Grimmer",
+            "Jeffrey Heer"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1018.pdf",
+        "orgs": [
+            {
+                "name": "Harvard University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Harvard University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-18",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Inferring latent attributes of Twitter users with label regularization",
+        "authors": [
+            "Ehsan Mohammady Ardehaly",
+            "Aron Culotta"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1019.pdf",
+        "orgs": [
+            {
+                "name": "Illinois Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-19",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "A Neural Network Approach to Context-Sensitive Generation of Conversational Responses",
+        "authors": [
+            "Alessandro Sordoni",
+            "Michel Galley",
+            "Michael Auli",
+            "Chris Brockett",
+            "Yangfeng Ji",
+            "Margaret Mitchell",
+            "Jian-Yun Nie",
+            "Jianfeng Gao",
+            "Bill Dolan"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1020.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-20",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "How to Make a Frenemy: Multitape FSTs for Portmanteau Generation",
+        "authors": [
+            "Aliya Deri",
+            "Kevin Knight"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1021.pdf",
+        "orgs": [
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            },
+            {
+                "name": "Information Sciences Institute",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-21",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Aligning Sentences from Standard Wikipedia to Simple Wikipedia",
+        "authors": [
+            "William Hwang",
+            "Hannaneh Hajishirzi",
+            "Mari Ostendorf",
+            "Wei Wu"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1022.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-22",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Inducing Lexical Style Properties for Paraphrase and Genre Differentiation",
+        "authors": [
+            "Ellie Pavlick",
+            "Ani Nenkova"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1023.pdf",
+        "orgs": [
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-23",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Entity Linking for Spoken Language",
+        "authors": [
+            "Adrian Benton",
+            "Mark Dredze"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1024.pdf",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-24",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Spinning Straw into Gold: Using Free Text to Train Monolingual Alignment Models for Non-factoid Question Answering",
+        "authors": [
+            "Rebecca Sharp",
+            "Peter Jansen",
+            "Mihai Surdeanu",
+            "Peter Clark"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1025.pdf",
+        "orgs": [
+            {
+                "name": "University of Arizona",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-25",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Personalized Page Rank for Named Entity Disambiguation",
+        "authors": [
+            "Maria Pershina",
+            "Yifan He",
+            "Ralph Grishman"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1026.pdf",
+        "orgs": [
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-26",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "When and why are log-linear models self-normalizing?",
+        "authors": [
+            "Jacob Andreas",
+            "Dan Klein"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1027.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-27",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Deep Multilingual Correlation for Improved Word Embeddings",
+        "authors": [
+            "Ang Lu",
+            "Weiran Wang",
+            "Mohit Bansal",
+            "Kevin Gimpel",
+            "Karen Livescu"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1028.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            },
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-28",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Disfluency Detection with a Semi-Markov Model and Prosodic Features",
+        "authors": [
+            "James Ferguson",
+            "Greg Durrett",
+            "Dan Klein"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1029.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-29",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Empty Category Detection With Joint Context-Label Embeddings",
+        "authors": [
+            "Xun Wang",
+            "Katsuhito Sudoh",
+            "Masaaki Nagata"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1030.pdf",
+        "orgs": [
+            {
+                "name": "NTT Corporation",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-30",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Incrementally Tracking Reference in Human/Human Dialogue Using Linguistic and Extra-Linguistic Information",
+        "authors": [
+            "Casey Kennington",
+            "Ryu Iida",
+            "Takenobu Tokunaga",
+            "David Schlangen"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1031.pdf",
+        "orgs": [
+            {
+                "name": "Bielefeld University",
+                "country": "Germany"
+            },
+            {
+                "name": "Tokyo Institute of Technology",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-31",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Digital Leafleting: Extracting Structured Data from Multimedia Online Flyers",
+        "authors": [
+            "Emilia Apostolova",
+            "Payam Pourashraf",
+            "Jeffrey Sack"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1032.pdf",
+        "orgs": [
+            {
+                "name": "DePaul University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-32",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Multi-Target Machine Translation with Multi-Synchronous Context-free Grammars",
+        "authors": [
+            "Graham Neubig",
+            "Philip Arthur",
+            "Kevin Duh"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1033.pdf",
+        "orgs": [
+            {
+                "name": "Nara Institute of Science and Technology",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-33",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Sign constraints on feature weights improve a joint model of word segmentation and phonology",
+        "authors": [
+            "Mark Johnson",
+            "Joe Pater",
+            "Robert Staubs",
+            "Emmanuel Dupoux"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1034.pdf",
+        "orgs": [
+            {
+                "name": "UMass Amherst",
+                "country": "USA"
+            },
+            {
+                "name": "Macquarie University",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-34",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Semi-Supervised Word Sense Disambiguation Using Word Embeddings in General and Specific Domains",
+        "authors": [
+            "Kaveh Taghipour",
+            "Hwee Tou Ng"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1035.pdf",
+        "orgs": [
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-35",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Continuous Space Representations of Linguistic Typology and their Application to Phylogenetic Inference",
+        "authors": [
+            "Yugo Murawaki"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1036.pdf",
+        "orgs": [
+            {
+                "name": "Kyushu University",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-36",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Interpreting Compound Noun Phrases Using Web Search Queries",
+        "authors": [
+            "Marius Paşca"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1037.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-37",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Lexicon-Free Conversational Speech Recognition with Neural Networks",
+        "authors": [
+            "Andrew Maas",
+            "Ziang Xie",
+            "Dan Jurafsky",
+            "Andrew Ng"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1038.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-38",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "I Can Has Cheezburger? A Nonparanormal Approach to Combining Textual and Visual Information for Predicting and Generating Popular Meme Descriptions",
+        "authors": [
+            "William Yang Wang",
+            "Miaomiao Wen"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1039.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-39",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "A Transition-based Algorithm for AMR Parsing",
+        "authors": [
+            "Chuan Wang",
+            "Nianwen Xue",
+            "Sameer Pradhan"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1040.pdf",
+        "orgs": [
+            {
+                "name": "Harvard University",
+                "country": "USA"
+            },
+            {
+                "name": "Brandeis University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-40",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "The Geometry of Statistical Machine Translation",
+        "authors": [
+            "Aurelien Waite",
+            "Bill Byrne"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1041.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-41",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Data-driven sentence generation with non-isomorphic trees",
+        "authors": [
+            "Miguel Ballesteros",
+            "Bernd Bohnet",
+            "Simon Mille",
+            "Leo Wanner"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1042.pdf",
+        "orgs": [
+            {
+                "name": "Catalan Institute for Research and Advanced Studies",
+                "country": "Spain"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "University of Barcelona",
+                "country": "Spain"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-42",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Latent Domain Word Alignment for Heterogeneous Corpora",
+        "authors": [
+            "Hoang Cuong",
+            "Khalil Sima’an"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1043.pdf",
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-43",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Extracting Human Temporal Orientation from Facebook Language",
+        "authors": [
+            "H. Andrew Schwartz",
+            "Gregory Park",
+            "Maarten Sap",
+            "Evan Weingarten",
+            "Johannes Eichstaedt",
+            "Margaret Kern",
+            "David Stillwell",
+            "Michal Kosinski",
+            "Jonah Berger",
+            "Martin Seligman",
+            "Lyle Ungar"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1044.pdf",
+        "orgs": [
+            {
+                "name": "University of Melbourne",
+                "country": "Australia"
+            },
+            {
+                "name": "Stony Brook University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-44",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "An In-depth Analysis of the Effect of Text Normalization in Social Media",
+        "authors": [
+            "Tyler Baldwin",
+            "Yunyao Li"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1045.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-45",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Using Summarization to Discover Argument Facets in Online Idealogical Dialog",
+        "authors": [
+            "Amita Misra",
+            "Pranav Anand",
+            "Jean E. Fox Tree",
+            "Marilyn Walker"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1046.pdf",
+        "orgs": [
+            {
+                "name": "UC Santa Cruz",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-46",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Active Learning with Rationales for Text Classification",
+        "authors": [
+            "Manali Sharma",
+            "Di Zhuang",
+            "Mustafa Bilgic"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1047.pdf",
+        "orgs": [
+            {
+                "name": "Illinois Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-47",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Inferring Temporally-Anchored Spatial Knowledge from Semantic Roles",
+        "authors": [
+            "Eduardo Blanco",
+            "Alakananda Vempala"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1048.pdf",
+        "orgs": [
+            {
+                "name": "University of North Texas",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-48",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "A Dynamic Programming Algorithm for Tree Trimming-based Text Summarization",
+        "authors": [
+            "Masaaki Nishino",
+            "Norihito Yasuda",
+            "Tsutomu Hirao",
+            "Shin-ichi Minato",
+            "Masaaki Nagata"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1049.pdf",
+        "orgs": [
+            {
+                "name": "NTT Corporation",
+                "country": "Japan"
+            },
+            {
+                "name": "NTT Corporation",
+                "country": "Japan"
+            },
+            {
+                "name": "Hokkaido University",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-49",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Modeling Word Meaning in Context with Substitute Vectors",
+        "authors": [
+            "Oren Melamud",
+            "Ido Dagan",
+            "Jacob Goldberger"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1050.pdf",
+        "orgs": [
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-50",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Corpus-based discovery of semantic intensity scales",
+        "authors": [
+            "Chaitanya Shivade",
+            "Marie-Catherine de Marneffe",
+            "Eric Fosler-Lussier",
+            "Albert M. Lai"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1051.pdf",
+        "orgs": [
+            {
+                "name": "The Ohio State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-51",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Dialogue focus tracking for zero pronoun resolution",
+        "authors": [
+            "Sudha Rao",
+            "Allyson Ettinger",
+            "Hal Daumé III",
+            "Philip Resnik"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1052.pdf",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-52",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Déjà Image-Captions: A Corpus of Expressive Descriptions in Repetition",
+        "authors": [
+            "Jianfu Chen",
+            "Polina Kuznetsova",
+            "David Warren",
+            "Yejin Choi"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1053.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Stony Brook University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-53",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Inferring Missing Entity Type Instances for Knowledge Base Completion: New Dataset and Methods",
+        "authors": [
+            "Arvind Neelakantan",
+            "Ming-Wei Chang"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1054.pdf",
+        "orgs": [
+            {
+                "name": "UMass Amherst",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-54",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Robust Morphological Tagging with Word Representations",
+        "authors": [
+            "Thomas Müller",
+            "Hinrich Schuetze"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1055.pdf",
+        "orgs": [
+            {
+                "name": "University of Munich",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-55",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "English orthography is not “close to optimal”",
+        "authors": [
+            "Garrett Nicolai",
+            "Grzegorz Kondrak"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1056.pdf",
+        "orgs": [
+            {
+                "name": "University of Alberta",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-56",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "LCCT: A Semi-supervised Model for Sentiment Classification",
+        "authors": [
+            "Min Yang",
+            "Wenting Tu",
+            "Ziyu Lu",
+            "Wenpeng Yin",
+            "Kam-Pui Chow"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1057.pdf",
+        "orgs": [
+            {
+                "name": "University of Munich",
+                "country": "Germany"
+            },
+            {
+                "name": "University of Hong Kong",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-57",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Multiview LSA: Representation Learning via Generalized CCA",
+        "authors": [
+            "Pushpendre Rastogi",
+            "Benjamin Van Durme",
+            "Raman Arora"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1058.pdf",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-58",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "NASARI: a Novel Approach to a Semantically-Aware Representation of Items",
+        "authors": [
+            "José Camacho-Collados",
+            "Mohammad Taher Pilehvar",
+            "Roberto Navigli"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1059.pdf",
+        "orgs": [
+            {
+                "name": "Sapienza University of Rome",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-59",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Towards a standard evaluation method for grammatical error detection and correction",
+        "authors": [
+            "Mariano Felice",
+            "Ted Briscoe"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1060.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-60",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Using Zero-Resource Spoken Term Discovery for Ranked Retrieval",
+        "authors": [
+            "Jerome White",
+            "Douglas Oard",
+            "Aren Jansen",
+            "Jiaul Paik",
+            "Rashmi Sankepally"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1061.pdf",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-61",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Constraint-Based Models of Lexical Borrowing",
+        "authors": [
+            "Yulia Tsvetkov",
+            "Waleed Ammar",
+            "Chris Dyer"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1062.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-62",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Model Invertibility Regularization: Sequence Alignment With or Without Parallel Data",
+        "authors": [
+            "Tomer Levinboim",
+            "Ashish Vaswani",
+            "David Chiang"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1063.pdf",
+        "orgs": [
+            {
+                "name": "University of Notre Dame",
+                "country": "USA"
+            },
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            },
+            {
+                "name": "Information Sciences Institute",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-63",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Jointly Modeling Inter-Slot Relations by Random Walk on Knowledge Graphs for Unsupervised Spoken Language Understanding",
+        "authors": [
+            "Yun-Nung Chen",
+            "William Yang Wang",
+            "Alexander Rudnicky"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1064.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-64",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Expanding Paraphrase Lexicons by Exploiting Lexical Variants",
+        "authors": [
+            "Atsushi Fujita",
+            "Pierre Isabelle"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1065.pdf",
+        "orgs": [
+            {
+                "name": "National Research Council Canada",
+                "country": "Canada"
+            },
+            {
+                "name": "National Institute of Information",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-65",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Diamonds in the Rough: Event Extraction from Imperfect Microblog Data",
+        "authors": [
+            "Ander Intxaurrondo",
+            "Eneko Agirre",
+            "Oier Lopez de Lacalle",
+            "Mihai Surdeanu"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1066.pdf",
+        "orgs": [
+            {
+                "name": "University of Arizona",
+                "country": "USA"
+            },
+            {
+                "name": "University of the Basque Country",
+                "country": "Spain"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-66",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Unsupervised Dependency Parsing: Let’s Use Supervised Parsers",
+        "authors": [
+            "Phong Le",
+            "Willem Zuidema"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1067.pdf",
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-67",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "A Linear-Time Transition System for Crossing Interval Trees",
+        "authors": [
+            "Emily Pitler",
+            "Ryan McDonald"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1068.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-68",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Unsupervised Multi-Domain Adaptation with Feature Embeddings",
+        "authors": [
+            "Yi Yang",
+            "Jacob Eisenstein"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1069.pdf",
+        "orgs": [
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-69",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Ontologically Grounded Multi-sense Representation Learning for Semantic Vector Space Models",
+        "authors": [
+            "Sujay Kumar Jauhar",
+            "Chris Dyer",
+            "Eduard Hovy"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1070.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-70",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Subsentential Sentiment on a Shoestring: A Crosslingual Analysis of Compositional Classification",
+        "authors": [
+            "Michael Haas",
+            "Yannick Versley"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1071.pdf",
+        "orgs": [
+            {
+                "name": "University of Heidelberg",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-71",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Cost Optimization in Crowdsourcing Translation: Low cost translations made even cheaper",
+        "authors": [
+            "Mingkun Gao",
+            "Wei Xu",
+            "Chris Callison-Burch"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1072.pdf",
+        "orgs": [
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-72",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Multitask Learning for Adaptive Quality Estimation of Automatically Transcribed Utterances",
+        "authors": [
+            "José G. C. de Souza",
+            "Hamed Zamani",
+            "Matteo Negri",
+            "Marco Turchi",
+            "Daniele Falavigna"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1073.pdf",
+        "orgs": [
+            {
+                "name": "University of Tehran",
+                "country": "Iran"
+            },
+            {
+                "name": "University of Trento",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-73",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Incorporating Word Correlation Knowledge into Topic Modeling",
+        "authors": [
+            "Pengtao Xie",
+            "Diyi Yang",
+            "Eric Xing"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1074.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-74",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "The Unreasonable Effectiveness of Word Representations for Twitter Named Entity Recognition",
+        "authors": [
+            "Colin Cherry",
+            "Hongyu Guo"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1075.pdf",
+        "orgs": [
+            {
+                "name": "National Research Council Canada",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-75",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Is Your Anchor Going Up or Down? Fast and Accurate Supervised Topic Models",
+        "authors": [
+            "Thang Nguyen",
+            "Jordan Boyd-Graber",
+            "Jeffrey Lund",
+            "Kevin Seppi",
+            "Eric Ringger"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1076.pdf",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            },
+            {
+                "name": "University of Colorado Boulder",
+                "country": "USA"
+            },
+            {
+                "name": "Brigham Young University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-76",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Grounded Semantic Parsing for Complex Knowledge Extraction",
+        "authors": [
+            "Ankur P. Parikh",
+            "Hoifung Poon",
+            "Kristina Toutanova"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1077.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-77",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Sentiment after Translation: A Case-Study on Arabic Social Media Posts",
+        "authors": [
+            "Mohammad Salameh",
+            "Saif Mohammad",
+            "Svetlana Kiritchenko"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1078.pdf",
+        "orgs": [
+            {
+                "name": "University of Alberta",
+                "country": "Canada"
+            },
+            {
+                "name": "National Research Council Canada",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-78",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Using External Resources and Joint Learning for Bigram Weighting in ILP-Based Multi-Document Summarization",
+        "authors": [
+            "Chen Li",
+            "Yang Liu",
+            "Lin Zhao"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1079.pdf",
+        "orgs": [
+            {
+                "name": "University of Texas at Dallas",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-79",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Transforming Dependencies into Phrase Structures",
+        "authors": [
+            "Lingpeng Kong",
+            "Alexander M. Rush",
+            "Noah A. Smith"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1080.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-80",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Improving the Inference of Implicit Discourse Relations via Classifying Explicit Discourse Connectives",
+        "authors": [
+            "Attapol Rutherford",
+            "Nianwen Xue"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1081.pdf",
+        "orgs": [
+            {
+                "name": "Brandeis University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-81",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Solving Hard Coreference Problems",
+        "authors": [
+            "Haoruo Peng",
+            "Daniel Khashabi",
+            "Dan Roth"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1082.pdf",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-82",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Pragmatic Neural Language Modelling in Machine Translation",
+        "authors": [
+            "Paul Baltescu",
+            "Phil Blunsom"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1083.pdf",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            },
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-83",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Key Female Characters in Film Have More to Talk About Besides Men: Automating the Bechdel Test",
+        "authors": [
+            "Apoorv Agarwal",
+            "Jiehan Zheng",
+            "Shruti Kamath",
+            "Sriramkumar Balasubramanian",
+            "Shirin Ann Dey"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1084.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "Duke University",
+                "country": "USA"
+            },
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            },
+            {
+                "name": "Trinity College",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-84",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Semantic Grounding in Dialogue for Complex Problem Solving",
+        "authors": [
+            "Xiaolong Li",
+            "Kristy Boyer"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1085.pdf",
+        "orgs": [
+            {
+                "name": "North Carolina State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-85",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Learning Knowledge Graphs for Question Answering through Conversational Dialog",
+        "authors": [
+            "Ben Hixon",
+            "Peter Clark",
+            "Hannaneh Hajishirzi"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1086.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-86",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Sentence segmentation of aphasic speech",
+        "authors": [
+            "Kathleen C. Fraser",
+            "Naama Ben-David",
+            "Graeme Hirst",
+            "Naida Graham",
+            "Elizabeth Rochon"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1087.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-87",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Semantic parsing of speech using grammars learned with weak supervision",
+        "authors": [
+            "Judith Gaspers",
+            "Philipp Cimiano",
+            "Britta Wrede"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1088.pdf",
+        "orgs": [
+            {
+                "name": "Bielefeld University",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-88",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Early Gains Matter: A Case for Preferring Generative over Discriminative Crowdsourcing Models",
+        "authors": [
+            "Paul Felt",
+            "Kevin Black",
+            "Eric Ringger",
+            "Kevin Seppi",
+            "Robbie Haertel"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1089.pdf",
+        "orgs": [
+            {
+                "name": "Brigham Young University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-89",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Optimizing Multivariate Performance Measures for Learning Relation Extraction Models",
+        "authors": [
+            "Gholamreza Haffari",
+            "Ajay Nagesh",
+            "Ganesh Ramakrishnan"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1090.pdf",
+        "orgs": [
+            {
+                "name": "Monash University",
+                "country": "Australia"
+            },
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            },
+            {
+                "name": "IITB Monash Research Academy",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-90",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Convolutional Neural Network for Paraphrase Identification",
+        "authors": [
+            "Wenpeng Yin",
+            "Hinrich Schütze"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1091.pdf",
+        "orgs": [
+            {
+                "name": "University of Munich",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-91",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Representation Learning Using Multi-Task Deep Neural Networks for Semantic Classification and Information Retrieval",
+        "authors": [
+            "Xiaodong Liu",
+            "Jianfeng Gao",
+            "Xiaodong He",
+            "Li Deng",
+            "Kevin Duh",
+            "Ye-yi Wang"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1092.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Nara Institute of Science and Technology",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-92",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Inflection Generation as Discriminative String Transduction",
+        "authors": [
+            "Garrett Nicolai",
+            "Colin Cherry",
+            "Grzegorz Kondrak"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1093.pdf",
+        "orgs": [
+            {
+                "name": "University of Alberta",
+                "country": "Canada"
+            },
+            {
+                "name": "National Research Council Canada",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-93",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Penalized Expectation Propagation for Graphical Models over Strings",
+        "authors": [
+            "Ryan Cotterell",
+            "Jason Eisner"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1094.pdf",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-94",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Joint Generation of Transliterations from Multiple Representations",
+        "authors": [
+            "Lei Yao",
+            "Grzegorz Kondrak"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1095.pdf",
+        "orgs": [
+            {
+                "name": "University of Alberta",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-95",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Prosodic boundary information helps unsupervised word segmentation",
+        "authors": [
+            "Bogdan Ludusan",
+            "Gabriel Synnaeve",
+            "Emmanuel Dupoux"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1096.pdf",
+        "orgs": []
+    },
+    {
+        "id": "NAACL15-96",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "So similar and yet incompatible: Toward the automated identification of semantically compatible words",
+        "authors": [
+            "Germán Kruszewski",
+            "Marco Baroni"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1097.pdf",
+        "orgs": [
+            {
+                "name": "University of Trento",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-97",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Do Supervised Distributional Methods Really Learn Lexical Inference Relations?",
+        "authors": [
+            "Omer Levy",
+            "Steffen Remus",
+            "Chris Biemann",
+            "Ido Dagan"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1098.pdf",
+        "orgs": [
+            {
+                "name": "Technische Universität Darmstadt",
+                "country": "Germany"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-98",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "A Word Embedding Approach to Predicting the Compositionality of Multiword Expressions",
+        "authors": [
+            "Bahar Salehi",
+            "Paul Cook",
+            "Timothy Baldwin"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1099.pdf",
+        "orgs": [
+            {
+                "name": "University of New Brunswick",
+                "country": "Canada"
+            },
+            {
+                "name": "NICTA Victoria Research Laboratory",
+                "country": "Australia"
+            },
+            {
+                "name": "University of Melbourne",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-99",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Word Embedding-based Antonym Detection using Thesauri and Distributional Information",
+        "authors": [
+            "Masataka Ono",
+            "Makoto Miwa",
+            "Yutaka Sasaki"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1100.pdf",
+        "orgs": [
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-100",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "A Comparison of Word Similarity Performance Using Explanatory and Non-explanatory Texts",
+        "authors": [
+            "Lifeng Jin",
+            "William Schuler"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1101.pdf",
+        "orgs": [
+            {
+                "name": "The Ohio State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-101",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Morphological Modeling for Machine Translation of English-Iraqi Arabic Spoken Dialogs",
+        "authors": [
+            "Katrin Kirchhoff",
+            "Yik-Cheung Tam",
+            "Colleen Richey",
+            "Wen Wang"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1102.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-102",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Continuous Adaptation to User Feedback for Statistical Machine Translation",
+        "authors": [
+            "Frédéric Blain",
+            "Fethi Bougares",
+            "Amir Hazem",
+            "Loïc Barrault",
+            "Holger Schwenk"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1103.pdf",
+        "orgs": [
+            {
+                "name": "Le Mans University",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-103",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Normalized Word Embedding and Orthogonal Transform for Bilingual Word Translation",
+        "authors": [
+            "Chao Xing",
+            "Dong Wang",
+            "Chao Liu",
+            "Yiye Lin"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1104.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            },
+            {
+                "name": "Beijing Institute of Technology",
+                "country": "China"
+            },
+            {
+                "name": "Beijing Jiaotong University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-104",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Fast and Accurate Preordering for SMT using Neural Networks",
+        "authors": [
+            "Adrià de Gispert",
+            "Gonzalo Iglesias",
+            "Bill Byrne"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1105.pdf",
+        "orgs": [
+            {
+                "name": "SDL Research",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-105",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "APRO: All-Pairs Ranking Optimization for MT Tuning",
+        "authors": [
+            "Markus Dreyer",
+            "Yuanzhe Dong"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1106.pdf",
+        "orgs": [
+            {
+                "name": "SDL Research",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-106",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Paradigm classification in supervised learning of morphology",
+        "authors": [
+            "Malin Ahlberg",
+            "Markus Forsberg",
+            "Mans Hulden"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1107.pdf",
+        "orgs": [
+            {
+                "name": "University of Gothenburg",
+                "country": "Sweden"
+            },
+            {
+                "name": "University of Colorado Boulder",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-107",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Shift-Reduce Constituency Parsing with Dynamic Programming and POS Tag Lattice",
+        "authors": [
+            "Haitao Mi",
+            "Liang Huang"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1108.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Queens College",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "City University of New York",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-108",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Unsupervised Code-Switching for Multilingual Historical Document Transcription",
+        "authors": [
+            "Dan Garrette",
+            "Hannah Alpert-Abrams",
+            "Taylor Berg-Kirkpatrick",
+            "Dan Klein"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1109.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-109",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Matching Citation Text and Cited Spans in Biomedical Literature: a Search-Oriented Approach",
+        "authors": [
+            "Arman Cohan",
+            "Luca Soldaini",
+            "Nazli Goharian"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1110.pdf",
+        "orgs": [
+            {
+                "name": "Georgetown University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-110",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Effective Feature Integration for Automated Short Answer Scoring",
+        "authors": [
+            "Keisuke Sakaguchi",
+            "Michael Heilman",
+            "Nitin Madnani"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1111.pdf",
+        "orgs": [
+            {
+                "name": "Educational Testing Service",
+                "country": "USA"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-111",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Socially-Informed Timeline Generation for Complex Events",
+        "authors": [
+            "Lu Wang",
+            "Claire Cardie",
+            "Galen Marchetti"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1112.pdf",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-112",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Movie Script Summarization as Graph-based Scene Extraction",
+        "authors": [
+            "Philip John Gorinski",
+            "Mirella Lapata"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1113.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-113",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Toward Abstractive Summarization Using Semantic Representations",
+        "authors": [
+            "Fei Liu",
+            "Jeffrey Flanigan",
+            "Sam Thomson",
+            "Norman Sadeh",
+            "Noah A. Smith"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1114.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-114",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Encoding World Knowledge in the Evaluation of Local Coherence",
+        "authors": [
+            "Muyu Zhang",
+            "Vanessa Wei Feng",
+            "Bing Qin",
+            "Graeme Hirst",
+            "Ting Liu",
+            "Jingwen Huang"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1115.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            },
+            {
+                "name": "Harbin Institute of Technology",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-115",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Chinese Event Coreference Resolution: An Unsupervised Probabilistic Model Rivaling Supervised Resolvers",
+        "authors": [
+            "Chen Chen",
+            "Vincent Ng"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1116.pdf",
+        "orgs": [
+            {
+                "name": "University of Texas at Dallas",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-116",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Removing the Training Wheels: A Coreference Dataset that Entertains Humans and Challenges Computers",
+        "authors": [
+            "Anupam Guha",
+            "Mohit Iyyer",
+            "Danny Bouman",
+            "Jordan Boyd-Graber"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1117.pdf",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            },
+            {
+                "name": "University of Colorado",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-117",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Injecting Logical Background Knowledge into Embeddings for Relation Extraction",
+        "authors": [
+            "Tim Rocktäschel",
+            "Sameer Singh",
+            "Sebastian Riedel"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1118.pdf",
+        "orgs": [
+            {
+                "name": "University College London",
+                "country": "UK"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-118",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Unsupervised Entity Linking with Abstract Meaning Representation",
+        "authors": [
+            "Xiaoman Pan",
+            "Taylor Cassidy",
+            "Ulf Hermjakob",
+            "Heng Ji",
+            "Kevin Knight"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1119.pdf",
+        "orgs": [
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            },
+            {
+                "name": "Rensselaer Polytechnic Institute",
+                "country": "USA"
+            },
+            {
+                "name": "Information Sciences Institute",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-119",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Idest: Learning a Distributed Representation for Event Patterns",
+        "authors": [
+            "Sebastian Krause",
+            "Enrique Alfonseca",
+            "Katja Filippova",
+            "Daniele Pighin"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1120.pdf",
+        "orgs": [
+            {
+                "name": "DFKI",
+                "country": "Germany"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-120",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "High-Order Low-Rank Tensors for Semantic Role Labeling",
+        "authors": [
+            "Tao Lei",
+            "Yuan Zhang",
+            "Lluís Màrquez",
+            "Alessandro Moschitti",
+            "Regina Barzilay"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1121.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-121",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Lexical Event Ordering with an Edge-Factored Model",
+        "authors": [
+            "Omri Abend",
+            "Shay B. Cohen",
+            "Mark Steedman"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1122.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-122",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Bag-of-Words Forced Decoding for Cross-Lingual Information Retrieval",
+        "authors": [
+            "Felix Hieber",
+            "Stefan Riezler"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1123.pdf",
+        "orgs": [
+            {
+                "name": "University of Heidelberg",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-123",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Accurate Evaluation of Segment-level Machine Translation Metrics",
+        "authors": [
+            "Yvette Graham",
+            "Timothy Baldwin",
+            "Nitika Mathur"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1124.pdf",
+        "orgs": [
+            {
+                "name": "Trinity College Dublin",
+                "country": "Ireland"
+            },
+            {
+                "name": "University of Melbourne",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-124",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Leveraging Small Multilingual Corpora for SMT Using Many Pivot Languages",
+        "authors": [
+            "Raj Dabre",
+            "Fabien Cromieres",
+            "Sadao Kurohashi",
+            "Pushpak Bhattacharyya"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1125.pdf",
+        "orgs": [
+            {
+                "name": "Kyoto University",
+                "country": "Japan"
+            },
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-125",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Why Read if You Can Scan? Trigger Scoping Strategy for Biographical Fact Extraction",
+        "authors": [
+            "Dian Yu",
+            "Heng Ji",
+            "Sujian Li",
+            "Chin-Yew Lin"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1126.pdf",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            },
+            {
+                "name": "Rensselaer Polytechnic Institute",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-126",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Lachmannian Archetype Reconstruction for Ancient Manuscript Corpora",
+        "authors": [
+            "Armin Hoenen"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1127.pdf",
+        "orgs": [
+            {
+                "name": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-127",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Distributed Representations of Words to Guide Bootstrapped Entity Classifiers",
+        "authors": [
+            "Sonal Gupta",
+            "Christopher D. Manning"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1128.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-128",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Multi-Task Word Alignment Triangulation for Low-Resource Languages",
+        "authors": [
+            "Tomer Levinboim",
+            "David Chiang"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1129.pdf",
+        "orgs": [
+            {
+                "name": "University of Notre Dame",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-129",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Automatic cognate identification with gap-weighted string subsequences.",
+        "authors": [
+            "Taraka Rama"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1130.pdf",
+        "orgs": [
+            {
+                "name": "University of Gothenburg",
+                "country": "Sweden"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-130",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Short Text Understanding by Leveraging Knowledge into Topic Model",
+        "authors": [
+            "Shansong Yang",
+            "Weiming Lu",
+            "Dezhi Yang",
+            "Liang Yao",
+            "Baogang Wei"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1131.pdf",
+        "orgs": [
+            {
+                "name": "Zhejiang University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-131",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Unsupervised Most Frequent Sense Detection using Word Embeddings",
+        "authors": [
+            "Sudha Bhingardive",
+            "Dhirendra Singh",
+            "Rudramurthy V",
+            "Hanumant Redkar",
+            "Pushpak Bhattacharyya"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1132.pdf",
+        "orgs": [
+            {
+                "name": "Indian Institute of Technology Bombay",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-132",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Chain Based RNN for Relation Classification",
+        "authors": [
+            "Javid Ebrahimi",
+            "Dejing Dou"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1133.pdf",
+        "orgs": [
+            {
+                "name": "University of Oregon",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-133",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "LR Parsing for LCFRS",
+        "authors": [
+            "Laura Kallmeyer",
+            "Wolfgang Maier"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1134.pdf",
+        "orgs": [
+            {
+                "name": "University of Düsseldorf",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-134",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Mining for unambiguous instances to adapt part-of-speech taggers to new domains",
+        "authors": [
+            "Dirk Hovy",
+            "Barbara Plank",
+            "Héctor Martínez Alonso",
+            "Anders Søgaard"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1135.pdf",
+        "orgs": [
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-135",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Clustering Sentences with Density Peaks for Multi-document Summarization",
+        "authors": [
+            "Yang Zhang",
+            "Yunqing Xia",
+            "Yi Liu",
+            "Wenmin Wang"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1136.pdf",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-136",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Development of the Multilingual Semantic Annotation System",
+        "authors": [
+            "Scott Piao",
+            "Francesca Bianchi",
+            "Carmen Dayrell",
+            "Angela D’Egidio",
+            "Paul Rayson"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1137.pdf",
+        "orgs": [
+            {
+                "name": "Lancaster University",
+                "country": "UK"
+            },
+            {
+                "name": "University of Salento",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-137",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Unsupervised Sparse Vector Densification for Short Text Similarity",
+        "authors": [
+            "Yangqiu Song",
+            "Dan Roth"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1138.pdf",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-138",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "#WhyIStayed, #WhyILeft: Microblogging to Make Sense of Domestic Abuse",
+        "authors": [
+            "Nicolas Schrading",
+            "Cecilia Ovesdotter Alm",
+            "Raymond Ptucha",
+            "Christopher Homan"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1139.pdf",
+        "orgs": [
+            {
+                "name": "Golisano College of Computing and Information Sciences",
+                "country": "USA"
+            },
+            {
+                "name": "Kate Gleason College of Engineering",
+                "country": "USA"
+            },
+            {
+                "name": "Rochester Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-139",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Morphological Word-Embeddings",
+        "authors": [
+            "Ryan Cotterell",
+            "Hinrich Schütze"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1140.pdf",
+        "orgs": [
+            {
+                "name": "University of Munich",
+                "country": "Germany"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-140",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Recognizing Social Constructs from Textual Conversation",
+        "authors": [
+            "Somak Aditya",
+            "Chitta Baral",
+            "Nguyen Ha Vo",
+            "Joohyung Lee",
+            "Jieping Ye",
+            "Zaw Naung",
+            "Barry Lumpkin",
+            "Jenny Hastings",
+            "Richard Scherl",
+            "Dawn M. Sweet",
+            "Daniela Inclezan"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1141.pdf",
+        "orgs": [
+            {
+                "name": "Arizona State University",
+                "country": "USA"
+            },
+            {
+                "name": "Miami University[11]",
+                "country": "USA"
+            },
+            {
+                "name": "Monmouth University",
+                "country": "USA"
+            },
+            {
+                "name": "Iowa State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-141",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Two/Too Simple Adaptations of Word2Vec for Syntax Problems",
+        "authors": [
+            "Wang Ling",
+            "Chris Dyer",
+            "Alan W. Black",
+            "Isabel Trancoso"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1142.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-142",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Estimating Numerical Attributes by Bringing Together Fragmentary Clues",
+        "authors": [
+            "Hiroya Takamura",
+            "Jun’ichi Tsujii"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1143.pdf",
+        "orgs": [
+            {
+                "name": "Tokyo Institute of Technology",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-143",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Unsupervised POS Induction with Word Embeddings",
+        "authors": [
+            "Chu-Cheng Lin",
+            "Waleed Ammar",
+            "Chris Dyer",
+            "Lori Levin"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1144.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-144",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Improving Update Summarization via Supervised ILP and Sentence Reranking",
+        "authors": [
+            "Chen Li",
+            "Yang Liu",
+            "Lin Zhao"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1145.pdf",
+        "orgs": [
+            {
+                "name": "University of Texas at Dallas",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-145",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "MPQA 3.0: An Entity/Event-Level Sentiment Corpus",
+        "authors": [
+            "Lingjia Deng",
+            "Janyce Wiebe"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1146.pdf",
+        "orgs": [
+            {
+                "name": "University of Pittsburgh",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-146",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Everyone Likes Shopping! Multi-class Product Categorization for e-Commerce",
+        "authors": [
+            "Zornitsa Kozareva"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1147.pdf",
+        "orgs": [
+            {
+                "name": "Yahoo",
+                "country": "USA"
+            },
+            {
+                "name": "Yahoo",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-147",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "GPU-Friendly Local Regression for Voice Conversion",
+        "authors": [
+            "Taylor Berg-Kirkpatrick",
+            "Dan Klein"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1148.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-148",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Response-based Learning for Machine Translation of Open-domain Database Queries",
+        "authors": [
+            "Carolin Haas",
+            "Stefan Riezler"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1149.pdf",
+        "orgs": [
+            {
+                "name": "University of Heidelberg",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-149",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Context-Dependent Automatic Response Generation Using Statistical Machine Translation Techniques",
+        "authors": [
+            "Andrew Shin",
+            "Ryohei Sasano",
+            "Hiroya Takamura",
+            "Manabu Okumura"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1150.pdf",
+        "orgs": [
+            {
+                "name": "Tokyo Institute of Technology",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-150",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Multilingual Open Relation Extraction Using Cross-lingual Projection",
+        "authors": [
+            "Manaal Faruqui",
+            "Shankar Kumar"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1151.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-151",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Learning to parse with IAA-weighted loss",
+        "authors": [
+            "Héctor Martínez Alonso",
+            "Barbara Plank",
+            "Arne Skjærholt",
+            "Anders Søgaard"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1152.pdf",
+        "orgs": [
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            },
+            {
+                "name": "University of Oslo",
+                "country": "Norway"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-152",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Exploiting Text and Network Context for Geolocation of Social Media Users",
+        "authors": [
+            "Afshin Rahimi",
+            "Duy Vu",
+            "Trevor Cohn",
+            "Timothy Baldwin"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1153.pdf",
+        "orgs": [
+            {
+                "name": "University of Melbourne",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-153",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Discriminative Phrase Embedding for Paraphrase Identification",
+        "authors": [
+            "Wenpeng Yin",
+            "Hinrich Schütze"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1154.pdf",
+        "orgs": [
+            {
+                "name": "University of Munich",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-154",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Combining Word Embeddings and Feature Embeddings for Fine-grained Relation Extraction",
+        "authors": [
+            "Mo Yu",
+            "Matthew R. Gormley",
+            "Mark Dredze"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1155.pdf",
+        "orgs": [
+            {
+                "name": "Harbin Institute of Technology",
+                "country": "China"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-155",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "CASSA: A Context-Aware Synonym Simplification Algorithm",
+        "authors": [
+            "Ricardo Baeza-Yates",
+            "Luz Rello",
+            "Julia Dembowski"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1156.pdf",
+        "orgs": [
+            {
+                "name": "Yahoo",
+                "country": "USA"
+            },
+            {
+                "name": "University of Barcelona",
+                "country": "Spain"
+            },
+            {
+                "name": "Saarland University",
+                "country": "Germany"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-156",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Simple task-specific bilingual word embeddings",
+        "authors": [
+            "Stephan Gouws",
+            "Anders Søgaard"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1157.pdf",
+        "orgs": [
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            },
+            {
+                "name": "Stellenbosch University",
+                "country": "South Africa"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-157",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Sampling Techniques for Streaming Cross Document Coreference Resolution",
+        "authors": [
+            "Luke Shrimpton",
+            "Victor Lavrenko",
+            "Miles Osborne"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1158.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-158",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "On the Automatic Learning of Sentiment Lexicons",
+        "authors": [
+            "Aliaksei Severyn",
+            "Alessandro Moschitti"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1159.pdf",
+        "orgs": [
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            },
+            {
+                "name": "University of Trento",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-159",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Large-Scale Native Language Identification with Cross-Corpus Evaluation",
+        "authors": [
+            "Shervin Malmasi",
+            "Mark Dras"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1160.pdf",
+        "orgs": [
+            {
+                "name": "Macquarie University",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-160",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Unediting: Detecting Disfluencies Without Careful Transcripts",
+        "authors": [
+            "Victoria Zayats",
+            "Mari Ostendorf",
+            "Hannaneh Hajishirzi"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1161.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-161",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Type-Driven Incremental Semantic Parsing with Polymorphism",
+        "authors": [
+            "Kai Zhao",
+            "Liang Huang"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1162.pdf",
+        "orgs": [
+            {
+                "name": "Queens College",
+                "country": "USA"
+            },
+            {
+                "name": "City University of New York",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-162",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Template Kernels for Dependency Parsing",
+        "authors": [
+            "Hillel Taub-Tabib",
+            "Yoav Goldberg",
+            "Amir Globerson"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1163.pdf",
+        "orgs": [
+            {
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-163",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Embedding a Semantic Network in a Word Space",
+        "authors": [
+            "Richard Johansson",
+            "Luis Nieto Piña"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1164.pdf",
+        "orgs": [
+            {
+                "name": "University of Gothenburg",
+                "country": "Sweden"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-164",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Random Walks and Neural Network Language Models on Knowledge Bases",
+        "authors": [
+            "Josu Goikoetxea",
+            "Aitor Soroa",
+            "Eneko Agirre"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1165.pdf",
+        "orgs": [
+            {
+                "name": "University of the Basque Country",
+                "country": "Spain"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-165",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Identification and Characterization of Newsworthy Verbs in World News",
+        "authors": [
+            "Benjamin Nye",
+            "Ani Nenkova"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1166.pdf",
+        "orgs": [
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-166",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Enhancing Sumerian Lemmatization by Unsupervised Named-Entity Recognition",
+        "authors": [
+            "Yudong Liu",
+            "Clinton Burkhart",
+            "James Hearne",
+            "Liang Luo"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1167.pdf",
+        "orgs": [
+            {
+                "name": "Western Washington University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-167",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Extracting Information about Medication Use from Veterinary Discussions",
+        "authors": [
+            "Haibo Ding",
+            "Ellen Riloff"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1168.pdf",
+        "orgs": [
+            {
+                "name": "University of Utah",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-168",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Reserating the awesometastic: An automatic extension of the WordNet taxonomy for novel terms",
+        "authors": [
+            "David Jurgens",
+            "Mohammad Taher Pilehvar"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1169.pdf",
+        "orgs": [
+            {
+                "name": "McGill University",
+                "country": "Canada"
+            },
+            {
+                "name": "Sapienza University of Rome",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-169",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Cross-lingual Text Classification Using Topic-Dependent Word Probabilities",
+        "authors": [
+            "Daniel Andrade",
+            "Kunihiko Sadamasa",
+            "Akihiro Tamura",
+            "Masaaki Tsuchida"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1170.pdf",
+        "orgs": [
+            {
+                "name": "NEC Corporation",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-170",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Testing and Comparing Computational Approaches for Identifying the Language of Framing in Political News",
+        "authors": [
+            "Eric Baumer",
+            "Elisha Elovic",
+            "Ying Qin",
+            "Francesca Polletta",
+            "Geri Gay"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1171.pdf",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            },
+            {
+                "name": "UC Irvine",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-171",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Echoes of Persuasion: The Effect of Euphony in Persuasive Communication",
+        "authors": [
+            "Marco Guerini",
+            "Gözde Özbal",
+            "Carlo Strapparava"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1172.pdf",
+        "orgs": [
+            {
+                "name": "Fondazione Bruno Kessler",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-172",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Translating Videos to Natural Language Using Deep Recurrent Neural Networks",
+        "authors": [
+            "Subhashini Venugopalan",
+            "Huijuan Xu",
+            "Jeff Donahue",
+            "Marcus Rohrbach",
+            "Raymond Mooney",
+            "Kate Saenko"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1173.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "UT Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-173",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Learning to Interpret and Describe Abstract Scenes",
+        "authors": [
+            "Luis Gilberto Mateos Ortiz",
+            "Clemens Wolff",
+            "Mirella Lapata"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1174.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-174",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "A Comparison of Update Strategies for Large-Scale Maximum Expected BLEU Training",
+        "authors": [
+            "Joern Wuebker",
+            "Sebastian Muehr",
+            "Patrick Lehnen",
+            "Stephan Peitz",
+            "Hermann Ney"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1175.pdf",
+        "orgs": [
+            {
+                "name": "RWTH Aachen University",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-175",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Learning Translation Models from Monolingual Continuous Representations",
+        "authors": [
+            "Kai Zhao",
+            "Hany Hassan",
+            "Michael Auli"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1176.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-176",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "A Corpus and Model Integrating Multiword Expressions and Supersenses",
+        "authors": [
+            "Nathan Schneider",
+            "Noah A. Smith"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1177.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-177",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Good News or Bad News: Using Affect Control Theory to Analyze Readers’ Reaction Towards News Articles",
+        "authors": [
+            "Areej Alhothali",
+            "Jesse Hoey"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1178.pdf",
+        "orgs": [
+            {
+                "name": "University of Waterloo",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-178",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Do We Really Need Lexical Information? Towards a Top-down Approach to Sentiment Analysis of Product Reviews",
+        "authors": [
+            "Yulia Otmakhova",
+            "Hyopil Shin"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1179.pdf",
+        "orgs": [
+            {
+                "name": "Seoul National University",
+                "country": "South Korea"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-179",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "How to Memorize a Random 60-Bit String",
+        "authors": [
+            "Marjan Ghazvininejad",
+            "Kevin Knight"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1180.pdf",
+        "orgs": [
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            },
+            {
+                "name": "Information Sciences Institute",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-180",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "A Bayesian Model for Joint Learning of Categories and their Features",
+        "authors": [
+            "Lea Frermann",
+            "Mirella Lapata"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1181.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-181",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Shared common ground influences information density in microblog texts",
+        "authors": [
+            "Gabriel Doyle",
+            "Michael Frank"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1182.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-182",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Hierarchic syntax improves reading time prediction",
+        "authors": [
+            "Marten van Schijndel",
+            "William Schuler"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1183.pdf",
+        "orgs": [
+            {
+                "name": "The Ohio State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-183",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Retrofitting Word Vectors to Semantic Lexicons",
+        "authors": [
+            "Manaal Faruqui",
+            "Jesse Dodge",
+            "Sujay Kumar Jauhar",
+            "Chris Dyer",
+            "Eduard Hovy",
+            "Noah A. Smith"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1184.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-184",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "“You’re Mr. Lebowski, I’m the Dude”: Inducing Address Term Formality in Signed Social Networks",
+        "authors": [
+            "Vinodh Krishnan",
+            "Jacob Eisenstein"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1185.pdf",
+        "orgs": [
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "NAACL15-185",
+        "source": "NAACL15",
+        "source_type": "NAACL",
+        "year": "2015",
+        "title": "Unsupervised Morphology Induction Using Word Embeddings",
+        "authors": [
+            "Radu Soricut",
+            "Franz Och"
+        ],
+        "url": "https://www.aclweb.org/anthology/N15-1186.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1767 @@
+[
+    {
+        "id": "ICLR16-0",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Neural Programmer-Interpreters",
+        "authors": [
+            "Scott Reed",
+            "Nando de Freitas"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06279.pdf",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-1",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Regularizing RNNs by Stabilizing Activations",
+        "authors": [
+            "David Krueger",
+            "Roland Memisevic"
+        ],
+        "url": "http://arxiv.org/pdf/1511.08400.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-2",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "BlackOut: Speeding up Recurrent Neural Network Language Models With Very Large Vocabularies",
+        "authors": [
+            "Shihao Ji",
+            "Swaminathan Vishwanathan",
+            "Nadathur Satish",
+            "Michael Anderson",
+            "Pradeep Dubey"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06909.pdf",
+        "orgs": [
+            {
+                "name": "University of California",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-3",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations",
+        "authors": [
+            "Felix Hill",
+            "Antoine Bordes",
+            "Sumit Chopra",
+            "Jason Weston"
+        ],
+        "url": "http://arxiv.org/pdf/1511.02301.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-4",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Towards Universal Paraphrastic Sentence Embeddings",
+        "authors": [
+            "John Wieting",
+            "Mohit Bansal",
+            "Kevin Gimpel",
+            "Karen Livescu"
+        ],
+        "url": "http://arxiv.org/pdf/1511.08198.pdf",
+        "orgs": [
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-5",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Convergent Learning: Do different neural networks learn the same representations?",
+        "authors": [
+            "Yixuan Li",
+            "Jason Yosinski",
+            "Jeff Clune",
+            "Hod Lipson",
+            "John Hopcroft"
+        ],
+        "url": "http://arxiv.org/pdf/1511.07543.pdf",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            },
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Wyoming",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-6",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Net2Net: Accelerating Learning via Knowledge Transfer",
+        "authors": [
+            "Tianqi Chen",
+            "Ian Goodfellow",
+            "Jon Shlens"
+        ],
+        "url": "http://arxiv.org/pdf/1511.05641.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-7",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Variational Gaussian Process",
+        "authors": [
+            "Dustin Tran",
+            "Rajesh Ranganath",
+            "David Blei"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06499.pdf",
+        "orgs": [
+            {
+                "name": "Harvard University",
+                "country": "USA"
+            },
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            },
+            {
+                "name": "Princeton University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-8",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "The Variational Fair Autoencoder",
+        "authors": [
+            "Christos Louizos",
+            "Kevin Swersky",
+            "Yujia Li",
+            "Max Welling",
+            "Richard Zemel"
+        ],
+        "url": "http://arxiv.org/pdf/1511.00830.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            },
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            },
+            {
+                "name": "UC Irvine",
+                "country": "USA"
+            },
+            {
+                "name": "Canadian Institute for Advanced Research",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-9",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "A note on the evaluation of generative models",
+        "authors": [
+            "Lucas Theis",
+            "Aäron van den Oord",
+            "Matthias Bethge"
+        ],
+        "url": "http://arxiv.org/pdf/1511.01844.pdf",
+        "orgs": [
+            {
+                "name": "Ghent University",
+                "country": "Belgium"
+            },
+            {
+                "name": "University of Tübingen",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-10",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding",
+        "authors": [
+            "Song Han",
+            "Huizi Mao",
+            "Bill Dally"
+        ],
+        "url": "http://arxiv.org/pdf/1510.00149.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-11",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Neural Networks with Few Multiplications",
+        "authors": [
+            "Zhouhan Lin",
+            "Matthieu Courbariaux",
+            "Roland Memisevic",
+            "Yoshua Bengio"
+        ],
+        "url": "http://arxiv.org/pdf/1510.03009.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-12",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Order-Embeddings of Images and Language",
+        "authors": [
+            "Ivan Vendrov",
+            "Ryan Kiros",
+            "Sanja Fidler",
+            "Raquel Urtasun"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06361.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-13",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Generating Images from Captions with Attention",
+        "authors": [
+            "Elman Mansimov",
+            "Emilio Parisotto",
+            "Jimmy Ba",
+            "Ruslan Salakhutdinov"
+        ],
+        "url": "http://arxiv.org/pdf/1511.02793.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-14",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Density Modeling of Images using a Generalized Normalization Transformation",
+        "authors": [
+            "Johannes Ballé",
+            "Valero Laparra",
+            "Eero Simoncelli"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06281.pdf",
+        "orgs": [
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-15",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Multi-Scale Context Aggregation by Dilated Convolutions",
+        "authors": [
+            "Fisher Yu",
+            "Vladlen Koltun"
+        ],
+        "url": "http://arxiv.org/pdf/1511.07122.pdf",
+        "orgs": [
+            {
+                "name": "Princeton University",
+                "country": "USA"
+            },
+            {
+                "name": "Intel Labs",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-16",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Learning to Diagnose with LSTM Recurrent Neural Networks",
+        "authors": [
+            "Zachary Lipton",
+            "David Kale",
+            "Charles Elkan",
+            "Randall Wetzel"
+        ],
+        "url": "http://arxiv.org/pdf/1511.03677.pdf",
+        "orgs": [
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            },
+            {
+                "name": "University of California San Diego",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-17",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Prioritized Experience Replay",
+        "authors": [
+            "Tom Schaul",
+            "John Quan",
+            "Ioannis Antonoglou",
+            "David Silver"
+        ],
+        "url": "http://arxiv.org/pdf/1511.05952.pdf",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-18",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Importance Weighted Autoencoders",
+        "authors": [
+            "Yuri Burda",
+            "Ruslan Salakhutdinov",
+            "Roger Grosse"
+        ],
+        "url": "http://arxiv.org/pdf/1509.00519.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-19",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Variationally Auto-Encoded Deep Gaussian Processes",
+        "authors": [
+            "Zhenwen Dai",
+            "Andreas Damianou",
+            "Javier Gonzalez",
+            "Neil Lawrence"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06455.pdf",
+        "orgs": [
+            {
+                "name": "University of Sheffield",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-20",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Training Convolutional Neural Networks with Low-rank Filters for Efficient Image Classification",
+        "authors": [
+            "Yani Ioannou",
+            "Duncan Robertson",
+            "Jamie Shotton",
+            "roberto Cipolla",
+            "Antonio Criminisi",
+            "Jamie Shotton"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06744.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-21",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Reducing Overfitting in Deep Networks by Decorrelating Representations",
+        "authors": [
+            "Michael Cogswell",
+            "Faruk Ahmed",
+            "Ross Girshick",
+            "Larry Zitnick",
+            "Dhruv Batra"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06068.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-22",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Pushing the Boundaries of Boundary Detection using Deep Learning",
+        "authors": [
+            "Iasonas Kokkinos"
+        ],
+        "url": "http://arxiv.org/pdf/1511.07386.pdf",
+        "orgs": [
+            {
+                "name": "INRIA",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-23",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Reasoning about Entailment with Neural Attention",
+        "authors": [
+            "Tim Rocktäschel",
+            "Edward Grefenstette",
+            "Karl Moritz Hermann",
+            "Tomáš Kočiský",
+            "Phil Blunsom"
+        ],
+        "url": "http://arxiv.org/pdf/1509.06664.pdf",
+        "orgs": [
+            {
+                "name": "University College London",
+                "country": "UK"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-24",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Convolutional Neural Networks With Low-rank Regularization",
+        "authors": [
+            "Cheng Tai",
+            "Tong Xiao",
+            "Yi Zhang",
+            "Xiaogang Wang",
+            "Weinan E"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06067.pdf",
+        "orgs": [
+            {
+                "name": "Princeton University",
+                "country": "USA"
+            },
+            {
+                "name": "The Chinese University of Hong Kong",
+                "country": "China"
+            },
+            {
+                "name": "University of Michigan",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-25",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Unifying distillation and privileged information",
+        "authors": [
+            "David Lopez-Paz",
+            "Leon Bottou",
+            "Bernhard Schölkopf",
+            "Vladimir Vapnik"
+        ],
+        "url": "http://arxiv.org/pdf/1511.03643.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-26",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Particular object retrieval with integral max-pooling of CNN activations",
+        "authors": [
+            "Giorgos Tolias",
+            "Ronan Sicre",
+            "Hervé Jégou"
+        ],
+        "url": "http://arxiv.org/pdf/1511.05879.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-27",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "All you need is a good init",
+        "authors": [
+            "Dmytro Mishkin",
+            "Jiri Matas"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06422.pdf",
+        "orgs": [
+            {
+                "name": "Czech Technical University in Prague",
+                "country": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-28",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Bayesian Representation Learning with Oracle Constraints",
+        "authors": [
+            "Theofanis Karaletsos",
+            "Serge Belongie",
+            "Gunnar Rätsch"
+        ],
+        "url": "http://arxiv.org/pdf/1506.05011.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICLR16-29",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Neural Programmer: Inducing Latent Programs with Gradient Descent",
+        "authors": [
+            "Arvind Neelakantan",
+            "Quoc Le",
+            "Ilya Sutskever"
+        ],
+        "url": "http://arxiv.org/pdf/1511.04834.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "University of Massachusetts Amherst",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-30",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "SparkNet: Training Deep Networks in Spark",
+        "authors": [
+            "Philipp Moritz",
+            "Robert Nishihara",
+            "Ion Stoica",
+            "Michael Jordan"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06051.pdf",
+        "orgs": [
+            {
+                "name": "University of California",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-31",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks",
+        "authors": [
+            "Jost Tobias Springenberg"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06390.pdf",
+        "orgs": [
+            {
+                "name": "University of Freiburg",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-32",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "MuProp: Unbiased Backpropagation For Stochastic Neural Networks",
+        "authors": [
+            "Shixiang Gu",
+            "Sergey Levine",
+            "Ilya Sutskever",
+            "Andriy Mnih"
+        ],
+        "url": "http://arxiv.org/pdf/1511.05176.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-33",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Data Representation and Compression Using Linear-Programming Approximations",
+        "authors": [
+            "Hristo Paskov",
+            "John Mitchell",
+            "Trevor Hastie"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06606.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-34",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Diversity Networks",
+        "authors": [
+            "Zelda Mariet",
+            "Suvrit Sra"
+        ],
+        "url": "http://arxiv.org/pdf/1511.05077.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-35",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Deep Reinforcement Learning in Parameterized Action Space",
+        "authors": [
+            "Matthew Hausknecht",
+            "Peter Stone"
+        ],
+        "url": "http://arxiv.org/pdf/1511.04143.pdf",
+        "orgs": [
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-36",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Learning VIsual Predictive Models of Physics for Playing Billiards",
+        "authors": [
+            "Katerina Fragkiadaki",
+            "Pulkit Agrawal",
+            "Sergey Levine",
+            "Jitendra Malik"
+        ],
+        "url": "http://arxiv.org/pdf/1511.07404.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-37",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks",
+        "authors": [
+            "Jason Weston",
+            "Antoine Bordes",
+            "Sumit Chopra",
+            "Sasha Rush",
+            "Bart van Merrienboer",
+            "Armand Joulin",
+            "Tomas Mikolov"
+        ],
+        "url": "http://arxiv.org/pdf/1502.05698.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-38",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Evaluating Prerequisite Qualities for Learning End-to-end Dialog Systems",
+        "authors": [
+            "Jesse Dodge",
+            "Andreea Gane",
+            "Xiang Zhang",
+            "Antoine Bordes",
+            "Sumit Chopra",
+            "Alexander Miller",
+            "Arthur Szlam",
+            "Jason Weston"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06931.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-39",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Better Computer Go Player with Neural Network and Long-term Prediction",
+        "authors": [
+            "Yuandong Tian",
+            "Yan Zhu"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06410.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "Rutgers University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-40",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Distributional Smoothing with Virtual Adversarial Training",
+        "authors": [
+            "Takeru Miyato",
+            "Shin-ichi Maeda",
+            "Masanori Koyama",
+            "Ken Nakae",
+            "Shin Ishii"
+        ],
+        "url": "http://arxiv.org/pdf/1507.00677.pdf",
+        "orgs": [
+            {
+                "name": "Kyoto University",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-41",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Multi-task Sequence to Sequence Learning",
+        "authors": [
+            "Minh-Thang Luong",
+            "Quoc Le",
+            "Ilya Sutskever",
+            "Oriol Vinyals",
+            "Lukasz Kaiser"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06114.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-42",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "A Test of Relative Similarity for Model Selection in Generative Models",
+        "authors": [
+            "Eugene Belilovsky",
+            "Wacha Bounliphone",
+            "Matthew Blaschko",
+            "Ioannis Antonoglou",
+            "Arthur Gretton"
+        ],
+        "url": "http://arxiv.org/pdf/1511.04581.pdf",
+        "orgs": [
+            {
+                "name": "University College London",
+                "country": "UK"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            },
+            {
+                "name": "INRIA",
+                "country": "France"
+            },
+            {
+                "name": "Université́ Paris Saclay",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-43",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications",
+        "authors": [
+            "Yong-Deok Kim",
+            "Eunhyeok Park",
+            "Sungjoo Yoo",
+            "Taelim Choi",
+            "Lu Yang",
+            "Dongjun Shin"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06530.pdf",
+        "orgs": [
+            {
+                "name": "Seoul National University",
+                "country": "South Korea"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-44",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Session-based recommendations with recurrent neural networks",
+        "authors": [
+            "Balázs Hidasi",
+            "Alexandros Karatzoglou",
+            "Linas Baltrunas",
+            "Domonkos Tikk"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06939.pdf",
+        "orgs": [
+            {
+                "name": "Telefonica",
+                "country": "Spain"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-45",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Continuous control with deep reinforcement learning",
+        "authors": [
+            "Timothy Lillicrap",
+            "Jonathan Hunt",
+            "Alexander Pritzel",
+            "Nicolas Heess",
+            "Tom Erez",
+            "Yuval Tassa",
+            "David Silver",
+            "Daan Wierstra"
+        ],
+        "url": "http://arxiv.org/pdf/1509.02971.pdf",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-46",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Recurrent Gaussian Processes",
+        "authors": [
+            "César Lincoln Mattos",
+            "Zhenwen Dai",
+            "Andreas Damianou",
+            "Jeremy Forth",
+            "Guilherme Barreto",
+            "Neil Lawrence"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06644.pdf",
+        "orgs": [
+            {
+                "name": "University of Sheffield",
+                "country": "UK"
+            },
+            {
+                "name": "Federal University of Ceará",
+                "country": "Brazil"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-47",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Modeling Visual Representations:Defining Properties and Deep Approximations",
+        "authors": [
+            "Stefano Soatto",
+            "Alessandro Chiuso"
+        ],
+        "url": "http://arxiv.org/pdf/1411.7676.pdf",
+        "orgs": [
+            {
+                "name": "University of Padua",
+                "country": "Italy"
+            },
+            {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-48",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Auxiliary Image Regularization for Deep CNNs with Noisy Labels",
+        "authors": [
+            "Samaneh Azadi",
+            "Jiashi Feng",
+            "Stefanie Jegelka",
+            "Trevor Darrell"
+        ],
+        "url": "http://arxiv.org/pdf/1511.07069.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-49",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Policy Distillation",
+        "authors": [
+            "Andrei Rusu",
+            "Sergio Gomez",
+            "Caglar Gulcehre",
+            "Guillaume Desjardins",
+            "James Kirkpatrick",
+            "Razvan Pascanu",
+            "Volodymyr Mnih",
+            "Koray Kavukcuoglu",
+            "Raia Hadsell"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06295.pdf",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-50",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Neural Random-Access Machines",
+        "authors": [
+            "Karol Kurach",
+            "Marcin Andrychowicz",
+            "Ilya Sutskever"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06392.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-51",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Gated Graph Sequence Neural Networks",
+        "authors": [
+            "Yujia Li",
+            "Daniel Tarlow",
+            "Marc Brockschmidt",
+            "Richard Zemel",
+            "CIFAR"
+        ],
+        "url": "http://arxiv.org/pdf/1511.05493.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-52",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Metric Learning with Adaptive Density Discrimination",
+        "authors": [
+            "Oren Rippel",
+            "Manohar Paluri",
+            "Piotr Dollar",
+            "Lubomir Bourdev"
+        ],
+        "url": "http://arxiv.org/pdf/1511.05939.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-53",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Censoring Representations with an Adversary",
+        "authors": [
+            "Harrison Edwards",
+            "Amos Storkey"
+        ],
+        "url": "http://arxiv.org/pdf/1511.05897.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-54",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Variable Rate Image Compression with Recurrent Neural Networks",
+        "authors": [
+            "George Toderici",
+            "Sean O'Malley",
+            "Damien Vincent",
+            "Sung Jin Hwang",
+            "Michele Covell",
+            "Shumeet Baluja",
+            "Rahul Sukthankar",
+            "David Minnen"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06085.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-55",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Delving Deeper into Convolutional Networks for Learning Video Representations",
+        "authors": [
+            "Nicolas Ballas",
+            "Li Yao",
+            "Pal Chris",
+            "Aaron Courville"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06432.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-56",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "8-Bit Approximations for Parallelism in Deep Learning",
+        "authors": [
+            "Tim Dettmers"
+        ],
+        "url": "http://arxiv.org/pdf/1511.04561.pdf",
+        "orgs": [
+            {
+                "name": "Università della Svizzera italiana",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-57",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Data-dependent initializations of Convolutional Neural Networks",
+        "authors": [
+            "Philipp Kraehenbuehl",
+            "Carl Doersch",
+            "Jeff Donahue",
+            "Trevor Darrell"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06856.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-58",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Order Matters: Sequence to sequence for sets",
+        "authors": [
+            "Oriol Vinyals",
+            "Samy Bengio",
+            "Manjunath Kudlur"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06391.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-59",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation",
+        "authors": [
+            "John Schulman",
+            "Philipp Moritz",
+            "Sergey Levine",
+            "Michael Jordan",
+            "Pieter Abbeel"
+        ],
+        "url": "http://arxiv.org/pdf/1506.02438.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-60",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Deep Multi Scale Video Prediction Beyond Mean Square Error",
+        "authors": [
+            "Michael Mathieu",
+            "camille couprie",
+            "Yann Lecun"
+        ],
+        "url": "http://arxiv.org/pdf/1511.05440.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-61",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Grid Long Short-Term Memory",
+        "authors": [
+            "Nal Kalchbrenner",
+            "Alex Graves",
+            "Ivo Danihelka"
+        ],
+        "url": "http://arxiv.org/pdf/1507.01526.pdf",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-62",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Predicting distributions with Linearizing Belief Networks",
+        "authors": [
+            "Yann Dauphin",
+            "David Grangier"
+        ],
+        "url": "http://arxiv.org/pdf/1511.05622.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-63",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)",
+        "authors": [
+            "Djork-Arné Clevert",
+            "Thomas Unterthiner",
+            "Sepp Hochreiter"
+        ],
+        "url": "http://arxiv.org/pdf/1511.07289.pdf",
+        "orgs": [
+            {
+                "name": "University Linz",
+                "country": "Austria"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-64",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning",
+        "authors": [
+            "Emilio Parisotto",
+            "Jimmy Ba",
+            "Ruslan Salakhutdinov"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06342.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-65",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Segmental Recurrent Neural Networks",
+        "authors": [
+            "Lingpeng Kong",
+            "Chris Dyer",
+            "Noah Smith"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06018.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-66",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Deep Linear Discriminant Analysis",
+        "authors": [
+            "Matthias Dorfer",
+            "Rainer Kelz",
+            "Gerhard Widmer"
+        ],
+        "url": "http://arxiv.org/pdf/1511.04707.pdf",
+        "orgs": [
+            {
+                "name": "University Linz",
+                "country": "Austria"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-67",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Large-Scale Approximate Kernel Canonical Correlation Analysis",
+        "authors": [
+            "Weiran Wang",
+            "Karen Livescu"
+        ],
+        "url": "http://arxiv.org/pdf/1511.04773.pdf",
+        "orgs": [
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-68",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks",
+        "authors": [
+            "Alec Radford",
+            "Luke Metz",
+            "Soumith Chintala"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06434.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-69",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Learning Representations from EEG with Deep Recurrent-Convolutional Neural Networks",
+        "authors": [
+            "Pouya Bashivan",
+            "Irina Rish",
+            "Mohammed Yeasin",
+            "Noel Codella"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06448.pdf",
+        "orgs": [
+            {
+                "name": "University of Memphis",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-70",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Digging Deep into the layers of CNNs: In Search of How CNNs Achieve View Invariance",
+        "authors": [
+            "Amr Bakry",
+            "Mohamed Elhoseiny",
+            "Tarek El-Gaaly",
+            "Ahmed Elgammal"
+        ],
+        "url": "http://arxiv.org/pdf/1508.01983.pdf",
+        "orgs": [
+            {
+                "name": "Rutgers University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-71",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "An Exploration of Softmax Alternatives Belonging to the Spherical Loss Family",
+        "authors": [
+            "Alexandre De Brébisson",
+            "Pascal Vincent"
+        ],
+        "url": "http://arxiv.org/pdf/1511.05042.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-72",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Data-Dependent Path Normalization in Neural Networks",
+        "authors": [
+            "Behnam Neyshabur",
+            "Ryota Tomioka",
+            "Ruslan Salakhutdinov",
+            "Nathan Srebro"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06747.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            },
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-73",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Reasoning in Vector Space: An Exploratory Study of Question Answering",
+        "authors": [
+            "Moontae Lee",
+            "Xiaodong He",
+            "Wen-tau Yih",
+            "Jianfeng Gao",
+            "Li Deng",
+            "Paul Smolensky"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06426.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-74",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Neural GPUs Learn Algorithms",
+        "authors": [
+            "Lukasz Kaiser",
+            "Ilya Sutskever"
+        ],
+        "url": "http://arxiv.org/pdf/1511.08228.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-75",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "ACDC: A Structured Efficient Linear Layer",
+        "authors": [
+            "Marcin Moczulski",
+            "Misha Denil",
+            "Jeremy Appleyard",
+            "Nando de Freitas"
+        ],
+        "url": "http://arxiv.org/pdf/1511.05946.pdf",
+        "orgs": [
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-76",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Adversarial Manipulation of Deep Representations",
+        "authors": [
+            "Sara Sabour",
+            "Yanshuai Cao",
+            "Fartash Faghri",
+            "David Fleet"
+        ],
+        "url": "http://arxiv.org/pdf/1511.05122.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-77",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Geodesics of learned representations",
+        "authors": [
+            "Olivier Hénaff",
+            "Eero Simoncelli"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06394.pdf",
+        "orgs": [
+            {
+                "name": "Courant Institute of Mathematical Sciences",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-78",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Sequence Level Training with Recurrent Neural Networks",
+        "authors": [
+            "Marc'Aurelio Ranzato",
+            "Sumit Chopra",
+            "Michael Auli",
+            "Wojciech Zaremba"
+        ],
+        "url": "http://arxiv.org/pdf/1511.06732.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR16-79",
+        "source": "ICLR16",
+        "source_type": "ICLR",
+        "year": "2016",
+        "title": "Super-resolution with deep convolutional sufficient statistics",
+        "authors": [
+            "Joan Bruna",
+            "Pablo Sprechmann",
+            "Yann Lecun"
+        ],
+        "url": "http://arxiv.org/pdf/1511.05666.pdf",
+        "orgs": [
+            {
+                "name": "Courant Institute of Mathematical Sciences",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    }
+]

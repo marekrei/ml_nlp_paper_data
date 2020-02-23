@@ -1,0 +1,6072 @@
+[
+    {
+        "id": "ICML13-0",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "An Optimal Policy for Target Localization with Application to Electron Microscopy",
+        "authors": [
+            "Raphael Sznitman",
+            "Aurelien Lucchi",
+            "Peter Frazier",
+            "Bruno Jedynak",
+            "Pascal Fua"
+        ],
+        "url": "http://proceedings.mlr.press/v28/sznitman13.pdf",
+        "orgs": [
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-1",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Domain Generalization via Invariant Feature Representation",
+        "authors": [
+            "Krikamol Muandet",
+            "David Balduzzi",
+            "Bernhard Schölkopf"
+        ],
+        "url": "http://proceedings.mlr.press/v28/muandet13.pdf",
+        "orgs": [
+            {
+                "name": "Max Planck Institute for Intelligent Systems",
+                "country": "Germany"
+            },
+            {
+                "name": "ETH Zürich",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-2",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "A Spectral Learning Approach to Range-Only SLAM",
+        "authors": [
+            "Byron Boots",
+            "Geoff Gordon"
+        ],
+        "url": "http://proceedings.mlr.press/v28/boots13.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-3",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Near-Optimal Bounds for Cross-Validation via Loss Stability",
+        "authors": [
+            "Ravi Kumar",
+            "Daniel Lokshtanov",
+            "Sergei Vassilvitskii",
+            "Andrea Vattani"
+        ],
+        "url": "http://proceedings.mlr.press/v28/kumar13a.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "UC San Diego",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-4",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Sparsity-Based Generalization Bounds for Predictive Sparse Coding",
+        "authors": [
+            "Nishant Mehta",
+            "Alexander Gray"
+        ],
+        "url": "http://proceedings.mlr.press/v28/mehta13.pdf",
+        "orgs": [
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-5",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Sparse Uncorrelated Linear Discriminant Analysis",
+        "authors": [
+            "Xiaowei Zhang",
+            "Delin Chu"
+        ],
+        "url": "http://proceedings.mlr.press/v28/zhang13.pdf",
+        "orgs": [
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-6",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Block-Coordinate Frank-Wolfe Optimization for Structural SVMs",
+        "authors": [
+            "Simon Lacoste-Julien",
+            "Martin Jaggi",
+            "Mark Schmidt",
+            "Patrick Pletscher"
+        ],
+        "url": "http://proceedings.mlr.press/v28/lacoste-julien13.pdf",
+        "orgs": [
+            {
+                "name": "INRIA",
+                "country": "France"
+            },
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            },
+            {
+                "name": "ETH Zürich",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-7",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Fast Probabilistic Optimization from Noisy Gradients",
+        "authors": [
+            "Philipp Hennig"
+        ],
+        "url": "http://proceedings.mlr.press/v28/hennig13.pdf",
+        "orgs": [
+            {
+                "name": "Max Planck Institute for Intelligent Systems",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-8",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Stochastic Gradient Descent for Non-smooth Optimization: Convergence Results and Optimal Averaging Schemes",
+        "authors": [
+            "Ohad Shamir",
+            "Tong Zhang"
+        ],
+        "url": "http://proceedings.mlr.press/v28/shamir13.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Rutgers University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-9",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Stochastic Alternating Direction Method of Multipliers",
+        "authors": [
+            "Hua Ouyang",
+            "Niao He",
+            "Long Tran",
+            "Alexander Gray"
+        ],
+        "url": "http://proceedings.mlr.press/v28/ouyang13.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICML13-10",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Noisy Sparse Subspace Clustering",
+        "authors": [
+            "Yu-Xiang Wang",
+            "Huan Xu"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wang13.pdf",
+        "orgs": [
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-11",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Parallel Markov Chain Monte Carlo for Nonparametric Mixture Models",
+        "authors": [
+            "Sinead Williamson",
+            "Avinava Dubey",
+            "Eric Xing"
+        ],
+        "url": "http://proceedings.mlr.press/v28/williamson13.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-12",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Risk Bounds and Learning Algorithms for the Regression Approach to Structured Output Prediction",
+        "authors": [
+            "Sébastien Giguère",
+            "François Laviolette",
+            "Mario Marchand",
+            "Khadidja Sylla"
+        ],
+        "url": "http://proceedings.mlr.press/v28/giguere13.pdf",
+        "orgs": [
+            {
+                "name": "Université Laval",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-13",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Making a Science of Model Search: Hyperparameter Optimization in Hundreds of Dimensions for Vision Architectures",
+        "authors": [
+            "James Bergstra",
+            "Daniel Yamins",
+            "David Cox"
+        ],
+        "url": "http://proceedings.mlr.press/v28/bergstra13.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-14",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Gibbs Max-Margin Topic Models with Fast Sampling Algorithms",
+        "authors": [
+            "Jun Zhu",
+            "Ning Chen",
+            "Hugh Perkins",
+            "Bo Zhang"
+        ],
+        "url": "http://proceedings.mlr.press/v28/zhu13.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICML13-15",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Cost-Sensitive Tree of Classifiers",
+        "authors": [
+            "Zhixiang Xu",
+            "Matt Kusner",
+            "Kilian Weinberger",
+            "Minmin Chen"
+        ],
+        "url": "http://proceedings.mlr.press/v28/xu13.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-16",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning Hash Functions Using Column Generation",
+        "authors": [
+            "Xi Li",
+            "Guosheng Lin",
+            "Chunhua Shen",
+            "Anton Hengel",
+            "Anthony Dick"
+        ],
+        "url": "http://proceedings.mlr.press/v28/li13a.pdf",
+        "orgs": [
+            {
+                "name": "University of Adelaide",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-17",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Combinatorial Multi-Armed Bandit: General Framework and Applications",
+        "authors": [
+            "Wei Chen",
+            "Yajun Wang",
+            "Yang Yuan"
+        ],
+        "url": "http://proceedings.mlr.press/v28/chen13a.pdf",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-18",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Near-optimal Batch Mode Active Learning and Adaptive Submodular Optimization",
+        "authors": [
+            "Yuxin Chen",
+            "Andreas Krause"
+        ],
+        "url": "http://proceedings.mlr.press/v28/chen13b.pdf",
+        "orgs": [
+            {
+                "name": "ETH Zürich",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-19",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Convex formulations of radius-margin based Support Vector Machines",
+        "authors": [
+            "Huyen Do",
+            "Alexandros Kalousis"
+        ],
+        "url": "http://proceedings.mlr.press/v28/do13.pdf",
+        "orgs": [
+            {
+                "name": "University of Applied Sciences Western Switzerland",
+                "country": "Switzerland"
+            },
+            {
+                "name": "University of Geneva",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-20",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Modelling Sparse Dynamical Systems with Compressed Predictive State Representations",
+        "authors": [
+            "William L. Hamilton",
+            "Mahdi Milani Fard",
+            "Joelle Pineau"
+        ],
+        "url": "http://proceedings.mlr.press/v28/hamilton13.pdf",
+        "orgs": [
+            {
+                "name": "McGill University",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-21",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "A Machine Learning Framework for Programming by Example",
+        "authors": [
+            "Aditya Menon",
+            "Omer Tamuz",
+            "Sumit Gulwani",
+            "Butler Lampson",
+            "Adam Kalai"
+        ],
+        "url": "http://proceedings.mlr.press/v28/menon13.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "University of California San Diego",
+                "country": "USA"
+            },
+            {
+                "name": "Weizmann Institute of Science",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-22",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Discriminatively Activated Sparselets",
+        "authors": [
+            "Ross Girshick",
+            "Hyun Oh Song",
+            "Trevor Darrell"
+        ],
+        "url": "http://proceedings.mlr.press/v28/girshick13.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-23",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "The Pairwise Piecewise-Linear Embedding for Efficient Non-Linear Classification",
+        "authors": [
+            "Ofir Pele",
+            "Ben Taskar",
+            "Amir Globerson",
+            "Michael Werman"
+        ],
+        "url": "http://proceedings.mlr.press/v28/pele13.pdf",
+        "orgs": [
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            },
+            {
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-24",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Fixed-Point Model For Structured Labeling",
+        "authors": [
+            "Quannan Li",
+            "Jingdong Wang",
+            "David Wipf",
+            "Zhuowen Tu"
+        ],
+        "url": "http://proceedings.mlr.press/v28/li13b.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-25",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Connecting the Dots with Landmarks: Discriminatively Learning Domain-Invariant Features for Unsupervised Domain Adaptation",
+        "authors": [
+            "Boqing Gong",
+            "Kristen Grauman",
+            "Fei Sha"
+        ],
+        "url": "http://proceedings.mlr.press/v28/gong13.pdf",
+        "orgs": [
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            },
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-26",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Fast Conical Hull Algorithms for Near-separable Non-negative Matrix Factorization",
+        "authors": [
+            "Abhishek Kumar",
+            "Vikas Sindhwani",
+            "Prabhanjan Kambadur"
+        ],
+        "url": "http://proceedings.mlr.press/v28/kumar13b.pdf",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-27",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Principal Component Analysis on non-Gaussian Dependent Data",
+        "authors": [
+            "Fang Han",
+            "Han Liu"
+        ],
+        "url": "http://proceedings.mlr.press/v28/han13.pdf",
+        "orgs": [
+            {
+                "name": "Princeton University",
+                "country": "USA"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-28",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning Linear Bayesian Networks with Latent Variables",
+        "authors": [
+            "Animashree Anandkumar",
+            "Daniel Hsu",
+            "Adel Javanmard",
+            "Sham Kakade"
+        ],
+        "url": "http://proceedings.mlr.press/v28/anandkumar13.pdf",
+        "orgs": [
+            {
+                "name": "UC Irvine",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-29",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Multiple Identifications in Multi-Armed Bandits",
+        "authors": [
+            "Séebastian Bubeck",
+            "Tengyao Wang",
+            "Nitin Viswanathan"
+        ],
+        "url": "http://proceedings.mlr.press/v28/bubeck13.pdf",
+        "orgs": [
+            {
+                "name": "Princeton University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-30",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning Optimally Sparse Support Vector Machines",
+        "authors": [
+            "Andrew Cotter",
+            "Shai Shalev-Shwartz",
+            "Nati Srebro"
+        ],
+        "url": "http://proceedings.mlr.press/v28/cotter13.pdf",
+        "orgs": [
+            {
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
+            },
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-31",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Dynamic Probabilistic Models for Latent Feature Propagation in Social Networks",
+        "authors": [
+            "Creighton Heaukulani",
+            "Zoubin Ghahramani"
+        ],
+        "url": "http://proceedings.mlr.press/v28/heaukulani13.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-32",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Efficient Sparse Group Feature Selection via Nonconvex Optimization",
+        "authors": [
+            "Shuo Xiang",
+            "Xiaoshen Tong",
+            "Jieping Ye"
+        ],
+        "url": "http://proceedings.mlr.press/v28/xiang13.pdf",
+        "orgs": [
+            {
+                "name": "University of Minnesota",
+                "country": "USA"
+            },
+            {
+                "name": "Arizona State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-33",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Domain Adaptation for Sequence Labeling Tasks with a Probabilistic Language Adaptation Model",
+        "authors": [
+            "Min Xiao",
+            "Yuhong Guo"
+        ],
+        "url": "http://proceedings.mlr.press/v28/xiao13.pdf",
+        "orgs": [
+            {
+                "name": "Temple University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-34",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Maximum Variance Correction with Application to A* Search",
+        "authors": [
+            "Wenlin Chen",
+            "Kilian Weinberger",
+            "Yixin Chen"
+        ],
+        "url": "http://proceedings.mlr.press/v28/chen13c.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-35",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Adaptive Sparsity in Gaussian Graphical Models",
+        "authors": [
+            "Eleanor Wong",
+            "Suyash Awate",
+            "P. Thomas Fletcher"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wong13.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICML13-36",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Average Reward Optimization Objective In Partially Observable Domains",
+        "authors": [
+            "Yuri Grinberg",
+            "Doina Precup"
+        ],
+        "url": "http://proceedings.mlr.press/v28/grinberg13.pdf",
+        "orgs": [
+            {
+                "name": "McGill University",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-37",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Feature Selection in High-Dimensional Classification",
+        "authors": [
+            "Mladen Kolar",
+            "Han Liu"
+        ],
+        "url": "http://proceedings.mlr.press/v28/kolar13.pdf",
+        "orgs": [
+            {
+                "name": "Princeton University",
+                "country": "USA"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-38",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Human Boosting",
+        "authors": [
+            "Harsh Pareek",
+            "Pradeep K. Ravikumar"
+        ],
+        "url": "http://proceedings.mlr.press/v28/pareek13.pdf",
+        "orgs": [
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-39",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Efficient Dimensionality Reduction for Canonical Correlation Analysis",
+        "authors": [
+            "Haim Avron",
+            "Christos Boutsidis",
+            "Sivan Toledo",
+            "Anastasios Zouzias"
+        ],
+        "url": "http://proceedings.mlr.press/v28/avron13.pdf",
+        "orgs": [
+            {
+                "name": "Tel Aviv University",
+                "country": "Israel"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-40",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Parsing epileptic events using a Markov switching process model for correlated time series",
+        "authors": [
+            "Drausin Wulsin",
+            "Emily Fox",
+            "Brian Litt"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wulsin13.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-41",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Optimal rates for stochastic convex optimization under Tsybakov noise condition",
+        "authors": [
+            "Aaditya Ramdas",
+            "Aarti Singh"
+        ],
+        "url": "http://proceedings.mlr.press/v28/ramdas13.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-42",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "A Randomized Mirror Descent Algorithm for Large Scale Multiple Kernel Learning",
+        "authors": [
+            "Arash Afkanpour",
+            "András György",
+            "Csaba Szepesvari",
+            "Michael Bowling"
+        ],
+        "url": "http://proceedings.mlr.press/v28/afkanpour13.pdf",
+        "orgs": [
+            {
+                "name": "University of Alberta",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-43",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Noisy and Missing Data Regression: Distribution-Oblivious Support Recovery",
+        "authors": [
+            "Yudong Chen",
+            "Constantine Caramanis"
+        ],
+        "url": "http://proceedings.mlr.press/v28/chen13d.pdf",
+        "orgs": [
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-44",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Dual Averaging and Proximal Gradient Descent for Online Alternating Direction Multiplier Method",
+        "authors": [
+            "Taiji Suzuki"
+        ],
+        "url": "http://proceedings.mlr.press/v28/suzuki13.pdf",
+        "orgs": [
+            {
+                "name": "University of Tokyo",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-45",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "A New Frontier of Kernel Design for Structured Data",
+        "authors": [
+            "Kilho Shin"
+        ],
+        "url": "http://proceedings.mlr.press/v28/shin13.pdf",
+        "orgs": [
+            {
+                "name": "University of Hyogo",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-46",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning with Marginalized Corrupted Features",
+        "authors": [
+            "Laurens Maaten",
+            "Minmin Chen",
+            "Stephen Tyree",
+            "Kilian Weinberger"
+        ],
+        "url": "http://proceedings.mlr.press/v28/vandermaaten13.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Delft University of Technology",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-47",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Approximation properties of DBNs with binary hidden units and real-valued visible units",
+        "authors": [
+            "Oswin Krause",
+            "Asja Fischer",
+            "Tobias Glasmachers",
+            "Christian Igel"
+        ],
+        "url": "http://proceedings.mlr.press/v28/krause13.pdf",
+        "orgs": [
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            },
+            {
+                "name": "Ruhr University Bochum",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-48",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Revisiting Frank-Wolfe: Projection-Free Sparse Convex Optimization",
+        "authors": [
+            "Martin Jaggi"
+        ],
+        "url": "http://proceedings.mlr.press/v28/jaggi13.pdf",
+        "orgs": [
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-49",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "General Functional Matrix Factorization Using Gradient Boosting",
+        "authors": [
+            "Tianqi Chen",
+            "Hang Li",
+            "Qiang Yang",
+            "Yong Yu"
+        ],
+        "url": "http://proceedings.mlr.press/v28/chen13e.pdf",
+        "orgs": [
+            {
+                "name": "Shanghai Jiao Tong University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-50",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Iterative Learning and Denoising in Convolutional Neural Associative Memories",
+        "authors": [
+            "Amin Karbasi",
+            "Amir Hesam Salavati",
+            "Amin Shokrollahi"
+        ],
+        "url": "http://proceedings.mlr.press/v28/karbasi13.pdf",
+        "orgs": [
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-51",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Scaling Multidimensional Gaussian Processes using Projected Additive Approximations",
+        "authors": [
+            "Elad Gilboa Yunus Saatçi",
+            "John Cunningham",
+            "Elad Gilboa"
+        ],
+        "url": "http://proceedings.mlr.press/v28/gilboa13.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-52",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Active Learning for Multi-Objective Optimization",
+        "authors": [
+            "Marcela Zuluaga",
+            "Guillaume Sergent",
+            "Andreas Krause",
+            "Markus Püschel"
+        ],
+        "url": "http://proceedings.mlr.press/v28/zuluaga13.pdf",
+        "orgs": [
+            {
+                "name": "ETH Zürich",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-53",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "A Generalized Kernel Approach to Structured Output Learning",
+        "authors": [
+            "Hachem Kadri",
+            "Mohammad Ghavamzadeh",
+            "Philippe Preux"
+        ],
+        "url": "http://proceedings.mlr.press/v28/kadri13.pdf",
+        "orgs": [
+            {
+                "name": "University of Lille",
+                "country": "France"
+            },
+            {
+                "name": "INRIA",
+                "country": "France"
+            },
+            {
+                "name": "INRIA",
+                "country": "France"
+            },
+            {
+                "name": "Aix Marseille University",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-54",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Efficient Active Learning of Halfspaces: an Aggressive Approach",
+        "authors": [
+            "Alon Gonen",
+            "Sivan Sabato",
+            "Shai Shalev-Shwartz"
+        ],
+        "url": "http://proceedings.mlr.press/v28/gonen13.pdf",
+        "orgs": [
+            {
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-55",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Enhanced statistical rankings via targeted data collection",
+        "authors": [
+            "Braxton Osting",
+            "Christoph Brune",
+            "Stanley Osher"
+        ],
+        "url": "http://proceedings.mlr.press/v28/osting13.pdf",
+        "orgs": [
+            {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-56",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Online Feature Selection for Model-based Reinforcement Learning",
+        "authors": [
+            "Trung Nguyen",
+            "Zhuoru Li",
+            "Tomi Silander",
+            "Tze Yun Leong"
+        ],
+        "url": "http://proceedings.mlr.press/v28/nguyen13.pdf",
+        "orgs": [
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-57",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "ELLA: An Efficient Lifelong Learning Algorithm",
+        "authors": [
+            "Paul Ruvolo",
+            "Eric Eaton"
+        ],
+        "url": "http://proceedings.mlr.press/v28/ruvolo13.pdf",
+        "orgs": [
+            {
+                "name": "Bryn Mawr College",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-58",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "A Structural SVM Based Approach for Optimizing Partial AUC",
+        "authors": [
+            "Harikrishna Narasimhan",
+            "Shivani Agarwal"
+        ],
+        "url": "http://proceedings.mlr.press/v28/narasimhan13.pdf",
+        "orgs": [
+            {
+                "name": "Indian Institute of Science",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-59",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Convex Relaxations for Learning Bounded-Treewidth Decomposable Graphs",
+        "authors": [
+            "K. S. Sesh Kumar",
+            "Francis Bach"
+        ],
+        "url": "http://proceedings.mlr.press/v28/kumar13c.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICML13-60",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Adaptive Task Assignment for Crowdsourced Classification",
+        "authors": [
+            "Chien-Ju Ho",
+            "Shahin Jabbari",
+            "Jennifer Wortman Vaughan"
+        ],
+        "url": "http://proceedings.mlr.press/v28/ho13.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-61",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Optimal Regret Bounds for Selecting the State Representation in Reinforcement Learning",
+        "authors": [
+            "Odalric-Ambrym Maillard",
+            "Phuong Nguyen",
+            "Ronald Ortner",
+            "Daniil Ryabko"
+        ],
+        "url": "http://proceedings.mlr.press/v28/maillard13.pdf",
+        "orgs": [
+            {
+                "name": "INRIA",
+                "country": "France"
+            },
+            {
+                "name": "Australian National University",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-62",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Better Mixing via Deep Representations",
+        "authors": [
+            "Yoshua Bengio",
+            "Gregoire Mesnil",
+            "Yann Dauphin",
+            "Salah Rifai"
+        ],
+        "url": "http://proceedings.mlr.press/v28/bengio13.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "University of Rouen",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-63",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Online Latent Dirichlet Allocation with Infinite Vocabulary",
+        "authors": [
+            "Ke Zhai",
+            "Jordan Boyd-Graber"
+        ],
+        "url": "http://proceedings.mlr.press/v28/zhai13.pdf",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-64",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Characterizing the Representer Theorem",
+        "authors": [
+            "Yaoliang Yu",
+            "Hao Cheng",
+            "Dale Schuurmans",
+            "Csaba Szepesvari"
+        ],
+        "url": "http://proceedings.mlr.press/v28/yu13.pdf",
+        "orgs": [
+            {
+                "name": "University of Alberta",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-65",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Dynamical Models and tracking regret in online convex programming",
+        "authors": [
+            "Eric Hall",
+            "Rebecca Willett"
+        ],
+        "url": "http://proceedings.mlr.press/v28/hall13.pdf",
+        "orgs": [
+            {
+                "name": "Duke University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-66",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Large-Scale Bandit Problems and KWIK Learning",
+        "authors": [
+            "Jacob Abernethy",
+            "Kareem Amin",
+            "Michael Kearns",
+            "Moez Draief"
+        ],
+        "url": "http://proceedings.mlr.press/v28/abernethy13.pdf",
+        "orgs": [
+            {
+                "name": "Imperial College London",
+                "country": "UK"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-67",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Vanishing Component Analysis",
+        "authors": [
+            "Roi Livni",
+            "David Lehavi",
+            "Sagi Schein",
+            "Hila Nachliely",
+            "Shai Shalev-Shwartz",
+            "Amir Globerson"
+        ],
+        "url": "http://proceedings.mlr.press/v28/livni13.pdf",
+        "orgs": [
+            {
+                "name": "University of Jerusalem Givat Ram",
+                "country": "Israel"
+            },
+            {
+                "name": "HP Labs",
+                "country": "USA"
+            },
+            {
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-68",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning an Internal Dynamics Model from Control Demonstration",
+        "authors": [
+            "Matthew Golub",
+            "Steven Chase",
+            "Byron Yu"
+        ],
+        "url": "http://proceedings.mlr.press/v28/golub13.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-69",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Robust Structural Metric Learning",
+        "authors": [
+            "Daryl Lim",
+            "Gert Lanckriet",
+            "Brian McFee"
+        ],
+        "url": "http://proceedings.mlr.press/v28/lim13.pdf",
+        "orgs": [
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            },
+            {
+                "name": "University of California San Diego",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-70",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Constrained fractional set programs and their application in local clustering and community detection",
+        "authors": [
+            "Thomas Bühler",
+            "Shyam Sundar Rangapuram",
+            "Simon Setzer",
+            "Matthias Hein"
+        ],
+        "url": "http://proceedings.mlr.press/v28/buhler13.pdf",
+        "orgs": [
+            {
+                "name": "Saarland University",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-71",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Efficient Semi-supervised and Active Learning of Disjunctions",
+        "authors": [
+            "Nina Balcan",
+            "Christopher Berlind",
+            "Steven Ehrlich",
+            "Yingyu Liang"
+        ],
+        "url": "http://proceedings.mlr.press/v28/balcan13.pdf",
+        "orgs": [
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-72",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Convex Adversarial Collective Classification",
+        "authors": [
+            "MohamadAli Torkamani",
+            "Daniel Lowd"
+        ],
+        "url": "http://proceedings.mlr.press/v28/torkamani13.pdf",
+        "orgs": [
+            {
+                "name": "University of Oregon",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-73",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Rounding Methods for Discrete Linear Classification",
+        "authors": [
+            "Yann Chevaleyre",
+            "Frédéerick Koriche",
+            "Jean-daniel Zucker"
+        ],
+        "url": "http://proceedings.mlr.press/v28/chevaleyre13.pdf",
+        "orgs": [
+            {
+                "name": "Université Paris Nord",
+                "country": "France"
+            },
+            {
+                "name": "Artois University",
+                "country": "France"
+            },
+            {
+                "name": "Pierre and Marie Curie University",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-74",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Mixture of Mutually Exciting Processes for Viral Diffusion",
+        "authors": [
+            "Shuang-Hong Yang",
+            "Hongyuan Zha"
+        ],
+        "url": "http://proceedings.mlr.press/v28/yang13a.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICML13-75",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Gaussian Process Vine Copulas for Multivariate Dependence",
+        "authors": [
+            "David Lopez-Paz",
+            "Jose Miguel Hernández-Lobato",
+            "Ghahramani Zoubin"
+        ],
+        "url": "http://proceedings.mlr.press/v28/lopez-paz13.pdf",
+        "orgs": [
+            {
+                "name": "Max Planck Institute for Intelligent Systems",
+                "country": "Germany"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-76",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Stochastic Simultaneous Optimistic Optimization",
+        "authors": [
+            "Michal Valko",
+            "Alexandra Carpentier",
+            "Rémi Munos"
+        ],
+        "url": "http://proceedings.mlr.press/v28/valko13.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "INRIA",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-77",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Toward Optimal Stratification for Stratified Monte-Carlo Integration",
+        "authors": [
+            "Alexandra Carpentier",
+            "Rémi Munos"
+        ],
+        "url": "http://proceedings.mlr.press/v28/carpentier13.pdf",
+        "orgs": [
+            {
+                "name": "INRIA",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-78",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "A General Iterative Shrinkage and Thresholding Algorithm for Non-convex Regularized Optimization Problems",
+        "authors": [
+            "Pinghua Gong",
+            "Changshui Zhang",
+            "Zhaosong Lu",
+            "Jianhua Huang",
+            "Jieping Ye"
+        ],
+        "url": "http://proceedings.mlr.press/v28/gong13a.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            },
+            {
+                "name": "Arizona State University",
+                "country": "USA"
+            },
+            {
+                "name": "Texas A&M University",
+                "country": "USA"
+            },
+            {
+                "name": "Simon Fraser University",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-79",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Thurstonian Boltzmann Machines: Learning from Multiple Inequalities",
+        "authors": [
+            "Truyen Tran",
+            "Dinh Phung",
+            "Svetha Venkatesh"
+        ],
+        "url": "http://proceedings.mlr.press/v28/tran13.pdf",
+        "orgs": [
+            {
+                "name": "Curtin University",
+                "country": "Australia"
+            },
+            {
+                "name": "Deakin University",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-80",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "A Variational Approximation for Topic Modeling of Hierarchical Corpora",
+        "authors": [
+            "Do-kyum Kim",
+            "Geoffrey Voelker",
+            "Lawrence Saul"
+        ],
+        "url": "http://proceedings.mlr.press/v28/kim13.pdf",
+        "orgs": [
+            {
+                "name": "University of California San Diego",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-81",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Forecastable Component Analysis",
+        "authors": [
+            "Georg Goerg"
+        ],
+        "url": "http://proceedings.mlr.press/v28/goerg13.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-82",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Ellipsoidal Multiple Instance Learning",
+        "authors": [
+            "Gabriel Krummenacher",
+            "Cheng Soon Ong",
+            "Joachim Buhmann"
+        ],
+        "url": "http://proceedings.mlr.press/v28/krummenacher13.pdf",
+        "orgs": [
+            {
+                "name": "ETH Zürich",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-83",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Local Low-Rank Matrix Approximation",
+        "authors": [
+            "Joonseok Lee",
+            "Seungyeon Kim",
+            "Guy Lebanon",
+            "Yoram Singer"
+        ],
+        "url": "http://proceedings.mlr.press/v28/lee13.pdf",
+        "orgs": [
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-84",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Generic Exploration and K-armed Voting Bandits",
+        "authors": [
+            "Tanguy Urvoy",
+            "Fabrice Clerot",
+            "Raphael Féraud",
+            "Sami Naamane"
+        ],
+        "url": "http://proceedings.mlr.press/v28/urvoy13.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICML13-85",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "A unifying framework for vector-valued manifold regularization and multi-view learning",
+        "authors": [
+            "Minh Hà Quang",
+            "Loris Bazzani",
+            "Vittorio Murino"
+        ],
+        "url": "http://proceedings.mlr.press/v28/haquang13.pdf",
+        "orgs": [
+            {
+                "name": "Istituto Italiano di Tecnologia",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-86",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning Connections in Financial Time Series",
+        "authors": [
+            "Gartheeban Ganeshapillai",
+            "John Guttag",
+            "Andrew Lo"
+        ],
+        "url": "http://proceedings.mlr.press/v28/ganeshapillai13.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-87",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Fast dropout training",
+        "authors": [
+            "Sida Wang",
+            "Christopher Manning"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wang13a.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-88",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Scalable Optimization of Neighbor Embedding for Visualization",
+        "authors": [
+            "Zhirong Yang",
+            "Jaakko Peltonen",
+            "Samuel Kaski"
+        ],
+        "url": "http://proceedings.mlr.press/v28/yang13b.pdf",
+        "orgs": [
+            {
+                "name": "Helsinki Institute for Information Technology",
+                "country": "Finland"
+            },
+            {
+                "name": "Aalto University",
+                "country": "Finland"
+            },
+            {
+                "name": "University of Helsinki",
+                "country": "Finland"
+            },
+            {
+                "name": "Aalto University",
+                "country": "Finland"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-89",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Precision-recall space to correct external indices for biclustering",
+        "authors": [
+            "Blaise Hanczar",
+            "Mohamed Nadif"
+        ],
+        "url": "http://proceedings.mlr.press/v28/hanczar13.pdf",
+        "orgs": [
+            {
+                "name": "Université Paris Descartes",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-90",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Monochromatic Bi-Clustering",
+        "authors": [
+            "Sharon Wulff",
+            "Ruth Urner",
+            "Shai Ben-David"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wulff13.pdf",
+        "orgs": [
+            {
+                "name": "ETH Zürich",
+                "country": "Switzerland"
+            },
+            {
+                "name": "University of Waterloo",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-91",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Gated Autoencoders with Tied Input Weights",
+        "authors": [
+            "Droniou Alain",
+            "Sigaud Olivier"
+        ],
+        "url": "http://proceedings.mlr.press/v28/alain13.pdf",
+        "orgs": [
+            {
+                "name": "Pierre and Marie Curie University",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-92",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Strict Monotonicity of Sum of Squares Error and Normalized Cut in the Lattice of Clusterings",
+        "authors": [
+            "Nicola Rebagliati"
+        ],
+        "url": "http://proceedings.mlr.press/v28/rebagliati13.pdf",
+        "orgs": [
+            {
+                "name": "VTT Technical Research Centre of Finland",
+                "country": "Finland"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-93",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Transition Matrix Estimation in High Dimensional Time Series",
+        "authors": [
+            "Fang Han",
+            "Han Liu"
+        ],
+        "url": "http://proceedings.mlr.press/v28/han13a.pdf",
+        "orgs": [
+            {
+                "name": "Princeton University",
+                "country": "USA"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-94",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Label Partitioning For Sublinear Ranking",
+        "authors": [
+            "Jason Weston",
+            "Ameesh Makadia",
+            "Hector Yee"
+        ],
+        "url": "http://proceedings.mlr.press/v28/weston13.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-95",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Subproblem-Tree Calibration: A Unified Approach to Max-Product Message Passing",
+        "authors": [
+            "Huayan Wang",
+            "Koller Daphne"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wang13b.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-96",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Collaborative hyperparameter tuning",
+        "authors": [
+            "Rémi Bardenet",
+            "Mátyás Brendel",
+            "Balázs Kégl",
+            "Michèle Sebag"
+        ],
+        "url": "http://proceedings.mlr.press/v28/bardenet13.pdf",
+        "orgs": [
+            {
+                "name": "Univ Paris Sud",
+                "country": "France"
+            },
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-97",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "SADA: A General Framework to Support Robust Causation Discovery",
+        "authors": [
+            "Ruichu Cai",
+            "Zhenjie Zhang",
+            "Zhifeng Hao"
+        ],
+        "url": "http://proceedings.mlr.press/v28/cai13.pdf",
+        "orgs": [
+            {
+                "name": "Guangdong University of Technology",
+                "country": "China"
+            },
+            {
+                "name": "Nanjing University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-98",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning and Selecting Features Jointly with Point-wise Gated Boltzmann Machines",
+        "authors": [
+            "Kihyuk Sohn",
+            "Guanyu Zhou",
+            "Chansoo Lee",
+            "Honglak Lee"
+        ],
+        "url": "http://proceedings.mlr.press/v28/sohn13.pdf",
+        "orgs": [
+            {
+                "name": "University of Michigan",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-99",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Sequential Bayesian Search",
+        "authors": [
+            "Zheng Wen",
+            "Branislav Kveton",
+            "Brian Eriksson",
+            "Sandilya Bhamidipati"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wen13.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-100",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Sparse projections onto the simplex",
+        "authors": [
+            "Anastasios Kyrillidis",
+            "Stephen Becker",
+            "Volkan Cevher",
+            "Christoph Koch"
+        ],
+        "url": "http://proceedings.mlr.press/v28/kyrillidis13.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICML13-101",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Modeling Musical Influence with Topic Models",
+        "authors": [
+            "Uri Shalit",
+            "Daphna Weinshall",
+            "Gal Chechik"
+        ],
+        "url": "http://proceedings.mlr.press/v28/shalit13.pdf",
+        "orgs": [
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            },
+            {
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-102",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Subtle Topic Models and Discovering Subtly Manifested Software Concerns Automatically",
+        "authors": [
+            "Mrinal Das",
+            "Suparna Bhattacharya",
+            "Chiranjib Bhattacharyya",
+            "Gopinath Kanchi"
+        ],
+        "url": "http://proceedings.mlr.press/v28/das13.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Indian Institute of Science",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-103",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Exploring the Mind: Integrating Questionnaires and fMRI",
+        "authors": [
+            "Esther Salazar",
+            "Ryan Bogdan",
+            "Adam Gorka",
+            "Ahmad Hariri",
+            "Lawrence Carin"
+        ],
+        "url": "http://proceedings.mlr.press/v28/salazar13.pdf",
+        "orgs": [
+            {
+                "name": "Duke University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-104",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "A proximal Newton framework for composite minimization: Graph learning without Cholesky decompositions and matrix inversions",
+        "authors": [
+            "Quoc Tran Dinh",
+            "Anastasios Kyrillidis",
+            "Volkan Cevher"
+        ],
+        "url": "http://proceedings.mlr.press/v28/trandinh13.pdf",
+        "orgs": [
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-105",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "A Practical Algorithm for Topic Modeling with Provable Guarantees",
+        "authors": [
+            "Sanjeev Arora",
+            "Rong Ge",
+            "Yonatan Halpern",
+            "David Mimno",
+            "Ankur Moitra",
+            "David Sontag",
+            "Yichen Wu",
+            "Michael Zhu"
+        ],
+        "url": "http://proceedings.mlr.press/v28/arora13.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICML13-106",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Distributed training of Large-scale Logistic models",
+        "authors": [
+            "Siddharth Gopal",
+            "Yiming Yang"
+        ],
+        "url": "http://proceedings.mlr.press/v28/gopal13.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-107",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "An Adaptive Learning Rate for Stochastic Variational Inference",
+        "authors": [
+            "Rajesh Ranganath",
+            "Chong Wang",
+            "Blei David",
+            "Eric Xing"
+        ],
+        "url": "http://proceedings.mlr.press/v28/ranganath13.pdf",
+        "orgs": [
+            {
+                "name": "Princeton University",
+                "country": "USA"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-108",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Margins, Shrinkage, and Boosting",
+        "authors": [
+            "Matus Telgarsky"
+        ],
+        "url": "http://proceedings.mlr.press/v28/telgarsky13.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICML13-109",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Canonical Correlation Analysis based on Hilbert-Schmidt Independence Criterion and Centered Kernel Target Alignment",
+        "authors": [
+            "Billy Chang",
+            "Uwe Kruger",
+            "Rafal Kustra",
+            "Junping Zhang"
+        ],
+        "url": "http://proceedings.mlr.press/v28/chang13.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            },
+            {
+                "name": "Fudan University",
+                "country": "China"
+            },
+            {
+                "name": "Sultan Qaboos University",
+                "country": "Oman"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-110",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Large-Scale Learning with Less RAM via Randomization",
+        "authors": [
+            "Daniel Golovin",
+            "D. Sculley",
+            "Brendan McMahan",
+            "Michael Young"
+        ],
+        "url": "http://proceedings.mlr.press/v28/golovin13.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-111",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Taming the Curse of Dimensionality: Discrete Integration by Hashing and Optimization",
+        "authors": [
+            "Stefano Ermon",
+            "Carla Gomes",
+            "Ashish Sabharwal",
+            "Bart Selman"
+        ],
+        "url": "http://proceedings.mlr.press/v28/ermon13.pdf",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-112",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Sparse coding for multitask and transfer learning",
+        "authors": [
+            "Andreas Maurer",
+            "Massi Pontil",
+            "Bernardino Romera-Paredes"
+        ],
+        "url": "http://proceedings.mlr.press/v28/maurer13.pdf",
+        "orgs": [
+            {
+                "name": "University College London",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-113",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Direct Modeling of Complex Invariances for Visual Object Features",
+        "authors": [
+            "Ka Yu Hui"
+        ],
+        "url": "http://proceedings.mlr.press/v28/yuhui13.pdf",
+        "orgs": [
+            {
+                "name": "The Chinese University of Hong Kong",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-114",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Hierarchically-coupled hidden Markov models for learning kinetic rates from single-molecule data",
+        "authors": [
+            "Jan-Willem Meent",
+            "Jonathan Bronson",
+            "Frank Wood",
+            "Ruben Gonzalez Jr.",
+            "Chris Wiggins"
+        ],
+        "url": "http://proceedings.mlr.press/v28/willemvandemeent13.pdf",
+        "orgs": [
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-115",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Activized Learning with Uniform Classification Noise",
+        "authors": [
+            "Liu Yang",
+            "Steve Hanneke"
+        ],
+        "url": "http://proceedings.mlr.press/v28/yang13c.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-116",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Guided Policy Search",
+        "authors": [
+            "Sergey Levine",
+            "Vladlen Koltun"
+        ],
+        "url": "http://proceedings.mlr.press/v28/levine13.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-117",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Squared-loss Mutual Information Regularization: A Novel Information-theoretic Approach to Semi-supervised Learning",
+        "authors": [
+            "Gang Niu",
+            "Wittawat Jitkrittum",
+            "Bo Dai",
+            "Hirotaka Hachiya",
+            "Masashi Sugiyama"
+        ],
+        "url": "http://proceedings.mlr.press/v28/niu13.pdf",
+        "orgs": [
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Tokyo Institute of Technology",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-118",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Gossip-based distributed stochastic bandit algorithms",
+        "authors": [
+            "Balazs Szorenyi",
+            "Robert Busa-Fekete",
+            "Istvan Hegedus",
+            "Robert Ormandi",
+            "Mark Jelasity",
+            "Balazs Kegl"
+        ],
+        "url": "http://proceedings.mlr.press/v28/szorenyi13.pdf",
+        "orgs": [
+            {
+                "name": "Univ Paris Sud",
+                "country": "France"
+            },
+            {
+                "name": "Philipps-Universität Marburg",
+                "country": "Germany"
+            },
+            {
+                "name": "INRIA",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-119",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "The Sample-Complexity of General Reinforcement Learning",
+        "authors": [
+            "Tor Lattimore",
+            "Marcus Hutter",
+            "Peter Sunehag"
+        ],
+        "url": "http://proceedings.mlr.press/v28/lattimore13.pdf",
+        "orgs": [
+            {
+                "name": "Australian National University",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-120",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Hierarchical Regularization Cascade for Joint Learning",
+        "authors": [
+            "Alon Zweig",
+            "Daphna Weinshall"
+        ],
+        "url": "http://proceedings.mlr.press/v28/zweig13.pdf",
+        "orgs": [
+            {
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-121",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Multi-Class Classification with Maximum Margin Multiple Kernel",
+        "authors": [
+            "Corinna Cortes",
+            "Mehryar Mohri",
+            "Afshin Rostamizadeh"
+        ],
+        "url": "http://proceedings.mlr.press/v28/cortes13.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Courant Institute of Mathematical Sciences",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-122",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Bayesian Games for Adversarial Regression Problems",
+        "authors": [
+            "Michael Großhans",
+            "Christoph Sawade",
+            "Michael Brückner",
+            "Tobias Scheffer"
+        ],
+        "url": "http://proceedings.mlr.press/v28/grosshans13.pdf",
+        "orgs": [
+            {
+                "name": "Universität Potsdam",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-123",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Optimistic Knowledge Gradient Policy for Optimal Budget Allocation in Crowdsourcing",
+        "authors": [
+            "Xi Chen",
+            "Qihang Lin",
+            "Dengyong Zhou"
+        ],
+        "url": "http://proceedings.mlr.press/v28/chen13f.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Amazon",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-124",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Markov Network Estimation From Multi-attribute Data",
+        "authors": [
+            "Mladen Kolar",
+            "Han Liu",
+            "Eric Xing"
+        ],
+        "url": "http://proceedings.mlr.press/v28/kolar13a.pdf",
+        "orgs": [
+            {
+                "name": "Princeton University",
+                "country": "USA"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-125",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "MILEAGE: Multiple Instance LEArning with Global Embedding",
+        "authors": [
+            "Dan Zhang",
+            "Jingrui He",
+            "Luo Si",
+            "Richard Lawrence"
+        ],
+        "url": "http://proceedings.mlr.press/v28/zhang13a.pdf",
+        "orgs": [
+            {
+                "name": "Purdue University",
+                "country": "USA"
+            },
+            {
+                "name": "Stevens Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-126",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Guaranteed Sparse Recovery under Linear Transformation",
+        "authors": [
+            "Ji Liu",
+            "Lei Yuan",
+            "Jieping Ye"
+        ],
+        "url": "http://proceedings.mlr.press/v28/liu13.pdf",
+        "orgs": [
+            {
+                "name": "Arizona State University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Wisconsin–Madison",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-127",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning invariant features by harnessing the aperture problem",
+        "authors": [
+            "Roland Memisevic",
+            "Georgios Exarchakis"
+        ],
+        "url": "http://proceedings.mlr.press/v28/memisevic13.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-128",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Efficient Ranking from Pairwise Comparisons",
+        "authors": [
+            "Fabian Wauthier",
+            "Michael Jordan",
+            "Nebojsa Jojic"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wauthier13.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-129",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Differentially Private Learning with Kernels",
+        "authors": [
+            "Prateek Jain",
+            "Abhradeep Thakurta"
+        ],
+        "url": "http://proceedings.mlr.press/v28/jain13.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-130",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Thompson Sampling for Contextual Bandits with Linear Payoffs",
+        "authors": [
+            "Shipra Agrawal",
+            "Navin Goyal"
+        ],
+        "url": "http://proceedings.mlr.press/v28/agrawal13.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-131",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning Multiple Behaviors from Unlabeled Demonstrations in a Latent Controller Space",
+        "authors": [
+            "Javier Almingol",
+            "Lui Montesano",
+            "Manuel Lopes"
+        ],
+        "url": "http://proceedings.mlr.press/v28/almingol13.pdf",
+        "orgs": [
+            {
+                "name": "INRIA",
+                "country": "France"
+            },
+            {
+                "name": "University of Zaragoza",
+                "country": "Spain"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-132",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Inference algorithms for pattern-based CRFs on sequence data",
+        "authors": [
+            "Rustem Takhanov",
+            "Vladimir Kolmogorov"
+        ],
+        "url": "http://proceedings.mlr.press/v28/takhanov13.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICML13-133",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "One-Bit Compressed Sensing: Provable Support and Vector Recovery",
+        "authors": [
+            "Sivakant Gopi",
+            "Praneeth Netrapalli",
+            "Prateek Jain",
+            "Aditya Nori"
+        ],
+        "url": "http://proceedings.mlr.press/v28/gopi13.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            },
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-134",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Tensor Analyzers",
+        "authors": [
+            "Yichuan Tang",
+            "Ruslan Salakhutdinov",
+            "Geoffrey Hinton"
+        ],
+        "url": "http://proceedings.mlr.press/v28/tang13.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-135",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning Sparse Penalties for Change-point Detection using Max Margin Interval Regression",
+        "authors": [
+            "Toby Hocking",
+            "Guillem Rigaill",
+            "Jean-Philippe Vert",
+            "Francis Bach"
+        ],
+        "url": "http://proceedings.mlr.press/v28/hocking13.pdf",
+        "orgs": [
+            {
+                "name": "INRIA",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-136",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning from Human-Generated Lists",
+        "authors": [
+            "Kwang-Sung Jun",
+            "Jerry Zhu",
+            "Burr Settles",
+            "Timothy Rogers"
+        ],
+        "url": "http://proceedings.mlr.press/v28/jun13.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Wisconsin–Madison",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-137",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "A Fast and Exact Energy Minimization Algorithm for Cycle MRFs",
+        "authors": [
+            "Huayan Wang",
+            "Koller Daphne"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wang13f.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-138",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Stochastic k-Neighborhood Selection for Supervised and Unsupervised Learning",
+        "authors": [
+            "Daniel Tarlow",
+            "Kevin Swersky",
+            "Laurent Charlin",
+            "Ilya Sutskever",
+            "Rich Zemel"
+        ],
+        "url": "http://proceedings.mlr.press/v28/tarlow13.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-139",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "An Efficient Posterior Regularized Latent Variable Model for Interactive Sound Source Separation",
+        "authors": [
+            "Nicholas Bryan",
+            "Gautham Mysore"
+        ],
+        "url": "http://proceedings.mlr.press/v28/bryan13.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Adobe Research",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-140",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Estimating Unknown Sparsity in Compressed Sensing",
+        "authors": [
+            "Miles Lopes"
+        ],
+        "url": "http://proceedings.mlr.press/v28/lopes13.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-141",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "MAD-Bayes: MAP-based Asymptotic Derivations from Bayes",
+        "authors": [
+            "Tamara Broderick",
+            "Brian Kulis",
+            "Michael Jordan"
+        ],
+        "url": "http://proceedings.mlr.press/v28/broderick13.pdf",
+        "orgs": [
+            {
+                "name": "Ohio State University",
+                "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-142",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "The Most Generative Maximum Margin Bayesian Networks",
+        "authors": [
+            "Robert Peharz",
+            "Sebastian Tschiatschek",
+            "Franz Pernkopf"
+        ],
+        "url": "http://proceedings.mlr.press/v28/peharz13.pdf",
+        "orgs": [
+            {
+                "name": "Graz University of Technology",
+                "country": "Austria"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-143",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Fastfood - Computing Hilbert Space Expansions in loglinear time",
+        "authors": [
+            "Quoc Le",
+            "Tamas Sarlos",
+            "Alexander Smola"
+        ],
+        "url": "http://proceedings.mlr.press/v28/le13.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICML13-144",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Joint Transfer and Batch-mode Active Learning",
+        "authors": [
+            "Rita Chattopadhyay",
+            "Wei Fan",
+            "Ian Davidson",
+            "Sethuraman Panchanathan",
+            "Jieping Ye"
+        ],
+        "url": "http://proceedings.mlr.press/v28/chattopadhyay13.pdf",
+        "orgs": [
+            {
+                "name": "Arizona State University",
+                "country": "USA"
+            },
+            {
+                "name": "University of California Davis",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-145",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Message passing with l1 penalized KL minimization",
+        "authors": [
+            "Yuan Qi",
+            "Yandong Guo"
+        ],
+        "url": "http://proceedings.mlr.press/v28/qi13.pdf",
+        "orgs": [
+            {
+                "name": "Purdue University",
+                "country": "USA"
+            },
+            {
+                "name": "Purdue University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-146",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Mean Reversion with a Variance Threshold",
+        "authors": [
+            "Marco Cuturi",
+            "Alexandre D’Aspremont"
+        ],
+        "url": "http://proceedings.mlr.press/v28/cuturi13.pdf",
+        "orgs": [
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Kyoto University",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-147",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Top-down particle filtering for Bayesian decision trees",
+        "authors": [
+            "Balaji Lakshminarayanan",
+            "Daniel Roy",
+            "Yee Whye Teh"
+        ],
+        "url": "http://proceedings.mlr.press/v28/lakshminarayanan13.pdf",
+        "orgs": [
+            {
+                "name": "University College London",
+                "country": "UK"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-148",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Smooth Sparse Coding via Marginal Regression for Learning Sparse Representations",
+        "authors": [
+            "Krishnakumar Balasubramanian",
+            "Kai Yu",
+            "Guy Lebanon"
+        ],
+        "url": "http://proceedings.mlr.press/v28/balasubramanian13.pdf",
+        "orgs": [
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Baidu",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-149",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Robust and Discriminative Self-Taught Learning",
+        "authors": [
+            "Hua Wang",
+            "Feiping Nie",
+            "Heng Huang"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wang13g.pdf",
+        "orgs": [
+            {
+                "name": "University of Texas at Arlington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-150",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Safe Policy Iteration",
+        "authors": [
+            "Matteo Pirotta",
+            "Marcello Restelli",
+            "Alessio Pecorino",
+            "Daniele Calandriello"
+        ],
+        "url": "http://proceedings.mlr.press/v28/pirotta13.pdf",
+        "orgs": [
+            {
+                "name": "Politecnico di Milano",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-151",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Unfolding Latent Tree Structures using 4th Order Tensors",
+        "authors": [
+            "Mariya Ishteva",
+            "Haesun Park",
+            "Le Song"
+        ],
+        "url": "http://proceedings.mlr.press/v28/ishteva13.pdf",
+        "orgs": [
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Vrije Universiteit Brussel",
+                "country": "Belgium"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-152",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning Fair Representations",
+        "authors": [
+            "Rich Zemel",
+            "Yu Wu",
+            "Kevin Swersky",
+            "Toni Pitassi",
+            "Cynthia Dwork"
+        ],
+        "url": "http://proceedings.mlr.press/v28/zemel13.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-153",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Hierarchical Tensor Decomposition of Latent Tree Graphical Models",
+        "authors": [
+            "Le Song",
+            "Mariya Ishteva",
+            "Ankur Parikh",
+            "Eric Xing",
+            "Haesun Park"
+        ],
+        "url": "http://proceedings.mlr.press/v28/song13.pdf",
+        "orgs": [
+            {
+                "name": "Vrije Universiteit Brussel",
+                "country": "Belgium"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-154",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "No more pesky learning rates",
+        "authors": [
+            "Tom Schaul",
+            "Sixin Zhang",
+            "Yann LeCun"
+        ],
+        "url": "http://proceedings.mlr.press/v28/schaul13.pdf",
+        "orgs": [
+            {
+                "name": "Courant Institute of Mathematical Sciences",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-155",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Multi-View Clustering and Feature Learning via Structured Sparsity",
+        "authors": [
+            "Hua Wang",
+            "Feiping Nie",
+            "Heng Huang"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wang13c.pdf",
+        "orgs": [
+            {
+                "name": "University of Texas at Arlington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-156",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Planning by Prioritized Sweeping with Small Backups",
+        "authors": [
+            "Harm Van Seijen",
+            "Rich Sutton"
+        ],
+        "url": "http://proceedings.mlr.press/v28/vanseijen13.pdf",
+        "orgs": [
+            {
+                "name": "University of Alberta",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-157",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Solving Continuous POMDPs: Value Iteration with Incremental Learning of an Efficient Space Representation",
+        "authors": [
+            "Sebastian Brechtel",
+            "Tobias Gindele",
+            "Rüdiger Dillmann"
+        ],
+        "url": "http://proceedings.mlr.press/v28/brechtel13.pdf",
+        "orgs": [
+            {
+                "name": "Karlsruhe Institute of Technology KIT",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-158",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning Heteroscedastic Models by Convex Programming under Group Sparsity",
+        "authors": [
+            "Arnak Dalalyan",
+            "Mohamed Hebiri",
+            "Katia Meziani",
+            "Joseph Salmon"
+        ],
+        "url": "http://proceedings.mlr.press/v28/dalalyan13.pdf",
+        "orgs": [
+            {
+                "name": "Université Paris-Est",
+                "country": "France"
+            },
+            {
+                "name": "Paris Dauphine University",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-159",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Covariate Shift in Hilbert Space: A Solution via Sorrogate Kernels",
+        "authors": [
+            "Kai Zhang",
+            "Vincent Zheng",
+            "Qiaojun Wang",
+            "James Kwok",
+            "Qiang Yang",
+            "Ivan Marsic"
+        ],
+        "url": "http://proceedings.mlr.press/v28/zhang13b.pdf",
+        "orgs": [
+            {
+                "name": "Hong Kong University of Science and Technology",
+                "country": "China"
+            },
+            {
+                "name": "NEC Laboratories America",
+                "country": "USA"
+            },
+            {
+                "name": "State University of New Jersey",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-160",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "A Local Algorithm for Finding Well-Connected Clusters",
+        "authors": [
+            "Zeyuan Allen Zhu",
+            "Silvio Lattanzi",
+            "Vahab Mirrokni"
+        ],
+        "url": "http://proceedings.mlr.press/v28/allenzhu13.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-161",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Efficient Multi-label Classification with Many Labels",
+        "authors": [
+            "Wei Bi",
+            "James Kwok"
+        ],
+        "url": "http://proceedings.mlr.press/v28/bi13.pdf",
+        "orgs": [
+            {
+                "name": "Hong Kong University of Science and Technology",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-162",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Spectral Compressed Sensing via Structured Matrix Completion",
+        "authors": [
+            "Yuxin Chen",
+            "Yuejie Chi"
+        ],
+        "url": "http://proceedings.mlr.press/v28/chen13g.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "The Ohio State University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-163",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Multi-Task Learning with Gaussian Matrix Generalized Inverse Gaussian Model",
+        "authors": [
+            "Ming Yang",
+            "Yingming Li",
+            "Zhongfei Zhang"
+        ],
+        "url": "http://proceedings.mlr.press/v28/yang13d.pdf",
+        "orgs": [
+            {
+                "name": "Zhejiang University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-164",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Simple Sparsification Improves Sparse Denoising Autoencoders in Denoising Highly Corrupted Images",
+        "authors": [
+            "Kyunghyun Cho"
+        ],
+        "url": "http://proceedings.mlr.press/v28/cho13.pdf",
+        "orgs": [
+            {
+                "name": "Aalto University",
+                "country": "Finland"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-165",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "On the Generalization Ability of Online Learning Algorithms for Pairwise Loss Functions",
+        "authors": [
+            "Purushottam Kar",
+            "Bharath Sriperumbudur",
+            "Prateek Jain",
+            "Harish Karnick"
+        ],
+        "url": "http://proceedings.mlr.press/v28/kar13.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Indian Institute of Technology",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-166",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Non-Linear Stationary Subspace Analysis with Application to Video Classification",
+        "authors": [
+            "Mahsa Baktashmotlagh",
+            "Mehrtash Harandi",
+            "Abbas Bigdeli",
+            "Brian Lovell",
+            "Mathieu Salzmann"
+        ],
+        "url": "http://proceedings.mlr.press/v28/baktashmotlagh13.pdf",
+        "orgs": [
+            {
+                "name": "University of Queensland",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-167",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Two-Sided Exponential Concentration Bounds for Bayes Error Rate and Shannon Entropy",
+        "authors": [
+            "Jean Honorio",
+            "Jaakkola Tommi"
+        ],
+        "url": "http://proceedings.mlr.press/v28/honorio13.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-168",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "That was fast! Speeding up NN search of high dimensional distributions.",
+        "authors": [
+            "Emanuele Coviello",
+            "Adeel Mumtaz",
+            "Antoni Chan",
+            "Gert Lanckriet"
+        ],
+        "url": "http://proceedings.mlr.press/v28/coviello13.pdf",
+        "orgs": [
+            {
+                "name": "City University of Hong Kong",
+                "country": "China"
+            },
+            {
+                "name": "University of California San Diego",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-169",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Entropic Affinities: Properties and Efficient Numerical Computation",
+        "authors": [
+            "Max Vladymyrov",
+            "Miguel Carreira-Perpinan"
+        ],
+        "url": "http://proceedings.mlr.press/v28/vladymyrov13.pdf",
+        "orgs": [
+            {
+                "name": "University of California Merced",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-170",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Local Deep Kernel Learning for Efficient Non-linear SVM Prediction",
+        "authors": [
+            "Cijo Jose",
+            "Prasoon Goyal",
+            "Parv Aggrwal",
+            "Manik Varma"
+        ],
+        "url": "http://proceedings.mlr.press/v28/jose13.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "IIT Delhi",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-171",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Temporal Difference Methods for the Variance of the Reward To Go",
+        "authors": [
+            "Aviv Tamar",
+            "Dotan Di Castro",
+            "Shie Mannor"
+        ],
+        "url": "http://proceedings.mlr.press/v28/tamar13.pdf",
+        "orgs": [
+            {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-172",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "\\proptoSVM for Learning with Label Proportions",
+        "authors": [
+            "Felix Yu",
+            "Dong Liu",
+            "Sanjiv Kumar",
+            "Jebara Tony",
+            "Shih-Fu Chang"
+        ],
+        "url": "http://proceedings.mlr.press/v28/yu13a.pdf",
+        "orgs": [
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-173",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Parameter Learning and Convergent Inference for Dense Random Fields",
+        "authors": [
+            "Philipp Kraehenbuehl",
+            "Vladlen Koltun"
+        ],
+        "url": "http://proceedings.mlr.press/v28/kraehenbuehl13.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-174",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Loss-Proportional Subsampling for Subsequent ERM",
+        "authors": [
+            "Paul Mineiro",
+            "Nikos Karampatziakis"
+        ],
+        "url": "http://proceedings.mlr.press/v28/mineiro13.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-175",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Scalable Simple Random Sampling and Stratified Sampling",
+        "authors": [
+            "Xiangrui Meng"
+        ],
+        "url": "http://proceedings.mlr.press/v28/meng13a.pdf",
+        "orgs": [
+            {
+                "name": "LinkedIn Corporation",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-176",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Riemannian Similarity Learning",
+        "authors": [
+            "Li Cheng"
+        ],
+        "url": "http://proceedings.mlr.press/v28/cheng13.pdf",
+        "orgs": [
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-177",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "On Compact Codes for Spatially Pooled Features",
+        "authors": [
+            "Yangqing Jia",
+            "Oriol Vinyals",
+            "Trevor Darrell"
+        ],
+        "url": "http://proceedings.mlr.press/v28/jia13.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-178",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Dynamic Covariance Models for Multivariate Financial Time Series",
+        "authors": [
+            "Yue Wu",
+            "Jose Miguel Hernandez-Lobato",
+            "Ghahramani Zoubin"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wu13.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-179",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Revisiting the Nystrom method for improved large-scale machine learning",
+        "authors": [
+            "Alex Gittens",
+            "Michael Mahoney"
+        ],
+        "url": "http://proceedings.mlr.press/v28/gittens13.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-180",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Infinite Positive Semidefinite Tensor Factorization for Source Separation of Mixture Signals",
+        "authors": [
+            "Kazuyoshi Yoshii",
+            "Ryota Tomioka",
+            "Daichi Mochihashi",
+            "Masataka Goto"
+        ],
+        "url": "http://proceedings.mlr.press/v28/yoshii13.pdf",
+        "orgs": [
+            {
+                "name": "University of Tokyo",
+                "country": "Japan"
+            },
+            {
+                "name": "The Institute of Statistical Mathematics",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-181",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "A Unified Robust Regression Model for Lasso-like Algorithms",
+        "authors": [
+            "Wenzhuo Yang",
+            "Huan Xu"
+        ],
+        "url": "http://proceedings.mlr.press/v28/yang13e.pdf",
+        "orgs": [
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-182",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Quickly Boosting Decision Trees – Pruning Underachieving Features Early",
+        "authors": [
+            "Ron Appel",
+            "Thomas Fuchs",
+            "Piotr Dollar",
+            "Pietro Perona"
+        ],
+        "url": "http://proceedings.mlr.press/v28/appel13.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-183",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "On the Statistical Consistency of Algorithms for Binary Classification under Class Imbalance",
+        "authors": [
+            "Aditya Menon",
+            "Harikrishna Narasimhan",
+            "Shivani Agarwal",
+            "Sanjay Chawla"
+        ],
+        "url": "http://proceedings.mlr.press/v28/menon13a.pdf",
+        "orgs": [
+            {
+                "name": "University of Sydney",
+                "country": "Australia"
+            },
+            {
+                "name": "University of California San Diego",
+                "country": "USA"
+            },
+            {
+                "name": "Indian Institute of Science",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-184",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Topic Model Diagnostics: Assessing Domain Relevance via Topical Alignment",
+        "authors": [
+            "Jason Chuang",
+            "Sonal Gupta",
+            "Christopher Manning",
+            "Jeffrey Heer"
+        ],
+        "url": "http://proceedings.mlr.press/v28/chuang13.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-185",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Online Kernel Learning with a Near Optimal Sparsity Bound",
+        "authors": [
+            "Lijun Zhang",
+            "Jinfeng Yi",
+            "Rong Jin",
+            "Ming Lin",
+            "Xiaofei He"
+        ],
+        "url": "http://proceedings.mlr.press/v28/zhang13c.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            },
+            {
+                "name": "Zhejiang University",
+                "country": "China"
+            },
+            {
+                "name": "Michigan State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-186",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Spectral Learning of Hidden Markov Models from Dynamic and Static Data",
+        "authors": [
+            "Tzu-Kuo Huang",
+            "Jeff Schneider"
+        ],
+        "url": "http://proceedings.mlr.press/v28/huang13.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-187",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Analogy-preserving Semantic Embedding for Visual Object Categorization",
+        "authors": [
+            "Sung Ju Hwang",
+            "Kristen Grauman",
+            "Fei Sha"
+        ],
+        "url": "http://proceedings.mlr.press/v28/juhwang13.pdf",
+        "orgs": [
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            },
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-188",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Algebraic classifiers: a generic approach to fast cross-validation, online training, and parallel training",
+        "authors": [
+            "Michael Izbicki"
+        ],
+        "url": "http://proceedings.mlr.press/v28/izbicki13.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICML13-189",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Factorial Multi-Task Learning : A Bayesian Nonparametric Approach",
+        "authors": [
+            "Sunil Gupta",
+            "Dinh Phung",
+            "Svetha Venkatesh"
+        ],
+        "url": "http://proceedings.mlr.press/v28/gupta13a.pdf",
+        "orgs": [
+            {
+                "name": "Deakin University",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-190",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Modeling Information Propagation with Survival Theory",
+        "authors": [
+            "Manuel Gomez-Rodriguez",
+            "Jure Leskovec",
+            "Bernhard Schölkopf"
+        ],
+        "url": "http://proceedings.mlr.press/v28/gomez-rodriguez13.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-191",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Better Rates for Any Adversarial Deterministic MDP",
+        "authors": [
+            "Ofer Dekel",
+            "Elad Hazan"
+        ],
+        "url": "http://proceedings.mlr.press/v28/dekel13.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-192",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "ABC Reinforcement Learning",
+        "authors": [
+            "Christos Dimitrakakis",
+            "Nikolaos Tziortziotis"
+        ],
+        "url": "http://proceedings.mlr.press/v28/dimitrakakis13.pdf",
+        "orgs": [
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            },
+            {
+                "name": "University of Ioannina",
+                "country": "Greece"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-193",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Sharp Generalization Error Bounds for Randomly-projected Classifiers",
+        "authors": [
+            "Robert Durrant",
+            "Ata Kaban"
+        ],
+        "url": "http://proceedings.mlr.press/v28/durrant13.pdf",
+        "orgs": [
+            {
+                "name": "University of Birmingham",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-194",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "On learning parametric-output HMMs",
+        "authors": [
+            "Aryeh Kontorovich",
+            "Boaz Nadler",
+            "Roi Weiss"
+        ],
+        "url": "http://proceedings.mlr.press/v28/kontorovich13.pdf",
+        "orgs": [
+            {
+                "name": "Ben-Gurion University",
+                "country": "Israel"
+            },
+            {
+                "name": "Weizmann Institute of Science",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-195",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "LDA Topic Model with Soft Assignment of Descriptors to Words",
+        "authors": [
+            "Daphna Weinshall",
+            "Gal Levi",
+            "Dmitri Hanukaev"
+        ],
+        "url": "http://proceedings.mlr.press/v28/weinshall13.pdf",
+        "orgs": [
+            {
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-196",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "On autoencoder scoring",
+        "authors": [
+            "Hanna Kamyshanska",
+            "Roland Memisevic"
+        ],
+        "url": "http://proceedings.mlr.press/v28/kamyshanska13.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-197",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Infinite Markov-Switching Maximum Entropy Discrimination Machines",
+        "authors": [
+            "Sotirios Chatzis"
+        ],
+        "url": "http://proceedings.mlr.press/v28/chatzis13.pdf",
+        "orgs": [
+            {
+                "name": "Cyprus University of Technology",
+                "country": "Greece"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-198",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "A PAC-Bayesian Approach for Domain Adaptation with Specialization to Linear Classifiers",
+        "authors": [
+            "Pascal Germain",
+            "Amaury Habrard",
+            "François Laviolette",
+            "Emilie Morvant"
+        ],
+        "url": "http://proceedings.mlr.press/v28/germain13.pdf",
+        "orgs": [
+            {
+                "name": "Aix-Marseille University",
+                "country": "France"
+            },
+            {
+                "name": "Jean Monnet University",
+                "country": "France"
+            },
+            {
+                "name": "Université Laval",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-199",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Sparse PCA through Low-rank Approximations",
+        "authors": [
+            "Dimitris Papailiopoulos",
+            "Alexandros Dimakis",
+            "Stavros Korokythakis"
+        ],
+        "url": "http://proceedings.mlr.press/v28/papailiopoulos13.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICML13-200",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Computation-Risk Tradeoffs for Covariance-Thresholded Regression",
+        "authors": [
+            "Dinah Shender",
+            "John Lafferty"
+        ],
+        "url": "http://proceedings.mlr.press/v28/shender13.pdf",
+        "orgs": [
+            {
+                "name": "University of Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-201",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Exact Rule Learning via Boolean Compressed Sensing",
+        "authors": [
+            "Dmitry Malioutov",
+            "Kush Varshney"
+        ],
+        "url": "http://proceedings.mlr.press/v28/malioutov13.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-202",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Robust Sparse Regression under Adversarial Corruption",
+        "authors": [
+            "Yudong Chen",
+            "Constantine Caramanis",
+            "Shie Mannor"
+        ],
+        "url": "http://proceedings.mlr.press/v28/chen13h.pdf",
+        "orgs": [
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-203",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Optimization with First-Order Surrogate Functions",
+        "authors": [
+            "Julien Mairal"
+        ],
+        "url": "http://proceedings.mlr.press/v28/mairal13.pdf",
+        "orgs": [
+            {
+                "name": "INRIA",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-204",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning Spatio-Temporal Structure from RGB-D Videos for Human Activity Detection and Anticipation",
+        "authors": [
+            "Hema Koppula",
+            "Ashutosh Saxena"
+        ],
+        "url": "http://proceedings.mlr.press/v28/koppula13.pdf",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-205",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Consistency versus Realizable H-Consistency for Multiclass Classification",
+        "authors": [
+            "Phil Long",
+            "Rocco Servedio"
+        ],
+        "url": "http://proceedings.mlr.press/v28/long13.pdf",
+        "orgs": [
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-206",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Feature Multi-Selection among Subjective Features",
+        "authors": [
+            "Sivan Sabato",
+            "Adam Kalai"
+        ],
+        "url": "http://proceedings.mlr.press/v28/sabato13.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-207",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Domain Adaptation under Target and Conditional Shift",
+        "authors": [
+            "Kun Zhang",
+            "Bernhard Schölkopf",
+            "Krikamol Muandet",
+            "Zhikun Wang"
+        ],
+        "url": "http://proceedings.mlr.press/v28/zhang13d.pdf",
+        "orgs": [
+            {
+                "name": "Max Planck Institute for Intelligent Systems",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-208",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Collective Stability in Structured Prediction: Generalization from One Example",
+        "authors": [
+            "Ben London",
+            "Bert Huang",
+            "Ben Taskar",
+            "Lise Getoor"
+        ],
+        "url": "http://proceedings.mlr.press/v28/london13.pdf",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-209",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Stable Coactive Learning via Perturbation",
+        "authors": [
+            "Karthik Raman",
+            "Thorsten Joachims",
+            "Pannaga Shivaswamy",
+            "Tobias Schnabel"
+        ],
+        "url": "http://proceedings.mlr.press/v28/raman13.pdf",
+        "orgs": [
+            {
+                "name": "AT&T Labs Research",
+                "country": "USA"
+            },
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Stuttgart",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-210",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Max-Margin Multiple-Instance Dictionary Learning",
+        "authors": [
+            "Xinggang Wang",
+            "Baoyuan Wang",
+            "Xiang Bai",
+            "Wenyu Liu",
+            "Zhuowen Tu"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wang13d.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Huazhong University of Science and Technology",
+                "country": "China"
+            },
+            {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-211",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Fast Semidifferential-based Submodular Function Optimization",
+        "authors": [
+            "Rishabh Iyer",
+            "Stefanie Jegelka",
+            "Jeff Bilmes"
+        ],
+        "url": "http://proceedings.mlr.press/v28/iyer13.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-212",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Kernelized Bayesian Matrix Factorization",
+        "authors": [
+            "Mehmet Gönen",
+            "Suleiman Khan",
+            "Samuel Kaski"
+        ],
+        "url": "http://proceedings.mlr.press/v28/gonen13a.pdf",
+        "orgs": [
+            {
+                "name": "Helsinki Institute for Information Technology",
+                "country": "Finland"
+            },
+            {
+                "name": "University of Helsinki",
+                "country": "Finland"
+            },
+            {
+                "name": "Aalto University",
+                "country": "Finland"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-213",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning the Structure of Sum-Product Networks",
+        "authors": [
+            "Robert Gens",
+            "Domingos Pedro"
+        ],
+        "url": "http://proceedings.mlr.press/v28/gens13.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-214",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Quantile Regression for Large-scale Applications",
+        "authors": [
+            "Jiyan Yang",
+            "Xiangrui Meng",
+            "Michael Mahoney"
+        ],
+        "url": "http://proceedings.mlr.press/v28/yang13f.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "LinkedIn Corporation",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-215",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Robust Regression on MapReduce",
+        "authors": [
+            "Xiangrui Meng",
+            "Michael Mahoney"
+        ],
+        "url": "http://proceedings.mlr.press/v28/meng13b.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "LinkedIn Corporation",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-216",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Infinitesimal Annealing for Training Semi-Supervised Support Vector Machines",
+        "authors": [
+            "Kohei Ogawa",
+            "Motoki Imamura",
+            "Ichiro Takeuchi",
+            "Masashi Sugiyama"
+        ],
+        "url": "http://proceedings.mlr.press/v28/ogawa13a.pdf",
+        "orgs": [
+            {
+                "name": "Nagoya Institute of Technology",
+                "country": "Japan"
+            },
+            {
+                "name": "Tokyo Institute of Technology",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-217",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "One-Pass AUC Optimization",
+        "authors": [
+            "Wei Gao",
+            "Rong Jin",
+            "Shenghuo Zhu",
+            "Zhi-Hua Zhou"
+        ],
+        "url": "http://proceedings.mlr.press/v28/gao13.pdf",
+        "orgs": [
+            {
+                "name": "Nanjing University",
+                "country": "China"
+            },
+            {
+                "name": "NEC Laboratories America",
+                "country": "USA"
+            },
+            {
+                "name": "Michigan State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-218",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning Convex QP Relaxations for Structured Prediction",
+        "authors": [
+            "Jeremy Jancsary",
+            "Sebastian Nowozin",
+            "Carsten Rother"
+        ],
+        "url": "http://proceedings.mlr.press/v28/jancsary13.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-219",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Concurrent Reinforcement Learning from Customer Interactions",
+        "authors": [
+            "David Silver",
+            "Leonard Newnham",
+            "David Barker",
+            "Suzanne Weller",
+            "Jason McFall"
+        ],
+        "url": "http://proceedings.mlr.press/v28/silver13.pdf",
+        "orgs": [
+            {
+                "name": "University College London",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-220",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Saving Evaluation Time for the Decision Function in Boosting: Representation and Reordering Base Learner",
+        "authors": [
+            "Peng Sun",
+            "Jie Zhou"
+        ],
+        "url": "http://proceedings.mlr.press/v28/sun13.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-221",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Stability and Hypothesis Transfer Learning",
+        "authors": [
+            "Ilja Kuzborskij",
+            "Francesco Orabona"
+        ],
+        "url": "http://proceedings.mlr.press/v28/kuzborskij13.pdf",
+        "orgs": [
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            },
+            {
+                "name": "Idiap Research Institute",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-222",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Fast Dual Variational Inference for Non-Conjugate Latent Gaussian Models",
+        "authors": [
+            "Mohammad Emtiyaz Khan",
+            "Aleksandr Aravkin",
+            "Michael Friedlander",
+            "Matthias Seeger"
+        ],
+        "url": "http://proceedings.mlr.press/v28/emtiyazkhan13.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "University of British Columbia",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-223",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Modeling Temporal Evolution and Multiscale Structure in Networks",
+        "authors": [
+            "Tue Herlau",
+            "Morten Mørup",
+            "Mikkel Schmidt"
+        ],
+        "url": "http://proceedings.mlr.press/v28/herlau13.pdf",
+        "orgs": [
+            {
+                "name": "Technical University of Denmark",
+                "country": "Denmark"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-224",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Dependent Normalized Random Measures",
+        "authors": [
+            "Changyou Chen",
+            "Vinayak Rao",
+            "Wray Buntine",
+            "Yee Whye Teh"
+        ],
+        "url": "http://proceedings.mlr.press/v28/chen13i.pdf",
+        "orgs": [
+            {
+                "name": "Duke University",
+                "country": "USA"
+            },
+            {
+                "name": "Australian National University",
+                "country": "Australia"
+            },
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-225",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Fast Max-Margin Matrix Factorization with Data Augmentation",
+        "authors": [
+            "Minjie Xu",
+            "Jun Zhu",
+            "Bo Zhang"
+        ],
+        "url": "http://proceedings.mlr.press/v28/xu13a.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-226",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Natural Image Bases to Represent Neuroimaging Data",
+        "authors": [
+            "Ashish Gupta",
+            "Murat Ayhan",
+            "Anthony Maida"
+        ],
+        "url": "http://proceedings.mlr.press/v28/gupta13b.pdf",
+        "orgs": [
+            {
+                "name": "University of Louisiana at Lafayette",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-227",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Breaking the Small Cluster Barrier of Graph Clustering",
+        "authors": [
+            "Nir Ailon",
+            "Yudong Chen",
+            "Huan Xu"
+        ],
+        "url": "http://proceedings.mlr.press/v28/ailon13.pdf",
+        "orgs": [
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
+            },
+            {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            },
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-228",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Approximate Inference in Collective Graphical Models",
+        "authors": [
+            "Daniel Sheldon",
+            "Tao Sun",
+            "Akshat Kumar",
+            "Tom Dietterich"
+        ],
+        "url": "http://proceedings.mlr.press/v28/sheldon13.pdf",
+        "orgs": [
+            {
+                "name": "UMass Amherst",
+                "country": "USA"
+            },
+            {
+                "name": "Oregon State University",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-229",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Scaling the Indian Buffet Process via Submodular Maximization",
+        "authors": [
+            "Colorado Reed",
+            "Ghahramani Zoubin"
+        ],
+        "url": "http://proceedings.mlr.press/v28/reed13.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-230",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Mini-Batch Primal and Dual Methods for SVMs",
+        "authors": [
+            "Martin Takac",
+            "Avleen Bijral",
+            "Peter Richtarik",
+            "Nati Srebro"
+        ],
+        "url": "http://proceedings.mlr.press/v28/takac13.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            },
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-231",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "The lasso, persistence, and cross-validation",
+        "authors": [
+            "Darren Homrighausen",
+            "Daniel McDonald"
+        ],
+        "url": "http://proceedings.mlr.press/v28/homrighausen13.pdf",
+        "orgs": [
+            {
+                "name": "Indiana University",
+                "country": "USA"
+            },
+            {
+                "name": "Colorado State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-232",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Spectral Experts for Estimating Mixtures of Linear Regressions",
+        "authors": [
+            "Arun Tejasvi Chaganty",
+            "Percy Liang"
+        ],
+        "url": "http://proceedings.mlr.press/v28/tejasvichaganty13.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-233",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Distribution to Distribution Regression",
+        "authors": [
+            "Junier Oliva",
+            "Barnabas Poczos",
+            "Jeff Schneider"
+        ],
+        "url": "http://proceedings.mlr.press/v28/oliva13.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-234",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Regularization of Neural Networks using DropConnect",
+        "authors": [
+            "Li Wan",
+            "Matthew Zeiler",
+            "Sixin Zhang",
+            "Yann Le Cun",
+            "Rob Fergus"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wan13.pdf",
+        "orgs": [
+            {
+                "name": "Courant Institute of Mathematical Sciences",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-235",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Gaussian Process Kernels for Pattern Discovery and Extrapolation",
+        "authors": [
+            "Andrew Wilson",
+            "Ryan Adams"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wilson13.pdf",
+        "orgs": [
+            {
+                "name": "Harvard University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-236",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Anytime Representation Learning",
+        "authors": [
+            "Zhixiang Xu",
+            "Matt Kusner",
+            "Gao Huang",
+            "Kilian Weinberger"
+        ],
+        "url": "http://proceedings.mlr.press/v28/xu13b.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-237",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Algorithms for Direct 0–1 Loss Optimization in Binary Classification",
+        "authors": [
+            "Tan Nguyen",
+            "Scott Sanner"
+        ],
+        "url": "http://proceedings.mlr.press/v28/nguyen13a.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICML13-238",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Top-k Selection based on Adaptive Sampling of Noisy Preferences",
+        "authors": [
+            "Robert Busa-Fekete",
+            "Balazs Szorenyi",
+            "Weiwei Cheng",
+            "Paul Weng",
+            "Eyke Huellermeier"
+        ],
+        "url": "http://proceedings.mlr.press/v28/busa-fekete13.pdf",
+        "orgs": [
+            {
+                "name": "Pierre and Marie Curie University",
+                "country": "France"
+            },
+            {
+                "name": "Philipps-Universität Marburg",
+                "country": "Germany"
+            },
+            {
+                "name": "INRIA",
+                "country": "France"
+            },
+            {
+                "name": "Pierre and Marie Curie University",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-239",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "The Extended Parameter Filter",
+        "authors": [
+            "Yusuf Bugra Erol",
+            "Lei Li",
+            "Bharath Ramsundar",
+            "Russell Stuart"
+        ],
+        "url": "http://proceedings.mlr.press/v28/bugraerol13.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-240",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Exploiting Ontology Structures and Unlabeled Data for Learning",
+        "authors": [
+            "Nina Balcan",
+            "Avrim Blum",
+            "Yishay Mansour"
+        ],
+        "url": "http://proceedings.mlr.press/v28/balcan13a.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Tel Aviv University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-241",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "O(logT) Projections for Stochastic Optimization of Smooth and Strongly Convex Functions",
+        "authors": [
+            "Lijun Zhang",
+            "Tianbao Yang",
+            "Rong Jin",
+            "Xiaofei He"
+        ],
+        "url": "http://proceedings.mlr.press/v28/zhang13e.pdf",
+        "orgs": [
+            {
+                "name": "Zhejiang University",
+                "country": "China"
+            },
+            {
+                "name": "Michigan State University",
+                "country": "USA"
+            },
+            {
+                "name": "General Electric",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-242",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Optimizing the F-Measure in Multi-Label Classification: Plug-in Rule Approach versus Structured Loss Minimization",
+        "authors": [
+            "Krzysztof Dembczynski",
+            "Arkadiusz Jachnik",
+            "Wojciech Kotlowski",
+            "Willem Waegeman",
+            "Eyke Huellermeier"
+        ],
+        "url": "http://proceedings.mlr.press/v28/dembczynski13.pdf",
+        "orgs": [
+            {
+                "name": "Poznań University of Technology",
+                "country": "Poland"
+            },
+            {
+                "name": "Philipps-Universität Marburg",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-243",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "On the importance of initialization and momentum in deep learning",
+        "authors": [
+            "Ilya Sutskever",
+            "James Martens",
+            "George Dahl",
+            "Geoffrey Hinton"
+        ],
+        "url": "http://proceedings.mlr.press/v28/sutskever13.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICML13-244",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "A non-IID Framework for Collaborative Filtering with Restricted Boltzmann Machines",
+        "authors": [
+            "Kostadin Georgiev",
+            "Preslav Nakov"
+        ],
+        "url": "http://proceedings.mlr.press/v28/georgiev13.pdf",
+        "orgs": [
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-245",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Intersecting singularities for multi-structured estimation",
+        "authors": [
+            "Emile Richard",
+            "Francis BACH",
+            "Jean-Philippe Vert"
+        ],
+        "url": "http://proceedings.mlr.press/v28/richard13.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICML13-246",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Structure Discovery in Nonparametric Regression through Compositional Kernel Search",
+        "authors": [
+            "David Duvenaud",
+            "James Lloyd",
+            "Roger Grosse",
+            "Joshua Tenenbaum",
+            "Ghahramani Zoubin"
+        ],
+        "url": "http://proceedings.mlr.press/v28/duvenaud13.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-247",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Copy or Coincidence? A Model for Detecting Social Influence and Duplication Events",
+        "authors": [
+            "Lisa Friedland",
+            "David Jensen",
+            "Michael Lavine"
+        ],
+        "url": "http://proceedings.mlr.press/v28/friedland13.pdf",
+        "orgs": [
+            {
+                "name": "UMass Amherst",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-248",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Smooth Operators",
+        "authors": [
+            "Steffen Grunewalder",
+            "Gretton Arthur",
+            "John Shawe-Taylor"
+        ],
+        "url": "http://proceedings.mlr.press/v28/grunewalder13.pdf",
+        "orgs": [
+            {
+                "name": "University College London",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-249",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "The Cross-Entropy Method Optimizes for Quantiles",
+        "authors": [
+            "Sergiu Goschin",
+            "Ari Weinstein",
+            "Michael Littman"
+        ],
+        "url": "http://proceedings.mlr.press/v28/goschin13.pdf",
+        "orgs": [
+            {
+                "name": "Rutgers University",
+                "country": "USA"
+            },
+            {
+                "name": "Brown University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-250",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Topic Discovery through Data Dependent and Random Projections",
+        "authors": [
+            "Weicong Ding",
+            "Mohammad Hossein Rohban",
+            "Prakash Ishwar",
+            "Venkatesh Saligrama"
+        ],
+        "url": "http://proceedings.mlr.press/v28/ding13.pdf",
+        "orgs": [
+            {
+                "name": "Boston University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-251",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Bayesian Learning of Recursively Factored Environments",
+        "authors": [
+            "Marc Bellemare",
+            "Joel Veness",
+            "Michael Bowling"
+        ],
+        "url": "http://proceedings.mlr.press/v28/bellemare13.pdf",
+        "orgs": [
+            {
+                "name": "University of Alberta",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-252",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Selective sampling algorithms for cost-sensitive multiclass prediction",
+        "authors": [
+            "Alekh Agarwal"
+        ],
+        "url": "http://proceedings.mlr.press/v28/agarwal13.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-253",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "The Bigraphical Lasso",
+        "authors": [
+            "Alfredo Kalaitzis",
+            "John Lafferty",
+            "Neil D. Lawrence",
+            "Shuheng Zhou"
+        ],
+        "url": "http://proceedings.mlr.press/v28/kalaitzis13.pdf",
+        "orgs": [
+            {
+                "name": "University College London",
+                "country": "UK"
+            },
+            {
+                "name": "University of Sheffield",
+                "country": "UK"
+            },
+            {
+                "name": "University of Michigan",
+                "country": "USA"
+            },
+            {
+                "name": "University of Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-254",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Almost Optimal Exploration in Multi-Armed Bandits",
+        "authors": [
+            "Zohar Karnin",
+            "Tomer Koren",
+            "Oren Somekh"
+        ],
+        "url": "http://proceedings.mlr.press/v28/karnin13.pdf",
+        "orgs": [
+            {
+                "name": "Yahoo",
+                "country": "USA"
+            },
+            {
+                "name": "Yahoo",
+                "country": "USA"
+            },
+            {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-255",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Deep Canonical Correlation Analysis",
+        "authors": [
+            "Galen Andrew",
+            "Raman Arora",
+            "Jeff Bilmes",
+            "Karen Livescu"
+        ],
+        "url": "http://proceedings.mlr.press/v28/andrew13.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-256",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Consistency of Online Random Forests",
+        "authors": [
+            "Misha Denil",
+            "David Matheson",
+            "Nando Freitas"
+        ],
+        "url": "http://proceedings.mlr.press/v28/denil13.pdf",
+        "orgs": [
+            {
+                "name": "University of British Columbia",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-257",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Sparse Gaussian Conditional Random Fields: Algorithms, Theory, and Application to Energy Forecasting",
+        "authors": [
+            "Matt Wytock",
+            "Zico Kolter"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wytock13.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-258",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Fast Image Tagging",
+        "authors": [
+            "Minmin Chen",
+            "Alice Zheng",
+            "Kilian Weinberger"
+        ],
+        "url": "http://proceedings.mlr.press/v28/chen13j.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Amazon",
+                "country": "USA"
+            },
+            {
+                "name": "Washington University in St. Louis",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-259",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Expensive Function Optimization with Stochastic Binary Outcomes",
+        "authors": [
+            "Matthew Tesch",
+            "Jeff Schneider",
+            "Howie Choset"
+        ],
+        "url": "http://proceedings.mlr.press/v28/tesch13.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-260",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Multiple-source cross-validation",
+        "authors": [
+            "Krzysztof Geras",
+            "Charles Sutton"
+        ],
+        "url": "http://proceedings.mlr.press/v28/geras13.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-261",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning Triggering Kernels for Multi-dimensional Hawkes Processes",
+        "authors": [
+            "Ke Zhou",
+            "Hongyuan Zha",
+            "Le Song"
+        ],
+        "url": "http://proceedings.mlr.press/v28/zhou13.pdf",
+        "orgs": [
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-262",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "On the difficulty of training recurrent neural networks",
+        "authors": [
+            "Razvan Pascanu",
+            "Tomas Mikolov",
+            "Yoshua Bengio"
+        ],
+        "url": "http://proceedings.mlr.press/v28/pascanu13.pdf",
+        "orgs": [
+            {
+                "name": "Brno University of Technology",
+                "country": "Czech Republic"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-263",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Maxout Networks",
+        "authors": [
+            "Ian Goodfellow",
+            "David Warde-Farley",
+            "Mehdi Mirza",
+            "Aaron Courville",
+            "Yoshua Bengio"
+        ],
+        "url": "http://proceedings.mlr.press/v28/goodfellow13.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-264",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Predictable Dual-View Hashing",
+        "authors": [
+            "Mohammad Rastegari",
+            "Jonghyun Choi",
+            "Shobeir Fakhraei",
+            "Daume Hal",
+            "Larry Davis"
+        ],
+        "url": "http://proceedings.mlr.press/v28/rastegari13.pdf",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-265",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Deep learning with COTS HPC systems",
+        "authors": [
+            "Adam Coates",
+            "Brody Huval",
+            "Tao Wang",
+            "David Wu",
+            "Bryan Catanzaro",
+            "Ng Andrew"
+        ],
+        "url": "http://proceedings.mlr.press/v28/coates13.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "NVIDIA Corporation",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-266",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Nonparametric Mixture of Gaussian Processes with Constraints",
+        "authors": [
+            "James Ross",
+            "Jennifer Dy"
+        ],
+        "url": "http://proceedings.mlr.press/v28/ross13a.pdf",
+        "orgs": [
+            {
+                "name": "Northeastern University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-267",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Scale Invariant Conditional Dependence Measures",
+        "authors": [
+            "Sashank J Reddi",
+            "Barnabas Poczos"
+        ],
+        "url": "http://proceedings.mlr.press/v28/jreddi13.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-268",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning Policies for Contextual Submodular Prediction",
+        "authors": [
+            "Stephane Ross",
+            "Jiaji Zhou",
+            "Yisong Yue",
+            "Debadeepta Dey",
+            "Drew Bagnell"
+        ],
+        "url": "http://proceedings.mlr.press/v28/ross13b.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-269",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Manifold Preserving Hierarchical Topic Models for Quantization and Approximation",
+        "authors": [
+            "Minje Kim",
+            "Paris Smaragdis"
+        ],
+        "url": "http://proceedings.mlr.press/v28/kim13a.pdf",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            },
+            {
+                "name": "Adobe Research",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-270",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Safe Screening of Non-Support Vectors in Pathwise SVM Computation",
+        "authors": [
+            "Kohei Ogawa",
+            "Yoshiki Suzuki",
+            "Ichiro Takeuchi"
+        ],
+        "url": "http://proceedings.mlr.press/v28/ogawa13b.pdf",
+        "orgs": [
+            {
+                "name": "Nagoya Institute of Technology",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-271",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Cost-sensitive Multiclass Classification Risk Bounds",
+        "authors": [
+            "Bernardo Ávila Pires",
+            "Csaba Szepesvari",
+            "Mohammad Ghavamzadeh"
+        ],
+        "url": "http://proceedings.mlr.press/v28/avilapires13.pdf",
+        "orgs": [
+            {
+                "name": "University of Alberta",
+                "country": "Canada"
+            },
+            {
+                "name": "INRIA",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-272",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Semi-supervised Clustering by Input Pattern Assisted Pairwise Similarity Matrix Completion",
+        "authors": [
+            "Jinfeng Yi",
+            "Lijun Zhang",
+            "Rong Jin",
+            "Qi Qian",
+            "Anil Jain"
+        ],
+        "url": "http://proceedings.mlr.press/v28/yi13.pdf",
+        "orgs": [
+            {
+                "name": "Michigan State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-273",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Learning the beta-Divergence in Tweedie Compound Poisson Matrix Factorization Models",
+        "authors": [
+            "Umut Simsekli",
+            "Ali Taylan Cemgil",
+            "Yusuf Kenan Yilmaz"
+        ],
+        "url": "http://proceedings.mlr.press/v28/simsekli13.pdf",
+        "orgs": [
+            {
+                "name": "Boğaziçi University",
+                "country": "Turkey"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-274",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Fast algorithms for sparse principal component analysis based on Rayleigh quotient iteration",
+        "authors": [
+            "Volodymyr Kuleshov"
+        ],
+        "url": "http://proceedings.mlr.press/v28/kuleshov13.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-275",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Nested Chinese Restaurant Franchise Process: Applications to User Tracking and Document Modeling",
+        "authors": [
+            "Amr Ahmed",
+            "Liangjie Hong",
+            "Alexander Smola"
+        ],
+        "url": "http://proceedings.mlr.press/v28/ahmed13.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Yahoo",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-276",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Tree-Independent Dual-Tree Algorithms",
+        "authors": [
+            "Ryan Curtin",
+            "William March",
+            "Parikshit Ram",
+            "David Anderson",
+            "Alexander Gray",
+            "Charles Isbell"
+        ],
+        "url": "http://proceedings.mlr.press/v28/curtin13.pdf",
+        "orgs": [
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-277",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Multilinear Multitask Learning",
+        "authors": [
+            "Bernardino Romera-Paredes",
+            "Hane Aung",
+            "Nadia Bianchi-Berthouze",
+            "Massimiliano Pontil"
+        ],
+        "url": "http://proceedings.mlr.press/v28/romera-paredes13.pdf",
+        "orgs": [
+            {
+                "name": "University College London",
+                "country": "UK"
+            },
+            {
+                "name": "University College London",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-278",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Online Learning under Delayed Feedback",
+        "authors": [
+            "Pooria Joulani",
+            "Andras Gyorgy",
+            "Csaba Szepesvari"
+        ],
+        "url": "http://proceedings.mlr.press/v28/joulani13.pdf",
+        "orgs": [
+            {
+                "name": "University of Alberta",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-279",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Adaptive Hamiltonian and Riemann Manifold Monte Carlo",
+        "authors": [
+            "Ziyu Wang",
+            "Shakir Mohamed",
+            "Nando Freitas"
+        ],
+        "url": "http://proceedings.mlr.press/v28/wang13e.pdf",
+        "orgs": [
+            {
+                "name": "University of British Columbia",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-280",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Coco-Q: Learning in Stochastic Games with Side Payments",
+        "authors": [
+            "Eric Sodomka",
+            "Elizabeth Hilliard",
+            "Michael Littman",
+            "Amy Greenwald"
+        ],
+        "url": "http://proceedings.mlr.press/v28/sodomka13.pdf",
+        "orgs": [
+            {
+                "name": "Brown University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-281",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "On A Nonlinear Generalization of Sparse Coding and Dictionary Learning",
+        "authors": [
+            "Jeffrey Ho",
+            "Yuchen Xie",
+            "Baba Vemuri"
+        ],
+        "url": "http://proceedings.mlr.press/v28/ho13a.pdf",
+        "orgs": [
+            {
+                "name": "University of Florida",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICML13-282",
+        "source": "ICML13",
+        "source_type": "ICML",
+        "year": "2013",
+        "title": "Estimation of Causal Peer Influence Effects",
+        "authors": [
+            "Panos Toulis",
+            "Edward Kao"
+        ],
+        "url": "http://proceedings.mlr.press/v28/toulis13.pdf",
+        "orgs": [
+            {
+                "name": "Harvard University",
+                "country": "USA"
+            }
+        ]
+    }
+]

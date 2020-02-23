@@ -1,0 +1,6751 @@
+[
+    {
+        "id": "ACL17-0",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Adversarial Multi-task Learning for Text Classification",
+        "authors": [
+            "Pengfei Liu",
+            "Xipeng Qiu",
+            "Xuanjing Huang"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1001.pdf",
+        "orgs": [
+            {
+                "name": "Fudan University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-1",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Neural End-to-End Learning for Computational Argumentation Mining",
+        "authors": [
+            "Steffen Eger",
+            "Johannes Daxenberger",
+            "Iryna Gurevych"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1002.pdf",
+        "orgs": [
+            {
+                "name": "Technische Universität Darmstadt",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-2",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision",
+        "authors": [
+            "Chen Liang",
+            "Jonathan Berant",
+            "Quoc Le",
+            "Kenneth D. Forbus",
+            "Ni Lao"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1003.pdf",
+        "orgs": [
+            {
+                "name": "Tel Aviv University",
+                "country": "Israel"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Northwestern University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-3",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Neural Relation Extraction with Multi-lingual Attention",
+        "authors": [
+            "Yankai Lin",
+            "Zhiyuan Liu",
+            "Maosong Sun"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1004.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-4",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning Structured Natural Language Representations for Semantic Parsing",
+        "authors": [
+            "Jianpeng Cheng",
+            "Siva Reddy",
+            "Vijay Saraswat",
+            "Mirella Lapata"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1005.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-5",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Morph-fitting: Fine-Tuning Word Vector Spaces with Simple Language-Specific Rules",
+        "authors": [
+            "Ivan Vulić",
+            "Nikola Mrkšić",
+            "Roi Reichart",
+            "Diarmuid Ó Séaghdha",
+            "Steve Young",
+            "Anna Korhonen"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1006.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "Apple",
+                "country": "USA"
+            },
+            {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-6",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Skip-Gram − Zipf + Uniform = Vector Additivity",
+        "authors": [
+            "Alex Gittens",
+            "Dimitris Achlioptas",
+            "Michael W. Mahoney"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1007.pdf",
+        "orgs": [
+            {
+                "name": "UC Santa Cruz",
+                "country": "USA"
+            },
+            {
+                "name": "Rensselaer Polytechnic Institute",
+                "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-7",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "The State of the Art in Semantic Representation",
+        "authors": [
+            "Omri Abend",
+            "Ari Rappoport"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1008.pdf",
+        "orgs": [
+            {
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-8",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Joint Learning for Event Coreference Resolution",
+        "authors": [
+            "Jing Lu",
+            "Vincent Ng"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1009.pdf",
+        "orgs": [
+            {
+                "name": "University of Texas at Dallas",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-9",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Generating and Exploiting Large-scale Pseudo Training Data for Zero Pronoun Resolution",
+        "authors": [
+            "Ting Liu",
+            "Yiming Cui",
+            "Qingyu Yin",
+            "Wei-Nan Zhang",
+            "Shijin Wang",
+            "Guoping Hu"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1010.pdf",
+        "orgs": [
+            {
+                "name": "Harbin Institute of Technology",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-10",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Discourse Mode Identification in Essays",
+        "authors": [
+            "Wei Song",
+            "Dong Wang",
+            "Ruiji Fu",
+            "Lizhen Liu",
+            "Ting Liu",
+            "Guoping Hu"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1011.pdf",
+        "orgs": [
+            {
+                "name": "Capital Normal University",
+                "country": "China"
+            },
+            {
+                "name": "Harbin Institute of Technology",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-11",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Convolutional Encoder Model for Neural Machine Translation",
+        "authors": [
+            "Jonas Gehring",
+            "Michael Auli",
+            "David Grangier",
+            "Yann Dauphin"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1012.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-12",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Deep Neural Machine Translation with Linear Associative Unit",
+        "authors": [
+            "Mingxuan Wang",
+            "Zhengdong Lu",
+            "Jie Zhou",
+            "Qun Liu"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1013.pdf",
+        "orgs": [
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "Dublin City University",
+                "country": "Ireland"
+            },
+            {
+                "name": "Baidu",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-13",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Neural AMR: Sequence-to-Sequence Models for Parsing and Generation",
+        "authors": [
+            "Ioannis Konstas",
+            "Srinivasan Iyer",
+            "Mark Yatskar",
+            "Yejin Choi",
+            "Luke Zettlemoyer"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1014.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-14",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems",
+        "authors": [
+            "Wang Ling",
+            "Dani Yogatama",
+            "Chris Dyer",
+            "Phil Blunsom"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1015.pdf",
+        "orgs": [
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-15",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Automatically Generating Rhythmic Verse with Neural Networks",
+        "authors": [
+            "Jack Hopkins",
+            "Douwe Kiela"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1016.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-16",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Creating Training Corpora for NLG Micro-Planners",
+        "authors": [
+            "Claire Gardent",
+            "Anastasia Shimorina",
+            "Shashi Narayan",
+            "Laura Perez-Beltrachini"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1017.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-17",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Gated Self-Matching Networks for Reading Comprehension and Question Answering",
+        "authors": [
+            "Wenhui Wang",
+            "Nan Yang",
+            "Furu Wei",
+            "Baobao Chang",
+            "Ming Zhou"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1018.pdf",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-18",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Generating Natural Answers by Incorporating Copying and Retrieving Mechanisms in Sequence-to-Sequence Learning",
+        "authors": [
+            "Shizhu He",
+            "Cao Liu",
+            "Kang Liu",
+            "Jun Zhao"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1019.pdf",
+        "orgs": [
+            {
+                "name": "University of Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-19",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Coarse-to-Fine Question Answering for Long Documents",
+        "authors": [
+            "Eunsol Choi",
+            "Daniel Hewlett",
+            "Jakob Uszkoreit",
+            "Illia Polosukhin",
+            "Alexandre Lacoste",
+            "Jonathan Berant"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1020.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Tel Aviv University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-20",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge",
+        "authors": [
+            "Yanchao Hao",
+            "Yuanzhe Zhang",
+            "Kang Liu",
+            "Shizhu He",
+            "Zhanyi Liu",
+            "Hua Wu",
+            "Jun Zhao"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1021.pdf",
+        "orgs": [
+            {
+                "name": "University of Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "Baidu",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-21",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Translating Neuralese",
+        "authors": [
+            "Jacob Andreas",
+            "Anca Dragan",
+            "Dan Klein"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1022.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-22",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Obtaining referential word meanings from visual and distributional information: Experiments on object naming",
+        "authors": [
+            "Sina Zarrieß",
+            "David Schlangen"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1023.pdf",
+        "orgs": [
+            {
+                "name": "Bielefeld University",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-23",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "FOIL it! Find One mismatch between Image and Language caption",
+        "authors": [
+            "Ravi Shekhar",
+            "Sandro Pezzelle",
+            "Yauhen Klimovich",
+            "Aurélie Herbelot",
+            "Moin Nabi",
+            "Enver Sangineto",
+            "Raffaella Bernardi"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1024.pdf",
+        "orgs": [
+            {
+                "name": "University of Trento",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-24",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Verb Physics: Relative Physical Knowledge of Actions and Objects",
+        "authors": [
+            "Maxwell Forbes",
+            "Yejin Choi"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1025.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-25",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A* CCG Parsing with a Supertag and Dependency Factored Model",
+        "authors": [
+            "Masashi Yoshikawa",
+            "Hiroshi Noji",
+            "Yuji Matsumoto"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1026.pdf",
+        "orgs": [
+            {
+                "name": "Nara Institute of Science and Technology",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-26",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Full Non-Monotonic Transition System for Unrestricted Non-Projective Parsing",
+        "authors": [
+            "Daniel Fernández-González",
+            "Carlos Gómez-Rodríguez"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1027.pdf",
+        "orgs": [
+            {
+                "name": "Universidade da Coruña",
+                "country": "Spain"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-27",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Aggregating and Predicting Sequence Labels from Crowd Annotations",
+        "authors": [
+            "An Thanh Nguyen",
+            "Byron Wallace",
+            "Junyi Jessy Li",
+            "Ani Nenkova",
+            "Matthew Lease"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1028.pdf",
+        "orgs": [
+            {
+                "name": "Northeastern University",
+                "country": "China"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            },
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-28",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Multi-space Variational Encoder-Decoders for Semi-supervised Labeled Sequence Transduction",
+        "authors": [
+            "Chunting Zhou",
+            "Graham Neubig"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1029.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-29",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Scalable Bayesian Learning of Recurrent Neural Networks for Language Modeling",
+        "authors": [
+            "Zhe Gan",
+            "Chunyuan Li",
+            "Changyou Chen",
+            "Yunchen Pu",
+            "Qinliang Su",
+            "Lawrence Carin"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1030.pdf",
+        "orgs": [
+            {
+                "name": "Duke University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-30",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning attention for historical text normalization by learning to pronounce",
+        "authors": [
+            "Marcel Bollmann",
+            "Joachim Bingel",
+            "Anders Søgaard"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1031.pdf",
+        "orgs": [
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            },
+            {
+                "name": "Ruhr-Universität Bochum",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-31",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Deep Learning in Semantic Kernel Spaces",
+        "authors": [
+            "Danilo Croce",
+            "Simone Filice",
+            "Giuseppe Castellucci",
+            "Roberto Basili"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1032.pdf",
+        "orgs": [
+            {
+                "name": "\"University of Rome II \"\"Tor Vergata\"\"\"",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-32",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Topically Driven Neural Language Model",
+        "authors": [
+            "Jey Han Lau",
+            "Timothy Baldwin",
+            "Trevor Cohn"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1033.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "University of Melbourne",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-33",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Handling Cold-Start Problem in Review Spam Detection by Jointly Embedding Texts and Behaviors",
+        "authors": [
+            "Xuepeng Wang",
+            "Kang Liu",
+            "Jun Zhao"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1034.pdf",
+        "orgs": [
+            {
+                "name": "University of Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-34",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning Cognitive Features from Gaze Data for Sentiment and Sarcasm Classification using Convolutional Neural Network",
+        "authors": [
+            "Abhijit Mishra",
+            "Kuntal Dey",
+            "Pushpak Bhattacharyya"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1035.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Indian Institute of Technology Bombay",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-35",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "An Unsupervised Neural Attention Model for Aspect Extraction",
+        "authors": [
+            "Ruidan He",
+            "Wee Sun Lee",
+            "Hwee Tou Ng",
+            "Daniel Dahlmeier"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1036.pdf",
+        "orgs": [
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
+            },
+            {
+                "name": "SAP",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-36",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Other Topics You May Also Agree or Disagree: Modeling Inter-Topic Preferences using Tweets and Matrix Factorization",
+        "authors": [
+            "Akira Sasaki",
+            "Kazuaki Hanawa",
+            "Naoaki Okazaki",
+            "Kentaro Inui"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1037.pdf",
+        "orgs": [
+            {
+                "name": "Tohoku University",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-37",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Automatically Labeled Data Generation for Large Scale Event Extraction",
+        "authors": [
+            "Yubo Chen",
+            "Shulin Liu",
+            "Xiang Zhang",
+            "Kang Liu",
+            "Jun Zhao"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1038.pdf",
+        "orgs": [
+            {
+                "name": "University of Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-38",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Time Expression Analysis and Recognition Using Syntactic Token Types and General Heuristic Rules",
+        "authors": [
+            "Xiaoshi Zhong",
+            "Aixin Sun",
+            "Erik Cambria"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1039.pdf",
+        "orgs": [
+            {
+                "name": "Nanyang Technological University",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-39",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning with Noise: Enhance Distantly Supervised Relation Extraction with Dynamic Transition Matrix",
+        "authors": [
+            "Bingfeng Luo",
+            "Yansong Feng",
+            "Zheng Wang",
+            "Zhanxing Zhu",
+            "Songfang Huang",
+            "Rui Yan",
+            "Dongyan Zhao"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1040.pdf",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Lancaster University",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-40",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Syntactic Neural Model for General-Purpose Code Generation",
+        "authors": [
+            "Pengcheng Yin",
+            "Graham Neubig"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1041.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-41",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning bilingual word embeddings with (almost) no bilingual data",
+        "authors": [
+            "Mikel Artetxe",
+            "Gorka Labaka",
+            "Eneko Agirre"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1042.pdf",
+        "orgs": [
+            {
+                "name": "University of the Basque Country",
+                "country": "Spain"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-42",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Abstract Meaning Representation Parsing using LSTM Recurrent Neural Networks",
+        "authors": [
+            "William Foland",
+            "James H. Martin"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1043.pdf",
+        "orgs": [
+            {
+                "name": "University of Colorado",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-43",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Deep Semantic Role Labeling: What Works and What’s Next",
+        "authors": [
+            "Luheng He",
+            "Kenton Lee",
+            "Mike Lewis",
+            "Luke Zettlemoyer"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1044.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-44",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access",
+        "authors": [
+            "Bhuwan Dhingra",
+            "Lihong Li",
+            "Xiujun Li",
+            "Jianfeng Gao",
+            "Yun-Nung Chen",
+            "Faisal Ahmed",
+            "Li Deng"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1045.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "National Taiwan University",
+                "country": "Taiwan"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-45",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots",
+        "authors": [
+            "Yu Wu",
+            "Wei Wu",
+            "Chen Xing",
+            "Ming Zhou",
+            "Zhoujun Li"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1046.pdf",
+        "orgs": [
+            {
+                "name": "Beihang University",
+                "country": "China"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Nankai University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-46",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning Word-Like Units from Joint Audio-Visual Analysis",
+        "authors": [
+            "David Harwath",
+            "James Glass"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1047.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-47",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Joint CTC/attention decoding for end-to-end speech recognition",
+        "authors": [
+            "Takaaki Hori",
+            "Shinji Watanabe",
+            "John Hershey"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1048.pdf",
+        "orgs": [
+            {
+                "name": "Mitsubishi Electric Research Laboratories",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-48",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Found in Translation: Reconstructing Phylogenetic Language Trees from Translations",
+        "authors": [
+            "Ella Rabinovich",
+            "Noam Ordan",
+            "Shuly Wintner"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1049.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "University of Haifa",
+                "country": "Israel"
+            },
+            {
+                "name": "Arab College for Education",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-49",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Predicting Native Language from Gaze",
+        "authors": [
+            "Yevgeni Berzak",
+            "Chie Nakamura",
+            "Suzanne Flynn",
+            "Boris Katz"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1050.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-50",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "MORSE: Semantic-ally Drive-n MORpheme SEgment-er",
+        "authors": [
+            "Tarek Sakakini",
+            "Suma Bhat",
+            "Pramod Viswanath"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1051.pdf",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-51",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Deep Pyramid Convolutional Neural Networks for Text Categorization",
+        "authors": [
+            "Rie Johnson",
+            "Tong Zhang"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1052.pdf",
+        "orgs": [
+            {
+                "name": "RJ Research Consulting",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-52",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Improved Neural Relation Detection for Knowledge Base Question Answering",
+        "authors": [
+            "Mo Yu",
+            "Wenpeng Yin",
+            "Kazi Saidul Hasan",
+            "Cicero dos Santos",
+            "Bing Xiang",
+            "Bowen Zhou"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1053.pdf",
+        "orgs": [
+            {
+                "name": "University of Munich",
+                "country": "Germany"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-53",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Deep Keyphrase Generation",
+        "authors": [
+            "Rui Meng",
+            "Sanqiang Zhao",
+            "Shuguang Han",
+            "Daqing He",
+            "Peter Brusilovsky",
+            "Yu Chi"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1054.pdf",
+        "orgs": [
+            {
+                "name": "University of Pittsburgh",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-54",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Attention-over-Attention Neural Networks for Reading Comprehension",
+        "authors": [
+            "Yiming Cui",
+            "Zhipeng Chen",
+            "Si Wei",
+            "Shijin Wang",
+            "Ting Liu",
+            "Guoping Hu"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1055.pdf",
+        "orgs": [
+            {
+                "name": "Harbin Institute of Technology",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-55",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Alignment at Work: Using Language to Distinguish the Internalization and Self-Regulation Components of Cultural Fit in Organizations",
+        "authors": [
+            "Gabriel Doyle",
+            "Amir Goldberg",
+            "Sameer Srivastava",
+            "Michael Frank"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1056.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-56",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Representations of language in a model of visually grounded speech signal",
+        "authors": [
+            "Grzegorz Chrupała",
+            "Lieke Gelderloos",
+            "Afra Alishahi"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1057.pdf",
+        "orgs": [
+            {
+                "name": "Tilburg University",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-57",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Spectral Analysis of Information Density in Dialogue Predicts Collaborative Task Performance",
+        "authors": [
+            "Yang Xu",
+            "David Reitter"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1058.pdf",
+        "orgs": [
+            {
+                "name": "The Pennsylvania State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-58",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Affect-LM: A Neural Language Model for Customizable Affective Text Generation",
+        "authors": [
+            "Sayan Ghosh",
+            "Mathieu Chollet",
+            "Eugene Laksana",
+            "Louis-Philippe Morency",
+            "Stefan Scherer"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1059.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-59",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Domain Attention with an Ensemble of Experts",
+        "authors": [
+            "Young-Bum Kim",
+            "Karl Stratos",
+            "Dongchan Kim"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1060.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-60",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders",
+        "authors": [
+            "Tiancheng Zhao",
+            "Ran Zhao",
+            "Maxine Eskenazi"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1061.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-61",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning",
+        "authors": [
+            "Jason D. Williams",
+            "Kavosh Asadi",
+            "Geoffrey Zweig"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1062.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Brown University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-62",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Generating Contrastive Referring Expressions",
+        "authors": [
+            "Martín Villalba",
+            "Christoph Teichmann",
+            "Alexander Koller"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1063.pdf",
+        "orgs": [
+            {
+                "name": "Saarland University",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-63",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Modeling Source Syntax for Neural Machine Translation",
+        "authors": [
+            "Junhui Li",
+            "Deyi Xiong",
+            "Zhaopeng Tu",
+            "Muhua Zhu",
+            "Min Zhang",
+            "Guodong Zhou"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1064.pdf",
+        "orgs": [
+            {
+                "name": "Soochow University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-64",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Sequence-to-Dependency Neural Machine Translation",
+        "authors": [
+            "Shuangzhi Wu",
+            "Dongdong Zhang",
+            "Nan Yang",
+            "Mu Li",
+            "Ming Zhou"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1065.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Harbin Institute of Technology",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-65",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Detect Rumors in Microblog Posts Using Propagation Structure via Kernel Learning",
+        "authors": [
+            "Jing Ma",
+            "Wei Gao",
+            "Kam-Fai Wong"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1066.pdf",
+        "orgs": [
+            {
+                "name": "The Chinese University of Hong Kong",
+                "country": "China"
+            },
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-66",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "EmoNet: Fine-Grained Emotion Detection with Gated Recurrent Neural Networks",
+        "authors": [
+            "Muhammad Abdul-Mageed",
+            "Lyle Ungar"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1067.pdf",
+        "orgs": [
+            {
+                "name": "University of British Columbia",
+                "country": "Canada"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-67",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Beyond Binary Labels: Political Ideology Prediction of Twitter Users",
+        "authors": [
+            "Daniel Preoţiuc-Pietro",
+            "Ye Liu",
+            "Daniel Hopkins",
+            "Lyle Ungar"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1068.pdf",
+        "orgs": [
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-68",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Leveraging Behavioral and Social Information for Weakly Supervised Collective Classification of Political Discourse on Twitter",
+        "authors": [
+            "Kristen Johnson",
+            "Di Jin",
+            "Dan Goldwasser"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1069.pdf",
+        "orgs": [
+            {
+                "name": "Purdue University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-69",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Nested Attention Neural Hybrid Model for Grammatical Error Correction",
+        "authors": [
+            "Jianshu Ji",
+            "Qinlong Wang",
+            "Kristina Toutanova",
+            "Yongen Gong",
+            "Steven Truong",
+            "Jianfeng Gao"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1070.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-70",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "TextFlow: A Text Similarity Measure based on Continuous Sequences",
+        "authors": [
+            "Yassine Mrabet",
+            "Halil Kilicoglu",
+            "Dina Demner-Fushman"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1071.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ACL17-71",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Friendships, Rivalries, and Trysts: Characterizing Relations between Ideas in Texts",
+        "authors": [
+            "Chenhao Tan",
+            "Dallas Card",
+            "Noah A. Smith"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1072.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-72",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Polish evaluation dataset for compositional distributional semantics models",
+        "authors": [
+            "Alina Wróblewska",
+            "Katarzyna Krasnowska-Kieraś"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1073.pdf",
+        "orgs": [
+            {
+                "name": "Polish Academy of Sciences",
+                "country": "Poland"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-73",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Automatic Annotation and Evaluation of Error Types for Grammatical Error Correction",
+        "authors": [
+            "Christopher Bryant",
+            "Mariano Felice",
+            "Ted Briscoe"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1074.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-74",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Evaluation Metrics for Machine Reading Comprehension: Prerequisite Skills and Readability",
+        "authors": [
+            "Saku Sugawara",
+            "Yusuke Kido",
+            "Hikaru Yokono",
+            "Akiko Aizawa"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1075.pdf",
+        "orgs": [
+            {
+                "name": "University of Tokyo",
+                "country": "Japan"
+            },
+            {
+                "name": "Fujitsu Laboratories Ltd",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-75",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Minimal Span-Based Neural Constituency Parser",
+        "authors": [
+            "Mitchell Stern",
+            "Jacob Andreas",
+            "Dan Klein"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1076.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-76",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Semantic Dependency Parsing via Book Embedding",
+        "authors": [
+            "Weiwei Sun",
+            "Junjie Cao",
+            "Xiaojun Wan"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1077.pdf",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-77",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Neural Word Segmentation with Rich Pretraining",
+        "authors": [
+            "Jie Yang",
+            "Yue Zhang",
+            "Fei Dong"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1078.pdf",
+        "orgs": [
+            {
+                "name": "Singapore University of Technology and Design",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-78",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Neural Machine Translation via Binary Code Prediction",
+        "authors": [
+            "Yusuke Oda",
+            "Philip Arthur",
+            "Graham Neubig",
+            "Koichiro Yoshino",
+            "Satoshi Nakamura"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1079.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-79",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "What do Neural Machine Translation Models Learn about Morphology?",
+        "authors": [
+            "Yonatan Belinkov",
+            "Nadir Durrani",
+            "Fahim Dalvi",
+            "Hassan Sajjad",
+            "James Glass"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1080.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-80",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Context-Dependent Sentiment Analysis in User-Generated Videos",
+        "authors": [
+            "Soujanya Poria",
+            "Erik Cambria",
+            "Devamanyu Hazarika",
+            "Navonil Majumder",
+            "Amir Zadeh",
+            "Louis-Philippe Morency"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1081.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-81",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Multidimensional Lexicon for Interpersonal Stancetaking",
+        "authors": [
+            "Umashanthi Pavalanathan",
+            "Jim Fitzpatrick",
+            "Scott Kiesling",
+            "Jacob Eisenstein"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1082.pdf",
+        "orgs": [
+            {
+                "name": "University of Pittsburgh",
+                "country": "USA"
+            },
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-82",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Tandem Anchoring: a Multiword Anchor Approach for Interactive Topic Modeling",
+        "authors": [
+            "Jeffrey Lund",
+            "Connor Cook",
+            "Kevin Seppi",
+            "Jordan Boyd-Graber"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1083.pdf",
+        "orgs": [
+            {
+                "name": "Brigham Young University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Colorado Boulder",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-83",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Apples to Apples: Learning Semantics of Common Entities Through a Novel Comprehension Task",
+        "authors": [
+            "Omid Bakhshandeh",
+            "James Allen"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1084.pdf",
+        "orgs": [
+            {
+                "name": "University of Rochester",
+                "country": "USA"
+            },
+            {
+                "name": "Institute for Human and Machine Cognition",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-84",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Going out on a limb: Joint Extraction of Entity Mentions and Relations without Dependency Trees",
+        "authors": [
+            "Arzoo Katiyar",
+            "Claire Cardie"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1085.pdf",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-85",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Naturalizing a Programming Language via Interactive Learning",
+        "authors": [
+            "Sida I. Wang",
+            "Samuel Ginn",
+            "Percy Liang",
+            "Christopher D. Manning"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1086.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-86",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Semantic Word Clusters Using Signed Spectral Clustering",
+        "authors": [
+            "João Sedoc",
+            "Jean Gallier",
+            "Dean Foster",
+            "Lyle Ungar"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1087.pdf",
+        "orgs": [
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-87",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "An Interpretable Knowledge Transfer Model for Knowledge Base Completion",
+        "authors": [
+            "Qizhe Xie",
+            "Xuezhe Ma",
+            "Zihang Dai",
+            "Eduard Hovy"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1088.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-88",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning a Neural Semantic Parser from User Feedback",
+        "authors": [
+            "Srinivasan Iyer",
+            "Ioannis Konstas",
+            "Alvin Cheung",
+            "Jayant Krishnamurthy",
+            "Luke Zettlemoyer"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1089.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-89",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Joint Modeling of Content and Discourse Relations in Dialogues",
+        "authors": [
+            "Kechen Qin",
+            "Lu Wang",
+            "Joseph Kim"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1090.pdf",
+        "orgs": [
+            {
+                "name": "Northeastern University",
+                "country": "China"
+            },
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-90",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Argument Mining with Structured SVMs and RNNs",
+        "authors": [
+            "Vlad Niculae",
+            "Joonsuk Park",
+            "Claire Cardie"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1091.pdf",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            },
+            {
+                "name": "Williams College",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-91",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Neural Discourse Structure for Text Categorization",
+        "authors": [
+            "Yangfeng Ji",
+            "Noah A. Smith"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1092.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-92",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Adversarial Connective-exploiting Networks for Implicit Discourse Relation Classification",
+        "authors": [
+            "Lianhui Qin",
+            "Zhisong Zhang",
+            "Hai Zhao",
+            "Zhiting Hu",
+            "Eric Xing"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1093.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Shanghai Jiao Tong University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-93",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Don’t understand a measure? Learn it: Structured Prediction for Coreference Resolution optimizing its measures",
+        "authors": [
+            "Iryna Haponchyk",
+            "Alessandro Moschitti"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1094.pdf",
+        "orgs": [
+            {
+                "name": "University of Trento",
+                "country": "Italy"
+            },
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-94",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Bayesian Modeling of Lexical Resources for Low-Resource Settings",
+        "authors": [
+            "Nicholas Andrews",
+            "Mark Dredze",
+            "Benjamin Van Durme",
+            "Jason Eisner"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1095.pdf",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-95",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Semi-Supervised QA with Generative Domain-Adaptive Nets",
+        "authors": [
+            "Zhilin Yang",
+            "Junjie Hu",
+            "Ruslan Salakhutdinov",
+            "William Cohen"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1096.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-96",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood",
+        "authors": [
+            "Kelvin Guu",
+            "Panupong Pasupat",
+            "Evan Liu",
+            "Percy Liang"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1097.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-97",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Diversity driven attention model for query-based abstractive summarization",
+        "authors": [
+            "Preksha Nema",
+            "Mitesh M. Khapra",
+            "Anirban Laha",
+            "Balaraman Ravindran"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1098.pdf",
+        "orgs": [
+            {
+                "name": "Indian Institute of Technology Madras",
+                "country": "India"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-98",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Get To The Point: Summarization with Pointer-Generator Networks",
+        "authors": [
+            "Abigail See",
+            "Peter J. Liu",
+            "Christopher D. Manning"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1099.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-99",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Supervised Learning of Automatic Pyramid for Optimization-Based Multi-Document Summarization",
+        "authors": [
+            "Maxime Peyrard",
+            "Judith Eckle-Kohler"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1100.pdf",
+        "orgs": [
+            {
+                "name": "Technische Universität Darmstadt",
+                "country": "Germany"
+            },
+            {
+                "name": "Technische Universität Darmstadt",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-100",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Selective Encoding for Abstractive Sentence Summarization",
+        "authors": [
+            "Qingyu Zhou",
+            "Nan Yang",
+            "Furu Wei",
+            "Ming Zhou"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1101.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Harbin Institute of Technology",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-101",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "PositionRank: An Unsupervised Approach to Keyphrase Extraction from Scholarly Documents",
+        "authors": [
+            "Corina Florescu",
+            "Cornelia Caragea"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1102.pdf",
+        "orgs": [
+            {
+                "name": "University of North Texas",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-102",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Towards an Automatic Turing Test: Learning to Evaluate Dialogue Responses",
+        "authors": [
+            "Ryan Lowe",
+            "Michael Noseworthy",
+            "Iulian Vlad Serban",
+            "Nicolas Angelard-Gontier",
+            "Yoshua Bengio",
+            "Joelle Pineau"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1103.pdf",
+        "orgs": [
+            {
+                "name": "McGill University",
+                "country": "Canada"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "Montreal Institute of Learning Algorithms",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-103",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Transition-Based Directed Acyclic Graph Parser for UCCA",
+        "authors": [
+            "Daniel Hershcovich",
+            "Omri Abend",
+            "Ari Rappoport"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1104.pdf",
+        "orgs": [
+            {
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-104",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Abstract Syntax Networks for Code Generation and Semantic Parsing",
+        "authors": [
+            "Maxim Rabinovich",
+            "Mitchell Stern",
+            "Dan Klein"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1105.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-105",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Visualizing and Understanding Neural Machine Translation",
+        "authors": [
+            "Yanzhuo Ding",
+            "Yang Liu",
+            "Huanbo Luan",
+            "Maosong Sun"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1106.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-106",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Detecting annotation noise in automatically labelled data",
+        "authors": [
+            "Ines Rehbein",
+            "Josef Ruppenhofer"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1107.pdf",
+        "orgs": [
+            {
+                "name": "University of Heidelberg",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-107",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Abstractive Document Summarization with a Graph-Based Attentional Neural Model",
+        "authors": [
+            "Jiwei Tan",
+            "Xiaojun Wan",
+            "Jianguo Xiao"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1108.pdf",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-108",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Probabilistic Typology: Deep Generative Models of Vowel Inventories",
+        "authors": [
+            "Ryan Cotterell",
+            "Jason Eisner"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1109.pdf",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-109",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Adversarial Multi-Criteria Learning for Chinese Word Segmentation",
+        "authors": [
+            "Xinchi Chen",
+            "Zhan Shi",
+            "Xipeng Qiu",
+            "Xuanjing Huang"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1110.pdf",
+        "orgs": [
+            {
+                "name": "Fudan University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-110",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Neural Joint Model for Transition-based Chinese Syntactic Analysis",
+        "authors": [
+            "Shuhei Kurita",
+            "Daisuke Kawahara",
+            "Sadao Kurohashi"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1111.pdf",
+        "orgs": [
+            {
+                "name": "Kyoto University",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-111",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Robust Incremental Neural Semantic Graph Parsing",
+        "authors": [
+            "Jan Buys",
+            "Phil Blunsom"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1112.pdf",
+        "orgs": [
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-112",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme",
+        "authors": [
+            "Suncong Zheng",
+            "Feng Wang",
+            "Hongyun Bao",
+            "Yuexing Hao",
+            "Peng Zhou",
+            "Bo Xu"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1113.pdf",
+        "orgs": [
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-113",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Local Detection Approach for Named Entity Recognition and Mention Detection",
+        "authors": [
+            "Mingbin Xu",
+            "Hui Jiang",
+            "Sedtawut Watcharawittayakul"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1114.pdf",
+        "orgs": [
+            {
+                "name": "York University",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-114",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Vancouver Welcomes You! Minimalist Location Metonymy Resolution",
+        "authors": [
+            "Milan Gritta",
+            "Mohammad Taher Pilehvar",
+            "Nut Limsopatham",
+            "Nigel Collier"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1115.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-115",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Unifying Text, Metadata, and User Network Representations with a Neural Network for Geolocation Prediction",
+        "authors": [
+            "Yasuhide Miura",
+            "Motoki Taniguchi",
+            "Tomoki Taniguchi",
+            "Tomoko Ohkuma"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1116.pdf",
+        "orgs": [
+            {
+                "name": "Tokyo Institute of Technology",
+                "country": "Japan"
+            },
+            {
+                "name": "Xerox",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-116",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Multi-Task Video Captioning with Video and Entailment Generation",
+        "authors": [
+            "Ramakanth Pasunuru",
+            "Mohit Bansal"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1117.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ACL17-117",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Enriching Complex Networks with Word Embeddings for Detecting Mild Cognitive Impairment from Speech Transcripts",
+        "authors": [
+            "Leandro Santos",
+            "Edilson Anselmo Corrêa Júnior",
+            "Osvaldo Oliveira Jr",
+            "Diego Amancio",
+            "Letícia Mansur",
+            "Sandra Aluísio"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1118.pdf",
+        "orgs": [
+            {
+                "name": "Institute of Mathematical and Computer Sciences University of São Paulo",
+                "country": "Brazil"
+            },
+            {
+                "name": "Institute of Mathematical and Computer Sciences University of São Paulo",
+                "country": "Brazil"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-118",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Adversarial Adaptation of Synthetic or Stale Data",
+        "authors": [
+            "Young-Bum Kim",
+            "Karl Stratos",
+            "Dongchan Kim"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1119.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-119",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Chat Detection in an Intelligent Assistant: Combining Task-oriented and Non-task-oriented Spoken Dialogue Systems",
+        "authors": [
+            "Satoshi Akasaki",
+            "Nobuhiro Kaji"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1120.pdf",
+        "orgs": [
+            {
+                "name": "University of Tokyo",
+                "country": "Japan"
+            },
+            {
+                "name": "Yahoo",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-120",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Neural Local Coherence Model",
+        "authors": [
+            "Dat Tien Nguyen",
+            "Shafiq Joty"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1121.pdf",
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            },
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-121",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Data-Driven Broad-Coverage Grammars for Opinionated Natural Language Generation (ONLG)",
+        "authors": [
+            "Tomer Cagan",
+            "Stefan L. Frank",
+            "Reut Tsarfaty"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1122.pdf",
+        "orgs": [
+            {
+                "name": "The Open University of Israel",
+                "country": "Israel"
+            },
+            {
+                "name": "Radboud University Nijmegen",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-122",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning to Ask: Neural Question Generation for Reading Comprehension",
+        "authors": [
+            "Xinya Du",
+            "Junru Shao",
+            "Claire Cardie"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1123.pdf",
+        "orgs": [
+            {
+                "name": "College of Zhiyuan",
+                "country": "China"
+            },
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            },
+            {
+                "name": "Shanghai Jiao Tong University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-123",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Joint Optimization of User-desired Content in Multi-document Summaries by Learning from User Feedback",
+        "authors": [
+            "Avinesh P.V.S",
+            "Christian M. Meyer"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1124.pdf",
+        "orgs": [
+            {
+                "name": "Technische Universität Darmstadt",
+                "country": "Germany"
+            },
+            {
+                "name": "Technische Universität Darmstadt",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-124",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Flexible and Creative Chinese Poetry Generation Using Neural Memory",
+        "authors": [
+            "Jiyuan Zhang",
+            "Yang Feng",
+            "Dong Wang",
+            "Yang Wang",
+            "Andrew Abel",
+            "Shiyue Zhang",
+            "Andi Zhang"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1125.pdf",
+        "orgs": [
+            {
+                "name": "Xi'an Jiaotong University",
+                "country": "China"
+            },
+            {
+                "name": "Beijing University of Posts and Telecommunications",
+                "country": "China"
+            },
+            {
+                "name": "Peking University",
+                "country": "China"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-125",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning to Generate Market Comments from Stock Prices",
+        "authors": [
+            "Soichiro Murakami",
+            "Akihiko Watanabe",
+            "Akira Miyazawa",
+            "Keiichi Goshima",
+            "Toshihiko Yanase",
+            "Hiroya Takamura",
+            "Yusuke Miyao"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1126.pdf",
+        "orgs": [
+            {
+                "name": "The Graduate University for Advanced Studies",
+                "country": "Japan"
+            },
+            {
+                "name": "National Institute of Informatics",
+                "country": "Japan"
+            },
+            {
+                "name": "Tokyo Institute of Technology",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-126",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Can Syntax Help? Improving an LSTM-based Sentence Compression Model for New Domains",
+        "authors": [
+            "Liangguo Wang",
+            "Jing Jiang",
+            "Hai Leong Chieu",
+            "Chen Hui Ong",
+            "Dandan Song",
+            "Lejian Liao"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1127.pdf",
+        "orgs": [
+            {
+                "name": "Singapore Management University",
+                "country": "Singapore"
+            },
+            {
+                "name": "Beijing Institute of Technology",
+                "country": "China"
+            },
+            {
+                "name": "DSO National Laboratories",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-127",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Transductive Non-linear Learning for Chinese Hypernym Prediction",
+        "authors": [
+            "Chengyu Wang",
+            "Junchi Yan",
+            "Aoying Zhou",
+            "Xiaofeng He"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1128.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "East China Normal University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-128",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Constituent-Centric Neural Architecture for Reading Comprehension",
+        "authors": [
+            "Pengtao Xie",
+            "Eric Xing"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1129.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-129",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Cross-lingual Distillation for Text Classification",
+        "authors": [
+            "Ruochen Xu",
+            "Yiming Yang"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1130.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-130",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Understanding and Predicting Empathic Behavior in Counseling Therapy",
+        "authors": [
+            "Verónica Pérez-Rosas",
+            "Rada Mihalcea",
+            "Kenneth Resnicow",
+            "Satinder Singh",
+            "Lawrence An"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1131.pdf",
+        "orgs": [
+            {
+                "name": "University of Michigan",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-131",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Leveraging Knowledge Bases in LSTMs for Improving Machine Reading",
+        "authors": [
+            "Bishan Yang",
+            "Tom Mitchell"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1132.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-132",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Prerequisite Relation Learning for Concepts in MOOCs",
+        "authors": [
+            "Liangming Pan",
+            "Chengjiang Li",
+            "Juanzi Li",
+            "Jie Tang"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1133.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-133",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Unsupervised Text Segmentation Based on Native Language Characteristics",
+        "authors": [
+            "Shervin Malmasi",
+            "Mark Dras",
+            "Mark Johnson",
+            "Lan Du",
+            "Magdalena Wolska"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1134.pdf",
+        "orgs": [
+            {
+                "name": "Harvard University",
+                "country": "USA"
+            },
+            {
+                "name": "Monash University",
+                "country": "Australia"
+            },
+            {
+                "name": "Harvard University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Tübingen",
+                "country": "Germany"
+            },
+            {
+                "name": "Macquarie University",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-134",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Weakly Supervised Cross-Lingual Named Entity Recognition via Effective Annotation and Representation Projection",
+        "authors": [
+            "Jian Ni",
+            "Georgiana Dinu",
+            "Radu Florian"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1135.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-135",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Context Sensitive Lemmatization Using Two Successive Bidirectional Gated Recurrent Networks",
+        "authors": [
+            "Abhisek Chakrabarty",
+            "Onkar Arun Pandit",
+            "Utpal Garain"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1136.pdf",
+        "orgs": [
+            {
+                "name": "Indian Statistical Institute",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-136",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning to Create and Reuse Words in Open-Vocabulary Neural Language Modeling",
+        "authors": [
+            "Kazuya Kawakami",
+            "Chris Dyer",
+            "Phil Blunsom"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1137.pdf",
+        "orgs": [
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-137",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Bandit Structured Prediction for Neural Sequence-to-Sequence Learning",
+        "authors": [
+            "Julia Kreutzer",
+            "Artem Sokolov",
+            "Stefan Riezler"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1138.pdf",
+        "orgs": [
+            {
+                "name": "University of Heidelberg",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-138",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Prior Knowledge Integration for Neural Machine Translation using Posterior Regularization",
+        "authors": [
+            "Jiacheng Zhang",
+            "Yang Liu",
+            "Huanbo Luan",
+            "Jingfang Xu",
+            "Maosong Sun"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1139.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-139",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Incorporating Word Reordering Knowledge into Attention-based Neural Machine Translation",
+        "authors": [
+            "Jinchao Zhang",
+            "Mingxuan Wang",
+            "Qun Liu",
+            "Jie Zhou"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1140.pdf",
+        "orgs": [
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "Baidu",
+                "country": "China"
+            },
+            {
+                "name": "Baidu",
+                "country": "China"
+            },
+            {
+                "name": "Dublin City University",
+                "country": "Ireland"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-140",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Lexically Constrained Decoding for Sequence Generation Using Grid Beam Search",
+        "authors": [
+            "Chris Hokamp",
+            "Qun Liu"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1141.pdf",
+        "orgs": [
+            {
+                "name": "Dublin City University",
+                "country": "Ireland"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-141",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Combating Human Trafficking with Multimodal Deep Models",
+        "authors": [
+            "Edmund Tong",
+            "Amir Zadeh",
+            "Cara Jones",
+            "Louis-Philippe Morency"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1142.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-142",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "MalwareTextDB: A Database for Annotated Malware Articles",
+        "authors": [
+            "Swee Kiat Lim",
+            "Aldrian Obaja Muis",
+            "Wei Lu",
+            "Chen Hui Ong"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1143.pdf",
+        "orgs": [
+            {
+                "name": "Singapore University of Technology and Design",
+                "country": "Singapore"
+            },
+            {
+                "name": "DSO National Laboratories",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-143",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Corpus of Annotated Revisions for Studying Argumentative Writing",
+        "authors": [
+            "Fan Zhang",
+            "Homa B. Hashemi",
+            "Rebecca Hwa",
+            "Diane Litman"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1144.pdf",
+        "orgs": [
+            {
+                "name": "University of Pittsburgh",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-144",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Watset: Automatic Induction of Synsets from a Graph of Synonyms",
+        "authors": [
+            "Dmitry Ustalov",
+            "Alexander Panchenko",
+            "Chris Biemann"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1145.pdf",
+        "orgs": [
+            {
+                "name": "University of Hamburg",
+                "country": "Germany"
+            },
+            {
+                "name": "Ural Federal University",
+                "country": "Russia"
+            },
+            {
+                "name": "Krasovskii Institute of Mathematics and Mechanics",
+                "country": "Russia"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-145",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Neural Modeling of Multi-Predicate Interactions for Japanese Predicate Argument Structure Analysis",
+        "authors": [
+            "Hiroki Ouchi",
+            "Hiroyuki Shindo",
+            "Yuji Matsumoto"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1146.pdf",
+        "orgs": [
+            {
+                "name": "Nara Institute of Science and Technology",
+                "country": "Japan"
+            },
+            {
+                "name": "RIKEN Center for Advanced Intelligence Project",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-146",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension",
+        "authors": [
+            "Mandar Joshi",
+            "Eunsol Choi",
+            "Daniel Weld",
+            "Luke Zettlemoyer"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1147.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-147",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning Semantic Correspondences in Technical Documentation",
+        "authors": [
+            "Kyle Richardson",
+            "Jonas Kuhn"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1148.pdf",
+        "orgs": [
+            {
+                "name": "University of Stuttgart",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-148",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Bridge Text and Knowledge by Learning Multi-Prototype Entity Mention Embedding",
+        "authors": [
+            "Yixin Cao",
+            "Lifu Huang",
+            "Heng Ji",
+            "Xu Chen",
+            "Juanzi Li"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1149.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            },
+            {
+                "name": "Rensselaer Polytechnic Institute",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-149",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Interactive Learning of Grounded Verb Semantics towards Human-Robot Communication",
+        "authors": [
+            "Lanbo She",
+            "Joyce Chai"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1150.pdf",
+        "orgs": [
+            {
+                "name": "Michigan State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-150",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Multimodal Word Distributions",
+        "authors": [
+            "Ben Athiwaratkun",
+            "Andrew Wilson"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1151.pdf",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-151",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Enhanced LSTM for Natural Language Inference",
+        "authors": [
+            "Qian Chen",
+            "Xiaodan Zhu",
+            "Zhen-Hua Ling",
+            "Si Wei",
+            "Hui Jiang",
+            "Diana Inkpen"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1152.pdf",
+        "orgs": [
+            {
+                "name": "National Research Council Canada",
+                "country": "Canada"
+            },
+            {
+                "name": "York University",
+                "country": "Canada"
+            },
+            {
+                "name": "University of Ottawa",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-152",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Linguistic analysis of differences in portrayal of movie characters",
+        "authors": [
+            "Anil Ramakrishna",
+            "Victor R. Martínez",
+            "Nikolaos Malandrakis",
+            "Karan Singla",
+            "Shrikanth Narayanan"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1153.pdf",
+        "orgs": [
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-153",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Linguistically Regularized LSTM for Sentiment Classification",
+        "authors": [
+            "Qiao Qian",
+            "Minlie Huang",
+            "Jinhao Lei",
+            "Xiaoyan Zhu"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1154.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-154",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Sarcasm SIGN: Interpreting Sarcasm with Sentiment Based Monolingual Machine Translation",
+        "authors": [
+            "Lotem Peled",
+            "Roi Reichart"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1155.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-155",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Active Sentiment Domain Adaptation",
+        "authors": [
+            "Fangzhao Wu",
+            "Yongfeng Huang",
+            "Jun Yan"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1156.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-156",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Volatility Prediction using Financial Disclosures Sentiments with Word Embedding-based IR Models",
+        "authors": [
+            "Navid Rekabsaz",
+            "Mihai Lupu",
+            "Artem Baklanov",
+            "Alexander Dür",
+            "Linda Andersson",
+            "Allan Hanbury"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1157.pdf",
+        "orgs": [
+            {
+                "name": "Krasovskii Institute of Mathematics and Mechanics",
+                "country": "Russia"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-157",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "CANE: Context-Aware Network Embedding for Relation Modeling",
+        "authors": [
+            "Cunchao Tu",
+            "Han Liu",
+            "Zhiyuan Liu",
+            "Maosong Sun"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1158.pdf",
+        "orgs": [
+            {
+                "name": "Jiangsu Normal University",
+                "country": "China"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            },
+            {
+                "name": "Jiangsu Collaborative Innovation Center for Language Ability",
+                "country": "China"
+            },
+            {
+                "name": "Northeastern University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-158",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Universal Dependencies Parsing for Colloquial Singaporean English",
+        "authors": [
+            "Hongmin Wang",
+            "Yue Zhang",
+            "GuangYong Leonard Chan",
+            "Jie Yang",
+            "Hai Leong Chieu"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1159.pdf",
+        "orgs": [
+            {
+                "name": "DSO National Laboratories",
+                "country": "Singapore"
+            },
+            {
+                "name": "Singapore University of Technology and Design",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-159",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Generic Axiomatization of Families of Noncrossing Graphs in Dependency Parsing",
+        "authors": [
+            "Anssi Yli-Jyrä",
+            "Carlos Gómez-Rodríguez"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1160.pdf",
+        "orgs": [
+            {
+                "name": "Universidade da Coruña",
+                "country": "Spain"
+            },
+            {
+                "name": "University of Helsinki",
+                "country": "Finland"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-160",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Semi-supervised sequence tagging with bidirectional language models",
+        "authors": [
+            "Matthew Peters",
+            "Waleed Ammar",
+            "Chandra Bhagavatula",
+            "Russell Power"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1161.pdf",
+        "orgs": [
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-161",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings",
+        "authors": [
+            "He He",
+            "Anusha Balakrishnan",
+            "Mihail Eric",
+            "Percy Liang"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1162.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-162",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Neural Belief Tracker: Data-Driven Dialogue State Tracking",
+        "authors": [
+            "Nikola Mrkšić",
+            "Diarmuid Ó Séaghdha",
+            "Tsung-Hsien Wen",
+            "Blaise Thomson",
+            "Steve Young"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1163.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "Apple",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-163",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Exploiting Argument Information to Improve Event Detection via Supervised Attention Mechanisms",
+        "authors": [
+            "Shulin Liu",
+            "Yubo Chen",
+            "Kang Liu",
+            "Jun Zhao"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1164.pdf",
+        "orgs": [
+            {
+                "name": "University of Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-164",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Topical Coherence in LDA-based Models through Induced Segmentation",
+        "authors": [
+            "Hesam Amoualian",
+            "Wei Lu",
+            "Eric Gaussier",
+            "Georgios Balikas",
+            "Massih R. Amini",
+            "Marianne Clausel"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1165.pdf",
+        "orgs": [
+            {
+                "name": "Singapore University of Technology and Design",
+                "country": "Singapore"
+            },
+            {
+                "name": "Grenoble Alps University",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-165",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Jointly Extracting Relations with Class Ties via Effective Deep Ranking",
+        "authors": [
+            "Hai Ye",
+            "Wenhan Chao",
+            "Zhunchen Luo",
+            "Zhoujun Li"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1166.pdf",
+        "orgs": [
+            {
+                "name": "Beihang University",
+                "country": "China"
+            },
+            {
+                "name": "China Defense Science and Technology Information Center",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-166",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Search-based Neural Structured Learning for Sequential Question Answering",
+        "authors": [
+            "Mohit Iyyer",
+            "Wen-tau Yih",
+            "Ming-Wei Chang"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1167.pdf",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-167",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Gated-Attention Readers for Text Comprehension",
+        "authors": [
+            "Bhuwan Dhingra",
+            "Hanxiao Liu",
+            "Zhilin Yang",
+            "William Cohen",
+            "Ruslan Salakhutdinov"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1168.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-168",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Determining Gains Acquired from Word Embedding Quantitatively Using Discrete Distribution Clustering",
+        "authors": [
+            "Jianbo Ye",
+            "Yanran Li",
+            "Zhaohui Wu",
+            "James Z. Wang",
+            "Wenjie Li",
+            "Jia Li"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1169.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "The Pennsylvania State University",
+                "country": "USA"
+            },
+            {
+                "name": "The Hong Kong Polytechnic University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-169",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Towards a Seamless Integration of Word Senses into Downstream NLP Applications",
+        "authors": [
+            "Mohammad Taher Pilehvar",
+            "Jose Camacho-Collados",
+            "Roberto Navigli",
+            "Nigel Collier"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1170.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "Sapienza University of Rome",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-170",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Reading Wikipedia to Answer Open-Domain Questions",
+        "authors": [
+            "Danqi Chen",
+            "Adam Fisch",
+            "Jason Weston",
+            "Antoine Bordes"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1171.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-171",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning to Skim Text",
+        "authors": [
+            "Adams Wei Yu",
+            "Hongrae Lee",
+            "Quoc Le"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1172.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-172",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "An Algebra for Feature Extraction",
+        "authors": [
+            "Vivek Srikumar"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1173.pdf",
+        "orgs": [
+            {
+                "name": "University of Utah",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-173",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Chunk-based Decoder for Neural Machine Translation",
+        "authors": [
+            "Shonosuke Ishiwatari",
+            "Jingtao Yao",
+            "Shujie Liu",
+            "Mu Li",
+            "Ming Zhou",
+            "Naoki Yoshinaga",
+            "Masaru Kitsuregawa",
+            "Weijia Jia"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1174.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Shanghai Jiao Tong University",
+                "country": "China"
+            },
+            {
+                "name": "University of Tokyo",
+                "country": "Japan"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-174",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Doubly-Attentive Decoder for Multi-modal Neural Machine Translation",
+        "authors": [
+            "Iacer Calixto",
+            "Qun Liu",
+            "Nick Campbell"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1175.pdf",
+        "orgs": [
+            {
+                "name": "Trinity College Dublin",
+                "country": "Ireland"
+            },
+            {
+                "name": "Dublin City University",
+                "country": "Ireland"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-175",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Teacher-Student Framework for Zero-Resource Neural Machine Translation",
+        "authors": [
+            "Yun Chen",
+            "Yang Liu",
+            "Yong Cheng",
+            "Victor O.K. Li"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1176.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            },
+            {
+                "name": "University of Hong Kong",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-176",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Improved Neural Machine Translation with a Syntax-Aware Encoder and Decoder",
+        "authors": [
+            "Huadong Chen",
+            "Shujian Huang",
+            "David Chiang",
+            "Jiajun Chen"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1177.pdf",
+        "orgs": [
+            {
+                "name": "University of Notre Dame",
+                "country": "USA"
+            },
+            {
+                "name": "Nanjing University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-177",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Cross-lingual Name Tagging and Linking for 282 Languages",
+        "authors": [
+            "Xiaoman Pan",
+            "Boliang Zhang",
+            "Jonathan May",
+            "Joel Nothman",
+            "Kevin Knight",
+            "Heng Ji"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1178.pdf",
+        "orgs": [
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            },
+            {
+                "name": "Rensselaer Polytechnic Institute",
+                "country": "USA"
+            },
+            {
+                "name": "Information Sciences Institute",
+                "country": "USA"
+            },
+            {
+                "name": "University of Sydney",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-178",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Adversarial Training for Unsupervised Bilingual Lexicon Induction",
+        "authors": [
+            "Meng Zhang",
+            "Yang Liu",
+            "Huanbo Luan",
+            "Maosong Sun"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1179.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-179",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Estimating Code-Switching on Twitter with a Novel Generalized Word-Level Language Detection Technique",
+        "authors": [
+            "Shruti Rijhwani",
+            "Royal Sequiera",
+            "Monojit Choudhury",
+            "Kalika Bali",
+            "Chandra Shekhar Maddila"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1180.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Waterloo",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-180",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Using Global Constraints and Reranking to Improve Cognates Detection",
+        "authors": [
+            "Michael Bloodgood",
+            "Benjamin Strauss"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1181.pdf",
+        "orgs": [
+            {
+                "name": "College of New Jersey",
+                "country": "USA"
+            },
+            {
+                "name": "The Ohio State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-181",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "One-Shot Neural Cross-Lingual Transfer for Paradigm Completion",
+        "authors": [
+            "Katharina Kann",
+            "Ryan Cotterell",
+            "Hinrich Schütze"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1182.pdf",
+        "orgs": [
+            {
+                "name": "University of Munich",
+                "country": "Germany"
+            },
+            {
+                "name": "University of Munich",
+                "country": "Germany"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-182",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Morphological Inflection Generation with Hard Monotonic Attention",
+        "authors": [
+            "Roee Aharoni",
+            "Yoav Goldberg"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1183.pdf",
+        "orgs": [
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-183",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "From Characters to Words to in Between: Do We Capture Morphology?",
+        "authors": [
+            "Clara Vania",
+            "Adam Lopez"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1184.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-184",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Riemannian Optimization for Skip-Gram Negative Sampling",
+        "authors": [
+            "Alexander Fonarev",
+            "Oleksii Grinchuk",
+            "Gleb Gusev",
+            "Pavel Serdyukov",
+            "Ivan Oseledets"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1185.pdf",
+        "orgs": [
+            {
+                "name": "Moscow Institute of Physics and Technology",
+                "country": "Russia"
+            },
+            {
+                "name": "Yandex",
+                "country": "Russia"
+            },
+            {
+                "name": "Skolkovo Institute of Science and Technology",
+                "country": "Russia"
+            },
+            {
+                "name": "Russian Academy of Sciences",
+                "country": "Russia"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-185",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Deep Multitask Learning for Semantic Dependency Parsing",
+        "authors": [
+            "Hao Peng",
+            "Sam Thomson",
+            "Noah A. Smith"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1186.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-186",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Improved Word Representation Learning with Sememes",
+        "authors": [
+            "Yilin Niu",
+            "Ruobing Xie",
+            "Zhiyuan Liu",
+            "Maosong Sun"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1187.pdf",
+        "orgs": [
+            {
+                "name": "Jiangsu Normal University",
+                "country": "China"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            },
+            {
+                "name": "Jiangsu Collaborative Innovation Center for Language Ability",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-187",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning Character-level Compositionality with Visual Features",
+        "authors": [
+            "Frederick Liu",
+            "Han Lu",
+            "Chieh Lo",
+            "Graham Neubig"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1188.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-188",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Progressive Learning Approach to Chinese SRL Using Heterogeneous Data",
+        "authors": [
+            "Qiaolin Xia",
+            "Lei Sha",
+            "Baobao Chang",
+            "Zhifang Sui"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1189.pdf",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            },
+            {
+                "name": "Beijing Advanced Innovation Center",
+                "country": "China"
+            },
+            {
+                "name": "Capital Normal University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-189",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Revisiting Recurrent Networks for Paraphrastic Sentence Embeddings",
+        "authors": [
+            "John Wieting",
+            "Kevin Gimpel"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1190.pdf",
+        "orgs": [
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-190",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Ontology-Aware Token Embeddings for Prepositional Phrase Attachment",
+        "authors": [
+            "Pradeep Dasigi",
+            "Waleed Ammar",
+            "Chris Dyer",
+            "Eduard Hovy"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1191.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-191",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Identifying 1950s American Jazz Musicians: Fine-Grained IsA Extraction via Modifier Composition",
+        "authors": [
+            "Ellie Pavlick",
+            "Marius Paşca"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1192.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-192",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Parsing to 1-Endpoint-Crossing, Pagenumber-2 Graphs",
+        "authors": [
+            "Junjie Cao",
+            "Sheng Huang",
+            "Weiwei Sun",
+            "Xiaojun Wan"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1193.pdf",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-193",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Semi-supervised Multitask Learning for Sequence Labeling",
+        "authors": [
+            "Marek Rei"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1194.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "The ALTA Institute",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-194",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Semantic Parsing of Pre-university Math Problems",
+        "authors": [
+            "Takuya Matsuzaki",
+            "Takumi Ito",
+            "Hidenao Iwane",
+            "Hirokazu Anai",
+            "Noriko H. Arai"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-1195.pdf",
+        "orgs": [
+            {
+                "name": "National Institute of Informatics",
+                "country": "Japan"
+            },
+            {
+                "name": "Hokkaido University",
+                "country": "Japan"
+            },
+            {
+                "name": "Fujitsu Laboratories Ltd",
+                "country": "Japan"
+            },
+            {
+                "name": "Nagoya University Riken AIP",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-195",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Classifying Temporal Relations by Bidirectional LSTM over Dependency Paths",
+        "authors": [
+            "Fei Cheng",
+            "Yusuke Miyao"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2001.pdf",
+        "orgs": [
+            {
+                "name": "Research Center for Financial Smart Data",
+                "country": "Japan"
+            },
+            {
+                "name": "National Institute of Informatics",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-196",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "AMR-to-text Generation with Synchronous Node Replacement Grammar",
+        "authors": [
+            "Linfeng Song",
+            "Xiaochang Peng",
+            "Yue Zhang",
+            "Zhiguo Wang",
+            "Daniel Gildea"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2002.pdf",
+        "orgs": [
+            {
+                "name": "University of Rochester",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Singapore University of Technology and Design",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-197",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Lexical Features in Coreference Resolution: To be Used With Caution",
+        "authors": [
+            "Nafise Sadat Moosavi",
+            "Michael Strube"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2003.pdf",
+        "orgs": [
+            {
+                "name": "Heidelberg Institute for Theoretical Studies gGmbH",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-198",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Alternative Objective Functions for Training MT Evaluation Metrics",
+        "authors": [
+            "Miloš Stanojević",
+            "Khalil Sima’an"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2004.pdf",
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-199",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Principled Framework for Evaluating Summarizers: Comparing Models of Summary Quality against Human Judgments",
+        "authors": [
+            "Maxime Peyrard",
+            "Judith Eckle-Kohler"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2005.pdf",
+        "orgs": [
+            {
+                "name": "Technische Universität Darmstadt",
+                "country": "Germany"
+            },
+            {
+                "name": "Technische Universität Darmstadt",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-200",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Vector space models for evaluating semantic fluency in autism",
+        "authors": [
+            "Emily Prud’hommeaux",
+            "Jan van Santen",
+            "Douglas Gliner"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2006.pdf",
+        "orgs": [
+            {
+                "name": "Rochester Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-201",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Neural Architectures for Multilingual Semantic Parsing",
+        "authors": [
+            "Raymond Hendy Susanto",
+            "Wei Lu"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2007.pdf",
+        "orgs": [
+            {
+                "name": "Singapore University of Technology and Design",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-202",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Incorporating Uncertainty into Deep Learning for Spoken Language Assessment",
+        "authors": [
+            "Andrey Malinin",
+            "Anton Ragni",
+            "Kate Knill",
+            "Mark Gales"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2008.pdf",
+        "orgs": [
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-203",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Incorporating Dialectal Variability for Socially Equitable Language Identification",
+        "authors": [
+            "David Jurgens",
+            "Yulia Tsvetkov",
+            "Dan Jurafsky"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2009.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-204",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Evaluating Compound Splitters Extrinsically with Textual Entailment",
+        "authors": [
+            "Glorianna Jagfeld",
+            "Patrick Ziering",
+            "Lonneke van der Plas"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2010.pdf",
+        "orgs": [
+            {
+                "name": "University of Stuttgart",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-205",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "An Analysis of Action Recognition Datasets for Language and Vision Tasks",
+        "authors": [
+            "Spandana Gella",
+            "Frank Keller"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2011.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-206",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning to Parse and Translate Improves Neural Machine Translation",
+        "authors": [
+            "Akiko Eriguchi",
+            "Yoshimasa Tsuruoka",
+            "Kyunghyun Cho"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2012.pdf",
+        "orgs": [
+            {
+                "name": "University of Tokyo",
+                "country": "Japan"
+            },
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-207",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "On the Distribution of Lexical Features at Multiple Levels of Analysis",
+        "authors": [
+            "Fatemeh Almodaresi",
+            "Lyle Ungar",
+            "Vivek Kulkarni",
+            "Mohsen Zakeri",
+            "Salvatore Giorgi",
+            "H. Andrew Schwartz"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2013.pdf",
+        "orgs": [
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            },
+            {
+                "name": "Stony Brook University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-208",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Exploring Neural Text Simplification Models",
+        "authors": [
+            "Sergiu Nisioi",
+            "Sanja Štajner",
+            "Simone Paolo Ponzetto",
+            "Liviu P. Dinu"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2014.pdf",
+        "orgs": [
+            {
+                "name": "University of Mannheim",
+                "country": "Germany"
+            },
+            {
+                "name": "University of Bucharest",
+                "country": "Romania"
+            },
+            {
+                "name": "Oracle Labs",
+                "country": "USA"
+            },
+            {
+                "name": "IIIT Hyderabad",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-209",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "On the Challenges of Translating NLP Research into Commercial Products",
+        "authors": [
+            "Daniel Dahlmeier"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2015.pdf",
+        "orgs": [
+            {
+                "name": "SAP",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-210",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Sentence Alignment Methods for Improving Text Simplification Systems",
+        "authors": [
+            "Sanja Štajner",
+            "Marc Franco-Salvador",
+            "Simone Paolo Ponzetto",
+            "Paolo Rosso",
+            "Heiner Stuckenschmidt"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2016.pdf",
+        "orgs": [
+            {
+                "name": "Universität Politècnica de València",
+                "country": "Spain"
+            },
+            {
+                "name": "PRHLT Research Center",
+                "country": "Spain"
+            },
+            {
+                "name": "University of Mannheim",
+                "country": "Germany"
+            },
+            {
+                "name": "University of Mannheim",
+                "country": "Germany"
+            },
+            {
+                "name": "Symanto Research",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-211",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Understanding Task Design Trade-offs in Crowdsourced Paraphrase Collection",
+        "authors": [
+            "Youxuan Jiang",
+            "Jonathan K. Kummerfeld",
+            "Walter S. Lasecki"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2017.pdf",
+        "orgs": [
+            {
+                "name": "University of Michigan",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-212",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Arc-swift: A Novel Transition System for Dependency Parsing",
+        "authors": [
+            "Peng Qi",
+            "Christopher D. Manning"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2018.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-213",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Generative Parser with a Discriminative Recognition Algorithm",
+        "authors": [
+            "Jianpeng Cheng",
+            "Adam Lopez",
+            "Mirella Lapata"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2019.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-214",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Hybrid Neural Network Alignment and Lexicon Model in Direct HMM for Statistical Machine Translation",
+        "authors": [
+            "Weiyue Wang",
+            "Tamer Alkhouli",
+            "Derui Zhu",
+            "Hermann Ney"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2020.pdf",
+        "orgs": [
+            {
+                "name": "RWTH Aachen University",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-215",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Towards String-To-Tree Neural Machine Translation",
+        "authors": [
+            "Roee Aharoni",
+            "Yoav Goldberg"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2021.pdf",
+        "orgs": [
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-216",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning Lexico-Functional Patterns for First-Person Affect",
+        "authors": [
+            "Lena Reed",
+            "Jiaqi Wu",
+            "Shereen Oraby",
+            "Pranav Anand",
+            "Marilyn Walker"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2022.pdf",
+        "orgs": [
+            {
+                "name": "UC Santa Cruz",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-217",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Lifelong Learning CRF for Supervised Aspect Extraction",
+        "authors": [
+            "Lei Shu",
+            "Hu Xu",
+            "Bing Liu"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2023.pdf",
+        "orgs": [
+            {
+                "name": "University of Illinois at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-218",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Exploiting Domain Knowledge via Grouped Weight Sharing with Application to Text Categorization",
+        "authors": [
+            "Ye Zhang",
+            "Matthew Lease",
+            "Byron C. Wallace"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2024.pdf",
+        "orgs": [
+            {
+                "name": "Northeastern University",
+                "country": "China"
+            },
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-219",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Improving Neural Parsing by Disentangling Model Combination and Reranking Effects",
+        "authors": [
+            "Daniel Fried",
+            "Mitchell Stern",
+            "Dan Klein"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2025.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-220",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Information-Theory Interpretation of the Skip-Gram Negative-Sampling Objective Function",
+        "authors": [
+            "Oren Melamud",
+            "Jacob Goldberger"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2026.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-221",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Implicitly-Defined Neural Networks for Sequence Labeling",
+        "authors": [
+            "Michaeel Kazi",
+            "Brian Thompson"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2027.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-222",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "The Role of Prosody and Speech Register in Word Segmentation: A Computational Modelling Perspective",
+        "authors": [
+            "Bogdan Ludusan",
+            "Reiko Mazuka",
+            "Mathieu Bernard",
+            "Alejandrina Cristia",
+            "Emmanuel Dupoux"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2028.pdf",
+        "orgs": [
+            {
+                "name": "RIKEN Brain Science Institute",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-223",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Two-Stage Parsing Method for Text-Level Discourse Analysis",
+        "authors": [
+            "Yizhong Wang",
+            "Sujian Li",
+            "Houfeng Wang"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2029.pdf",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-224",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Error-repair Dependency Parsing for Ungrammatical Texts",
+        "authors": [
+            "Keisuke Sakaguchi",
+            "Matt Post",
+            "Benjamin Van Durme"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2030.pdf",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-225",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Attention Strategies for Multi-Source Sequence-to-Sequence Learning",
+        "authors": [
+            "Jindřich Libovický",
+            "Jindřich Helcl"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2031.pdf",
+        "orgs": [
+            {
+                "name": "Charles University",
+                "country": "Czech Republic"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-226",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Understanding and Detecting Supporting Arguments of Diverse Types",
+        "authors": [
+            "Xinyu Hua",
+            "Lu Wang"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2032.pdf",
+        "orgs": [
+            {
+                "name": "Northeastern University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-227",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Neural Model for User Geolocation and Lexical Dialectology",
+        "authors": [
+            "Afshin Rahimi",
+            "Trevor Cohn",
+            "Timothy Baldwin"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2033.pdf",
+        "orgs": [
+            {
+                "name": "University of Melbourne",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-228",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Corpus of Natural Language for Visual Reasoning",
+        "authors": [
+            "Alane Suhr",
+            "Mike Lewis",
+            "James Yeh",
+            "Yoav Artzi"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2034.pdf",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-229",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Neural Architecture for Temporal Relation Extraction: A Bi-LSTM Approach for Detecting Narrative Containers",
+        "authors": [
+            "Julien Tourille",
+            "Olivier Ferret",
+            "Aurélie Névéol",
+            "Xavier Tannier"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2035.pdf",
+        "orgs": [
+            {
+                "name": "LIMSI",
+                "country": "France"
+            },
+            {
+                "name": "Univ Paris Sud",
+                "country": "France"
+            },
+            {
+                "name": "Université́ Paris Saclay",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-230",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "How to Make Context More Useful? An Empirical Study on Context-Aware Neural Conversational Models",
+        "authors": [
+            "Zhiliang Tian",
+            "Rui Yan",
+            "Lili Mou",
+            "Yiping Song",
+            "Yansong Feng",
+            "Dongyan Zhao"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2036.pdf",
+        "orgs": [
+            {
+                "name": "Baidu",
+                "country": "China"
+            },
+            {
+                "name": "Peking University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-231",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Cross-lingual and cross-domain discourse segmentation of entire documents",
+        "authors": [
+            "Chloé Braud",
+            "Ophélie Lacroix",
+            "Anders Søgaard"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2037.pdf",
+        "orgs": [
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-232",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Detecting Good Arguments in a Non-Topic-Specific Way: An Oxymoron?",
+        "authors": [
+            "Beata Beigman Klebanov",
+            "Binod Gyawali",
+            "Yi Song"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2038.pdf",
+        "orgs": [
+            {
+                "name": "Educational Testing Service",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-233",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Argumentation Quality Assessment: Theory vs. Practice",
+        "authors": [
+            "Henning Wachsmuth",
+            "Nona Naderi",
+            "Ivan Habernal",
+            "Yufang Hou",
+            "Graeme Hirst",
+            "Iryna Gurevych",
+            "Benno Stein"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2039.pdf",
+        "orgs": [
+            {
+                "name": "Bauhaus-Universität Weimar",
+                "country": "Germany"
+            },
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Technische Universität Darmstadt",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-234",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Recurrent Neural Model with Attention for the Recognition of Chinese Implicit Discourse Relations",
+        "authors": [
+            "Samuel Rönnqvist",
+            "Niko Schenk",
+            "Christian Chiarcos"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2040.pdf",
+        "orgs": [
+            {
+                "name": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+                "country": "Germany"
+            },
+            {
+                "name": "Åbo Akademi University",
+                "country": "Finland"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-235",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Discourse Annotation of Non-native Spontaneous Spoken Responses Using the Rhetorical Structure Theory Framework",
+        "authors": [
+            "Xinhao Wang",
+            "James Bruno",
+            "Hillary Molloy",
+            "Keelan Evanini",
+            "Klaus Zechner"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2041.pdf",
+        "orgs": [
+            {
+                "name": "Educational Testing Service",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-236",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Improving Implicit Discourse Relation Recognition with Discourse-specific Word Embeddings",
+        "authors": [
+            "Changxing Wu",
+            "Xiaodong Shi",
+            "Yidong Chen",
+            "Jinsong Su",
+            "Boli Wang"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2042.pdf",
+        "orgs": [
+            {
+                "name": "Xiamen University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-237",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Oracle Summaries of Compressive Summarization",
+        "authors": [
+            "Tsutomu Hirao",
+            "Masaaki Nishino",
+            "Masaaki Nagata"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2043.pdf",
+        "orgs": [
+            {
+                "name": "NTT Corporation",
+                "country": "Japan"
+            },
+            {
+                "name": "NTT Corporation",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-238",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Japanese Sentence Compression with a Large Training Dataset",
+        "authors": [
+            "Shun Hasegawa",
+            "Yuta Kikuchi",
+            "Hiroya Takamura",
+            "Manabu Okumura"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2044.pdf",
+        "orgs": [
+            {
+                "name": "Tokyo Institute of Technology",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-239",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Neural Architecture for Generating Natural Language Descriptions from Source Code Changes",
+        "authors": [
+            "Pablo Loyola",
+            "Edison Marrese-Taylor",
+            "Yutaka Matsuo"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2045.pdf",
+        "orgs": [
+            {
+                "name": "University of Tokyo",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-240",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "English Event Detection With Translated Language Features",
+        "authors": [
+            "Sam Wei",
+            "Igor Korostil",
+            "Joel Nothman",
+            "Ben Hachey"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2046.pdf",
+        "orgs": [
+            {
+                "name": "University of Sydney",
+                "country": "Australia"
+            },
+            {
+                "name": "University of Sydney",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-241",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "EviNets: Neural Networks for Combining Evidence Signals for Factoid Question Answering",
+        "authors": [
+            "Denis Savenkov",
+            "Eugene Agichtein"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2047.pdf",
+        "orgs": [
+            {
+                "name": "Emory University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-242",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Pocket Knowledge Base Population",
+        "authors": [
+            "Travis Wolfe",
+            "Mark Dredze",
+            "Benjamin Van Durme"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2048.pdf",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-243",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Answering Complex Questions Using Open Information Extraction",
+        "authors": [
+            "Tushar Khot",
+            "Ashish Sabharwal",
+            "Peter Clark"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2049.pdf",
+        "orgs": [
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-244",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Bootstrapping for Numerical Open IE",
+        "authors": [
+            "Swarnadeep Saha",
+            "Harinder Pal",
+            "Mausam"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2050.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-245",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Feature-Rich Networks for Knowledge Base Completion",
+        "authors": [
+            "Alexandros Komninos",
+            "Suresh Manandhar"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2051.pdf",
+        "orgs": [
+            {
+                "name": "University of York",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-246",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Fine-Grained Entity Typing with High-Multiplicity Assignments",
+        "authors": [
+            "Maxim Rabinovich",
+            "Dan Klein"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2052.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-247",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Group Sparse CNNs for Question Classification with Answer Sets",
+        "authors": [
+            "Mingbo Ma",
+            "Liang Huang",
+            "Bing Xiang",
+            "Bowen Zhou"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2053.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Oregon State University",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-248",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Multi-Task Learning of Keyphrase Boundary Classification",
+        "authors": [
+            "Isabelle Augenstein",
+            "Anders Søgaard"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2054.pdf",
+        "orgs": [
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            },
+            {
+                "name": "University College London",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-249",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Cardinal Virtues: Extracting Relation Cardinalities from Text",
+        "authors": [
+            "Paramita Mirza",
+            "Simon Razniewski",
+            "Fariz Darari",
+            "Gerhard Weikum"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2055.pdf",
+        "orgs": [
+            {
+                "name": "MMax Planck Institute for Informatics",
+                "country": "Germany"
+            },
+            {
+                "name": "Free University of Bozen-Bolzano",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-250",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Integrating Deep Linguistic Features in Factuality Prediction over Unified Datasets",
+        "authors": [
+            "Gabriel Stanovsky",
+            "Judith Eckle-Kohler",
+            "Yevgeniy Puzikov",
+            "Ido Dagan",
+            "Iryna Gurevych"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2056.pdf",
+        "orgs": [
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            },
+            {
+                "name": "Technische Universität Darmstadt",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-251",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Question Answering on Knowledge Bases and Text using Universal Schema and Memory Networks",
+        "authors": [
+            "Rajarshi Das",
+            "Manzil Zaheer",
+            "Siva Reddy",
+            "Andrew McCallum"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2057.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            },
+            {
+                "name": "University of Massachusetts Amherst",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-252",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Differentiable Scheduled Sampling for Credit Assignment",
+        "authors": [
+            "Kartik Goyal",
+            "Chris Dyer",
+            "Taylor Berg-Kirkpatrick"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2058.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-253",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Deep Network with Visual Text Composition Behavior",
+        "authors": [
+            "Hongyu Guo"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2059.pdf",
+        "orgs": [
+            {
+                "name": "National Research Council Canada",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-254",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Neural System Combination for Machine Translation",
+        "authors": [
+            "Long Zhou",
+            "Wenpeng Hu",
+            "Jiajun Zhang",
+            "Chengqing Zong"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2060.pdf",
+        "orgs": [
+            {
+                "name": "University of Chinese Academy of Sciences",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-255",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "An Empirical Comparison of Domain Adaptation Methods for Neural Machine Translation",
+        "authors": [
+            "Chenhui Chu",
+            "Raj Dabre",
+            "Sadao Kurohashi"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2061.pdf",
+        "orgs": [
+            {
+                "name": "Osaka University",
+                "country": "Japan"
+            },
+            {
+                "name": "Kyoto University",
+                "country": "Japan"
+            },
+            {
+                "name": "Osaka University",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-256",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Efficient Extraction of Pseudo-Parallel Sentences from Raw Monolingual Data Using Word Embeddings",
+        "authors": [
+            "Benjamin Marie",
+            "Atsushi Fujita"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2062.pdf",
+        "orgs": [
+            {
+                "name": "National Institute of Information",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-257",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Feature Hashing for Language and Dialect Identification",
+        "authors": [
+            "Shervin Malmasi",
+            "Mark Dras"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2063.pdf",
+        "orgs": [
+            {
+                "name": "Harvard University",
+                "country": "USA"
+            },
+            {
+                "name": "Macquarie University",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-258",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Detection of Chinese Word Usage Errors for Non-Native Chinese Learners with Bidirectional LSTM",
+        "authors": [
+            "Yow-Ting Shiue",
+            "Hen-Hsen Huang",
+            "Hsin-Hsi Chen"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2064.pdf",
+        "orgs": [
+            {
+                "name": "National Taiwan University",
+                "country": "Taiwan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-259",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Automatic Compositor Attribution in the First Folio of Shakespeare",
+        "authors": [
+            "Maria Ryskina",
+            "Hannah Alpert-Abrams",
+            "Dan Garrette",
+            "Taylor Berg-Kirkpatrick"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2065.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-260",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "STAIR Captions: Constructing a Large-Scale Japanese Image Caption Dataset",
+        "authors": [
+            "Yuya Yoshikawa",
+            "Yutaro Shigeto",
+            "Akikazu Takeuchi"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2066.pdf",
+        "orgs": [
+            {
+                "name": "Chiba University",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-261",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "“Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection",
+        "authors": [
+            "William Yang Wang"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2067.pdf",
+        "orgs": [
+            {
+                "name": "University of California Santa Barbara",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-262",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "English Multiword Expression-aware Dependency Parsing Including Named Entities",
+        "authors": [
+            "Akihiko Kato",
+            "Hiroyuki Shindo",
+            "Yuji Matsumoto"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2068.pdf",
+        "orgs": [
+            {
+                "name": "Nara Institute of Science and Technology",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-263",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Improving Semantic Composition with Offset Inference",
+        "authors": [
+            "Thomas Kober",
+            "Julie Weeds",
+            "Jeremy Reffin",
+            "David Weir"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2069.pdf",
+        "orgs": [
+            {
+                "name": "University of Sussex",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-264",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Learning Topic-Sensitive Word Representations",
+        "authors": [
+            "Marzieh Fadaee",
+            "Arianna Bisazza",
+            "Christof Monz"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2070.pdf",
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-265",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Temporal Word Analogies: Identifying Lexical Replacement with Diachronic Word Embeddings",
+        "authors": [
+            "Terrence Szymanski"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2071.pdf",
+        "orgs": [
+            {
+                "name": "University College Dublin",
+                "country": "Ireland"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-266",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Methodical Evaluation of Arabic Word Embeddings",
+        "authors": [
+            "Mohammed Elrazzaz",
+            "Shady Elbassuoni",
+            "Khaled Shaban",
+            "Chadi Helwe"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2072.pdf",
+        "orgs": [
+            {
+                "name": "Qatar University",
+                "country": "Qatar"
+            },
+            {
+                "name": "American University of Beirut",
+                "country": "Lebanon"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-267",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Multilingual Connotation Frames: A Case Study on Social Media for Targeted Sentiment Analysis and Forecast",
+        "authors": [
+            "Hannah Rashkin",
+            "Eric Bell",
+            "Yejin Choi",
+            "Svitlana Volkova"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2073.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-268",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Best-Worst Scaling More Reliable than Rating Scales: A Case Study on Sentiment Intensity Annotation",
+        "authors": [
+            "Svetlana Kiritchenko",
+            "Saif Mohammad"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2074.pdf",
+        "orgs": [
+            {
+                "name": "National Research Council Canada",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-269",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Demographic Inference on Twitter using Recursive Neural Networks",
+        "authors": [
+            "Sunghwan Mac Kim",
+            "Qiongkai Xu",
+            "Lizhen Qu",
+            "Stephen Wan",
+            "Cécile Paris"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2075.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ACL17-270",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Twitter Demographic Classification Using Deep Multi-modal Multi-task Learning",
+        "authors": [
+            "Prashanth Vijayaraghavan",
+            "Soroush Vosoughi",
+            "Deb Roy"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2076.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-271",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Network Framework for Noisy Label Aggregation in Social Media",
+        "authors": [
+            "Xueying Zhan",
+            "Yaowei Wang",
+            "Yanghui Rao",
+            "Haoran Xie",
+            "Qing Li",
+            "Fu Lee Wang",
+            "Tak-Lam Wong"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2077.pdf",
+        "orgs": [
+            {
+                "name": "The Education University of Hong Kong",
+                "country": "China"
+            },
+            {
+                "name": "City University of Hong Kong",
+                "country": "China"
+            },
+            {
+                "name": "Sun Yat-sen University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-272",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Parser Adaptation for Social Media by Integrating Normalization",
+        "authors": [
+            "Rob van der Goot",
+            "Gertjan van Noord"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2078.pdf",
+        "orgs": [
+            {
+                "name": "University of Groningen",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-273",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "AliMe Chat: A Sequence to Sequence and Rerank based Chatbot Engine",
+        "authors": [
+            "Minghui Qiu",
+            "Feng-Lin Li",
+            "Siyu Wang",
+            "Xing Gao",
+            "Yan Chen",
+            "Weipeng Zhao",
+            "Haiqing Chen",
+            "Jun Huang",
+            "Wei Chu"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2079.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Apple",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-274",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Conditional Variational Framework for Dialog Generation",
+        "authors": [
+            "Xiaoyu Shen",
+            "Hui Su",
+            "Yanran Li",
+            "Wenjie Li",
+            "Shuzi Niu",
+            "Yang Zhao",
+            "Akiko Aizawa",
+            "Guoping Long"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2080.pdf",
+        "orgs": [
+            {
+                "name": "The Hong Kong Polytechnic University",
+                "country": "China"
+            },
+            {
+                "name": "National Institute of Informatics",
+                "country": "Japan"
+            },
+            {
+                "name": "Saarland University",
+                "country": "Germany"
+            },
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-275",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Question Answering through Transfer Learning from Large Fine-grained Supervision Data",
+        "authors": [
+            "Sewon Min",
+            "Minjoon Seo",
+            "Hannaneh Hajishirzi"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2081.pdf",
+        "orgs": [
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "Seoul National University",
+                "country": "South Korea"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-276",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Self-Crowdsourcing Training for Relation Extraction",
+        "authors": [
+            "Azad Abad",
+            "Moin Nabi",
+            "Alessandro Moschitti"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2082.pdf",
+        "orgs": [
+            {
+                "name": "University of Trento",
+                "country": "Italy"
+            },
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-277",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "A Generative Attentional Neural Network Model for Dialogue Act Classification",
+        "authors": [
+            "Quan Hung Tran",
+            "Gholamreza Haffari",
+            "Ingrid Zukerman"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2083.pdf",
+        "orgs": [
+            {
+                "name": "Monash University",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-278",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Salience Rank: Efficient Keyphrase Extraction with Topic Modeling",
+        "authors": [
+            "Nedelina Teneva",
+            "Weiwei Cheng"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2084.pdf",
+        "orgs": [
+            {
+                "name": "University of Chicago",
+                "country": "USA"
+            },
+            {
+                "name": "Amazon",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-279",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "List-only Entity Linking",
+        "authors": [
+            "Ying Lin",
+            "Chin-Yew Lin",
+            "Heng Ji"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2085.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Rensselaer Polytechnic Institute",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-280",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Improving Native Language Identification by Using Spelling Errors",
+        "authors": [
+            "Lingzhen Chen",
+            "Carlo Strapparava",
+            "Vivi Nastase"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2086.pdf",
+        "orgs": [
+            {
+                "name": "University of Trento",
+                "country": "Italy"
+            },
+            {
+                "name": "University of Heidelberg",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-281",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Disfluency Detection using a Noisy Channel Model and a Deep Neural Language Model",
+        "authors": [
+            "Paria Jamshid Lou",
+            "Mark Johnson"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2087.pdf",
+        "orgs": [
+            {
+                "name": "Macquarie University",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-282",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "On the Equivalence of Holographic and Complex Embeddings for Link Prediction",
+        "authors": [
+            "Katsuhiko Hayashi",
+            "Masashi Shimbo"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2088.pdf",
+        "orgs": [
+            {
+                "name": "NTT Corporation",
+                "country": "Japan"
+            },
+            {
+                "name": "Nara Institute of Science and Technology",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-283",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Sentence Embedding for Neural Machine Translation Domain Adaptation",
+        "authors": [
+            "Rui Wang",
+            "Andrew Finch",
+            "Masao Utiyama",
+            "Eiichiro Sumita"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2089.pdf",
+        "orgs": [
+            {
+                "name": "National Institute of Information",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-284",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Data Augmentation for Low-Resource Neural Machine Translation",
+        "authors": [
+            "Marzieh Fadaee",
+            "Arianna Bisazza",
+            "Christof Monz"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2090.pdf",
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-285",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Speeding Up Neural Machine Translation Decoding by Shrinking Run-time Vocabulary",
+        "authors": [
+            "Xing Shi",
+            "Kevin Knight"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2091.pdf",
+        "orgs": [
+            {
+                "name": "Information Sciences Institute Computer Science Department",
+                "country": "USA"
+            },
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-286",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Chunk-Based Bi-Scale Decoder for Neural Machine Translation",
+        "authors": [
+            "Hao Zhou",
+            "Zhaopeng Tu",
+            "Shujian Huang",
+            "Xiaohua Liu",
+            "Hang Li",
+            "Jiajun Chen"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2092.pdf",
+        "orgs": [
+            {
+                "name": "Nanjing University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-287",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Model Transfer for Tagging Low-resource Languages using a Bilingual Dictionary",
+        "authors": [
+            "Meng Fang",
+            "Trevor Cohn"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2093.pdf",
+        "orgs": [
+            {
+                "name": "University of Melbourne",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-288",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "EuroSense: Automatic Harvesting of Multilingual Sense Annotations from Parallel Text",
+        "authors": [
+            "Claudio Delli Bovi",
+            "Jose Camacho-Collados",
+            "Alessandro Raganato",
+            "Roberto Navigli"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2094.pdf",
+        "orgs": [
+            {
+                "name": "Sapienza University of Rome",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-289",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Challenging Language-Dependent Segmentation for Arabic: An Application to Machine Translation and Part-of-Speech Tagging",
+        "authors": [
+            "Hassan Sajjad",
+            "Fahim Dalvi",
+            "Nadir Durrani",
+            "Ahmed Abdelali",
+            "Yonatan Belinkov",
+            "Stephan Vogel"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2095.pdf",
+        "orgs": [
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            },
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-290",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Fast and Accurate Neural Word Segmentation for Chinese",
+        "authors": [
+            "Deng Cai",
+            "Hai Zhao",
+            "Zhisong Zhang",
+            "Yuan Xin",
+            "Yongjian Wu",
+            "Feiyue Huang"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2096.pdf",
+        "orgs": [
+            {
+                "name": "Shanghai Jiao Tong University",
+                "country": "China"
+            },
+            {
+                "name": "Shanghai Jiao Tong University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-291",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Pay Attention to the Ending:Strong Neural Baselines for the ROC Story Cloze Task",
+        "authors": [
+            "Zheng Cai",
+            "Lifu Tu",
+            "Kevin Gimpel"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2097.pdf",
+        "orgs": [
+            {
+                "name": "University of Chicago",
+                "country": "USA"
+            },
+            {
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-292",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Neural Semantic Parsing over Multiple Knowledge-bases",
+        "authors": [
+            "Jonathan Herzig",
+            "Jonathan Berant"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2098.pdf",
+        "orgs": [
+            {
+                "name": "Tel Aviv University",
+                "country": "Israel"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-293",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Representing Sentences as Low-Rank Subspaces",
+        "authors": [
+            "Jiaqi Mu",
+            "Suma Bhat",
+            "Pramod Viswanath"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2099.pdf",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-294",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization",
+        "authors": [
+            "Shuming Ma",
+            "Xu Sun",
+            "Jingjing Xu",
+            "Houfeng Wang",
+            "Wenjie Li",
+            "Qi Su"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2100.pdf",
+        "orgs": [
+            {
+                "name": "Peking University",
+                "country": "China"
+            },
+            {
+                "name": "The Hong Kong Polytechnic University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-295",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Determining Whether and When People Participate in the Events They Tweet About",
+        "authors": [
+            "Krishna Chaitanya Sanagavarapu",
+            "Alakananda Vempala",
+            "Eduardo Blanco"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2101.pdf",
+        "orgs": [
+            {
+                "name": "University of North Texas",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-296",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Separating Facts from Fiction: Linguistic Models to Classify Suspicious and Trusted News Posts on Twitter",
+        "authors": [
+            "Svitlana Volkova",
+            "Kyle Shaffer",
+            "Jin Yea Jang",
+            "Nathan Hodas"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2102.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ACL17-297",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Recognizing Counterfactual Thinking in Social Media Texts",
+        "authors": [
+            "Youngseo Son",
+            "Anneke Buffone",
+            "Joe Raso",
+            "Allegra Larche",
+            "Anthony Janocko",
+            "Kevin Zembroski",
+            "H Andrew Schwartz",
+            "Lyle Ungar"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2103.pdf",
+        "orgs": [
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            },
+            {
+                "name": "Stony Brook University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-298",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Temporal Orientation of Tweets for Predicting Income of Users",
+        "authors": [
+            "Mohammed Hasanuzzaman",
+            "Sabyasachi Kamila",
+            "Mandeep Kaur",
+            "Sriparna Saha",
+            "Asif Ekbal"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2104.pdf",
+        "orgs": [
+            {
+                "name": "Indian Institute of Technology Patna",
+                "country": "India"
+            },
+            {
+                "name": "Dublin City University",
+                "country": "Ireland"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-299",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Character-Aware Neural Morphological Disambiguation",
+        "authors": [
+            "Alymzhan Toleu",
+            "Gulmira Tolegen",
+            "Aibek Makazhanov"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2105.pdf",
+        "orgs": [
+            {
+                "name": "Nazarbayev University",
+                "country": "Kazakhstan"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-300",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "Character Composition Model with Convolutional Neural Networks for Dependency Parsing on Morphologically Rich Languages",
+        "authors": [
+            "Xiang Yu",
+            "Ngoc Thang Vu"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2106.pdf",
+        "orgs": [
+            {
+                "name": "University of Stuttgart",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ACL17-301",
+        "source": "ACL17",
+        "source_type": "ACL",
+        "year": "2017",
+        "title": "How (not) to train a dependency parser: The curious case of jackknifing part-of-speech taggers",
+        "authors": [
+            "Željko Agić",
+            "Natalie Schluter"
+        ],
+        "url": "https://www.aclweb.org/anthology/P17-2107.pdf",
+        "orgs": [
+            {
+                "name": "IT University of Copenhagen",
+                "country": "Denmark"
+            }
+        ]
+    }
+]

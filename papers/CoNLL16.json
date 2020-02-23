@@ -1,0 +1,702 @@
+[
+    {
+        "id": "CoNLL16-0",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Computational Natural Language Learning: +-20years +-Data +-Features +-Multimodal +-Bioplausible",
+        "authors": [
+            "David Powers"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1001.pdf",
+        "orgs": [
+            {
+                "name": "Flinders University",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-1",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Generating Sentences from a Continuous Space",
+        "authors": [
+            "Samuel R. Bowman",
+            "Luke Vilnis",
+            "Oriol Vinyals",
+            "Andrew Dai",
+            "Rafal Jozefowicz",
+            "Samy Bengio"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1002.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-2",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Identifying Temporal Orientation of Word Senses",
+        "authors": [
+            "Mohammed Hasanuzzaman",
+            "Gaël Dias",
+            "Stéphane Ferrari",
+            "Yann Mathet",
+            "Andy Way"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1003.pdf",
+        "orgs": [
+            {
+                "name": "Dublin City University",
+                "country": "Ireland"
+            },
+            {
+                "name": "University of Caen Normandy",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-3",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Semi-supervised Clustering for Short Text via Deep Representation Learning",
+        "authors": [
+            "Zhiguo Wang",
+            "Haitao Mi",
+            "Abraham Ittycheriah"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1004.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-4",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Neighborhood Mixture Model for Knowledge Base Completion",
+        "authors": [
+            "Dat Quoc Nguyen",
+            "Kairit Sirts",
+            "Lizhen Qu",
+            "Mark Johnson"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1005.pdf",
+        "orgs": [
+            {
+                "name": "Macquarie University",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-5",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "context2vec: Learning Generic Context Embedding with Bidirectional LSTM",
+        "authors": [
+            "Oren Melamud",
+            "Jacob Goldberger",
+            "Ido Dagan"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1006.pdf",
+        "orgs": [
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-6",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Learning to Jointly Predict Ellipsis and Comparison Structures",
+        "authors": [
+            "Omid Bakhshandeh",
+            "Alexis Cornelia Wellwood",
+            "James Allen"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1007.pdf",
+        "orgs": [
+            {
+                "name": "University of Rochester",
+                "country": "USA"
+            },
+            {
+                "name": "Florida Institute for Human and Machine Cognition",
+                "country": "USA"
+            },
+            {
+                "name": "Northwestern University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-7",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Event Embeddings for Semantic Script Modeling",
+        "authors": [
+            "Ashutosh Modi"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1008.pdf",
+        "orgs": [
+            {
+                "name": "Saarland University",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-8",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Beyond Centrality and Structural Features: Learning Information Importance for Text Summarization",
+        "authors": [
+            "Markus Zopf",
+            "Eneldo Loza Mencía",
+            "Johannes Fürnkranz"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1009.pdf",
+        "orgs": [
+            {
+                "name": "Technische Universität Darmstadt",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-9",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Incremental Prediction of Sentence-final Verbs: Humans versus Machines",
+        "authors": [
+            "Alvin Grissom II",
+            "Naho Orita",
+            "Jordan Boyd-Graber"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1010.pdf",
+        "orgs": [
+            {
+                "name": "Tohoku University",
+                "country": "Japan"
+            },
+            {
+                "name": "University of Colorado Boulder",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-10",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "A Data-driven Investigation of Corrective Feedback on Subject Omission Errors in First Language Acquisition",
+        "authors": [
+            "Sarah Hiller",
+            "Raquel Fernández"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1011.pdf",
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-11",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Redefining part-of-speech classes with distributional semantic models",
+        "authors": [
+            "Andrey Kutuzov",
+            "Erik Velldal",
+            "Lilja Øvrelid"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1012.pdf",
+        "orgs": [
+            {
+                "name": "University of Oslo",
+                "country": "Norway"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-12",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Analyzing Learner Understanding of Novel L2 Vocabulary",
+        "authors": [
+            "Rebecca Knowles",
+            "Adithya Renduchintala",
+            "Philipp Koehn",
+            "Jason Eisner"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1013.pdf",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-13",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Modeling language evolution with codes that utilize context and phonetic features",
+        "authors": [
+            "Javad Nouri",
+            "Roman Yangarber"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1014.pdf",
+        "orgs": [
+            {
+                "name": "University of Helsinki",
+                "country": "Finland"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-14",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Harnessing Sequence Labeling for Sarcasm Detection in Dialogue from TV Series ‘Friends’",
+        "authors": [
+            "Aditya Joshi",
+            "Vaibhav Tripathi",
+            "Pushpak Bhattacharyya",
+            "Mark J. Carman"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1015.pdf",
+        "orgs": [
+            {
+                "name": "Monash University",
+                "country": "Australia"
+            },
+            {
+                "name": "IITB Monash Research Academy",
+                "country": "India"
+            },
+            {
+                "name": "Indian Institute of Technology Bombay",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-15",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Leveraging Cognitive Features for Sentiment Analysis",
+        "authors": [
+            "Abhijit Mishra",
+            "Diptesh Kanojia",
+            "Seema Nagar",
+            "Kuntal Dey",
+            "Pushpak Bhattacharyya"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1016.pdf",
+        "orgs": [
+            {
+                "name": "IITB Monash Research Academy",
+                "country": "India"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Indian Institute of Technology Bombay",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-16",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Modelling Context with User Embeddings for Sarcasm Detection in Social Media",
+        "authors": [
+            "Silvio Amir",
+            "Byron C. Wallace",
+            "Hao Lyu",
+            "Paula Carvalho",
+            "Mário J. Silva"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1017.pdf",
+        "orgs": [
+            {
+                "name": "Universidade de Lisboa Instituto de Telecomunicações",
+                "country": "Portugal"
+            },
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-17",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Learning when to trust distant supervision: An application to low-resource POS tagging using cross-lingual projection",
+        "authors": [
+            "Meng Fang",
+            "Trevor Cohn"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1018.pdf",
+        "orgs": [
+            {
+                "name": "University of Melbourne",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-18",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Greedy, Joint Syntactic-Semantic Parsing with Stack LSTMs",
+        "authors": [
+            "Swabha Swayamdipta",
+            "Miguel Ballesteros",
+            "Chris Dyer",
+            "Noah A. Smith"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1019.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
+                "name": "University of Barcelona",
+                "country": "Spain"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-19",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Beyond Prefix-Based Interactive Translation Prediction",
+        "authors": [
+            "Jesús González-Rubio",
+            "Daniel Ortiz-Martínez",
+            "Francisco Casacuberta",
+            "José Miguel Benedi Ruiz"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1020.pdf",
+        "orgs": []
+    },
+    {
+        "id": "CoNLL16-20",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Exploring Prediction Uncertainty in Machine Translation Quality Estimation",
+        "authors": [
+            "Daniel Beck",
+            "Lucia Specia",
+            "Trevor Cohn"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1021.pdf",
+        "orgs": [
+            {
+                "name": "University of Sheffield",
+                "country": "UK"
+            },
+            {
+                "name": "University of Melbourne",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-21",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Cross-Lingual Named Entity Recognition via Wikification",
+        "authors": [
+            "Chen-Tse Tsai",
+            "Stephen Mayhew",
+            "Dan Roth"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1022.pdf",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-22",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Coreference in Wikipedia: Main Concept Resolution",
+        "authors": [
+            "Abbas Ghaddar",
+            "Phillippe Langlais"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1023.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-23",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Event Linking with Sentential Features from Convolutional Neural Networks",
+        "authors": [
+            "Sebastian Krause",
+            "Feiyu Xu",
+            "Hans Uszkoreit",
+            "Dirk Weissenborn"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1024.pdf",
+        "orgs": [
+            {
+                "name": "DFKI",
+                "country": "Germany"
+            },
+            {
+                "name": "German Research Center for Artificial Intelligence",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-24",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Joint Learning of the Embedding of Words and Entities for Named Entity Disambiguation",
+        "authors": [
+            "Ikuya Yamada",
+            "Hiroyuki Shindo",
+            "Hideaki Takeda",
+            "Yoshiyasu Takefuji"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1025.pdf",
+        "orgs": [
+            {
+                "name": "Keio University",
+                "country": "Japan"
+            },
+            {
+                "name": "National Institute of Informatics",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-25",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Entity Disambiguation by Knowledge and Text Jointly Embedding",
+        "authors": [
+            "Wei Fang",
+            "Jianwen Zhang",
+            "Dilin Wang",
+            "Zheng Chen",
+            "Ming Li"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1026.pdf",
+        "orgs": [
+            {
+                "name": "Dartmouth College",
+                "country": "USA"
+            },
+            {
+                "name": "Sun Yat-sen University",
+                "country": "China"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-26",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Substring-based unsupervised transliteration with phonetic and contextual knowledge",
+        "authors": [
+            "Anoop Kunchukuttan",
+            "Pushpak Bhattacharyya",
+            "Mitesh M. Khapra"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1027.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Indian Institute of Technology Bombay",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-27",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond",
+        "authors": [
+            "Ramesh Nallapati",
+            "Bowen Zhou",
+            "Cicero dos Santos",
+            "Çağlar Gu̇lçehre",
+            "Bing Xiang"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1028.pdf",
+        "orgs": [
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-28",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Compression of Neural Machine Translation Models via Pruning",
+        "authors": [
+            "Abigail See",
+            "Minh-Thang Luong",
+            "Christopher D. Manning"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1029.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-29",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Modelling the Usage of Discourse Connectives as Rational Speech Acts",
+        "authors": [
+            "Frances Yung",
+            "Kevin Duh",
+            "Taku Komura",
+            "Yuji Matsumoto"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1030.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            },
+            {
+                "name": "Nara Institute of Science and Technology",
+                "country": "Japan"
+            },
+            {
+                "name": "Johns Hopkins Univeristy",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL16-30",
+        "source": "CoNLL16",
+        "source_type": "CoNLL",
+        "year": "2016",
+        "title": "Semi-supervised Convolutional Networks for Translation Adaptation with Tiny Amount of In-domain Data",
+        "authors": [
+            "Boxing Chen",
+            "Fei Huang"
+        ],
+        "url": "https://www.aclweb.org/anthology/K16-1031.pdf",
+        "orgs": [
+            {
+                "name": "National Research Council Canada",
+                "country": "Canada"
+            }
+        ]
+    }
+]

@@ -1,0 +1,928 @@
+[
+    {
+        "id": "ICLR15-0",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Word Representations via Gaussian Embedding",
+        "authors": [
+            "Luke Vilnis and Andrew McCallum"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6623.pdf",
+        "orgs": [
+            {
+                "name": "University of Massachusetts Amherst",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-1",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)",
+        "authors": [
+            "Junhua Mao",
+            "Wei Xu",
+            "Yi Yang",
+            "Jiang Wang",
+            "and Alan Yuille"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6632.pdf",
+        "orgs": [
+            {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            },
+            {
+                "name": "Baidu",
+                "country": "China"
+            },
+            {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-2",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Deep Structured Output Learning for Unconstrained Text Recognition",
+        "authors": [
+            "Max Jaderberg",
+            "Karen Simonyan",
+            "Andrea Vedaldi",
+            "and Andrew Zisserman"
+        ],
+        "url": "http://arxiv.org/pdf/1412.5903.pdf",
+        "orgs": [
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-3",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+        "authors": [
+            "Karen Simonyan and Andrew Zisserman"
+        ],
+        "url": "http://arxiv.org/pdf/1409.1556.pdf",
+        "orgs": [
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-4",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Fast Convolutional Nets With fbfft: A GPU Performance Evaluation",
+        "authors": [
+            "Nicolas Vasilache",
+            "Jeff Johnson",
+            "Michael Mathieu",
+            "Soumith Chintala",
+            "Serkan Piantino",
+            "and Yann LeCun"
+        ],
+        "url": "http://arxiv.org/pdf/1412.7580.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-5",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Reweighted Wake-Sleep",
+        "authors": [
+            "Jorg Bornschein and Yoshua Bengio"
+        ],
+        "url": "http://arxiv.org/pdf/1406.2751.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-6",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "The local low-dimensionality of natural images",
+        "authors": [
+            "Olivier Henaff",
+            "Johannes Balle",
+            "Neil Rabinowitz",
+            "and Eero Simoncelli"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6626.pdf",
+        "orgs": [
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-7",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Memory Networks",
+        "authors": [
+            "Jason Weston",
+            "Sumit Chopra",
+            "and Antoine Bordes"
+        ],
+        "url": "http://arxiv.org/pdf/1410.3916.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-8",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Object detectors emerge in Deep Scene CNNs",
+        "authors": [
+            "Bolei Zhou",
+            "Aditya Khosla",
+            "Agata Lapedriza",
+            "Aude Oliva",
+            "and Antonio Torralba"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6856.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-9",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Qualitatively characterizing neural network optimization problems",
+        "authors": [
+            "Ian Goodfellow and Oriol Vinyals"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6544.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-10",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+        "authors": [
+            "Dzmitry Bahdanau",
+            "Kyunghyun Cho",
+            "and Yoshua Bengio"
+        ],
+        "url": "http://arxiv.org/pdf/1409.0473.pdf",
+        "orgs": [
+            {
+                "name": "Jacobs University Bremen",
+                "country": "Germany"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-11",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "FitNets: Hints for Thin Deep Nets",
+        "authors": [
+            "Adriana Romero",
+            "Nicolas Ballas",
+            "Samira Ebrahimi Kahou",
+            "Antoine Chassang",
+            "Carlo Gatta",
+            "and Yoshua Bengio"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6550.pdf",
+        "orgs": [
+            {
+                "name": "University of Barcelona",
+                "country": "Spain"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-12",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Techniques for Learning Binary Stochastic Feedforward Neural Networks",
+        "authors": [
+            "Tapani Raiko",
+            "Mathias Berglund",
+            "Guillaume Alain",
+            "and Laurent Dinh"
+        ],
+        "url": "http://arxiv.org/pdf/1406.2989.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "Aalto University",
+                "country": "Finland"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-13",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Reweighted Wake-Sleep",
+        "authors": [
+            "Jorg Bornschein and Yoshua Bengio"
+        ],
+        "url": "http://arxiv.org/pdf/1406.2751.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-14",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs",
+        "authors": [
+            "Liang-Chieh Chen",
+            "George Papandreou",
+            "Iasonas Kokkinos",
+            "Kevin Murphy",
+            "and Alan Yuille"
+        ],
+        "url": "http://arxiv.org/pdf/1412.7062.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "University of California",
+                "country": "USA"
+            },
+            {
+                "name": "INRIA",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-15",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Multiple Object Recognition with Visual Attention",
+        "authors": [
+            "Jimmy Ba",
+            "Volodymyr Mnih",
+            "and Koray Kavukcuoglu"
+        ],
+        "url": "http://arxiv.org/pdf/1412.7755.pdf",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            },
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-16",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Deep Narrow Boltzmann Machines are Universal Approximators",
+        "authors": [
+            "Guido Montufar"
+        ],
+        "url": "http://arxiv.org/pdf/1411.3784.pdf",
+        "orgs": []
+    },
+    {
+        "id": "ICLR15-17",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Transformation Properties of Learned Visual Representations",
+        "authors": [
+            "Taco Cohen and Max Welling"
+        ],
+        "url": "http://arxiv.org/pdf/1412.7659.pdf",
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-18",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Joint RNN-Based Greedy Parsing and Word Composition",
+        "authors": [
+            "Joël Legrand and Ronan Collobert"
+        ],
+        "url": "http://arxiv.org/pdf/1412.7028.pdf",
+        "orgs": [
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Idiap Research Institute",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-19",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Adam: A Method for Stochastic Optimization",
+        "authors": [
+            "Jimmy Ba and Diederik Kingma"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6980.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            },
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            },
+            {
+                "name": "OpenAI",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-20",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+        "authors": [
+            "Dzmitry Bahdanau",
+            "Kyunghyun Cho",
+            "and Yoshua Bengio"
+        ],
+        "url": "http://arxiv.org/pdf/1409.0473.pdf",
+        "orgs": [
+            {
+                "name": "Jacobs University Bremen",
+                "country": "Germany"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-21",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Scheduled denoising autoencoders",
+        "authors": [
+            "Krzysztof Geras and Charles Sutton"
+        ],
+        "url": "http://arxiv.org/pdf/1406.3269.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-22",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Embedding Entities and Relations for Learning and Inference in Knowledge Bases",
+        "authors": [
+            "Bishan Yang",
+            "Scott Yih",
+            "Xiaodong He",
+            "Jianfeng Gao",
+            "and Li Deng"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6575.pdf",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-23",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "The local low-dimensionality of natural images",
+        "authors": [
+            "Olivier Henaff",
+            "Johannes Balle",
+            "Neil Rabinowitz",
+            "and Eero Simoncelli"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6626.pdf",
+        "orgs": [
+            {
+                "name": "New York University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-24",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Explaining and Harnessing Adversarial Examples",
+        "authors": [
+            "Ian Goodfellow",
+            "Jon Shlens",
+            "and Christian Szegedy"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6572.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-25",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Modeling Compositionality with Multiplicative Recurrent Neural Networks",
+        "authors": [
+            "Ozan Irsoy and Claire Cardie"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6577.pdf",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-26",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+        "authors": [
+            "Karen Simonyan and Andrew Zisserman"
+        ],
+        "url": "http://arxiv.org/pdf/1409.1556.pdf",
+        "orgs": [
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-27",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Speeding-up Convolutional Neural Networks Using Fine-tuned CP-Decomposition",
+        "authors": [
+            "Vadim Lebedev",
+            "Yaroslav Ganin",
+            "Victor Lempitsky",
+            "Maksim Rakhuba",
+            "and Ivan Oseledets"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6553.pdf",
+        "orgs": [
+            {
+                "name": "Moscow Institute of Physics and Technology",
+                "country": "Russia"
+            },
+            {
+                "name": "Yandex",
+                "country": "Russia"
+            },
+            {
+                "name": "Skolkovo Institute of Science and Technology",
+                "country": "Russia"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-28",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)",
+        "authors": [
+            "Junhua Mao",
+            "Wei Xu",
+            "Yi Yang",
+            "Jiang Wang",
+            "and Alan Yuille"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6632.pdf",
+        "orgs": [
+            {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            },
+            {
+                "name": "Baidu",
+                "country": "China"
+            },
+            {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-29",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Deep Structured Output Learning for Unconstrained Text Recognition",
+        "authors": [
+            "Max Jaderberg",
+            "Karen Simonyan",
+            "Andrea Vedaldi",
+            "and Andrew Zisserman"
+        ],
+        "url": "http://arxiv.org/pdf/1412.5903.pdf",
+        "orgs": [
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-30",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Zero-bias autoencoders and the benefits of co-adapting features",
+        "authors": [
+            "Kishore Konda",
+            "Roland Memisevic",
+            "and David Krueger"
+        ],
+        "url": "http://arxiv.org/pdf/1402.3337.pdf",
+        "orgs": [
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
+                "name": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-31",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Automatic Discovery and Optimization of Parts for Image Classification",
+        "authors": [
+            "Sobhan Naderi Parizi",
+            "Andrea Vedaldi",
+            "Andrew Zisserman",
+            "and Pedro Felzenszwalb"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6598.pdf",
+        "orgs": [
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            },
+            {
+                "name": "Brown University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-32",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Understanding Locally Competitive Networks",
+        "authors": [
+            "Rupesh Srivastava",
+            "Jonathan Masci",
+            "Faustino Gomez",
+            "and Juergen Schmidhuber"
+        ],
+        "url": "http://arxiv.org/pdf/1410.1165.pdf",
+        "orgs": [
+            {
+                "name": "Università della Svizzera italiana",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-33",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Leveraging Monolingual Data for Crosslingual Compositional Word Representations",
+        "authors": [
+            "Hubert Soyer",
+            "Pontus Stenetorp",
+            "and Akiko Aizawa"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6334.pdf",
+        "orgs": [
+            {
+                "name": "University of Tokyo",
+                "country": "Japan"
+            },
+            {
+                "name": "University College London",
+                "country": "UK"
+            },
+            {
+                "name": "National Institute of Informatics",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-34",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Move Evaluation in Go Using Deep Convolutional Neural Networks",
+        "authors": [
+            "Chris Maddison",
+            "Aja Huang",
+            "Ilya Sutskever",
+            "and David Silver"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6564.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            },
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-35",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Fast Convolutional Nets With fbfft: A GPU Performance Evaluation",
+        "authors": [
+            "Nicolas Vasilache",
+            "Jeff Johnson",
+            "Michael Mathieu",
+            "Soumith Chintala",
+            "Serkan Piantino",
+            "and Yann LeCun"
+        ],
+        "url": "http://arxiv.org/pdf/1412.7580.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-36",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Word Representations via Gaussian Embedding",
+        "authors": [
+            "Luke Vilnis and Andrew McCallum"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6623.pdf",
+        "orgs": [
+            {
+                "name": "University of Massachusetts Amherst",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-37",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Qualitatively characterizing neural network optimization problems",
+        "authors": [
+            "Ian Goodfellow and Oriol Vinyals"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6544.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-38",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Memory Networks",
+        "authors": [
+            "Jason Weston",
+            "Sumit Chopra",
+            "and Antoine Bordes"
+        ],
+        "url": "http://arxiv.org/pdf/1410.3916.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-39",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Generative Modeling of Convolutional Neural Networks",
+        "authors": [
+            "Jifeng Dai",
+            "Yang Lu",
+            "and Ying-Nian Wu"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6296.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-40",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "A Unified Perspective on Multi-Domain and Multi-Task Learning",
+        "authors": [
+            "Yongxin Yang and Timothy Hospedales"
+        ],
+        "url": "http://arxiv.org/pdf/1412.7489.pdf",
+        "orgs": [
+            {
+                "name": "University of London",
+                "country": "UK"
+            },
+            {
+                "name": "Amazon",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "ICLR15-41",
+        "source": "ICLR15",
+        "source_type": "ICLR",
+        "year": "2015",
+        "title": "Object detectors emerge in Deep Scene CNNs",
+        "authors": [
+            "Bolei Zhou",
+            "Aditya Khosla",
+            "Agata Lapedriza",
+            "Aude Oliva",
+            "and Antonio Torralba"
+        ],
+        "url": "http://arxiv.org/pdf/1412.6856.pdf",
+        "orgs": [
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    }
+]

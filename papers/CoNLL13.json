@@ -1,0 +1,529 @@
+[
+    {
+        "id": "CoNLL13-0",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Online Active Learning for Cost Sensitive Domain Adaptation",
+        "authors": [
+            "Min Xiao",
+            "Yuhong Guo"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3501.pdf",
+        "orgs": [
+            {
+                "name": "Temple University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-1",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Analysis of Stopping Active Learning based on Stabilizing Predictions",
+        "authors": [
+            "Michael Bloodgood",
+            "John Grothendieck"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3502.pdf",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            },
+            {
+                "name": "Raytheon BBN Technologies",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-2",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Improving Pointwise Mutual Information (PMI) by Incorporating Significant Co-occurrence",
+        "authors": [
+            "Om Damani"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3503.pdf",
+        "orgs": [
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-3",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Supervised Morphological Segmentation in a Low-Resource Learning Setting using Conditional Random Fields",
+        "authors": [
+            "Teemu Ruokolainen",
+            "Oskar Kohonen",
+            "Sami Virpioja",
+            "Mikko Kurimo"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3504.pdf",
+        "orgs": [
+            {
+                "name": "Aalto University",
+                "country": "Finland"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-4",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Graph-Based Posterior Regularization for Semi-Supervised Structured Prediction",
+        "authors": [
+            "Luheng He",
+            "Jennifer Gillenwater",
+            "Ben Taskar"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3505.pdf",
+        "orgs": [
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-5",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "A Boosted Semi-Markov Perceptron",
+        "authors": [
+            "Tomoya Iwakura"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3506.pdf",
+        "orgs": [
+            {
+                "name": "Fujitsu Laboratories Ltd",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-6",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Spectral Learning of Refinement HMMs",
+        "authors": [
+            "Karl Stratos",
+            "Alexander Rush",
+            "Shay B. Cohen",
+            "Michael Collins"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3507.pdf",
+        "orgs": [
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            },
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-7",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Sentence Compression with Joint Structural Inference",
+        "authors": [
+            "Kapil Thadani",
+            "Kathleen McKeown"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3508.pdf",
+        "orgs": [
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-8",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Learning Adaptable Patterns for Passage Reranking",
+        "authors": [
+            "Aliaksei Severyn",
+            "Massimo Nicosia",
+            "Alessandro Moschitti"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3509.pdf",
+        "orgs": [
+            {
+                "name": "University of Trento",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-9",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Documents and Dependencies: an Exploration of Vector Space Models for Semantic Composition",
+        "authors": [
+            "Alona Fyshe",
+            "Brian Murphy",
+            "Partha Talukdar",
+            "Tom Mitchell"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3510.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Pittsburgh",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-10",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Hidden Markov tree models for semantic class induction",
+        "authors": [
+            "Édouard Grave",
+            "Guillaume Obozinski",
+            "Francis Bach"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3511.pdf",
+        "orgs": [
+            {
+                "name": "Université Paris-Est",
+                "country": "France"
+            },
+            {
+                "name": "INRIA",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-11",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Better Word Representations with Recursive Neural Networks for Morphology",
+        "authors": [
+            "Thang Luong",
+            "Richard Socher",
+            "Christopher Manning"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3512.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-12",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Separating Disambiguation from Composition in Distributional Semantics",
+        "authors": [
+            "Dimitri Kartsaklis",
+            "Mehrnoosh Sadrzadeh",
+            "Stephen Pulman"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3513.pdf",
+        "orgs": [
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            },
+            {
+                "name": "Queen Mary University of London",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-13",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Frame Semantics for Stance Classification",
+        "authors": [
+            "Kazi Saidul Hasan",
+            "Vincent Ng"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3514.pdf",
+        "orgs": [
+            {
+                "name": "University of Texas at Dallas",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-14",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Philosophers are Mortal: Inferring the Truth of Unseen Facts",
+        "authors": [
+            "Gabor Angeli",
+            "Christopher Manning"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3515.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-15",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Towards Robust Linguistic Analysis using OntoNotes",
+        "authors": [
+            "Sameer Pradhan",
+            "Alessandro Moschitti",
+            "Nianwen Xue",
+            "Hwee Tou Ng",
+            "Anders Björkelund",
+            "Olga Uryupina",
+            "Yuchen Zhang",
+            "Zhi Zhong"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3516.pdf",
+        "orgs": [
+            {
+                "name": "University of Stuttgart",
+                "country": "Germany"
+            },
+            {
+                "name": "Brandeis University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Trento",
+                "country": "Italy"
+            },
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-16",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Dynamic Knowledge-Base Alignment for Coreference Resolution",
+        "authors": [
+            "Jiaping Zheng",
+            "Luke Vilnis",
+            "Sameer Singh",
+            "Jinho D. Choi",
+            "Andrew McCallum"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3517.pdf",
+        "orgs": [
+            {
+                "name": "UMass Amherst",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-17",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "A Non-Monotonic Arc-Eager Transition System for Dependency Parsing",
+        "authors": [
+            "Matthew Honnibal",
+            "Yoav Goldberg",
+            "Mark Johnson"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3518.pdf",
+        "orgs": [
+            {
+                "name": "Macquarie University",
+                "country": "Australia"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-18",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Collapsed Variational Bayesian Inference for PCFGs",
+        "authors": [
+            "Pengyu Wang",
+            "Phil Blunsom"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3519.pdf",
+        "orgs": [
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-19",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Polyglot: Distributed Word Representations for Multilingual NLP",
+        "authors": [
+            "Rami Al-Rfou’",
+            "Bryan Perozzi",
+            "Steven Skiena"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3520.pdf",
+        "orgs": [
+            {
+                "name": "Stony Brook University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-20",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Exploiting multiple hypotheses for Multilingual Spoken Language Understanding",
+        "authors": [
+            "Marcos Calvo",
+            "Fernando García",
+            "Lluís-F. Hurtado",
+            "Santiago Jiménez",
+            "Emilio Sanchis"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3521.pdf",
+        "orgs": [
+            {
+                "name": "Universität Politècnica de València",
+                "country": "Spain"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-21",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Multilingual WSD-like Constraints for Paraphrase Extraction",
+        "authors": [
+            "Wilker Aziz",
+            "Lucia Specia"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3522.pdf",
+        "orgs": [
+            {
+                "name": "University of Sheffield",
+                "country": "UK"
+            },
+            {
+                "name": "University of Wolverhampton",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-22",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Topic Models + Word Alignment = A Flexible Framework for Extracting Bilingual Dictionary from Comparable Corpus",
+        "authors": [
+            "Xiaodong Liu",
+            "Kevin Duh",
+            "Yuji Matsumoto"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3523.pdf",
+        "orgs": [
+            {
+                "name": "Nara Institute of Science and Technology",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-23",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Terminology Extraction Approaches for Product Aspect Detection in Customer Reviews",
+        "authors": [
+            "Jürgen Broß",
+            "Heiko Ehrig"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3524.pdf",
+        "orgs": [
+            {
+                "name": "Neofonie GmbH",
+                "country": "Germany"
+            },
+            {
+                "name": "Free University of Berlin",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "CoNLL13-24",
+        "source": "CoNLL13",
+        "source_type": "CoNLL",
+        "year": "2013",
+        "title": "Acquisition of Desires before Beliefs: A Computional Investigation",
+        "authors": [
+            "Libby Barak",
+            "Afsaneh Fazly",
+            "Suzanne Stevenson"
+        ],
+        "url": "https://www.aclweb.org/anthology/W13-3525.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    }
+]
