@@ -72,12 +72,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1004.pdf",
         "orgs": [
             {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            },
+            {
                 "name": "Allen Institute for Artificial Intelligence",
                 "country": "USA"
             },
             {
-                "name": "Bar Ilan University",
-                "country": "Israel"
+                "name": "Intel Labs",
+                "country": "USA"
             }
         ]
     },
@@ -99,11 +103,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1005.pdf",
         "orgs": [
             {
-                "name": "UC Irvine",
+                "name": "University of Washington",
                 "country": "USA"
             },
             {
-                "name": "University of Washington",
+                "name": "UC Irvine",
                 "country": "USA"
             },
             {
@@ -149,11 +153,11 @@
                 "country": "UK"
             },
             {
-                "name": "University of Oxford",
+                "name": "University of Edinburgh",
                 "country": "UK"
             },
             {
-                "name": "University of Kent",
+                "name": "University of Oxford",
                 "country": "UK"
             },
             {
@@ -161,7 +165,7 @@
                 "country": "UK"
             },
             {
-                "name": "University of Edinburgh",
+                "name": "University of Kent",
                 "country": "UK"
             }
         ]
@@ -195,11 +199,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1009.pdf",
         "orgs": [
             {
-                "name": "Ca' Foscari University of Venice",
+                "name": "Sapienza University of Rome",
                 "country": "Italy"
             },
             {
-                "name": "Sapienza University of Rome",
+                "name": "Ca' Foscari University of Venice",
                 "country": "Italy"
             }
         ]
@@ -241,11 +245,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1011.pdf",
         "orgs": [
             {
-                "name": "University of Chinese Academy of Sciences",
+                "name": "Chinese Academy of Sciences",
                 "country": "China"
             },
             {
-                "name": "Chinese Academy of Sciences",
+                "name": "University of Chinese Academy of Sciences",
                 "country": "China"
             }
         ]
@@ -264,7 +268,12 @@
             "Pascale Fung"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1012.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Hong Kong University of Science and Technology",
+                "country": "China"
+            }
+        ]
     },
     {
         "id": "EMNLP19-12",
@@ -366,12 +375,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1017.pdf",
         "orgs": [
             {
-                "name": "Southeast University",
-                "country": "China"
-            },
-            {
                 "name": "University of Warwick",
                 "country": "UK"
+            },
+            {
+                "name": "Southeast University",
+                "country": "China"
             }
         ]
     },
@@ -414,8 +423,8 @@
         "url": "https://www.aclweb.org/anthology/D19-1019.pdf",
         "orgs": [
             {
-                "name": "Indiana University Bloomington",
-                "country": "USA"
+                "name": "Alibaba AI Labs",
+                "country": "China"
             },
             {
                 "name": "Victoria University of Wellington",
@@ -424,6 +433,10 @@
             {
                 "name": "Soochow University",
                 "country": "China"
+            },
+            {
+                "name": "Indiana University Bloomington",
+                "country": "USA"
             }
         ]
     },
@@ -444,12 +457,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1020.pdf",
         "orgs": [
             {
-                "name": "University of Rochester",
-                "country": "USA"
+                "name": "Tencent",
+                "country": "China"
             },
             {
-                "name": "Westlake University",
-                "country": "China"
+                "name": "Amazon",
+                "country": "USA"
             },
             {
                 "name": "IBM",
@@ -460,11 +473,7 @@
                 "country": "China"
             },
             {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
-                "name": "Amazon",
+                "name": "University of Rochester",
                 "country": "USA"
             }
         ]
@@ -487,6 +496,10 @@
         ],
         "url": "https://www.aclweb.org/anthology/D19-1021.pdf",
         "orgs": [
+            {
+                "name": "Tencent",
+                "country": "China"
+            },
             {
                 "name": "Tsinghua University",
                 "country": "China"
@@ -529,16 +542,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1023.pdf",
         "orgs": [
             {
+                "name": "Wangxuan Institute of Computer Technology",
+                "country": "China"
+            },
+            {
                 "name": "Peking University",
                 "country": "China"
             },
             {
                 "name": "University of Leeds",
                 "country": "UK"
-            },
-            {
-                "name": "Wangxuan Institute of Computer Technology",
-                "country": "China"
             }
         ]
     },
@@ -559,6 +572,10 @@
         "orgs": [
             {
                 "name": "The Chinese University of Hong Kong",
+                "country": "China"
+            },
+            {
+                "name": "Tencent",
                 "country": "China"
             },
             {
@@ -583,16 +600,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1025.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
-                "country": "China"
-            },
-            {
                 "name": "National University of Singapore",
                 "country": "Singapore"
             },
             {
                 "name": "University of Illinois",
                 "country": "USA"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -616,16 +633,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1026.pdf",
         "orgs": [
             {
+                "name": "University of Illinois",
+                "country": "USA"
+            },
+            {
                 "name": "University of Southern California",
                 "country": "USA"
             },
             {
                 "name": "Zhejiang University",
                 "country": "China"
-            },
-            {
-                "name": "University of Illinois",
-                "country": "USA"
             }
         ]
     },
@@ -643,12 +660,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1027.pdf",
         "orgs": [
             {
-                "name": "Southeast University",
-                "country": "China"
-            },
-            {
                 "name": "University of Warwick",
                 "country": "UK"
+            },
+            {
+                "name": "Southeast University",
+                "country": "China"
             }
         ]
     },
@@ -693,12 +710,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1029.pdf",
         "orgs": [
             {
-                "name": "University of Notre Dame",
-                "country": "USA"
-            },
-            {
                 "name": "Harbin Institute of Technology",
                 "country": "China"
+            },
+            {
+                "name": "University of Notre Dame",
+                "country": "USA"
             }
         ]
     },
@@ -720,7 +737,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1030.pdf",
         "orgs": [
             {
-                "name": "Rensselaer Polytechnic Institute",
+                "name": "University of Southern California",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Army Research Laboratory",
                 "country": "USA"
             },
             {
@@ -732,19 +757,7 @@
                 "country": "USA"
             },
             {
-                "name": "University of Southern California",
-                "country": "USA"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
-                "name": "Army Research Laboratory",
+                "name": "Rensselaer Polytechnic Institute",
                 "country": "USA"
             }
         ]
@@ -773,12 +786,12 @@
                 "country": "China"
             },
             {
-                "name": "University of Leeds",
-                "country": "UK"
-            },
-            {
                 "name": "University of Ottawa",
                 "country": "Canada"
+            },
+            {
+                "name": "University of Leeds",
+                "country": "UK"
             }
         ]
     },
@@ -797,12 +810,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1032.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
-                "country": "China"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -843,7 +856,7 @@
         "url": "https://www.aclweb.org/anthology/D19-1034.pdf",
         "orgs": [
             {
-                "name": "South China University of Technology",
+                "name": "The Chinese University of Hong Kong",
                 "country": "China"
             },
             {
@@ -851,7 +864,7 @@
                 "country": "Australia"
             },
             {
-                "name": "The Chinese University of Hong Kong",
+                "name": "South China University of Technology",
                 "country": "China"
             }
         ]
@@ -873,15 +886,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1035.pdf",
         "orgs": [
             {
-                "name": "University of Chinese Academy of Sciences",
-                "country": "China"
-            },
-            {
                 "name": "Changsha University of Science Technology",
                 "country": "China"
             },
             {
                 "name": "Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "University of Chinese Academy of Sciences",
                 "country": "China"
             }
         ]
@@ -900,12 +913,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1036.pdf",
         "orgs": [
             {
-                "name": "Walmart Labs",
-                "country": "USA"
-            },
-            {
                 "name": "Indian Institute of Science",
                 "country": "India"
+            },
+            {
+                "name": "Walmart Labs",
+                "country": "USA"
             }
         ]
     },
@@ -983,15 +996,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1040.pdf",
         "orgs": [
             {
-                "name": "University of Chicago",
-                "country": "USA"
-            },
-            {
                 "name": "Ohio State University",
                 "country": "USA"
             },
             {
                 "name": "Rutgers University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Chicago",
                 "country": "USA"
             },
             {
@@ -1014,15 +1027,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1041.pdf",
         "orgs": [
             {
-                "name": "University of Illinois",
-                "country": "USA"
-            },
-            {
                 "name": "University of Southern California",
                 "country": "USA"
             },
             {
                 "name": "Information Sciences Institute",
+                "country": "USA"
+            },
+            {
+                "name": "University of Illinois",
                 "country": "USA"
             }
         ]
@@ -1046,11 +1059,11 @@
                 "country": "China"
             },
             {
-                "name": "University of Illinois",
+                "name": "University of Southern California",
                 "country": "USA"
             },
             {
-                "name": "University of Southern California",
+                "name": "University of Illinois",
                 "country": "USA"
             }
         ]
@@ -1113,12 +1126,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1045.pdf",
         "orgs": [
             {
-                "name": "Peking University",
-                "country": "China"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Peking University",
+                "country": "China"
             }
         ]
     },
@@ -1205,15 +1218,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1049.pdf",
         "orgs": [
             {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
                 "name": "University of Illinois",
-                "country": "USA"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
-                "name": "IBM",
                 "country": "USA"
             }
         ]
@@ -1298,12 +1307,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1053.pdf",
         "orgs": [
             {
-                "name": "University of Central Florida",
-                "country": "USA"
-            },
-            {
                 "name": "Technische Universität Darmstadt",
                 "country": "Germany"
+            },
+            {
+                "name": "University of Central Florida",
+                "country": "USA"
             }
         ]
     },
@@ -1324,16 +1333,20 @@
         "url": "https://www.aclweb.org/anthology/D19-1054.pdf",
         "orgs": [
             {
-                "name": "Saarland University",
-                "country": "Germany"
+                "name": "Tohoku University",
+                "country": "Japan"
+            },
+            {
+                "name": "Tencent",
+                "country": "China"
             },
             {
                 "name": "MMax Planck Institute for Informatics",
                 "country": "Germany"
             },
             {
-                "name": "Tohoku University",
-                "country": "Japan"
+                "name": "Saarland University",
+                "country": "Germany"
             }
         ]
     },
@@ -1350,12 +1363,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1055.pdf",
         "orgs": [
             {
-                "name": "Khoury College of Computer Sciences",
-                "country": "USA"
-            },
-            {
                 "name": "Northeastern University",
                 "country": "China"
+            },
+            {
+                "name": "Khoury College of Computer Sciences",
+                "country": "USA"
             }
         ]
     },
@@ -1389,7 +1402,12 @@
             "Luo Si"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1057.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Alibaba AI Labs",
+                "country": "China"
+            }
+        ]
     },
     {
         "id": "EMNLP19-57",
@@ -1424,15 +1442,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1059.pdf",
         "orgs": [
             {
-                "name": "Microsoft",
-                "country": "USA"
-            },
-            {
-                "name": "Microsoft",
-                "country": "USA"
-            },
-            {
                 "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
                 "country": "USA"
             }
         ]
@@ -1549,6 +1563,10 @@
             {
                 "name": "Sorbonne University",
                 "country": "France"
+            },
+            {
+                "name": "Criteo",
+                "country": "France"
             }
         ]
     },
@@ -1567,11 +1585,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1065.pdf",
         "orgs": [
             {
-                "name": "Cornell University",
+                "name": "University of Washington",
                 "country": "USA"
             },
             {
-                "name": "University of Washington",
+                "name": "Cornell University",
                 "country": "USA"
             },
             {
@@ -1620,10 +1638,6 @@
             {
                 "name": "IBM",
                 "country": "USA"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
             }
         ]
     },
@@ -1642,11 +1656,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1068.pdf",
         "orgs": [
             {
-                "name": "University of Chinese Academy of Sciences",
+                "name": "Chinese Academy of Sciences",
                 "country": "China"
             },
             {
-                "name": "Chinese Academy of Sciences",
+                "name": "University of Chinese Academy of Sciences",
                 "country": "China"
             }
         ]
@@ -1731,12 +1745,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1072.pdf",
         "orgs": [
             {
-                "name": "Stony Brook University",
-                "country": "USA"
-            },
-            {
                 "name": "Beijing University of Posts and Telecommunications",
                 "country": "China"
+            },
+            {
+                "name": "Stony Brook University",
+                "country": "USA"
             }
         ]
     },
@@ -1756,11 +1770,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1073.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
+                "name": "Beijing Advanced Innovation Center",
                 "country": "China"
             },
             {
-                "name": "Beijing Advanced Innovation Center",
+                "name": "Tsinghua University",
                 "country": "China"
             }
         ]
@@ -1781,7 +1795,15 @@
                 "country": "China"
             },
             {
+                "name": "Tencent",
+                "country": "China"
+            },
+            {
                 "name": "Xiamen University",
+                "country": "China"
+            },
+            {
+                "name": "ByteDance",
                 "country": "China"
             }
         ]
@@ -1857,7 +1879,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1078.pdf",
         "orgs": [
             {
+                "name": "University of Illinois",
+                "country": "USA"
+            },
+            {
                 "name": "Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "Xiamen University",
                 "country": "China"
             },
             {
@@ -1865,16 +1895,8 @@
                 "country": "USA"
             },
             {
-                "name": "Xiamen University",
-                "country": "China"
-            },
-            {
                 "name": "Tsinghua University",
                 "country": "China"
-            },
-            {
-                "name": "University of Illinois",
-                "country": "USA"
             }
         ]
     },
@@ -1934,20 +1956,20 @@
         "url": "https://www.aclweb.org/anthology/D19-1081.pdf",
         "orgs": [
             {
-                "name": "University of Amsterdam",
-                "country": "Netherlands"
+                "name": "University of Zurich",
+                "country": "Switzerland"
             },
             {
                 "name": "Yandex",
                 "country": "Russia"
             },
             {
-                "name": "University of Edinburgh",
-                "country": "UK"
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
             },
             {
-                "name": "University of Zurich",
-                "country": "Switzerland"
+                "name": "University of Edinburgh",
+                "country": "UK"
             }
         ]
     },
@@ -1969,6 +1991,10 @@
             {
                 "name": "Florida State University",
                 "country": "USA"
+            },
+            {
+                "name": "Tencent",
+                "country": "China"
             }
         ]
     },
@@ -1986,16 +2012,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1083.pdf",
         "orgs": [
             {
+                "name": "University of Zurich",
+                "country": "Switzerland"
+            },
+            {
                 "name": "University of Amsterdam",
                 "country": "Netherlands"
             },
             {
                 "name": "University of Edinburgh",
                 "country": "UK"
-            },
-            {
-                "name": "University of Zurich",
-                "country": "Switzerland"
             }
         ]
     },
@@ -2032,7 +2058,12 @@
             "Shuming Shi"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1085.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Tencent",
+                "country": "China"
+            }
+        ]
     },
     {
         "id": "EMNLP19-85",
@@ -2051,6 +2082,10 @@
         "orgs": [
             {
                 "name": "Nanjing University",
+                "country": "China"
+            },
+            {
+                "name": "Tencent",
                 "country": "China"
             }
         ]
@@ -2097,11 +2132,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1088.pdf",
         "orgs": [
             {
-                "name": "Shenzhen Research Institute",
+                "name": "The Chinese University of Hong Kong",
                 "country": "China"
             },
             {
-                "name": "The Chinese University of Hong Kong",
+                "name": "Tencent",
+                "country": "China"
+            },
+            {
+                "name": "Shenzhen Research Institute",
                 "country": "China"
             }
         ]
@@ -2123,12 +2162,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1089.pdf",
         "orgs": [
             {
-                "name": "Peking University",
-                "country": "China"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Peking University",
+                "country": "China"
             },
             {
                 "name": "University of Science and Technology of China",
@@ -2152,16 +2191,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1090.pdf",
         "orgs": [
             {
-                "name": "National University of Ireland",
-                "country": "Ireland"
+                "name": "Facebook",
+                "country": "USA"
             },
             {
                 "name": "University of Cambridge",
                 "country": "UK"
             },
             {
-                "name": "Facebook",
-                "country": "USA"
+                "name": "National University of Ireland",
+                "country": "Ireland"
             }
         ]
     },
@@ -2197,11 +2236,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1092.pdf",
         "orgs": [
             {
-                "name": "Tianjin University",
+                "name": "Soochow University",
                 "country": "China"
             },
             {
-                "name": "Soochow University",
+                "name": "Tianjin University",
                 "country": "China"
             }
         ]
@@ -2222,12 +2261,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1093.pdf",
         "orgs": [
             {
-                "name": "Nanyang Technological University",
-                "country": "Singapore"
-            },
-            {
                 "name": "Salesforce Research",
                 "country": "USA"
+            },
+            {
+                "name": "Nanyang Technological University",
+                "country": "Singapore"
             },
             {
                 "name": "Alibaba DAMO Academy",
@@ -2268,11 +2307,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1095.pdf",
         "orgs": [
             {
-                "name": "Zhejiang University",
+                "name": "Alibaba AI Labs",
                 "country": "China"
             },
             {
                 "name": "Shanghai Jiao Tong University",
+                "country": "China"
+            },
+            {
+                "name": "Zhejiang University",
                 "country": "China"
             }
         ]
@@ -2318,6 +2361,10 @@
         "orgs": [
             {
                 "name": "Beijing Jiaotong University",
+                "country": "China"
+            },
+            {
+                "name": "Tencent",
                 "country": "China"
             }
         ]
@@ -2439,11 +2486,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1103.pdf",
         "orgs": [
             {
-                "name": "University of Southern California",
+                "name": "University of California Los Angeles",
                 "country": "USA"
             },
             {
-                "name": "University of California Los Angeles",
+                "name": "University of Southern California",
                 "country": "USA"
             }
         ]
@@ -2505,10 +2552,6 @@
             {
                 "name": "University of Paris",
                 "country": "France"
-            },
-            {
-                "name": "University of Paris",
-                "country": "France"
             }
         ]
     },
@@ -2526,15 +2569,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1107.pdf",
         "orgs": [
             {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            },
+            {
                 "name": "Allen Institute for Artificial Intelligence",
                 "country": "USA"
             },
             {
                 "name": "Tel Aviv University",
-                "country": "Israel"
-            },
-            {
-                "name": "Bar Ilan University",
                 "country": "Israel"
             }
         ]
@@ -2554,11 +2597,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1108.pdf",
         "orgs": [
             {
-                "name": "Boston University",
+                "name": "University of California Los Angeles",
                 "country": "USA"
             },
             {
-                "name": "University of California Los Angeles",
+                "name": "Boston University",
                 "country": "USA"
             }
         ]
@@ -2662,15 +2705,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1113.pdf",
         "orgs": [
             {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            },
+            {
                 "name": "University of Southern California",
                 "country": "USA"
             },
             {
                 "name": "University of Pennsylvania",
-                "country": "USA"
-            },
-            {
-                "name": "University of California Los Angeles",
                 "country": "USA"
             }
         ]
@@ -2752,6 +2795,10 @@
         "url": "https://www.aclweb.org/anthology/D19-1117.pdf",
         "orgs": [
             {
+                "name": "Alibaba AI Labs",
+                "country": "China"
+            },
+            {
                 "name": "Nankai University",
                 "country": "China"
             }
@@ -2805,11 +2852,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1119.pdf",
         "orgs": [
             {
-                "name": "Tohoku University",
+                "name": "RIKEN Center for Advanced Intelligence Project",
                 "country": "Japan"
             },
             {
-                "name": "RIKEN Center for Advanced Intelligence Project",
+                "name": "Tohoku University",
                 "country": "Japan"
             }
         ]
@@ -2958,12 +3005,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1126.pdf",
         "orgs": [
             {
-                "name": "Samsung Research",
-                "country": "South Korea"
-            },
-            {
                 "name": "Columbia University",
                 "country": "USA"
+            },
+            {
+                "name": "Samsung Research",
+                "country": "South Korea"
             }
         ]
     },
@@ -3004,16 +3051,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1128.pdf",
         "orgs": [
             {
+                "name": "Wangxuan Institute of Computer Technology",
+                "country": "China"
+            },
+            {
                 "name": "Peking University",
                 "country": "China"
             },
             {
                 "name": "Microsoft",
                 "country": "USA"
-            },
-            {
-                "name": "Wangxuan Institute of Computer Technology",
-                "country": "China"
             }
         ]
     },
@@ -3035,15 +3082,19 @@
         "url": "https://www.aclweb.org/anthology/D19-1129.pdf",
         "orgs": [
             {
+                "name": "Hong Kong University of Science and Technology",
+                "country": "China"
+            },
+            {
+                "name": "Amazon",
+                "country": "USA"
+            },
+            {
                 "name": "Microsoft",
                 "country": "USA"
             },
             {
                 "name": "Google",
-                "country": "USA"
-            },
-            {
-                "name": "Amazon",
                 "country": "USA"
             },
             {
@@ -3109,7 +3160,12 @@
             "Mohit Bansal"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1132.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "University of North Carolina at Chapel Hill",
+                "country": "USA"
+            }
+        ]
     },
     {
         "id": "EMNLP19-132",
@@ -3146,14 +3202,6 @@
             {
                 "name": "Bar Ilan University",
                 "country": "Israel"
-            },
-            {
-                "name": "Bar Ilan University",
-                "country": "Israel"
-            },
-            {
-                "name": "Bar Ilan University",
-                "country": "Israel"
             }
         ]
     },
@@ -3175,6 +3223,10 @@
             {
                 "name": "Florida State University",
                 "country": "USA"
+            },
+            {
+                "name": "Tencent",
+                "country": "China"
             }
         ]
     },
@@ -3211,12 +3263,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1137.pdf",
         "orgs": [
             {
-                "name": "Oregon State University",
-                "country": "USA"
-            },
-            {
                 "name": "Baidu",
                 "country": "China"
+            },
+            {
+                "name": "Oregon State University",
+                "country": "USA"
             }
         ]
     },
@@ -3289,7 +3341,12 @@
             "Matthias Gallé"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1141.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Naver Corp",
+                "country": "South Korea"
+            }
+        ]
     },
     {
         "id": "EMNLP19-141",
@@ -3348,12 +3405,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1144.pdf",
         "orgs": [
             {
-                "name": "Oregon State University",
-                "country": "USA"
-            },
-            {
                 "name": "Baidu",
                 "country": "China"
+            },
+            {
+                "name": "Oregon State University",
+                "country": "USA"
             }
         ]
     },
@@ -3370,7 +3427,12 @@
             "Shuming Shi"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1145.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Tencent",
+                "country": "China"
+            }
+        ]
     },
     {
         "id": "EMNLP19-145",
@@ -3386,11 +3448,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1146.pdf",
         "orgs": [
             {
-                "name": "Osaka University",
+                "name": "National Institute of Information",
                 "country": "Japan"
             },
             {
-                "name": "National Institute of Information",
+                "name": "Osaka University",
                 "country": "Japan"
             }
         ]
@@ -3429,6 +3491,10 @@
         "url": "https://www.aclweb.org/anthology/D19-1148.pdf",
         "orgs": [
             {
+                "name": "Alibaba AI Labs",
+                "country": "China"
+            },
+            {
                 "name": "Shanghai Tech University",
                 "country": "China"
             }
@@ -3452,12 +3518,12 @@
                 "country": "Switzerland"
             },
             {
-                "name": "University of Edinburgh",
-                "country": "UK"
-            },
-            {
                 "name": "Uppsala University",
                 "country": "Sweden"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
             }
         ]
     },
@@ -3497,16 +3563,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1151.pdf",
         "orgs": [
             {
-                "name": "The George Washington University",
-                "country": "USA"
-            },
-            {
                 "name": "Amazon",
                 "country": "USA"
             },
             {
                 "name": "Princess Nourah Bint Abdul Rahman University",
                 "country": "Saudi Arabia"
+            },
+            {
+                "name": "The George Washington University",
+                "country": "USA"
             }
         ]
     },
@@ -3563,12 +3629,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1154.pdf",
         "orgs": [
             {
-                "name": "Monash University",
-                "country": "Australia"
-            },
-            {
                 "name": "Carnegie Mellon University",
                 "country": "USA"
+            },
+            {
+                "name": "Monash University",
+                "country": "Australia"
             }
         ]
     },
@@ -3609,15 +3675,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1156.pdf",
         "orgs": [
             {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
                 "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
                 "name": "University of Illinois",
-                "country": "USA"
-            },
-            {
-                "name": "Microsoft",
                 "country": "USA"
             }
         ]
@@ -3688,12 +3754,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1159.pdf",
         "orgs": [
             {
-                "name": "Peking University",
-                "country": "China"
-            },
-            {
                 "name": "University of Washington",
                 "country": "USA"
+            },
+            {
+                "name": "Peking University",
+                "country": "China"
             }
         ]
     },
@@ -3773,15 +3839,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1163.pdf",
         "orgs": [
             {
-                "name": "University of Washington",
-                "country": "USA"
-            },
-            {
                 "name": "Facebook",
                 "country": "USA"
             },
             {
-                "name": "Stanford University",
+                "name": "University of Washington",
                 "country": "USA"
             },
             {
@@ -3789,7 +3851,7 @@
                 "country": "USA"
             },
             {
-                "name": "Facebook",
+                "name": "Stanford University",
                 "country": "USA"
             }
         ]
@@ -3811,11 +3873,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1164.pdf",
         "orgs": [
             {
-                "name": "University of Chinese Academy of Sciences",
+                "name": "Chinese Academy of Sciences",
                 "country": "China"
             },
             {
-                "name": "Chinese Academy of Sciences",
+                "name": "Tencent",
+                "country": "China"
+            },
+            {
+                "name": "University of Chinese Academy of Sciences",
                 "country": "China"
             }
         ]
@@ -3980,12 +4046,12 @@
                 "country": "China"
             },
             {
-                "name": "University of Science and Technology of China",
-                "country": "China"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "University of Science and Technology of China",
+                "country": "China"
             }
         ]
     },
@@ -4024,10 +4090,6 @@
         ],
         "url": "https://www.aclweb.org/anthology/D19-1174.pdf",
         "orgs": [
-            {
-                "name": "IIIT Hyderabad",
-                "country": "India"
-            },
             {
                 "name": "Adobe Research",
                 "country": "USA"
@@ -4091,12 +4153,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1177.pdf",
         "orgs": [
             {
-                "name": "Amazon",
-                "country": "USA"
-            },
-            {
                 "name": "Baidu",
                 "country": "China"
+            },
+            {
+                "name": "Amazon",
+                "country": "USA"
             }
         ]
     },
@@ -4217,19 +4279,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1183.pdf",
         "orgs": [
             {
-                "name": "Amazon",
-                "country": "USA"
-            },
-            {
-                "name": "Microsoft",
-                "country": "USA"
-            },
-            {
                 "name": "Heriot Watt University",
                 "country": "UK"
             },
             {
                 "name": "Amazon",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
                 "country": "USA"
             }
         ]
@@ -4268,15 +4326,19 @@
         "url": "https://www.aclweb.org/anthology/D19-1185.pdf",
         "orgs": [
             {
-                "name": "Baidu",
-                "country": "China"
-            },
-            {
                 "name": "Nanjing University",
                 "country": "China"
             },
             {
                 "name": "University of Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "Baidu",
+                "country": "China"
+            },
+            {
+                "name": "Chinese Academy of Sciences",
                 "country": "China"
             }
         ]
@@ -4294,11 +4356,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1186.pdf",
         "orgs": [
             {
-                "name": "Beihang University",
+                "name": "Hefei University of Technology",
                 "country": "China"
             },
             {
-                "name": "Hefei University of Technology",
+                "name": "Beihang University",
                 "country": "China"
             }
         ]
@@ -4340,11 +4402,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1188.pdf",
         "orgs": [
             {
-                "name": "University of Chinese Academy of Sciences",
+                "name": "Chinese Academy of Sciences",
                 "country": "China"
             },
             {
-                "name": "Chinese Academy of Sciences",
+                "name": "University of Chinese Academy of Sciences",
                 "country": "China"
             }
         ]
@@ -4366,6 +4428,10 @@
         ],
         "url": "https://www.aclweb.org/anthology/D19-1189.pdf",
         "orgs": [
+            {
+                "name": "Alibaba AI Labs",
+                "country": "China"
+            },
             {
                 "name": "Tsinghua University",
                 "country": "China"
@@ -4419,6 +4485,10 @@
         "url": "https://www.aclweb.org/anthology/D19-1191.pdf",
         "orgs": [
             {
+                "name": "Tencent",
+                "country": "China"
+            },
+            {
                 "name": "University of California Los Angeles",
                 "country": "USA"
             }
@@ -4440,12 +4510,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1192.pdf",
         "orgs": [
             {
-                "name": "Peking University",
-                "country": "China"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Peking University",
+                "country": "China"
             }
         ]
     },
@@ -4464,12 +4534,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1193.pdf",
         "orgs": [
             {
-                "name": "University of Science and Technology of China",
-                "country": "China"
-            },
-            {
                 "name": "Queen's University",
                 "country": "Canada"
+            },
+            {
+                "name": "University of Science and Technology of China",
+                "country": "China"
             }
         ]
     },
@@ -4511,6 +4581,10 @@
             {
                 "name": "The Chinese University of Hong Kong",
                 "country": "China"
+            },
+            {
+                "name": "Tencent",
+                "country": "China"
             }
         ]
     },
@@ -4549,12 +4623,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1197.pdf",
         "orgs": [
             {
-                "name": "Beihang University",
-                "country": "China"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Beihang University",
+                "country": "China"
             }
         ]
     },
@@ -4574,6 +4648,10 @@
         ],
         "url": "https://www.aclweb.org/anthology/D19-1198.pdf",
         "orgs": [
+            {
+                "name": "Tencent",
+                "country": "China"
+            },
             {
                 "name": "Soochow University",
                 "country": "China"
@@ -4651,16 +4729,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1201.pdf",
         "orgs": [
             {
+                "name": "University of Waterloo",
+                "country": "Canada"
+            },
+            {
                 "name": "Peking University",
                 "country": "China"
             },
             {
                 "name": "Wangxuan Institute of Computer Technology",
                 "country": "China"
-            },
-            {
-                "name": "University of Waterloo",
-                "country": "Canada"
             }
         ]
     },
@@ -4675,7 +4753,12 @@
             "Alice Oh"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1202.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Korea Advanced Institute of Science and Technology",
+                "country": "South Korea"
+            }
+        ]
     },
     {
         "id": "EMNLP19-202",
@@ -4738,11 +4821,7 @@
         "url": "https://www.aclweb.org/anthology/D19-1204.pdf",
         "orgs": [
             {
-                "name": "Cornell University",
-                "country": "USA"
-            },
-            {
-                "name": "University of Michigan",
+                "name": "Salesforce Research",
                 "country": "USA"
             },
             {
@@ -4750,7 +4829,11 @@
                 "country": "USA"
             },
             {
-                "name": "Salesforce Research",
+                "name": "University of Michigan",
+                "country": "USA"
+            },
+            {
+                "name": "Cornell University",
                 "country": "USA"
             }
         ]
@@ -4835,6 +4918,10 @@
             {
                 "name": "Massachusetts Institute of Technology",
                 "country": "USA"
+            },
+            {
+                "name": "Korea Advanced Institute of Science and Technology",
+                "country": "South Korea"
             }
         ]
     },
@@ -4894,11 +4981,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1211.pdf",
         "orgs": [
             {
-                "name": "University of Rochester",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
-                "name": "Carnegie Mellon University",
+                "name": "University of Rochester",
                 "country": "USA"
             }
         ]
@@ -4943,11 +5030,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1213.pdf",
         "orgs": [
             {
-                "name": "University of Chinese Academy of Sciences",
+                "name": "Chinese Academy of Sciences",
                 "country": "China"
             },
             {
-                "name": "Chinese Academy of Sciences",
+                "name": "University of Chinese Academy of Sciences",
                 "country": "China"
             }
         ]
@@ -4987,7 +5074,12 @@
             "Marie-Francine Moens"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1215.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Katholieke Universiteit Leuven",
+                "country": "Belgium"
+            }
+        ]
     },
     {
         "id": "EMNLP19-215",
@@ -5057,10 +5149,6 @@
         "url": "https://www.aclweb.org/anthology/D19-1218.pdf",
         "orgs": [
             {
-                "name": "Facebook",
-                "country": "USA"
-            },
-            {
                 "name": "Cornell University",
                 "country": "USA"
             },
@@ -5070,6 +5158,14 @@
             },
             {
                 "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Intel Labs",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
                 "country": "USA"
             }
         ]
@@ -5117,11 +5213,11 @@
                 "country": "USA"
             },
             {
-                "name": "University of Illinois",
+                "name": "University of California Santa Barbara",
                 "country": "USA"
             },
             {
-                "name": "University of California Santa Barbara",
+                "name": "University of Illinois",
                 "country": "USA"
             }
         ]
@@ -5166,7 +5262,12 @@
             "Matthias Gallé"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1222.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Naver Corp",
+                "country": "South Korea"
+            }
+        ]
     },
     {
         "id": "EMNLP19-222",
@@ -5202,11 +5303,11 @@
                 "country": "USA"
             },
             {
-                "name": "Carnegie Mellon University",
+                "name": "Allen Institute for Artificial Intelligence",
                 "country": "USA"
             },
             {
-                "name": "Allen Institute for Artificial Intelligence",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             }
         ]
@@ -5230,15 +5331,15 @@
                 "country": "USA"
             },
             {
-                "name": "Google",
-                "country": "USA"
-            },
-            {
                 "name": "UC Berkeley",
                 "country": "USA"
             },
             {
                 "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
                 "country": "USA"
             }
         ]
@@ -5259,16 +5360,20 @@
         "url": "https://www.aclweb.org/anthology/D19-1226.pdf",
         "orgs": [
             {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            },
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            },
+            {
                 "name": "University of Mannheim",
                 "country": "Germany"
             },
             {
                 "name": "University of Cambridge",
                 "country": "UK"
-            },
-            {
-                "name": "IIT Bombay",
-                "country": "India"
             }
         ]
     },
@@ -5287,20 +5392,20 @@
         "url": "https://www.aclweb.org/anthology/D19-1227.pdf",
         "orgs": [
             {
-                "name": "University of Amsterdam",
-                "country": "Netherlands"
+                "name": "The ALTA Institute",
+                "country": "UK"
             },
             {
                 "name": "University of Cambridge",
                 "country": "UK"
             },
             {
-                "name": "The ALTA Institute",
+                "name": "Imperial College London",
                 "country": "UK"
             },
             {
-                "name": "Imperial College London",
-                "country": "UK"
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
             }
         ]
     },
@@ -5317,11 +5422,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1228.pdf",
         "orgs": [
             {
-                "name": "Harvard University",
+                "name": "Brown University",
                 "country": "USA"
             },
             {
-                "name": "Brown University",
+                "name": "Harvard University",
                 "country": "USA"
             }
         ]
@@ -5388,12 +5493,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1231.pdf",
         "orgs": [
             {
-                "name": "Nanyang Technological University",
-                "country": "Singapore"
-            },
-            {
                 "name": "Salesforce Research",
                 "country": "USA"
+            },
+            {
+                "name": "Nanyang Technological University",
+                "country": "Singapore"
             }
         ]
     },
@@ -5489,12 +5594,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1236.pdf",
         "orgs": [
             {
-                "name": "University of Bucharest",
-                "country": "Romania"
-            },
-            {
                 "name": "University of Illinois at Chicago",
                 "country": "USA"
+            },
+            {
+                "name": "University of Bucharest",
+                "country": "Romania"
             }
         ]
     },
@@ -5514,6 +5619,10 @@
         ],
         "url": "https://www.aclweb.org/anthology/D19-1237.pdf",
         "orgs": [
+            {
+                "name": "Alibaba AI Labs",
+                "country": "China"
+            },
             {
                 "name": "Indiana University Bloomington",
                 "country": "USA"
@@ -5545,10 +5654,6 @@
             {
                 "name": "New York University",
                 "country": "USA"
-            },
-            {
-                "name": "Indiana University",
-                "country": "USA"
             }
         ]
     },
@@ -5570,12 +5675,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1239.pdf",
         "orgs": [
             {
-                "name": "Amazon",
-                "country": "USA"
-            },
-            {
                 "name": "Delft University of Technology",
                 "country": "Netherlands"
+            },
+            {
+                "name": "Amazon",
+                "country": "USA"
             }
         ]
     },
@@ -5660,11 +5765,11 @@
                 "country": "USA"
             },
             {
-                "name": "University of Illinois",
+                "name": "Allen Institute for Artificial Intelligence",
                 "country": "USA"
             },
             {
-                "name": "Allen Institute for Artificial Intelligence",
+                "name": "University of Illinois",
                 "country": "USA"
             }
         ]
@@ -5686,11 +5791,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1244.pdf",
         "orgs": [
             {
-                "name": "Facebook",
+                "name": "New York University",
                 "country": "USA"
             },
             {
-                "name": "New York University",
+                "name": "Facebook",
                 "country": "USA"
             }
         ]
@@ -5712,11 +5817,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1245.pdf",
         "orgs": [
             {
-                "name": "University of Chinese Academy of Sciences",
+                "name": "Chinese Academy of Sciences",
                 "country": "China"
             },
             {
-                "name": "Chinese Academy of Sciences",
+                "name": "University of Chinese Academy of Sciences",
                 "country": "China"
             }
         ]
@@ -5755,7 +5860,7 @@
         "url": "https://www.aclweb.org/anthology/D19-1247.pdf",
         "orgs": [
             {
-                "name": "University of Chinese Academy of Sciences",
+                "name": "Chinese Academy of Sciences",
                 "country": "China"
             },
             {
@@ -5763,7 +5868,7 @@
                 "country": "China"
             },
             {
-                "name": "Chinese Academy of Sciences",
+                "name": "University of Chinese Academy of Sciences",
                 "country": "China"
             }
         ]
@@ -5787,16 +5892,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1248.pdf",
         "orgs": [
             {
-                "name": "Microsoft",
-                "country": "USA"
+                "name": "Sun Yat-sen University",
+                "country": "China"
             },
             {
                 "name": "University of Technology Sydney",
                 "country": "Australia"
             },
             {
-                "name": "Sun Yat-sen University",
-                "country": "China"
+                "name": "Microsoft",
+                "country": "USA"
             }
         ]
     },
@@ -5862,6 +5967,10 @@
         "url": "https://www.aclweb.org/anthology/D19-1251.pdf",
         "orgs": [
             {
+                "name": "Tencent",
+                "country": "China"
+            },
+            {
                 "name": "Tsinghua University",
                 "country": "China"
             }
@@ -5887,10 +5996,6 @@
             {
                 "name": "Microsoft",
                 "country": "USA"
-            },
-            {
-                "name": "Microsoft",
-                "country": "USA"
             }
         ]
     },
@@ -5905,7 +6010,12 @@
             "Mohit Bansal"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1253.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "University of North Carolina at Chapel Hill",
+                "country": "USA"
+            }
+        ]
     },
     {
         "id": "EMNLP19-253",
@@ -5924,15 +6034,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1254.pdf",
         "orgs": [
             {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
                 "name": "University of Virginia",
-                "country": "USA"
-            },
-            {
-                "name": "Microsoft",
-                "country": "USA"
-            },
-            {
-                "name": "Microsoft",
                 "country": "USA"
             }
         ]
@@ -5952,7 +6058,12 @@
             "Chenliang Li"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1255.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Alibaba AI Labs",
+                "country": "China"
+            }
+        ]
     },
     {
         "id": "EMNLP19-255",
@@ -6007,7 +6118,12 @@
             "Mohit Bansal"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1258.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "University of North Carolina at Chapel Hill",
+                "country": "USA"
+            }
+        ]
     },
     {
         "id": "EMNLP19-258",
@@ -6094,10 +6210,6 @@
         "url": "https://www.aclweb.org/anthology/D19-1262.pdf",
         "orgs": [
             {
-                "name": "Yonsei University",
-                "country": "South Korea"
-            },
-            {
                 "name": "Naver Corp",
                 "country": "South Korea"
             },
@@ -6107,6 +6219,10 @@
             },
             {
                 "name": "Korea University",
+                "country": "South Korea"
+            },
+            {
+                "name": "Yonsei University",
                 "country": "South Korea"
             }
         ]
@@ -6146,11 +6262,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1264.pdf",
         "orgs": [
             {
-                "name": "South China Normal University",
+                "name": "Sun Yat-sen University",
                 "country": "China"
             },
             {
-                "name": "Sun Yat-sen University",
+                "name": "Tencent",
+                "country": "China"
+            },
+            {
+                "name": "South China Normal University",
                 "country": "China"
             }
         ]
@@ -6249,20 +6369,20 @@
         "url": "https://www.aclweb.org/anthology/D19-1269.pdf",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
-                "country": "USA"
+                "name": "Université de Montréal",
+                "country": "Canada"
             },
             {
-                "name": "Zhejiang University",
-                "country": "China"
+                "name": "Carnegie Mellon University",
+                "country": "USA"
             },
             {
                 "name": "University of Southern California",
                 "country": "USA"
             },
             {
-                "name": "Université de Montréal",
-                "country": "Canada"
+                "name": "Zhejiang University",
+                "country": "China"
             }
         ]
     },
@@ -6320,12 +6440,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1272.pdf",
         "orgs": [
             {
-                "name": "Amazon",
-                "country": "USA"
-            },
-            {
                 "name": "University of Waterloo",
                 "country": "Canada"
+            },
+            {
+                "name": "Amazon",
+                "country": "USA"
             }
         ]
     },
@@ -6365,12 +6485,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1274.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
-                "country": "China"
-            },
-            {
                 "name": "National University of Singapore",
                 "country": "Singapore"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -6497,10 +6617,6 @@
             {
                 "name": "Université de Montréal",
                 "country": "Canada"
-            },
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
             }
         ]
     },
@@ -6564,6 +6680,10 @@
         "url": "https://www.aclweb.org/anthology/D19-1283.pdf",
         "orgs": [
             {
+                "name": "Naver Corp",
+                "country": "South Korea"
+            },
+            {
                 "name": "Yonsei University",
                 "country": "South Korea"
             }
@@ -6584,7 +6704,7 @@
         "url": "https://www.aclweb.org/anthology/D19-1284.pdf",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "Allen Institute for Artificial Intelligence",
                 "country": "USA"
             },
             {
@@ -6592,11 +6712,11 @@
                 "country": "USA"
             },
             {
-                "name": "Facebook",
+                "name": "Princeton University",
                 "country": "USA"
             },
             {
-                "name": "Allen Institute for Artificial Intelligence",
+                "name": "Facebook",
                 "country": "USA"
             }
         ]
@@ -6666,15 +6786,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1287.pdf",
         "orgs": [
             {
-                "name": "Harvard University",
+                "name": "Massachusetts Institute of Technology",
                 "country": "USA"
             },
             {
-                "name": "University of Paris",
-                "country": "France"
-            },
-            {
-                "name": "Massachusetts Institute of Technology",
+                "name": "Harvard University",
                 "country": "USA"
             }
         ]
@@ -6695,12 +6811,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1288.pdf",
         "orgs": [
             {
-                "name": "University of Cambridge",
-                "country": "UK"
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
             },
             {
                 "name": "IIT Bombay",
                 "country": "India"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
             }
         ]
     },
@@ -6737,10 +6857,6 @@
         ],
         "url": "https://www.aclweb.org/anthology/D19-1290.pdf",
         "orgs": [
-            {
-                "name": "Bauhaus-Universität Weimar",
-                "country": "Germany"
-            },
             {
                 "name": "Paderborn University",
                 "country": "Germany"
@@ -6831,16 +6947,16 @@
                 "country": "Bulgaria"
             },
             {
-                "name": "Nanyang Technological University",
-                "country": "Singapore"
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
             },
             {
                 "name": "Salesforce Research",
                 "country": "USA"
             },
             {
-                "name": "Qatar Computing Research Institute",
-                "country": "Qatar"
+                "name": "Nanyang Technological University",
+                "country": "Singapore"
             }
         ]
     },
@@ -6894,6 +7010,10 @@
         "url": "https://www.aclweb.org/anthology/D19-1297.pdf",
         "orgs": [
             {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
                 "name": "University of Chinese Academy of Sciences",
                 "country": "China"
             }
@@ -6934,12 +7054,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1299.pdf",
         "orgs": [
             {
-                "name": "Microsoft",
-                "country": "USA"
-            },
-            {
                 "name": "Harbin Institute of Technology",
                 "country": "China"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
             }
         ]
     },
@@ -6960,15 +7080,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1300.pdf",
         "orgs": [
             {
-                "name": "Shenzhen Institutes of Advanced Technology",
+                "name": "Chinese Academy of Sciences",
                 "country": "China"
             },
             {
                 "name": "University of Chinese Academy of Sciences",
-                "country": "China"
-            },
-            {
-                "name": "Chinese Academy of Sciences",
                 "country": "China"
             }
         ]
@@ -6990,7 +7106,7 @@
         "url": "https://www.aclweb.org/anthology/D19-1301.pdf",
         "orgs": [
             {
-                "name": "Alibaba DAMO Academy",
+                "name": "Soochow University",
                 "country": "China"
             },
             {
@@ -6998,7 +7114,7 @@
                 "country": "China"
             },
             {
-                "name": "Soochow University",
+                "name": "Alibaba DAMO Academy",
                 "country": "China"
             }
         ]
@@ -7021,6 +7137,10 @@
         "url": "https://www.aclweb.org/anthology/D19-1302.pdf",
         "orgs": [
             {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
                 "name": "University of Chinese Academy of Sciences",
                 "country": "China"
             }
@@ -7039,7 +7159,12 @@
             "Pascale Fung"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1303.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Hong Kong University of Science and Technology",
+                "country": "China"
+            }
+        ]
     },
     {
         "id": "EMNLP19-303",
@@ -7095,16 +7220,20 @@
         "url": "https://www.aclweb.org/anthology/D19-1306.pdf",
         "orgs": [
             {
+                "name": "University of Hong Kong",
+                "country": "China"
+            },
+            {
                 "name": "Amazon",
+                "country": "USA"
+            },
+            {
+                "name": "ASAPP Inc",
                 "country": "USA"
             },
             {
                 "name": "Massachusetts Institute of Technology",
                 "country": "USA"
-            },
-            {
-                "name": "University of Hong Kong",
-                "country": "China"
             }
         ]
     },
@@ -7125,16 +7254,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1307.pdf",
         "orgs": [
             {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            },
+            {
                 "name": "University of London",
                 "country": "UK"
             },
             {
                 "name": "Technische Universität Darmstadt",
                 "country": "Germany"
-            },
-            {
-                "name": "Bar Ilan University",
-                "country": "Israel"
             }
         ]
     },
@@ -7152,11 +7281,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1308.pdf",
         "orgs": [
             {
-                "name": "University of Washington",
-                "country": "USA"
+                "name": "Naver Corp",
+                "country": "South Korea"
             },
             {
                 "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            },
+            {
+                "name": "University of Washington",
                 "country": "USA"
             }
         ]
@@ -7183,11 +7316,11 @@
                 "country": "USA"
             },
             {
-                "name": "Google",
+                "name": "University of Pittsburgh",
                 "country": "USA"
             },
             {
-                "name": "University of Pittsburgh",
+                "name": "Google",
                 "country": "USA"
             }
         ]
@@ -7231,12 +7364,12 @@
                 "country": "Germany"
             },
             {
-                "name": "Nanyang Technological University",
-                "country": "Singapore"
-            },
-            {
                 "name": "Inception Institute of Artificial Intelligence Abu Dhabi",
                 "country": "UAE"
+            },
+            {
+                "name": "Nanyang Technological University",
+                "country": "Singapore"
             }
         ]
     },
@@ -7274,6 +7407,10 @@
         "url": "https://www.aclweb.org/anthology/D19-1313.pdf",
         "orgs": [
             {
+                "name": "Huawei",
+                "country": "China"
+            },
+            {
                 "name": "Shanghai Jiao Tong University",
                 "country": "China"
             }
@@ -7292,10 +7429,6 @@
         ],
         "url": "https://www.aclweb.org/anthology/D19-1314.pdf",
         "orgs": [
-            {
-                "name": "Technische Universität Darmstadt",
-                "country": "Germany"
-            },
             {
                 "name": "Technische Universität Darmstadt",
                 "country": "Germany"
@@ -7380,11 +7513,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1318.pdf",
         "orgs": [
             {
-                "name": "University of Sheffield",
+                "name": "Imperial College London",
                 "country": "UK"
             },
             {
-                "name": "Imperial College London",
+                "name": "University of Sheffield",
                 "country": "UK"
             }
         ]
@@ -7477,16 +7610,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1323.pdf",
         "orgs": [
             {
+                "name": "Northeastern University",
+                "country": "China"
+            },
+            {
                 "name": "Boston University",
                 "country": "USA"
             },
             {
                 "name": "Khoury College of Computer Sciences",
                 "country": "USA"
-            },
-            {
-                "name": "Northeastern University",
-                "country": "China"
             }
         ]
     },
@@ -7526,11 +7659,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1325.pdf",
         "orgs": [
             {
-                "name": "Microsoft",
+                "name": "University of Washington",
                 "country": "USA"
             },
             {
-                "name": "University of Washington",
+                "name": "Microsoft",
                 "country": "USA"
             }
         ]
@@ -7728,12 +7861,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1335.pdf",
         "orgs": [
             {
-                "name": "Microsoft",
-                "country": "USA"
-            },
-            {
                 "name": "Montreal Institute of Learning Algorithms",
                 "country": "Canada"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
             }
         ]
     },
@@ -7813,15 +7946,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1339.pdf",
         "orgs": [
             {
+                "name": "University of California Los Angeles",
+                "country": "USA"
+            },
+            {
                 "name": "University of Southern California",
                 "country": "USA"
             },
             {
                 "name": "Information Sciences Institute",
-                "country": "USA"
-            },
-            {
-                "name": "University of California Los Angeles",
                 "country": "USA"
             }
         ]
@@ -7906,12 +8039,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1343.pdf",
         "orgs": [
             {
-                "name": "Yunnan University",
-                "country": "China"
-            },
-            {
                 "name": "Yuan Ze University",
                 "country": "Taiwan"
+            },
+            {
+                "name": "Yunnan University",
+                "country": "China"
             }
         ]
     },
@@ -8103,15 +8236,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1353.pdf",
         "orgs": [
             {
+                "name": "University of Massachusetts Amherst",
+                "country": "USA"
+            },
+            {
                 "name": "University of Southern California",
                 "country": "USA"
             },
             {
                 "name": "Information Sciences Institute",
-                "country": "USA"
-            },
-            {
-                "name": "University of Massachusetts Amherst",
                 "country": "USA"
             }
         ]
@@ -8170,12 +8303,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1356.pdf",
         "orgs": [
             {
-                "name": "Beihang University",
-                "country": "China"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Beihang University",
+                "country": "China"
             }
         ]
     },
@@ -8193,11 +8326,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1357.pdf",
         "orgs": [
             {
-                "name": "University of Tokyo",
+                "name": "RIKEN Center for Advanced Intelligence Project",
                 "country": "Japan"
             },
             {
-                "name": "RIKEN Center for Advanced Intelligence Project",
+                "name": "University of Tokyo",
                 "country": "Japan"
             }
         ]
@@ -8255,7 +8388,12 @@
             "Pascale Fung"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1360.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Hong Kong University of Science and Technology",
+                "country": "China"
+            }
+        ]
     },
     {
         "id": "EMNLP19-360",
@@ -8291,11 +8429,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1362.pdf",
         "orgs": [
             {
-                "name": "Saarland University",
+                "name": "Robert Bosch GmbH",
                 "country": "Germany"
             },
             {
-                "name": "Robert Bosch GmbH",
+                "name": "Saarland University",
                 "country": "Germany"
             }
         ]
@@ -8313,14 +8451,6 @@
         ],
         "url": "https://www.aclweb.org/anthology/D19-1363.pdf",
         "orgs": [
-            {
-                "name": "Bar Ilan University",
-                "country": "Israel"
-            },
-            {
-                "name": "Bar Ilan University",
-                "country": "Israel"
-            },
             {
                 "name": "Bar Ilan University",
                 "country": "Israel"
@@ -8347,10 +8477,6 @@
             {
                 "name": "IBM",
                 "country": "USA"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
             }
         ]
     },
@@ -8370,16 +8496,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1365.pdf",
         "orgs": [
             {
-                "name": "Beihang University",
-                "country": "China"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
             },
             {
                 "name": "University of Alberta",
                 "country": "Canada"
+            },
+            {
+                "name": "Beihang University",
+                "country": "China"
             }
         ]
     },
@@ -8440,12 +8566,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1368.pdf",
         "orgs": [
             {
-                "name": "Amazon",
-                "country": "USA"
-            },
-            {
                 "name": "University of Edinburgh",
                 "country": "UK"
+            },
+            {
+                "name": "Amazon",
+                "country": "USA"
             }
         ]
     },
@@ -8482,11 +8608,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1370.pdf",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
+                "name": "University of California San Diego",
                 "country": "USA"
             },
             {
-                "name": "University of California San Diego",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             }
         ]
@@ -8667,11 +8793,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1379.pdf",
         "orgs": [
             {
-                "name": "Tohoku University",
+                "name": "RIKEN Center for Advanced Intelligence Project",
                 "country": "Japan"
             },
             {
-                "name": "RIKEN Center for Advanced Intelligence Project",
+                "name": "Tohoku University",
                 "country": "Japan"
             }
         ]
@@ -8694,12 +8820,12 @@
                 "country": "USA"
             },
             {
-                "name": "The George Washington University",
-                "country": "USA"
-            },
-            {
                 "name": "Taibah University",
                 "country": "Saudi Arabia"
+            },
+            {
+                "name": "The George Washington University",
+                "country": "USA"
             }
         ]
     },
@@ -8865,11 +8991,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1388.pdf",
         "orgs": [
             {
-                "name": "Peking University",
+                "name": "Tencent",
                 "country": "China"
             },
             {
                 "name": "Wangxuan Institute of Computer Technology",
+                "country": "China"
+            },
+            {
+                "name": "Peking University",
                 "country": "China"
             }
         ]
@@ -8913,16 +9043,20 @@
         "url": "https://www.aclweb.org/anthology/D19-1390.pdf",
         "orgs": [
             {
-                "name": "Saarland University",
-                "country": "Germany"
+                "name": "University of Tokyo",
+                "country": "Japan"
+            },
+            {
+                "name": "Tencent",
+                "country": "China"
             },
             {
                 "name": "MMax Planck Institute for Informatics",
                 "country": "Germany"
             },
             {
-                "name": "University of Tokyo",
-                "country": "Japan"
+                "name": "Saarland University",
+                "country": "Germany"
             }
         ]
     },
@@ -9047,11 +9181,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1396.pdf",
         "orgs": [
             {
-                "name": "University of Chinese Academy of Sciences",
+                "name": "Chinese Academy of Sciences",
                 "country": "China"
             },
             {
-                "name": "Chinese Academy of Sciences",
+                "name": "University of Chinese Academy of Sciences",
                 "country": "China"
             }
         ]
@@ -9099,11 +9233,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1398.pdf",
         "orgs": [
             {
-                "name": "Beihang University",
+                "name": "Peking University",
                 "country": "China"
             },
             {
-                "name": "Peking University",
+                "name": "Beihang University",
                 "country": "China"
             }
         ]
@@ -9180,10 +9314,6 @@
             {
                 "name": "Google",
                 "country": "USA"
-            },
-            {
-                "name": "Google",
-                "country": "USA"
             }
         ]
     },
@@ -9203,6 +9333,10 @@
         ],
         "url": "https://www.aclweb.org/anthology/D19-1403.pdf",
         "orgs": [
+            {
+                "name": "Alibaba AI Labs",
+                "country": "China"
+            },
             {
                 "name": "Queen's University",
                 "country": "Canada"
@@ -9378,7 +9512,7 @@
         "url": "https://www.aclweb.org/anthology/D19-1411.pdf",
         "orgs": [
             {
-                "name": "University of Tokyo",
+                "name": "RIKEN Center for Advanced Intelligence Project",
                 "country": "Japan"
             },
             {
@@ -9386,7 +9520,7 @@
                 "country": "Thailand"
             },
             {
-                "name": "RIKEN Center for Advanced Intelligence Project",
+                "name": "University of Tokyo",
                 "country": "Japan"
             }
         ]
@@ -9427,7 +9561,12 @@
             "Yi Yang"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1413.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "ASAPP Inc",
+                "country": "USA"
+            }
+        ]
     },
     {
         "id": "EMNLP19-413",
@@ -9602,11 +9741,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1422.pdf",
         "orgs": [
             {
-                "name": "Zhejiang University",
+                "name": "Westlake University",
                 "country": "China"
             },
             {
-                "name": "Westlake University",
+                "name": "Zhejiang University",
                 "country": "China"
             }
         ]
@@ -9646,16 +9785,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1424.pdf",
         "orgs": [
             {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
                 "name": "Beihang University",
                 "country": "China"
-            },
-            {
-                "name": "Microsoft",
-                "country": "USA"
-            },
-            {
-                "name": "Microsoft",
-                "country": "USA"
             }
         ]
     },
@@ -9674,11 +9809,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1425.pdf",
         "orgs": [
             {
-                "name": "University of Haifa",
-                "country": "Israel"
+                "name": "University of Washington",
+                "country": "USA"
             },
             {
-                "name": "University of Washington",
+                "name": "Allen Institute for Artificial Intelligence",
                 "country": "USA"
             },
             {
@@ -9686,8 +9821,8 @@
                 "country": "USA"
             },
             {
-                "name": "Allen Institute for Artificial Intelligence",
-                "country": "USA"
+                "name": "University of Haifa",
+                "country": "Israel"
             }
         ]
     },
@@ -9707,6 +9842,10 @@
             {
                 "name": "Carnegie Mellon University",
                 "country": "USA"
+            },
+            {
+                "name": "University of North Carolina at Chapel Hill",
+                "country": "USA"
             }
         ]
     },
@@ -9723,12 +9862,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1427.pdf",
         "orgs": [
             {
-                "name": "Allen Institute for Artificial Intelligence",
-                "country": "USA"
-            },
-            {
                 "name": "Bar Ilan University",
                 "country": "Israel"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
             }
         ]
     },
@@ -9790,10 +9929,6 @@
             {
                 "name": "University of Illinois",
                 "country": "USA"
-            },
-            {
-                "name": "Sun Yat-sen University",
-                "country": "China"
             }
         ]
     },
@@ -9813,20 +9948,24 @@
         "url": "https://www.aclweb.org/anthology/D19-1431.pdf",
         "orgs": [
             {
-                "name": "Zhejiang University",
-                "country": "China"
+                "name": "Google",
+                "country": "USA"
             },
             {
-                "name": "Apple",
-                "country": "USA"
+                "name": "Zhejiang University",
+                "country": "China"
             },
             {
                 "name": "Microsoft",
                 "country": "USA"
             },
             {
-                "name": "Google",
+                "name": "Apple",
                 "country": "USA"
+            },
+            {
+                "name": "Alibaba AI Labs",
+                "country": "China"
             }
         ]
     },
@@ -9863,6 +10002,14 @@
         "url": "https://www.aclweb.org/anthology/D19-1433.pdf",
         "orgs": [
             {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
                 "name": "Georgia Institute of Technology",
                 "country": "USA"
             }
@@ -9883,6 +10030,14 @@
         "orgs": [
             {
                 "name": "University of Notre Dame",
+                "country": "USA"
+            },
+            {
+                "name": "University of Massachusetts Lowell",
+                "country": "USA"
+            },
+            {
+                "name": "University of Massachusetts Amherst",
                 "country": "USA"
             },
             {
@@ -9994,19 +10149,19 @@
         "url": "https://www.aclweb.org/anthology/D19-1439.pdf",
         "orgs": [
             {
-                "name": "Alan Turing Institute",
-                "country": "UK"
-            },
-            {
-                "name": "University of Oxford",
-                "country": "UK"
-            },
-            {
                 "name": "DeepMind",
                 "country": "UK"
             },
             {
                 "name": "Imperial College London",
+                "country": "UK"
+            },
+            {
+                "name": "Alan Turing Institute",
+                "country": "UK"
+            },
+            {
+                "name": "University of Oxford",
                 "country": "UK"
             }
         ]
@@ -10149,23 +10304,19 @@
         "url": "https://www.aclweb.org/anthology/D19-1446.pdf",
         "orgs": [
             {
-                "name": "Microsoft",
-                "country": "USA"
+                "name": "University of Science and Technology of China",
+                "country": "China"
             },
             {
-                "name": "Chinese Academy of Sciences",
-                "country": "China"
+                "name": "Microsoft",
+                "country": "USA"
             },
             {
                 "name": "Peking University",
                 "country": "China"
             },
             {
-                "name": "University of Science and Technology of China",
-                "country": "China"
-            },
-            {
-                "name": "Sun Yat-sen University",
+                "name": "Chinese Academy of Sciences",
                 "country": "China"
             }
         ]
@@ -10203,20 +10354,20 @@
         "url": "https://www.aclweb.org/anthology/D19-1448.pdf",
         "orgs": [
             {
-                "name": "University of Amsterdam",
-                "country": "Netherlands"
+                "name": "University of Zurich",
+                "country": "Switzerland"
             },
             {
                 "name": "Yandex",
                 "country": "Russia"
             },
             {
-                "name": "University of Edinburgh",
-                "country": "UK"
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
             },
             {
-                "name": "University of Zurich",
-                "country": "Switzerland"
+                "name": "University of Edinburgh",
+                "country": "UK"
             }
         ]
     },
@@ -10235,16 +10386,20 @@
         "url": "https://www.aclweb.org/anthology/D19-1449.pdf",
         "orgs": [
             {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            },
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            },
+            {
                 "name": "University of Mannheim",
                 "country": "Germany"
             },
             {
                 "name": "University of Cambridge",
                 "country": "UK"
-            },
-            {
-                "name": "IIT Bombay",
-                "country": "India"
             }
         ]
     },
@@ -10292,16 +10447,16 @@
                 "country": "China"
             },
             {
-                "name": "Singapore University of Technology and Design",
-                "country": "Singapore"
+                "name": "University of Waterloo",
+                "country": "Canada"
             },
             {
                 "name": "Peking University",
                 "country": "China"
             },
             {
-                "name": "University of Waterloo",
-                "country": "Canada"
+                "name": "Singapore University of Technology and Design",
+                "country": "Singapore"
             }
         ]
     },
@@ -10380,7 +10535,12 @@
             "Mohit Bansal"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1455.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "University of North Carolina at Chapel Hill",
+                "country": "USA"
+            }
+        ]
     },
     {
         "id": "EMNLP19-455",
@@ -10439,16 +10599,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1458.pdf",
         "orgs": [
             {
-                "name": "Facebook",
-                "country": "USA"
-            },
-            {
                 "name": "McGill University",
                 "country": "Canada"
             },
             {
-                "name": "Université de Montréal",
-                "country": "Canada"
+                "name": "Facebook",
+                "country": "USA"
             },
             {
                 "name": "Montreal Institute of Learning Algorithms",
@@ -10477,7 +10633,7 @@
         "url": "https://www.aclweb.org/anthology/D19-1459.pdf",
         "orgs": [
             {
-                "name": "Amazon",
+                "name": "Google",
                 "country": "USA"
             },
             {
@@ -10485,16 +10641,8 @@
                 "country": "USA"
             },
             {
-                "name": "Microsoft",
+                "name": "Amazon",
                 "country": "USA"
-            },
-            {
-                "name": "Google",
-                "country": "USA"
-            },
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
             }
         ]
     },
@@ -10564,12 +10712,12 @@
                 "country": "China"
             },
             {
-                "name": "University of Edinburgh",
-                "country": "UK"
-            },
-            {
                 "name": "Soochow University",
                 "country": "China"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
             }
         ]
     },
@@ -10588,6 +10736,10 @@
         ],
         "url": "https://www.aclweb.org/anthology/D19-1463.pdf",
         "orgs": [
+            {
+                "name": "Alibaba AI Labs",
+                "country": "China"
+            },
             {
                 "name": "Alibaba DAMO Academy",
                 "country": "China"
@@ -10612,12 +10764,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1464.pdf",
         "orgs": [
             {
-                "name": "Beijing Institute of Technology",
-                "country": "China"
-            },
-            {
                 "name": "University of Padua",
                 "country": "Italy"
+            },
+            {
+                "name": "Beijing Institute of Technology",
+                "country": "China"
             }
         ]
     },
@@ -10642,6 +10794,10 @@
                 "country": "China"
             },
             {
+                "name": "Tencent",
+                "country": "China"
+            },
+            {
                 "name": "The Hong Kong Polytechnic University",
                 "country": "China"
             }
@@ -10663,6 +10819,14 @@
         ],
         "url": "https://www.aclweb.org/anthology/D19-1466.pdf",
         "orgs": [
+            {
+                "name": "Tencent",
+                "country": "China"
+            },
+            {
+                "name": "Hong Kong University of Science and Technology",
+                "country": "China"
+            },
             {
                 "name": "Southern University of Science and Technology",
                 "country": "China"
@@ -10740,15 +10904,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1469.pdf",
         "orgs": [
             {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
                 "name": "University of Chicago",
-                "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
-            },
-            {
-                "name": "Stanford University",
                 "country": "USA"
             }
         ]
@@ -10772,11 +10932,11 @@
                 "country": "China"
             },
             {
-                "name": "The Hong Kong Polytechnic University",
+                "name": "Northeastern University",
                 "country": "China"
             },
             {
-                "name": "Northeastern University",
+                "name": "The Hong Kong Polytechnic University",
                 "country": "China"
             },
             {
@@ -10859,7 +11019,12 @@
             "Dit-Yan Yeung"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1474.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Hong Kong University of Science and Technology",
+                "country": "China"
+            }
+        ]
     },
     {
         "id": "EMNLP19-474",
@@ -10919,16 +11084,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1477.pdf",
         "orgs": [
             {
-                "name": "Amazon",
-                "country": "USA"
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
             },
             {
                 "name": "University of Stuttgart",
                 "country": "Germany"
             },
             {
-                "name": "University of Amsterdam",
-                "country": "Netherlands"
+                "name": "Amazon",
+                "country": "USA"
             }
         ]
     },
@@ -10965,11 +11130,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1480.pdf",
         "orgs": [
             {
-                "name": "Facebook",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
-                "name": "Carnegie Mellon University",
+                "name": "Facebook",
                 "country": "USA"
             }
         ]
@@ -11010,6 +11175,10 @@
             {
                 "name": "University of California Santa Barbara",
                 "country": "USA"
+            },
+            {
+                "name": "Intel Labs",
+                "country": "USA"
             }
         ]
     },
@@ -11030,6 +11199,10 @@
         "orgs": [
             {
                 "name": "Columbia University",
+                "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
                 "country": "USA"
             }
         ]
@@ -11067,11 +11240,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1485.pdf",
         "orgs": [
             {
-                "name": "University of Chinese Academy of Sciences",
+                "name": "Chinese Academy of Sciences",
                 "country": "China"
             },
             {
-                "name": "Chinese Academy of Sciences",
+                "name": "University of Chinese Academy of Sciences",
                 "country": "China"
             }
         ]
@@ -11094,16 +11267,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1486.pdf",
         "orgs": [
             {
-                "name": "Microsoft",
-                "country": "USA"
-            },
-            {
                 "name": "The Hong Kong Polytechnic University",
                 "country": "China"
             },
             {
                 "name": "Fano Labs",
                 "country": "Hong Kong"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
             }
         ]
     },
@@ -11144,12 +11317,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1488.pdf",
         "orgs": [
             {
-                "name": "Beijing University of Posts and Telecommunications",
-                "country": "China"
-            },
-            {
                 "name": "Institute for Infocomm Research",
                 "country": "Singapore"
+            },
+            {
+                "name": "Beijing University of Posts and Telecommunications",
+                "country": "China"
             }
         ]
     },
@@ -11260,11 +11433,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1493.pdf",
         "orgs": [
             {
-                "name": "Peking University",
+                "name": "University of Science and Technology of China",
                 "country": "China"
             },
             {
-                "name": "Tsinghua University",
+                "name": "Peking University",
                 "country": "China"
             },
             {
@@ -11272,7 +11445,7 @@
                 "country": "USA"
             },
             {
-                "name": "University of Science and Technology of China",
+                "name": "Tsinghua University",
                 "country": "China"
             }
         ]
@@ -11294,12 +11467,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1494.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
-                "country": "China"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -11405,6 +11578,10 @@
         "url": "https://www.aclweb.org/anthology/D19-1499.pdf",
         "orgs": [
             {
+                "name": "Tencent",
+                "country": "China"
+            },
+            {
                 "name": "Wangxuan Institute of Computer Technology",
                 "country": "China"
             },
@@ -11462,11 +11639,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1501.pdf",
         "orgs": [
             {
+                "name": "Wangxuan Institute of Computer Technology",
+                "country": "China"
+            },
+            {
                 "name": "Peking University",
                 "country": "China"
             },
             {
-                "name": "Wangxuan Institute of Computer Technology",
+                "name": "Alibaba AI Labs",
                 "country": "China"
             }
         ]
@@ -11486,12 +11667,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1502.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
-                "country": "China"
-            },
-            {
                 "name": "University of Bonn",
                 "country": "Germany"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -11585,10 +11766,6 @@
             {
                 "name": "Google",
                 "country": "USA"
-            },
-            {
-                "name": "Google",
-                "country": "USA"
             }
         ]
     },
@@ -11602,7 +11779,12 @@
             "Gyuwan Kim"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1507.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Naver Corp",
+                "country": "South Korea"
+            }
+        ]
     },
     {
         "id": "EMNLP19-506",
@@ -11622,6 +11804,10 @@
         "orgs": [
             {
                 "name": "Fudan University",
+                "country": "China"
+            },
+            {
+                "name": "Alibaba AI Labs",
                 "country": "China"
             }
         ]
@@ -11708,12 +11894,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1512.pdf",
         "orgs": [
             {
-                "name": "Beihang University",
-                "country": "China"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Beihang University",
+                "country": "China"
             }
         ]
     },
@@ -11751,7 +11937,12 @@
             "Mohit Bansal"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1514.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "University of North Carolina at Chapel Hill",
+                "country": "USA"
+            }
+        ]
     },
     {
         "id": "EMNLP19-513",
@@ -11786,6 +11977,10 @@
         ],
         "url": "https://www.aclweb.org/anthology/D19-1516.pdf",
         "orgs": [
+            {
+                "name": "Hong Kong University of Science and Technology",
+                "country": "China"
+            },
             {
                 "name": "Tsinghua University",
                 "country": "China"
@@ -11823,12 +12018,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1518.pdf",
         "orgs": [
             {
-                "name": "Zhejiang University",
-                "country": "China"
-            },
-            {
                 "name": "University of Florida",
                 "country": "USA"
+            },
+            {
+                "name": "Zhejiang University",
+                "country": "China"
             }
         ]
     },
@@ -11949,15 +12144,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1524.pdf",
         "orgs": [
             {
+                "name": "Information Research Center of Military Science",
+                "country": "China"
+            },
+            {
                 "name": "PLA Academy of Military Science",
                 "country": "China"
             },
             {
                 "name": "Beijing Institute of Technology",
-                "country": "China"
-            },
-            {
-                "name": "Information Research Center of Military Science",
                 "country": "China"
             }
         ]
@@ -11997,12 +12192,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1526.pdf",
         "orgs": [
             {
-                "name": "Duke University",
-                "country": "USA"
-            },
-            {
                 "name": "Sun Yat-sen University",
                 "country": "China"
+            },
+            {
+                "name": "Duke University",
+                "country": "USA"
             }
         ]
     },
@@ -12043,7 +12238,16 @@
             "Dong Yu"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1528.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Tencent",
+                "country": "China"
+            },
+            {
+                "name": "Hong Kong University of Science and Technology",
+                "country": "China"
+            }
+        ]
     },
     {
         "id": "EMNLP19-527",
@@ -12061,10 +12265,6 @@
             {
                 "name": "AIR Labs",
                 "country": "Singapore"
-            },
-            {
-                "name": "University of California Los Angeles",
-                "country": "USA"
             }
         ]
     },
@@ -12083,12 +12283,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1530.pdf",
         "orgs": [
             {
-                "name": "University of Cambridge",
-                "country": "UK"
-            },
-            {
                 "name": "Bar Ilan University",
                 "country": "Israel"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
             }
         ]
     },
@@ -12114,7 +12314,7 @@
                 "country": "USA"
             },
             {
-                "name": "University of Pennsylvania",
+                "name": "University of California Los Angeles",
                 "country": "USA"
             },
             {
@@ -12122,7 +12322,7 @@
                 "country": "USA"
             },
             {
-                "name": "University of California Los Angeles",
+                "name": "University of Pennsylvania",
                 "country": "USA"
             }
         ]
@@ -12211,12 +12411,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1535.pdf",
         "orgs": [
             {
-                "name": "Beihang University",
-                "country": "China"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Beihang University",
+                "country": "China"
             }
         ]
     },
@@ -12259,7 +12459,7 @@
         "url": "https://www.aclweb.org/anthology/D19-1537.pdf",
         "orgs": [
             {
-                "name": "Cornell University",
+                "name": "Salesforce Research",
                 "country": "USA"
             },
             {
@@ -12267,7 +12467,7 @@
                 "country": "USA"
             },
             {
-                "name": "Salesforce Research",
+                "name": "Cornell University",
                 "country": "USA"
             }
         ]
@@ -12329,16 +12529,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1540.pdf",
         "orgs": [
             {
-                "name": "Nanyang Technological University",
-                "country": "Singapore"
-            },
-            {
                 "name": "Facebook",
                 "country": "USA"
             },
             {
                 "name": "University of Waterloo",
                 "country": "Canada"
+            },
+            {
+                "name": "Nanyang Technological University",
+                "country": "Singapore"
             }
         ]
     },
@@ -12374,12 +12574,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1542.pdf",
         "orgs": [
             {
-                "name": "Osaka University",
-                "country": "Japan"
-            },
-            {
                 "name": "University of Manchester",
                 "country": "UK"
+            },
+            {
+                "name": "Osaka University",
+                "country": "Japan"
             }
         ]
     },
@@ -12399,12 +12599,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1543.pdf",
         "orgs": [
             {
-                "name": "Peking University",
-                "country": "China"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Peking University",
+                "country": "China"
             }
         ]
     },
@@ -12445,15 +12645,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1545.pdf",
         "orgs": [
             {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
                 "name": "University of Washington",
                 "country": "USA"
             },
             {
                 "name": "Facebook",
-                "country": "USA"
-            },
-            {
-                "name": "UC Berkeley",
                 "country": "USA"
             }
         ]
@@ -12517,6 +12717,10 @@
         ],
         "url": "https://www.aclweb.org/anthology/D19-1548.pdf",
         "orgs": [
+            {
+                "name": "Alibaba AI Labs",
+                "country": "China"
+            },
             {
                 "name": "Soochow University",
                 "country": "China"
@@ -12620,11 +12824,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1553.pdf",
         "orgs": [
             {
+                "name": "Beijing Institute of Big Data Research",
+                "country": "China"
+            },
+            {
                 "name": "Peking University",
                 "country": "China"
             },
             {
-                "name": "Beijing Institute of Big Data Research",
+                "name": "Tencent",
                 "country": "China"
             }
         ]
@@ -12646,11 +12854,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1554.pdf",
         "orgs": [
             {
-                "name": "Peking University",
+                "name": "Beijing Institute of Big Data Research",
                 "country": "China"
             },
             {
-                "name": "Beijing Institute of Big Data Research",
+                "name": "Peking University",
                 "country": "China"
             }
         ]
@@ -12668,11 +12876,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1555.pdf",
         "orgs": [
             {
-                "name": "North Carolina State University",
+                "name": "IBM",
                 "country": "USA"
             },
             {
-                "name": "IBM",
+                "name": "North Carolina State University",
                 "country": "USA"
             }
         ]
@@ -12762,6 +12970,10 @@
             {
                 "name": "Beijing Jiaotong University",
                 "country": "China"
+            },
+            {
+                "name": "Tencent",
+                "country": "China"
             }
         ]
     },
@@ -12783,6 +12995,10 @@
         ],
         "url": "https://www.aclweb.org/anthology/D19-1560.pdf",
         "orgs": [
+            {
+                "name": "Alibaba AI Labs",
+                "country": "China"
+            },
             {
                 "name": "Soochow University",
                 "country": "China"
@@ -12852,24 +13068,20 @@
         "url": "https://www.aclweb.org/anthology/D19-1563.pdf",
         "orgs": [
             {
-                "name": "Chinese Academy of Sciences",
-                "country": "China"
-            },
-            {
-                "name": "Shenzhen Institutes of Advanced Technology",
-                "country": "China"
+                "name": "University of Warwick",
+                "country": "UK"
             },
             {
                 "name": "Harbin Institute of Technology",
                 "country": "China"
             },
             {
-                "name": "Alibaba DAMO Academy",
+                "name": "Chinese Academy of Sciences",
                 "country": "China"
             },
             {
-                "name": "University of Warwick",
-                "country": "UK"
+                "name": "Alibaba DAMO Academy",
+                "country": "China"
             }
         ]
     },
@@ -12914,10 +13126,6 @@
         "url": "https://www.aclweb.org/anthology/D19-1565.pdf",
         "orgs": [
             {
-                "name": "University of Bologna",
-                "country": "Italy"
-            },
-            {
                 "name": "Massachusetts Institute of Technology",
                 "country": "USA"
             },
@@ -12942,12 +13150,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1566.pdf",
         "orgs": [
             {
-                "name": "Facebook",
-                "country": "USA"
-            },
-            {
                 "name": "Indian Institute of Technology Patna",
                 "country": "India"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
             }
         ]
     },
@@ -13008,12 +13216,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1569.pdf",
         "orgs": [
             {
-                "name": "Beihang University",
-                "country": "China"
-            },
-            {
                 "name": "University of Ottawa",
                 "country": "Canada"
+            },
+            {
+                "name": "Beihang University",
+                "country": "China"
             }
         ]
     },
@@ -13034,6 +13242,10 @@
         "orgs": [
             {
                 "name": "Harbin Institute of Technology",
+                "country": "China"
+            },
+            {
+                "name": "Tencent",
                 "country": "China"
             }
         ]
@@ -13078,12 +13290,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1572.pdf",
         "orgs": [
             {
-                "name": "National University of Ireland",
-                "country": "Ireland"
-            },
-            {
                 "name": "University of San Francisco",
                 "country": "USA"
+            },
+            {
+                "name": "ASAPP Inc",
+                "country": "USA"
+            },
+            {
+                "name": "National University of Ireland",
+                "country": "Ireland"
             }
         ]
     },
@@ -13105,7 +13321,7 @@
         "url": "https://www.aclweb.org/anthology/D19-1573.pdf",
         "orgs": [
             {
-                "name": "Facebook",
+                "name": "UC Berkeley",
                 "country": "USA"
             },
             {
@@ -13117,11 +13333,11 @@
                 "country": "China"
             },
             {
-                "name": "Google",
+                "name": "Facebook",
                 "country": "USA"
             },
             {
-                "name": "UC Berkeley",
+                "name": "Google",
                 "country": "USA"
             }
         ]
@@ -13185,6 +13401,10 @@
         "url": "https://www.aclweb.org/anthology/D19-1576.pdf",
         "orgs": [
             {
+                "name": "Alibaba AI Labs",
+                "country": "China"
+            },
+            {
                 "name": "Shanghai Tech University",
                 "country": "China"
             }
@@ -13206,12 +13426,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1577.pdf",
         "orgs": [
             {
-                "name": "Microsoft",
+                "name": "University of Cambridge",
+                "country": "UK"
+            },
+            {
+                "name": "Facebook",
                 "country": "USA"
             },
             {
-                "name": "University of Cambridge",
-                "country": "UK"
+                "name": "Microsoft",
+                "country": "USA"
             },
             {
                 "name": "University of Zurich",
@@ -13326,11 +13550,11 @@
                 "country": "China"
             },
             {
-                "name": "University of CAS",
+                "name": "Chinese Academy of Sciences",
                 "country": "China"
             },
             {
-                "name": "Chinese Academy of Sciences",
+                "name": "University of CAS",
                 "country": "China"
             }
         ]
@@ -13375,12 +13599,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1584.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
+                "name": "Tencent",
                 "country": "China"
             },
             {
                 "name": "University of Southern California",
                 "country": "USA"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -13448,10 +13676,6 @@
         "orgs": [
             {
                 "name": "Tokyo Institute of Technology",
-                "country": "Japan"
-            },
-            {
-                "name": "NTT Corporation",
                 "country": "Japan"
             },
             {
@@ -13526,11 +13750,11 @@
                 "country": "Japan"
             },
             {
-                "name": "Japan Research Institute",
+                "name": "National Institute of Information",
                 "country": "Japan"
             },
             {
-                "name": "National Institute of Information",
+                "name": "Japan Research Institute",
                 "country": "Japan"
             }
         ]
@@ -13568,11 +13792,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1592.pdf",
         "orgs": [
             {
-                "name": "Cornell University",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             },
             {
-                "name": "Johns Hopkins University",
+                "name": "Cornell University",
                 "country": "USA"
             }
         ]
@@ -13593,6 +13817,10 @@
         "url": "https://www.aclweb.org/anthology/D19-1593.pdf",
         "orgs": [
             {
+                "name": "Uppsala University",
+                "country": "Sweden"
+            },
+            {
                 "name": "University of Copenhagen",
                 "country": "Denmark"
             },
@@ -13603,10 +13831,6 @@
             {
                 "name": "Harvard University",
                 "country": "USA"
-            },
-            {
-                "name": "Uppsala University",
-                "country": "Sweden"
             }
         ]
     },
@@ -13802,19 +14026,19 @@
         "url": "https://www.aclweb.org/anthology/D19-1602.pdf",
         "orgs": [
             {
-                "name": "Chinese Academy of Sciences",
-                "country": "China"
-            },
-            {
                 "name": "Baidu",
                 "country": "China"
             },
             {
-                "name": "Fuzhou University",
+                "name": "Chinese Academy of Sciences",
                 "country": "China"
             },
             {
                 "name": "University of Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "Fuzhou University",
                 "country": "China"
             }
         ]
@@ -13855,12 +14079,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1604.pdf",
         "orgs": [
             {
-                "name": "Amazon",
-                "country": "USA"
-            },
-            {
                 "name": "Indian Institute of Science",
                 "country": "India"
+            },
+            {
+                "name": "Amazon",
+                "country": "USA"
             }
         ]
     },
@@ -13982,11 +14206,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1610.pdf",
         "orgs": [
             {
-                "name": "Purdue University",
+                "name": "Adobe Research",
                 "country": "USA"
             },
             {
-                "name": "Adobe Research",
+                "name": "Purdue University",
                 "country": "USA"
             }
         ]
@@ -14078,12 +14302,7 @@
             "Garrison Cottrell"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1615.pdf",
-        "orgs": [
-            {
-                "name": "UC San Diego",
-                "country": "USA"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "EMNLP19-614",
@@ -14198,11 +14417,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1621.pdf",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
+                "name": "University of California San Diego",
                 "country": "USA"
             },
             {
-                "name": "University of California San Diego",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             }
         ]
@@ -14282,15 +14501,19 @@
         "url": "https://www.aclweb.org/anthology/D19-1625.pdf",
         "orgs": [
             {
+                "name": "ASAPP Inc",
+                "country": "USA"
+            },
+            {
                 "name": "University of Southern California",
                 "country": "USA"
             },
             {
-                "name": "Information Sciences Institute",
+                "name": "Vassar College",
                 "country": "USA"
             },
             {
-                "name": "Vassar College",
+                "name": "Information Sciences Institute",
                 "country": "USA"
             }
         ]
@@ -14311,16 +14534,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1626.pdf",
         "orgs": [
             {
+                "name": "Sun Yat-sen University",
+                "country": "China"
+            },
+            {
                 "name": "University of Science and Technology of China",
                 "country": "China"
             },
             {
                 "name": "Microsoft",
                 "country": "USA"
-            },
-            {
-                "name": "Sun Yat-sen University",
-                "country": "China"
             }
         ]
     },
@@ -14363,15 +14586,7 @@
                 "country": "USA"
             },
             {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
-                "name": "IBM",
+                "name": "University of North Carolina at Chapel Hill",
                 "country": "USA"
             }
         ]
@@ -14456,8 +14671,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1632.pdf",
         "orgs": [
             {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
                 "name": "Sorbonne University",
                 "country": "France"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
             }
         ]
     },
@@ -14497,11 +14720,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1634.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
+                "name": "Beijing Advanced Innovation Center",
                 "country": "China"
             },
             {
-                "name": "Beijing Advanced Innovation Center",
+                "name": "Tsinghua University",
                 "country": "China"
             }
         ]
@@ -14566,7 +14789,7 @@
                 "country": "China"
             },
             {
-                "name": "UMass Amherst",
+                "name": "University of Massachusetts Amherst",
                 "country": "USA"
             },
             {
@@ -14638,6 +14861,10 @@
                 "country": "China"
             },
             {
+                "name": "Alibaba AI Labs",
+                "country": "China"
+            },
+            {
                 "name": "Wuhan University",
                 "country": "China"
             }
@@ -14675,11 +14902,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1642.pdf",
         "orgs": [
             {
-                "name": "University of Illinois",
+                "name": "University of Pennsylvania",
                 "country": "USA"
             },
             {
-                "name": "University of Pennsylvania",
+                "name": "University of Illinois",
                 "country": "USA"
             }
         ]
@@ -14697,7 +14924,12 @@
             "Yangqiu Song"
         ],
         "url": "https://www.aclweb.org/anthology/D19-1643.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Tencent",
+                "country": "China"
+            }
+        ]
     },
     {
         "id": "EMNLP19-642",
@@ -14786,16 +15018,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1647.pdf",
         "orgs": [
             {
+                "name": "National Research University Higher School of Economics",
+                "country": "Russia"
+            },
+            {
                 "name": "Humboldt University",
                 "country": "Germany"
             },
             {
                 "name": "Robert Bosch GmbH",
                 "country": "Germany"
-            },
-            {
-                "name": "National Research University Higher School of Economics",
-                "country": "Russia"
             }
         ]
     },
@@ -14815,15 +15047,15 @@
         "url": "https://www.aclweb.org/anthology/D19-1648.pdf",
         "orgs": [
             {
-                "name": "Ehime University",
-                "country": "Japan"
-            },
-            {
                 "name": "Fujitsu Laboratories Ltd",
                 "country": "Japan"
             },
             {
                 "name": "RIKEN Center for Advanced Intelligence Project",
+                "country": "Japan"
+            },
+            {
+                "name": "Ehime University",
                 "country": "Japan"
             }
         ]
@@ -14846,12 +15078,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1649.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Tencent",
                 "country": "China"
             },
             {
-                "name": "Carnegie Mellon University",
-                "country": "USA"
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -14936,10 +15172,6 @@
         "url": "https://www.aclweb.org/anthology/D19-1654.pdf",
         "orgs": [
             {
-                "name": "Shenzhen Institutes of Advanced Technology",
-                "country": "China"
-            },
-            {
                 "name": "Harbin Institute of Technology",
                 "country": "China"
             },
@@ -14965,16 +15197,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1655.pdf",
         "orgs": [
             {
-                "name": "Beihang University",
-                "country": "China"
+                "name": "University of Illinois at Chicago",
+                "country": "USA"
             },
             {
                 "name": "Southwest Jiaotong University",
                 "country": "China"
             },
             {
-                "name": "University of Illinois at Chicago",
-                "country": "USA"
+                "name": "Beihang University",
+                "country": "China"
             }
         ]
     },
@@ -15104,12 +15336,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1662.pdf",
         "orgs": [
             {
-                "name": "University of Copenhagen",
-                "country": "Denmark"
-            },
-            {
                 "name": "Bar Ilan University",
                 "country": "Israel"
+            },
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
             }
         ]
     },
@@ -15150,16 +15382,16 @@
         "url": "https://www.aclweb.org/anthology/D19-1664.pdf",
         "orgs": [
             {
+                "name": "Northeastern University",
+                "country": "China"
+            },
+            {
                 "name": "Texas A&M University",
                 "country": "USA"
             },
             {
                 "name": "Khoury College of Computer Sciences",
                 "country": "USA"
-            },
-            {
-                "name": "Northeastern University",
-                "country": "China"
             }
         ]
     },
@@ -15198,11 +15430,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1666.pdf",
         "orgs": [
             {
-                "name": "Ursinus College",
+                "name": "University of Massachusetts Amherst",
                 "country": "USA"
             },
             {
-                "name": "University of Massachusetts Amherst",
+                "name": "Ursinus College",
                 "country": "USA"
             }
         ]
@@ -15242,11 +15474,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1668.pdf",
         "orgs": [
             {
-                "name": "University of Oxford",
+                "name": "DeepMind",
                 "country": "UK"
             },
             {
-                "name": "DeepMind",
+                "name": "University of Oxford",
                 "country": "UK"
             }
         ]
@@ -15284,11 +15516,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1670.pdf",
         "orgs": [
             {
-                "name": "Georgetown University",
+                "name": "Protago Labs Research",
                 "country": "USA"
             },
             {
-                "name": "Protago Labs Research",
+                "name": "Georgetown University",
                 "country": "USA"
             },
             {
@@ -15314,12 +15546,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1671.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
-                "country": "China"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -15337,11 +15569,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1672.pdf",
         "orgs": [
             {
-                "name": "University of Southern California",
+                "name": "University of Colorado Boulder",
                 "country": "USA"
             },
             {
-                "name": "University of Colorado Boulder",
+                "name": "University of Southern California",
                 "country": "USA"
             }
         ]
@@ -15382,15 +15614,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1674.pdf",
         "orgs": [
             {
-                "name": "NTT Corporation",
-                "country": "Japan"
-            },
-            {
-                "name": "NTT Corporation",
-                "country": "Japan"
-            },
-            {
                 "name": "Tokyo Institute of Technology",
+                "country": "Japan"
+            },
+            {
+                "name": "NTT Corporation",
                 "country": "Japan"
             }
         ]
@@ -15410,12 +15638,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1675.pdf",
         "orgs": [
             {
-                "name": "MMax Planck Institute for Informatics",
-                "country": "Germany"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "MMax Planck Institute for Informatics",
+                "country": "Germany"
             }
         ]
     },
@@ -15450,11 +15678,11 @@
         "url": "https://www.aclweb.org/anthology/D19-1677.pdf",
         "orgs": [
             {
-                "name": "Yonsei University",
+                "name": "Kangwon National University",
                 "country": "South Korea"
             },
             {
-                "name": "Kangwon National University",
+                "name": "Yonsei University",
                 "country": "South Korea"
             }
         ]
@@ -15478,8 +15706,8 @@
                 "country": "USA"
             },
             {
-                "name": "University of Minnesota",
-                "country": "USA"
+                "name": "Nanyang Technological University",
+                "country": "Singapore"
             }
         ]
     },
@@ -15535,12 +15763,12 @@
         "url": "https://www.aclweb.org/anthology/D19-1681.pdf",
         "orgs": [
             {
-                "name": "Allen Institute for Artificial Intelligence",
-                "country": "USA"
-            },
-            {
                 "name": "The Open University of Israel",
                 "country": "Israel"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
             }
         ]
     },
@@ -15562,10 +15790,6 @@
         ],
         "url": "https://www.aclweb.org/anthology/D19-1682.pdf",
         "orgs": [
-            {
-                "name": "IBM",
-                "country": "USA"
-            },
             {
                 "name": "IBM",
                 "country": "USA"

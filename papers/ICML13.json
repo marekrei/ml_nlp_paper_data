@@ -15,16 +15,16 @@
         "url": "http://proceedings.mlr.press/v28/sznitman13.pdf",
         "orgs": [
             {
-                "name": "Ecole Polytechnique Fédérale de Lausanne",
-                "country": "Switzerland"
+                "name": "Johns Hopkins University",
+                "country": "USA"
             },
             {
                 "name": "Cornell University",
                 "country": "USA"
             },
             {
-                "name": "Johns Hopkins University",
-                "country": "USA"
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
             }
         ]
     },
@@ -42,12 +42,12 @@
         "url": "http://proceedings.mlr.press/v28/muandet13.pdf",
         "orgs": [
             {
-                "name": "Max Planck Institute for Intelligent Systems",
-                "country": "Germany"
-            },
-            {
                 "name": "ETH Zürich",
                 "country": "Switzerland"
+            },
+            {
+                "name": "Max Planck Institute for Intelligent Systems",
+                "country": "Germany"
             }
         ]
     },
@@ -89,10 +89,6 @@
         "orgs": [
             {
                 "name": "Google",
-                "country": "USA"
-            },
-            {
-                "name": "UC San Diego",
                 "country": "USA"
             }
         ]
@@ -265,12 +261,7 @@
             "Khadidja Sylla"
         ],
         "url": "http://proceedings.mlr.press/v28/giguere13.pdf",
-        "orgs": [
-            {
-                "name": "Université Laval",
-                "country": "Canada"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICML13-13",
@@ -492,12 +483,12 @@
         "url": "http://proceedings.mlr.press/v28/pele13.pdf",
         "orgs": [
             {
-                "name": "University of Pennsylvania",
-                "country": "USA"
-            },
-            {
                 "name": "Hebrew University of Jerusalem",
                 "country": "Israel"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
             }
         ]
     },
@@ -518,10 +509,6 @@
             {
                 "name": "Microsoft",
                 "country": "USA"
-            },
-            {
-                "name": "University of California Los Angeles",
-                "country": "USA"
             }
         ]
     },
@@ -539,11 +526,11 @@
         "url": "http://proceedings.mlr.press/v28/gong13.pdf",
         "orgs": [
             {
-                "name": "University of Southern California",
+                "name": "University of Texas at Austin",
                 "country": "USA"
             },
             {
-                "name": "University of Texas at Austin",
+                "name": "University of Southern California",
                 "country": "USA"
             }
         ]
@@ -568,10 +555,6 @@
             {
                 "name": "IBM",
                 "country": "USA"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
             }
         ]
     },
@@ -588,11 +571,11 @@
         "url": "http://proceedings.mlr.press/v28/han13.pdf",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             },
             {
-                "name": "Johns Hopkins University",
+                "name": "Princeton University",
                 "country": "USA"
             }
         ]
@@ -612,15 +595,15 @@
         "url": "http://proceedings.mlr.press/v28/anandkumar13.pdf",
         "orgs": [
             {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
                 "name": "UC Irvine",
                 "country": "USA"
             },
             {
                 "name": "Microsoft",
-                "country": "USA"
-            },
-            {
-                "name": "Stanford University",
                 "country": "USA"
             }
         ]
@@ -790,11 +773,11 @@
         "url": "http://proceedings.mlr.press/v28/kolar13.pdf",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
-                "name": "Carnegie Mellon University",
+                "name": "Princeton University",
                 "country": "USA"
             }
         ]
@@ -842,10 +825,6 @@
             {
                 "name": "University of Toronto",
                 "country": "Canada"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
             }
         ]
     },
@@ -1003,10 +982,6 @@
             {
                 "name": "University of Copenhagen",
                 "country": "Denmark"
-            },
-            {
-                "name": "Ruhr University Bochum",
-                "country": "Germany"
             }
         ]
     },
@@ -1044,6 +1019,10 @@
             {
                 "name": "Shanghai Jiao Tong University",
                 "country": "China"
+            },
+            {
+                "name": "Huawei",
+                "country": "China"
             }
         ]
     },
@@ -1060,10 +1039,6 @@
         ],
         "url": "http://proceedings.mlr.press/v28/karbasi13.pdf",
         "orgs": [
-            {
-                "name": "Ecole Polytechnique Fédérale de Lausanne",
-                "country": "Switzerland"
-            },
             {
                 "name": "Ecole Polytechnique Fédérale de Lausanne",
                 "country": "Switzerland"
@@ -1084,12 +1059,12 @@
         "url": "http://proceedings.mlr.press/v28/gilboa13.pdf",
         "orgs": [
             {
-                "name": "University of Cambridge",
-                "country": "UK"
-            },
-            {
                 "name": "University of Washington",
                 "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
             }
         ]
     },
@@ -1127,19 +1102,7 @@
         "url": "http://proceedings.mlr.press/v28/kadri13.pdf",
         "orgs": [
             {
-                "name": "University of Lille",
-                "country": "France"
-            },
-            {
                 "name": "INRIA",
-                "country": "France"
-            },
-            {
-                "name": "INRIA",
-                "country": "France"
-            },
-            {
-                "name": "Aix Marseille University",
                 "country": "France"
             }
         ]
@@ -1158,12 +1121,12 @@
         "url": "http://proceedings.mlr.press/v28/gonen13.pdf",
         "orgs": [
             {
-                "name": "Hebrew University of Jerusalem",
-                "country": "Israel"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
             }
         ]
     },
@@ -1293,12 +1256,16 @@
         "url": "http://proceedings.mlr.press/v28/maillard13.pdf",
         "orgs": [
             {
-                "name": "INRIA",
-                "country": "France"
-            },
-            {
                 "name": "Australian National University",
                 "country": "Australia"
+            },
+            {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            },
+            {
+                "name": "INRIA",
+                "country": "France"
             }
         ]
     },
@@ -1315,16 +1282,7 @@
             "Salah Rifai"
         ],
         "url": "http://proceedings.mlr.press/v28/bengio13.pdf",
-        "orgs": [
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
-            },
-            {
-                "name": "University of Rouen",
-                "country": "France"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICML13-63",
@@ -1423,7 +1381,7 @@
         "url": "http://proceedings.mlr.press/v28/livni13.pdf",
         "orgs": [
             {
-                "name": "University of Jerusalem Givat Ram",
+                "name": "Hebrew University of Jerusalem",
                 "country": "Israel"
             },
             {
@@ -1431,7 +1389,7 @@
                 "country": "USA"
             },
             {
-                "name": "Hebrew University of Jerusalem",
+                "name": "University of Jerusalem Givat Ram",
                 "country": "Israel"
             }
         ]
@@ -1469,11 +1427,11 @@
         "url": "http://proceedings.mlr.press/v28/lim13.pdf",
         "orgs": [
             {
-                "name": "Columbia University",
+                "name": "University of California San Diego",
                 "country": "USA"
             },
             {
-                "name": "University of California San Diego",
+                "name": "Columbia University",
                 "country": "USA"
             }
         ]
@@ -1548,20 +1506,7 @@
             "Jean-daniel Zucker"
         ],
         "url": "http://proceedings.mlr.press/v28/chevaleyre13.pdf",
-        "orgs": [
-            {
-                "name": "Université Paris Nord",
-                "country": "France"
-            },
-            {
-                "name": "Artois University",
-                "country": "France"
-            },
-            {
-                "name": "Pierre and Marie Curie University",
-                "country": "France"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICML13-74",
@@ -1590,12 +1535,12 @@
         "url": "http://proceedings.mlr.press/v28/lopez-paz13.pdf",
         "orgs": [
             {
-                "name": "Max Planck Institute for Intelligent Systems",
-                "country": "Germany"
-            },
-            {
                 "name": "University of Cambridge",
                 "country": "UK"
+            },
+            {
+                "name": "Max Planck Institute for Intelligent Systems",
+                "country": "Germany"
             }
         ]
     },
@@ -1656,20 +1601,20 @@
         "url": "http://proceedings.mlr.press/v28/gong13a.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
-                "country": "China"
-            },
-            {
-                "name": "Arizona State University",
-                "country": "USA"
+                "name": "Simon Fraser University",
+                "country": "Canada"
             },
             {
                 "name": "Texas A&M University",
                 "country": "USA"
             },
             {
-                "name": "Simon Fraser University",
-                "country": "Canada"
+                "name": "Arizona State University",
+                "country": "USA"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -1843,10 +1788,6 @@
             {
                 "name": "Stanford University",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -1864,19 +1805,15 @@
         "url": "http://proceedings.mlr.press/v28/yang13b.pdf",
         "orgs": [
             {
-                "name": "Helsinki Institute for Information Technology",
-                "country": "Finland"
-            },
-            {
-                "name": "Aalto University",
-                "country": "Finland"
-            },
-            {
                 "name": "University of Helsinki",
                 "country": "Finland"
             },
             {
                 "name": "Aalto University",
+                "country": "Finland"
+            },
+            {
+                "name": "Helsinki Institute for Information Technology",
                 "country": "Finland"
             }
         ]
@@ -1913,12 +1850,12 @@
         "url": "http://proceedings.mlr.press/v28/wulff13.pdf",
         "orgs": [
             {
-                "name": "ETH Zürich",
-                "country": "Switzerland"
-            },
-            {
                 "name": "University of Waterloo",
                 "country": "Canada"
+            },
+            {
+                "name": "ETH Zürich",
+                "country": "Switzerland"
             }
         ]
     },
@@ -1933,12 +1870,7 @@
             "Sigaud Olivier"
         ],
         "url": "http://proceedings.mlr.press/v28/alain13.pdf",
-        "orgs": [
-            {
-                "name": "Pierre and Marie Curie University",
-                "country": "France"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICML13-92",
@@ -1970,11 +1902,11 @@
         "url": "http://proceedings.mlr.press/v28/han13a.pdf",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             },
             {
-                "name": "Johns Hopkins University",
+                "name": "Princeton University",
                 "country": "USA"
             }
         ]
@@ -2031,10 +1963,6 @@
         "url": "http://proceedings.mlr.press/v28/bardenet13.pdf",
         "orgs": [
             {
-                "name": "Univ Paris Sud",
-                "country": "France"
-            },
-            {
                 "name": "University of Oxford",
                 "country": "UK"
             }
@@ -2054,11 +1982,11 @@
         "url": "http://proceedings.mlr.press/v28/cai13.pdf",
         "orgs": [
             {
-                "name": "Guangdong University of Technology",
+                "name": "Nanjing University",
                 "country": "China"
             },
             {
-                "name": "Nanjing University",
+                "name": "Guangdong University of Technology",
                 "country": "China"
             }
         ]
@@ -2100,10 +2028,6 @@
             {
                 "name": "Stanford University",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -2136,11 +2060,11 @@
         "url": "http://proceedings.mlr.press/v28/shalit13.pdf",
         "orgs": [
             {
-                "name": "Bar Ilan University",
+                "name": "Hebrew University of Jerusalem",
                 "country": "Israel"
             },
             {
-                "name": "Hebrew University of Jerusalem",
+                "name": "Bar Ilan University",
                 "country": "Israel"
             }
         ]
@@ -2265,11 +2189,11 @@
         "url": "http://proceedings.mlr.press/v28/ranganath13.pdf",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
-                "name": "Carnegie Mellon University",
+                "name": "Princeton University",
                 "country": "USA"
             }
         ]
@@ -2301,12 +2225,12 @@
         "url": "http://proceedings.mlr.press/v28/chang13.pdf",
         "orgs": [
             {
-                "name": "University of Toronto",
-                "country": "Canada"
-            },
-            {
                 "name": "Fudan University",
                 "country": "China"
+            },
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
             },
             {
                 "name": "Sultan Qaboos University",
@@ -2452,10 +2376,6 @@
             {
                 "name": "Stanford University",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -2475,12 +2395,12 @@
         "url": "http://proceedings.mlr.press/v28/niu13.pdf",
         "orgs": [
             {
-                "name": "Georgia Institute of Technology",
-                "country": "USA"
-            },
-            {
                 "name": "Tokyo Institute of Technology",
                 "country": "Japan"
+            },
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
             }
         ]
     },
@@ -2501,16 +2421,12 @@
         "url": "http://proceedings.mlr.press/v28/szorenyi13.pdf",
         "orgs": [
             {
-                "name": "Univ Paris Sud",
+                "name": "INRIA",
                 "country": "France"
             },
             {
                 "name": "Philipps-Universität Marburg",
                 "country": "Germany"
-            },
-            {
-                "name": "INRIA",
-                "country": "France"
             }
         ]
     },
@@ -2565,11 +2481,11 @@
         "url": "http://proceedings.mlr.press/v28/cortes13.pdf",
         "orgs": [
             {
-                "name": "Google",
+                "name": "Courant Institute of Mathematical Sciences",
                 "country": "USA"
             },
             {
-                "name": "Courant Institute of Mathematical Sciences",
+                "name": "Google",
                 "country": "USA"
             }
         ]
@@ -2608,15 +2524,15 @@
         "url": "http://proceedings.mlr.press/v28/chen13f.pdf",
         "orgs": [
             {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
                 "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
                 "name": "Amazon",
-                "country": "USA"
-            },
-            {
-                "name": "Microsoft",
                 "country": "USA"
             }
         ]
@@ -2635,11 +2551,11 @@
         "url": "http://proceedings.mlr.press/v28/kolar13a.pdf",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
-                "name": "Carnegie Mellon University",
+                "name": "Princeton University",
                 "country": "USA"
             }
         ]
@@ -2659,11 +2575,7 @@
         "url": "http://proceedings.mlr.press/v28/zhang13a.pdf",
         "orgs": [
             {
-                "name": "Purdue University",
-                "country": "USA"
-            },
-            {
-                "name": "Stevens Institute of Technology",
+                "name": "IBM",
                 "country": "USA"
             },
             {
@@ -2671,11 +2583,11 @@
                 "country": "USA"
             },
             {
-                "name": "IBM",
+                "name": "Stevens Institute of Technology",
                 "country": "USA"
             },
             {
-                "name": "IBM",
+                "name": "Purdue University",
                 "country": "USA"
             }
         ]
@@ -2694,11 +2606,11 @@
         "url": "http://proceedings.mlr.press/v28/liu13.pdf",
         "orgs": [
             {
-                "name": "Arizona State University",
+                "name": "University of Wisconsin–Madison",
                 "country": "USA"
             },
             {
-                "name": "University of Wisconsin–Madison",
+                "name": "Arizona State University",
                 "country": "USA"
             }
         ]
@@ -2800,10 +2712,6 @@
             {
                 "name": "INRIA",
                 "country": "France"
-            },
-            {
-                "name": "University of Zaragoza",
-                "country": "Spain"
             }
         ]
     },
@@ -2902,11 +2810,11 @@
         "url": "http://proceedings.mlr.press/v28/jun13.pdf",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
+                "name": "University of Wisconsin–Madison",
                 "country": "USA"
             },
             {
-                "name": "University of Wisconsin–Madison",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             }
         ]
@@ -2949,11 +2857,11 @@
                 "country": "Canada"
             },
             {
-                "name": "Google",
+                "name": "Microsoft",
                 "country": "USA"
             },
             {
-                "name": "Microsoft",
+                "name": "Google",
                 "country": "USA"
             }
         ]
@@ -2971,11 +2879,11 @@
         "url": "http://proceedings.mlr.press/v28/bryan13.pdf",
         "orgs": [
             {
-                "name": "Stanford University",
+                "name": "Adobe Research",
                 "country": "USA"
             },
             {
-                "name": "Adobe Research",
+                "name": "Stanford University",
                 "country": "USA"
             }
         ]
@@ -3069,12 +2977,16 @@
         "url": "http://proceedings.mlr.press/v28/chattopadhyay13.pdf",
         "orgs": [
             {
+                "name": "University of California Davis",
+                "country": "USA"
+            },
+            {
                 "name": "Arizona State University",
                 "country": "USA"
             },
             {
-                "name": "University of California Davis",
-                "country": "USA"
+                "name": "Huawei",
+                "country": "China"
             }
         ]
     },
@@ -3090,10 +3002,6 @@
         ],
         "url": "http://proceedings.mlr.press/v28/qi13.pdf",
         "orgs": [
-            {
-                "name": "Purdue University",
-                "country": "USA"
-            },
             {
                 "name": "Purdue University",
                 "country": "USA"
@@ -3136,11 +3044,11 @@
         "url": "http://proceedings.mlr.press/v28/lakshminarayanan13.pdf",
         "orgs": [
             {
-                "name": "University College London",
+                "name": "University of Cambridge",
                 "country": "UK"
             },
             {
-                "name": "University of Cambridge",
+                "name": "University College London",
                 "country": "UK"
             },
             {
@@ -3163,12 +3071,12 @@
         "url": "http://proceedings.mlr.press/v28/balasubramanian13.pdf",
         "orgs": [
             {
-                "name": "Georgia Institute of Technology",
-                "country": "USA"
-            },
-            {
                 "name": "Baidu",
                 "country": "China"
+            },
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
             }
         ]
     },
@@ -3227,10 +3135,6 @@
             {
                 "name": "Georgia Institute of Technology",
                 "country": "USA"
-            },
-            {
-                "name": "Vrije Universiteit Brussel",
-                "country": "Belgium"
             }
         ]
     },
@@ -3250,12 +3154,12 @@
         "url": "http://proceedings.mlr.press/v28/zemel13.pdf",
         "orgs": [
             {
-                "name": "University of Toronto",
-                "country": "Canada"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
             }
         ]
     },
@@ -3274,10 +3178,6 @@
         ],
         "url": "http://proceedings.mlr.press/v28/song13.pdf",
         "orgs": [
-            {
-                "name": "Vrije Universiteit Brussel",
-                "country": "Belgium"
-            },
             {
                 "name": "Carnegie Mellon University",
                 "country": "USA"
@@ -3380,16 +3280,7 @@
             "Joseph Salmon"
         ],
         "url": "http://proceedings.mlr.press/v28/dalalyan13.pdf",
-        "orgs": [
-            {
-                "name": "Université Paris-Est",
-                "country": "France"
-            },
-            {
-                "name": "Paris Dauphine University",
-                "country": "France"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICML13-159",
@@ -3408,16 +3299,16 @@
         "url": "http://proceedings.mlr.press/v28/zhang13b.pdf",
         "orgs": [
             {
-                "name": "Hong Kong University of Science and Technology",
-                "country": "China"
+                "name": "State University of New Jersey",
+                "country": "USA"
             },
             {
                 "name": "NEC Laboratories America",
                 "country": "USA"
             },
             {
-                "name": "State University of New Jersey",
-                "country": "USA"
+                "name": "Hong Kong University of Science and Technology",
+                "country": "China"
             }
         ]
     },
@@ -3481,10 +3372,6 @@
             {
                 "name": "The Ohio State University",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -3539,12 +3426,12 @@
         "url": "http://proceedings.mlr.press/v28/kar13.pdf",
         "orgs": [
             {
-                "name": "Microsoft",
-                "country": "USA"
-            },
-            {
                 "name": "Indian Institute of Technology",
                 "country": "India"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
             }
         ]
     },
@@ -3712,10 +3599,6 @@
             {
                 "name": "Stanford University",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -3824,10 +3707,6 @@
             {
                 "name": "Stanford University",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -3846,11 +3725,11 @@
         "url": "http://proceedings.mlr.press/v28/yoshii13.pdf",
         "orgs": [
             {
-                "name": "University of Tokyo",
+                "name": "The Institute of Statistical Mathematics",
                 "country": "Japan"
             },
             {
-                "name": "The Institute of Statistical Mathematics",
+                "name": "University of Tokyo",
                 "country": "Japan"
             }
         ]
@@ -3938,10 +3817,6 @@
             {
                 "name": "Stanford University",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -3961,16 +3836,16 @@
         "url": "http://proceedings.mlr.press/v28/zhang13c.pdf",
         "orgs": [
             {
+                "name": "Michigan State University",
+                "country": "USA"
+            },
+            {
                 "name": "Tsinghua University",
                 "country": "China"
             },
             {
                 "name": "Zhejiang University",
                 "country": "China"
-            },
-            {
-                "name": "Michigan State University",
-                "country": "USA"
             }
         ]
     },
@@ -4006,11 +3881,11 @@
         "url": "http://proceedings.mlr.press/v28/juhwang13.pdf",
         "orgs": [
             {
-                "name": "University of Southern California",
+                "name": "University of Texas at Austin",
                 "country": "USA"
             },
             {
-                "name": "University of Texas at Austin",
+                "name": "University of Southern California",
                 "country": "USA"
             }
         ]
@@ -4080,6 +3955,10 @@
             {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
             }
         ]
     },
@@ -4180,10 +4059,6 @@
             {
                 "name": "Université de Montréal",
                 "country": "Canada"
-            },
-            {
-                "name": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
-                "country": "Germany"
             }
         ]
     },
@@ -4221,14 +4096,6 @@
             {
                 "name": "Aix-Marseille University",
                 "country": "France"
-            },
-            {
-                "name": "Jean Monnet University",
-                "country": "France"
-            },
-            {
-                "name": "Université Laval",
-                "country": "Canada"
             }
         ]
     },
@@ -4279,10 +4146,6 @@
             {
                 "name": "IBM",
                 "country": "USA"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
             }
         ]
     },
@@ -4299,6 +4162,10 @@
         ],
         "url": "http://proceedings.mlr.press/v28/chen13h.pdf",
         "orgs": [
+            {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            },
             {
                 "name": "University of Texas at Austin",
                 "country": "USA"
@@ -4353,11 +4220,11 @@
         "url": "http://proceedings.mlr.press/v28/long13.pdf",
         "orgs": [
             {
-                "name": "Columbia University",
+                "name": "Microsoft",
                 "country": "USA"
             },
             {
-                "name": "Microsoft",
+                "name": "Columbia University",
                 "country": "USA"
             }
         ]
@@ -4439,16 +4306,12 @@
         "url": "http://proceedings.mlr.press/v28/raman13.pdf",
         "orgs": [
             {
-                "name": "AT&T Labs Research",
-                "country": "USA"
-            },
-            {
                 "name": "Cornell University",
                 "country": "USA"
             },
             {
-                "name": "University of Stuttgart",
-                "country": "Germany"
+                "name": "AT&T Labs Research",
+                "country": "USA"
             }
         ]
     },
@@ -4468,15 +4331,15 @@
         "url": "http://proceedings.mlr.press/v28/wang13d.pdf",
         "orgs": [
             {
-                "name": "Microsoft",
-                "country": "USA"
-            },
-            {
                 "name": "Huazhong University of Science and Technology",
                 "country": "China"
             },
             {
                 "name": "University of California Los Angeles",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
                 "country": "USA"
             }
         ]
@@ -4518,15 +4381,15 @@
         "url": "http://proceedings.mlr.press/v28/gonen13a.pdf",
         "orgs": [
             {
-                "name": "Helsinki Institute for Information Technology",
-                "country": "Finland"
-            },
-            {
                 "name": "University of Helsinki",
                 "country": "Finland"
             },
             {
                 "name": "Aalto University",
+                "country": "Finland"
+            },
+            {
+                "name": "Helsinki Institute for Information Technology",
                 "country": "Finland"
             }
         ]
@@ -4569,10 +4432,6 @@
             {
                 "name": "LinkedIn Corporation",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -4595,10 +4454,6 @@
             {
                 "name": "LinkedIn Corporation",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -4617,11 +4472,11 @@
         "url": "http://proceedings.mlr.press/v28/ogawa13a.pdf",
         "orgs": [
             {
-                "name": "Nagoya Institute of Technology",
+                "name": "Tokyo Institute of Technology",
                 "country": "Japan"
             },
             {
-                "name": "Tokyo Institute of Technology",
+                "name": "Nagoya Institute of Technology",
                 "country": "Japan"
             }
         ]
@@ -4645,11 +4500,11 @@
                 "country": "China"
             },
             {
-                "name": "NEC Laboratories America",
+                "name": "Michigan State University",
                 "country": "USA"
             },
             {
-                "name": "Michigan State University",
+                "name": "NEC Laboratories America",
                 "country": "USA"
             }
         ]
@@ -4729,10 +4584,6 @@
                 "country": "Switzerland"
             },
             {
-                "name": "Ecole Polytechnique Fédérale de Lausanne",
-                "country": "Switzerland"
-            },
-            {
                 "name": "Toyota Technological Institute at Chicago",
                 "country": "USA"
             },
@@ -4761,16 +4612,12 @@
                 "country": "USA"
             },
             {
-                "name": "Ecole Polytechnique Fédérale de Lausanne",
-                "country": "Switzerland"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
                 "name": "University of British Columbia",
                 "country": "Canada"
+            },
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
             }
         ]
     },
@@ -4812,12 +4659,12 @@
                 "country": "USA"
             },
             {
-                "name": "Australian National University",
-                "country": "Australia"
-            },
-            {
                 "name": "University of Oxford",
                 "country": "UK"
+            },
+            {
+                "name": "Australian National University",
+                "country": "Australia"
             }
         ]
     },
@@ -4901,15 +4748,15 @@
         "url": "http://proceedings.mlr.press/v28/sheldon13.pdf",
         "orgs": [
             {
-                "name": "UMass Amherst",
-                "country": "USA"
-            },
-            {
-                "name": "Oregon State University",
+                "name": "University of Massachusetts Amherst",
                 "country": "USA"
             },
             {
                 "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Oregon State University",
                 "country": "USA"
             }
         ]
@@ -4969,11 +4816,11 @@
         "url": "http://proceedings.mlr.press/v28/homrighausen13.pdf",
         "orgs": [
             {
-                "name": "Indiana University",
+                "name": "Colorado State University",
                 "country": "USA"
             },
             {
-                "name": "Colorado State University",
+                "name": "Indiana University",
                 "country": "USA"
             }
         ]
@@ -4990,10 +4837,6 @@
         ],
         "url": "http://proceedings.mlr.press/v28/tejasvichaganty13.pdf",
         "orgs": [
-            {
-                "name": "Stanford University",
-                "country": "USA"
-            },
             {
                 "name": "Stanford University",
                 "country": "USA"
@@ -5057,12 +4900,12 @@
         "url": "http://proceedings.mlr.press/v28/wilson13.pdf",
         "orgs": [
             {
-                "name": "Harvard University",
-                "country": "USA"
-            },
-            {
                 "name": "University of Cambridge",
                 "country": "UK"
+            },
+            {
+                "name": "Harvard University",
+                "country": "USA"
             }
         ]
     },
@@ -5081,12 +4924,12 @@
         "url": "http://proceedings.mlr.press/v28/xu13b.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
-                "country": "China"
-            },
-            {
                 "name": "University of Washington",
                 "country": "USA"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -5123,16 +4966,12 @@
                 "country": "France"
             },
             {
-                "name": "Philipps-Universität Marburg",
-                "country": "Germany"
-            },
-            {
                 "name": "INRIA",
                 "country": "France"
             },
             {
-                "name": "Pierre and Marie Curie University",
-                "country": "France"
+                "name": "Philipps-Universität Marburg",
+                "country": "Germany"
             }
         ]
     },
@@ -5151,11 +4990,11 @@
         "url": "http://proceedings.mlr.press/v28/bugraerol13.pdf",
         "orgs": [
             {
-                "name": "Stanford University",
+                "name": "UC Berkeley",
                 "country": "USA"
             },
             {
-                "name": "UC Berkeley",
+                "name": "Stanford University",
                 "country": "USA"
             }
         ]
@@ -5174,16 +5013,16 @@
         "url": "http://proceedings.mlr.press/v28/balcan13a.pdf",
         "orgs": [
             {
+                "name": "Tel Aviv University",
+                "country": "Israel"
+            },
+            {
                 "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
                 "name": "Georgia Institute of Technology",
                 "country": "USA"
-            },
-            {
-                "name": "Tel Aviv University",
-                "country": "Israel"
             }
         ]
     },
@@ -5202,16 +5041,16 @@
         "url": "http://proceedings.mlr.press/v28/zhang13e.pdf",
         "orgs": [
             {
-                "name": "Zhejiang University",
-                "country": "China"
+                "name": "General Electric",
+                "country": "USA"
             },
             {
                 "name": "Michigan State University",
                 "country": "USA"
             },
             {
-                "name": "General Electric",
-                "country": "USA"
+                "name": "Zhejiang University",
+                "country": "China"
             }
         ]
     },
@@ -5231,12 +5070,12 @@
         "url": "http://proceedings.mlr.press/v28/dembczynski13.pdf",
         "orgs": [
             {
-                "name": "Poznań University of Technology",
-                "country": "Poland"
-            },
-            {
                 "name": "Philipps-Universität Marburg",
                 "country": "Germany"
+            },
+            {
+                "name": "Poznań University of Technology",
+                "country": "Poland"
             }
         ]
     },
@@ -5322,7 +5161,7 @@
         "url": "http://proceedings.mlr.press/v28/friedland13.pdf",
         "orgs": [
             {
-                "name": "UMass Amherst",
+                "name": "University of Massachusetts Amherst",
                 "country": "USA"
             }
         ]
@@ -5440,11 +5279,11 @@
         "url": "http://proceedings.mlr.press/v28/kalaitzis13.pdf",
         "orgs": [
             {
-                "name": "University College London",
+                "name": "University of Sheffield",
                 "country": "UK"
             },
             {
-                "name": "University of Sheffield",
+                "name": "University College London",
                 "country": "UK"
             },
             {
@@ -5470,10 +5309,6 @@
         ],
         "url": "http://proceedings.mlr.press/v28/karnin13.pdf",
         "orgs": [
-            {
-                "name": "Yahoo",
-                "country": "USA"
-            },
             {
                 "name": "Yahoo",
                 "country": "USA"
@@ -5563,11 +5398,11 @@
                 "country": "USA"
             },
             {
-                "name": "Amazon",
+                "name": "Washington University in St. Louis",
                 "country": "USA"
             },
             {
-                "name": "Washington University in St. Louis",
+                "name": "Amazon",
                 "country": "USA"
             }
         ]
@@ -5644,10 +5479,6 @@
             {
                 "name": "Brno University of Technology",
                 "country": "Czech Republic"
-            },
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
             }
         ]
     },
@@ -5665,12 +5496,7 @@
             "Yoshua Bengio"
         ],
         "url": "http://proceedings.mlr.press/v28/goodfellow13.pdf",
-        "orgs": [
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICML13-264",
@@ -5715,10 +5541,6 @@
             },
             {
                 "name": "NVIDIA Corporation",
-                "country": "USA"
-            },
-            {
-                "name": "Stanford University",
                 "country": "USA"
             }
         ]
@@ -5793,11 +5615,11 @@
         "url": "http://proceedings.mlr.press/v28/kim13a.pdf",
         "orgs": [
             {
-                "name": "University of Illinois",
+                "name": "Adobe Research",
                 "country": "USA"
             },
             {
-                "name": "Adobe Research",
+                "name": "University of Illinois",
                 "country": "USA"
             }
         ]
@@ -5898,10 +5720,6 @@
             {
                 "name": "Stanford University",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -5964,10 +5782,6 @@
         ],
         "url": "http://proceedings.mlr.press/v28/romera-paredes13.pdf",
         "orgs": [
-            {
-                "name": "University College London",
-                "country": "UK"
-            },
             {
                 "name": "University College London",
                 "country": "UK"

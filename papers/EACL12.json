@@ -224,12 +224,12 @@
         "url": "https://www.aclweb.org/anthology/E12-1012.pdf",
         "orgs": [
             {
-                "name": "University of Amsterdam",
-                "country": "Netherlands"
-            },
-            {
                 "name": "Xerox",
                 "country": "USA"
+            },
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
             }
         ]
     },
@@ -342,12 +342,7 @@
             "Sophie Rosset"
         ],
         "url": "https://www.aclweb.org/anthology/E12-1018.pdf",
-        "orgs": [
-            {
-                "name": "LIMSI",
-                "country": "France"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "EACL12-18",
@@ -364,10 +359,6 @@
         ],
         "url": "https://www.aclweb.org/anthology/E12-1019.pdf",
         "orgs": [
-            {
-                "name": "IBM",
-                "country": "USA"
-            },
             {
                 "name": "IBM",
                 "country": "USA"
@@ -595,11 +586,11 @@
         "url": "https://www.aclweb.org/anthology/E12-1031.pdf",
         "orgs": [
             {
-                "name": "Microsoft",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             },
             {
-                "name": "Johns Hopkins University",
+                "name": "Microsoft",
                 "country": "USA"
             }
         ]
@@ -657,6 +648,10 @@
             {
                 "name": "University of Colorado Boulder",
                 "country": "USA"
+            },
+            {
+                "name": "Katholieke Universiteit Leuven",
+                "country": "Belgium"
             }
         ]
     },
@@ -801,10 +796,6 @@
         "url": "https://www.aclweb.org/anthology/E12-1042.pdf",
         "orgs": [
             {
-                "name": "University of Córdoba",
-                "country": "Spain"
-            },
-            {
                 "name": "Polytechnic University of Catalonia",
                 "country": "Spain"
             }
@@ -824,10 +815,6 @@
         "orgs": [
             {
                 "name": "University of Trento",
-                "country": "Italy"
-            },
-            {
-                "name": "FBK-irst",
                 "country": "Italy"
             }
         ]
@@ -879,7 +866,12 @@
             "Marie-Francine Moens"
         ],
         "url": "https://www.aclweb.org/anthology/E12-1046.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Katholieke Universiteit Leuven",
+                "country": "Belgium"
+            }
+        ]
     },
     {
         "id": "EACL12-46",
@@ -893,11 +885,11 @@
         "url": "https://www.aclweb.org/anthology/E12-1047.pdf",
         "orgs": [
             {
-                "name": "University of Amsterdam",
+                "name": "Royal Netherlands Academy of Arts and Sciences",
                 "country": "Netherlands"
             },
             {
-                "name": "Royal Netherlands Academy of Arts and Sciences",
+                "name": "University of Amsterdam",
                 "country": "Netherlands"
             }
         ]
@@ -978,11 +970,11 @@
         "url": "https://www.aclweb.org/anthology/E12-1051.pdf",
         "orgs": [
             {
-                "name": "Google",
+                "name": "University of Washington",
                 "country": "USA"
             },
             {
-                "name": "University of Washington",
+                "name": "Google",
                 "country": "USA"
             }
         ]
@@ -1002,15 +994,15 @@
         "url": "https://www.aclweb.org/anthology/E12-1052.pdf",
         "orgs": [
             {
+                "name": "Bielefeld University",
+                "country": "Germany"
+            },
+            {
                 "name": "University of Hamburg",
                 "country": "Germany"
             },
             {
                 "name": "Universität Potsdam",
-                "country": "Germany"
-            },
-            {
-                "name": "Bielefeld University",
                 "country": "Germany"
             }
         ]
@@ -1118,12 +1110,7 @@
             "Tim Gollub"
         ],
         "url": "https://www.aclweb.org/anthology/E12-1058.pdf",
-        "orgs": [
-            {
-                "name": "Bauhaus-Universität Weimar",
-                "country": "Germany"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "EACL12-58",
@@ -1206,11 +1193,11 @@
         "url": "https://www.aclweb.org/anthology/E12-1062.pdf",
         "orgs": [
             {
-                "name": "United States Naval Academy",
+                "name": "Microsoft",
                 "country": "USA"
             },
             {
-                "name": "Microsoft",
+                "name": "United States Naval Academy",
                 "country": "USA"
             }
         ]
@@ -1245,12 +1232,12 @@
         "url": "https://www.aclweb.org/anthology/E12-1064.pdf",
         "orgs": [
             {
-                "name": "University of Heidelberg",
-                "country": "Germany"
-            },
-            {
                 "name": "Indian Institute of Technology",
                 "country": "India"
+            },
+            {
+                "name": "University of Heidelberg",
+                "country": "Germany"
             }
         ]
     },
@@ -1315,12 +1302,7 @@
             "Fabienne Cap"
         ],
         "url": "https://www.aclweb.org/anthology/E12-1068.pdf",
-        "orgs": [
-            {
-                "name": "University of Stuttgart",
-                "country": "Germany"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "EACL12-68",
@@ -1481,11 +1463,11 @@
                 "country": "USA"
             },
             {
-                "name": "Stony Brook University",
+                "name": "Massachusetts Institute of Technology",
                 "country": "USA"
             },
             {
-                "name": "Massachusetts Institute of Technology",
+                "name": "Stony Brook University",
                 "country": "USA"
             }
         ]

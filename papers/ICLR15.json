@@ -38,10 +38,6 @@
             {
                 "name": "Baidu",
                 "country": "China"
-            },
-            {
-                "name": "University of California Los Angeles",
-                "country": "USA"
             }
         ]
     },
@@ -136,6 +132,10 @@
         "url": "http://arxiv.org/pdf/1412.6626.pdf",
         "orgs": [
             {
+                "name": "Howard Hughes Medical Institute",
+                "country": "USA"
+            },
+            {
                 "name": "New York University",
                 "country": "USA"
             }
@@ -199,10 +199,6 @@
             {
                 "name": "Google",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -222,10 +218,6 @@
             {
                 "name": "Jacobs University Bremen",
                 "country": "Germany"
-            },
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
             }
         ]
     },
@@ -246,16 +238,12 @@
         "url": "http://arxiv.org/pdf/1412.6550.pdf",
         "orgs": [
             {
+                "name": "Université de Montréal",
+                "country": "Canada"
+            },
+            {
                 "name": "University of Barcelona",
                 "country": "Spain"
-            },
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
-            },
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
             }
         ]
     },
@@ -273,10 +261,6 @@
         ],
         "url": "http://arxiv.org/pdf/1406.2989.pdf",
         "orgs": [
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
-            },
             {
                 "name": "Aalto University",
                 "country": "Finland"
@@ -316,16 +300,16 @@
         "url": "http://arxiv.org/pdf/1412.7062.pdf",
         "orgs": [
             {
-                "name": "Google",
-                "country": "USA"
-            },
-            {
                 "name": "University of California",
                 "country": "USA"
             },
             {
                 "name": "INRIA",
                 "country": "France"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
             }
         ]
     },
@@ -343,12 +327,12 @@
         "url": "http://arxiv.org/pdf/1412.7755.pdf",
         "orgs": [
             {
-                "name": "DeepMind",
-                "country": "UK"
-            },
-            {
                 "name": "University of Toronto",
                 "country": "Canada"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
             }
         ]
     },
@@ -393,20 +377,16 @@
         "url": "http://arxiv.org/pdf/1412.7028.pdf",
         "orgs": [
             {
-                "name": "Ecole Polytechnique Fédérale de Lausanne",
-                "country": "Switzerland"
-            },
-            {
-                "name": "Ecole Polytechnique Fédérale de Lausanne",
-                "country": "Switzerland"
+                "name": "Facebook",
+                "country": "USA"
             },
             {
                 "name": "Idiap Research Institute",
                 "country": "Switzerland"
             },
             {
-                "name": "Facebook",
-                "country": "USA"
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
             }
         ]
     },
@@ -422,16 +402,16 @@
         "url": "http://arxiv.org/pdf/1412.6980.pdf",
         "orgs": [
             {
-                "name": "University of Toronto",
-                "country": "Canada"
-            },
-            {
                 "name": "University of Amsterdam",
                 "country": "Netherlands"
             },
             {
                 "name": "OpenAI",
                 "country": "USA"
+            },
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
             }
         ]
     },
@@ -451,10 +431,6 @@
             {
                 "name": "Jacobs University Bremen",
                 "country": "Germany"
-            },
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
             }
         ]
     },
@@ -491,15 +467,11 @@
         "url": "http://arxiv.org/pdf/1412.6575.pdf",
         "orgs": [
             {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
                 "name": "Cornell University",
-                "country": "USA"
-            },
-            {
-                "name": "Microsoft",
-                "country": "USA"
-            },
-            {
-                "name": "Microsoft",
                 "country": "USA"
             }
         ]
@@ -518,6 +490,10 @@
         ],
         "url": "http://arxiv.org/pdf/1412.6626.pdf",
         "orgs": [
+            {
+                "name": "Howard Hughes Medical Institute",
+                "country": "USA"
+            },
             {
                 "name": "New York University",
                 "country": "USA"
@@ -593,15 +569,15 @@
         "url": "http://arxiv.org/pdf/1412.6553.pdf",
         "orgs": [
             {
-                "name": "Moscow Institute of Physics and Technology",
-                "country": "Russia"
-            },
-            {
                 "name": "Yandex",
                 "country": "Russia"
             },
             {
                 "name": "Skolkovo Institute of Science and Technology",
+                "country": "Russia"
+            },
+            {
+                "name": "Moscow Institute of Physics and Technology",
                 "country": "Russia"
             }
         ]
@@ -628,10 +604,6 @@
             {
                 "name": "Baidu",
                 "country": "China"
-            },
-            {
-                "name": "University of California Los Angeles",
-                "country": "USA"
             }
         ]
     },
@@ -693,12 +665,12 @@
         "url": "http://arxiv.org/pdf/1412.6598.pdf",
         "orgs": [
             {
-                "name": "University of Oxford",
-                "country": "UK"
-            },
-            {
                 "name": "Brown University",
                 "country": "USA"
+            },
+            {
+                "name": "University of Oxford",
+                "country": "UK"
             }
         ]
     },
@@ -717,7 +689,7 @@
         "url": "http://arxiv.org/pdf/1410.1165.pdf",
         "orgs": [
             {
-                "name": "Università della Svizzera italiana",
+                "name": "Istituto Dalle Molle di Studi sull’Intelligenza Artificiale",
                 "country": "Switzerland"
             }
         ]
@@ -738,10 +710,6 @@
             {
                 "name": "University of Tokyo",
                 "country": "Japan"
-            },
-            {
-                "name": "University College London",
-                "country": "UK"
             },
             {
                 "name": "National Institute of Informatics",
@@ -768,12 +736,12 @@
                 "country": "USA"
             },
             {
-                "name": "DeepMind",
-                "country": "UK"
-            },
-            {
                 "name": "University of Toronto",
                 "country": "Canada"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
             }
         ]
     },
@@ -833,10 +801,6 @@
             },
             {
                 "name": "Google",
-                "country": "USA"
-            },
-            {
-                "name": "Stanford University",
                 "country": "USA"
             }
         ]

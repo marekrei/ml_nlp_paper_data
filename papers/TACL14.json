@@ -54,15 +54,15 @@
         "url": "https://www.aclweb.org/anthology/Q14-1003.pdf",
         "orgs": [
             {
-                "name": "NICTA Victoria Research Laboratory",
-                "country": "Australia"
-            },
-            {
                 "name": "King's College London",
                 "country": "UK"
             },
             {
                 "name": "University of Melbourne",
+                "country": "Australia"
+            },
+            {
+                "name": "NICTA Victoria Research Laboratory",
                 "country": "Australia"
             }
         ]
@@ -96,10 +96,6 @@
         ],
         "url": "https://www.aclweb.org/anthology/Q14-1005.pdf",
         "orgs": [
-            {
-                "name": "Stanford University",
-                "country": "USA"
-            },
             {
                 "name": "Stanford University",
                 "country": "USA"
@@ -142,11 +138,11 @@
         "url": "https://www.aclweb.org/anthology/Q14-1007.pdf",
         "orgs": [
             {
-                "name": "Johns Hopkins University",
+                "name": "University of Pennsylvania",
                 "country": "USA"
             },
             {
-                "name": "University of Pennsylvania",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             }
         ]
@@ -206,12 +202,12 @@
         "url": "https://www.aclweb.org/anthology/Q14-1010.pdf",
         "orgs": [
             {
-                "name": "University of Padua",
-                "country": "Italy"
-            },
-            {
                 "name": "Bar Ilan University",
                 "country": "Israel"
+            },
+            {
+                "name": "University of Padua",
+                "country": "Italy"
             }
         ]
     },
@@ -263,11 +259,11 @@
                 "country": "USA"
             },
             {
-                "name": "Brandeis University",
+                "name": "University of Alabama at Birmingham",
                 "country": "USA"
             },
             {
-                "name": "University of Alabama at Birmingham",
+                "name": "Brandeis University",
                 "country": "USA"
             }
         ]
@@ -318,12 +314,12 @@
                 "country": "Germany"
             },
             {
-                "name": "Nara Institute of Science and Technology",
-                "country": "Japan"
-            },
-            {
                 "name": "Mobile Technologies GmbH",
                 "country": "Germany"
+            },
+            {
+                "name": "Nara Institute of Science and Technology",
+                "country": "Japan"
             }
         ]
     },
@@ -407,11 +403,11 @@
         "url": "https://www.aclweb.org/anthology/Q14-1018.pdf",
         "orgs": [
             {
-                "name": "University of Colorado Boulder",
+                "name": "University of Alabama at Birmingham",
                 "country": "USA"
             },
             {
-                "name": "University of Alabama at Birmingham",
+                "name": "University of Colorado Boulder",
                 "country": "USA"
             }
         ]
@@ -428,12 +424,7 @@
             "Roberto Navigli"
         ],
         "url": "https://www.aclweb.org/anthology/Q14-1019.pdf",
-        "orgs": [
-            {
-                "name": "Sapienza University of Rome",
-                "country": "Italy"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "TACL14-19",
@@ -490,6 +481,10 @@
         "url": "https://www.aclweb.org/anthology/Q14-1022.pdf",
         "orgs": [
             {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
                 "name": "United States Naval Academy",
                 "country": "USA"
             },
@@ -498,15 +493,11 @@
                 "country": "USA"
             },
             {
-                "name": "University of Alabama at Birmingham",
-                "country": "USA"
-            },
-            {
                 "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
-                "name": "IBM",
+                "name": "University of Alabama at Birmingham",
                 "country": "USA"
             }
         ]
@@ -629,6 +620,10 @@
             {
                 "name": "Stony Brook University",
                 "country": "USA"
+            },
+            {
+                "name": "University of North Carolina at Chapel Hill",
+                "country": "USA"
             }
         ]
     },
@@ -705,12 +700,12 @@
         "url": "https://www.aclweb.org/anthology/Q14-1032.pdf",
         "orgs": [
             {
-                "name": "Linköping University",
-                "country": "Sweden"
-            },
-            {
                 "name": "University of Padua",
                 "country": "Italy"
+            },
+            {
+                "name": "Linköping University",
+                "country": "Sweden"
             }
         ]
     },
@@ -752,6 +747,10 @@
         "url": "https://www.aclweb.org/anthology/Q14-1034.pdf",
         "orgs": [
             {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
                 "name": "The Ohio State University",
                 "country": "USA"
             },
@@ -761,10 +760,6 @@
             },
             {
                 "name": "University of Pennsylvania",
-                "country": "USA"
-            },
-            {
-                "name": "Microsoft",
                 "country": "USA"
             }
         ]
@@ -805,12 +800,12 @@
                 "country": "USA"
             },
             {
-                "name": "University of Edinburgh",
-                "country": "UK"
-            },
-            {
                 "name": "University of Colorado",
                 "country": "USA"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
             }
         ]
     },
@@ -883,11 +878,11 @@
         "url": "https://www.aclweb.org/anthology/Q14-1040.pdf",
         "orgs": [
             {
-                "name": "Technische Universität Darmstadt",
+                "name": "University of Duisburg-Essen",
                 "country": "Germany"
             },
             {
-                "name": "University of Duisburg-Essen",
+                "name": "Technische Universität Darmstadt",
                 "country": "Germany"
             }
         ]
@@ -918,11 +913,11 @@
         "url": "https://www.aclweb.org/anthology/Q14-1042.pdf",
         "orgs": [
             {
-                "name": "University College London",
+                "name": "University of Cambridge",
                 "country": "UK"
             },
             {
-                "name": "University of Cambridge",
+                "name": "University College London",
                 "country": "UK"
             }
         ]

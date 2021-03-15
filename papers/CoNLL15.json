@@ -180,16 +180,16 @@
         "url": "https://www.aclweb.org/anthology/K15-1009.pdf",
         "orgs": [
             {
+                "name": "Australian National University",
+                "country": "Australia"
+            },
+            {
                 "name": "University of Melbourne",
                 "country": "Australia"
             },
             {
                 "name": "University of Edinburgh",
                 "country": "UK"
-            },
-            {
-                "name": "Australian National University",
-                "country": "Australia"
             }
         ]
     },
@@ -274,12 +274,12 @@
         "url": "https://www.aclweb.org/anthology/K15-1013.pdf",
         "orgs": [
             {
-                "name": "Dublin City University",
-                "country": "Ireland"
-            },
-            {
                 "name": "IBM",
                 "country": "USA"
+            },
+            {
+                "name": "Dublin City University",
+                "country": "Ireland"
             }
         ]
     },
@@ -294,7 +294,12 @@
             "Key-Sun Choi"
         ],
         "url": "https://www.aclweb.org/anthology/K15-1014.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Korea Advanced Institute of Science and Technology",
+                "country": "South Korea"
+            }
+        ]
     },
     {
         "id": "CoNLL15-14",
@@ -355,12 +360,12 @@
         "url": "https://www.aclweb.org/anthology/K15-1017.pdf",
         "orgs": [
             {
-                "name": "University of Munich",
-                "country": "Germany"
-            },
-            {
                 "name": "Johns Hopkins University",
                 "country": "USA"
+            },
+            {
+                "name": "University of Munich",
+                "country": "Germany"
             }
         ]
     },
@@ -462,11 +467,11 @@
         "url": "https://www.aclweb.org/anthology/K15-1022.pdf",
         "orgs": [
             {
-                "name": "Saarland University",
+                "name": "Universität Hildesheim",
                 "country": "Germany"
             },
             {
-                "name": "Universität Hildesheim",
+                "name": "Saarland University",
                 "country": "Germany"
             }
         ]
@@ -549,12 +554,16 @@
         "url": "https://www.aclweb.org/anthology/K15-1026.pdf",
         "orgs": [
             {
-                "name": "Hebrew University of Jerusalem",
+                "name": "IIT Bombay",
+                "country": "India"
+            },
+            {
+                "name": "Israel Institute of Technology",
                 "country": "Israel"
             },
             {
-                "name": "IIT Bombay",
-                "country": "India"
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
             }
         ]
     },
@@ -573,16 +582,16 @@
         "url": "https://www.aclweb.org/anthology/K15-1027.pdf",
         "orgs": [
             {
-                "name": "University of Tokyo",
-                "country": "Japan"
+                "name": "Toyota Technological Institute at Chicago",
+                "country": "USA"
             },
             {
                 "name": "University College London",
                 "country": "UK"
             },
             {
-                "name": "Toyota Technological Institute at Chicago",
-                "country": "USA"
+                "name": "University of Tokyo",
+                "country": "Japan"
             }
         ]
     },
@@ -620,11 +629,11 @@
         "url": "https://www.aclweb.org/anthology/K15-1029.pdf",
         "orgs": [
             {
-                "name": "Xerox",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
-                "name": "Carnegie Mellon University",
+                "name": "Xerox",
                 "country": "USA"
             },
             {
@@ -667,10 +676,6 @@
         ],
         "url": "https://www.aclweb.org/anthology/K15-1031.pdf",
         "orgs": [
-            {
-                "name": "Stanford University",
-                "country": "USA"
-            },
             {
                 "name": "Stanford University",
                 "country": "USA"
@@ -739,12 +744,12 @@
         "url": "https://www.aclweb.org/anthology/K15-1034.pdf",
         "orgs": [
             {
-                "name": "Xerox",
-                "country": "USA"
-            },
-            {
                 "name": "Indian Institute of Technology",
                 "country": "India"
+            },
+            {
+                "name": "Xerox",
+                "country": "USA"
             }
         ]
     },

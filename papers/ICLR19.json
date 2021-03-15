@@ -34,15 +34,7 @@
         "url": "https://openreview.net/pdf?id=B1l08oAct7",
         "orgs": [
             {
-                "name": "Google",
-                "country": "USA"
-            },
-            {
                 "name": "Princeton University",
-                "country": "USA"
-            },
-            {
-                "name": "Microsoft",
                 "country": "USA"
             },
             {
@@ -50,7 +42,11 @@
                 "country": "UK"
             },
             {
-                "name": "Princeton University",
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
                 "country": "USA"
             }
         ]
@@ -69,10 +65,6 @@
         ],
         "url": "https://openreview.net/pdf?id=B1l6qiR5F7",
         "orgs": [
-            {
-                "name": "Montreal Institute of Learning Algorithms",
-                "country": "Canada"
-            },
             {
                 "name": "Microsoft",
                 "country": "USA"
@@ -97,15 +89,11 @@
         "url": "https://openreview.net/pdf?id=B1xsqj09Fm",
         "orgs": [
             {
-                "name": "DeepMind",
-                "country": "UK"
-            },
-            {
-                "name": "DeepMind",
-                "country": "UK"
-            },
-            {
                 "name": "Heriot Watt University",
+                "country": "UK"
+            },
+            {
+                "name": "DeepMind",
                 "country": "UK"
             }
         ]
@@ -152,10 +140,6 @@
             {
                 "name": "University of Oxford",
                 "country": "UK"
-            },
-            {
-                "name": "University of California Los Angeles",
-                "country": "USA"
             }
         ]
     },
@@ -173,10 +157,6 @@
         ],
         "url": "https://openreview.net/pdf?id=Byg3y3C9Km",
         "orgs": [
-            {
-                "name": "Harvard University",
-                "country": "USA"
-            },
             {
                 "name": "Harvard University",
                 "country": "USA"
@@ -199,14 +179,6 @@
         ],
         "url": "https://openreview.net/pdf?id=Bygh9j09KX",
         "orgs": [
-            {
-                "name": "University of Tübingen",
-                "country": "Germany"
-            },
-            {
-                "name": "University of Tübingen",
-                "country": "Germany"
-            },
             {
                 "name": "University of Tübingen",
                 "country": "Germany"
@@ -291,12 +263,12 @@
         "url": "https://openreview.net/pdf?id=HygBZnRctX",
         "orgs": [
             {
-                "name": "Amazon",
-                "country": "USA"
-            },
-            {
                 "name": "Alan Turing Institute",
                 "country": "UK"
+            },
+            {
+                "name": "Amazon",
+                "country": "USA"
             }
         ]
     },
@@ -313,12 +285,12 @@
         "url": "https://openreview.net/pdf?id=HylzTiC5Km",
         "orgs": [
             {
-                "name": "Google",
-                "country": "USA"
-            },
-            {
                 "name": "DeepMind",
                 "country": "UK"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
             }
         ]
     },
@@ -358,11 +330,11 @@
         "url": "https://openreview.net/pdf?id=S1xq3oR5tQ",
         "orgs": [
             {
-                "name": "Stanford University",
+                "name": "Google",
                 "country": "USA"
             },
             {
-                "name": "Google",
+                "name": "Stanford University",
                 "country": "USA"
             }
         ]
@@ -455,12 +427,12 @@
         "url": "https://openreview.net/pdf?id=rJEjjoR9K7",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
-                "country": "USA"
-            },
-            {
                 "name": "Beijing Normal University",
                 "country": "China"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
             }
         ]
     },
@@ -476,6 +448,10 @@
         ],
         "url": "https://openreview.net/pdf?id=rJVorjCcKQ",
         "orgs": [
+            {
+                "name": "Intel Labs",
+                "country": "USA"
+            },
             {
                 "name": "Stanford University",
                 "country": "USA"
@@ -502,24 +478,12 @@
                 "country": "USA"
             },
             {
-                "name": "Massachusetts Institute of Technology",
-                "country": "USA"
-            },
-            {
                 "name": "Tsinghua University",
                 "country": "China"
             },
             {
                 "name": "DeepMind",
                 "country": "UK"
-            },
-            {
-                "name": "Massachusetts Institute of Technology",
-                "country": "USA"
-            },
-            {
-                "name": "Massachusetts Institute of Technology",
-                "country": "USA"
             }
         ]
     },
@@ -684,11 +648,11 @@
         "url": "https://openreview.net/pdf?id=B1MXz20cYQ",
         "orgs": [
             {
-                "name": "Vector Institute",
+                "name": "University of Toronto",
                 "country": "Canada"
             },
             {
-                "name": "University of Toronto",
+                "name": "Vector Institute",
                 "country": "Canada"
             }
         ]
@@ -797,11 +761,15 @@
         "url": "https://openreview.net/pdf?id=B1fpDsAqt7",
         "orgs": [
             {
-                "name": "Vector Institute",
-                "country": "Canada"
+                "name": "NVIDIA Corporation",
+                "country": "USA"
             },
             {
                 "name": "University of Toronto",
+                "country": "Canada"
+            },
+            {
+                "name": "Vector Institute",
                 "country": "Canada"
             }
         ]
@@ -830,12 +798,12 @@
                 "country": "USA"
             },
             {
-                "name": "University of Cambridge",
-                "country": "UK"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
             }
         ]
     },
@@ -857,23 +825,15 @@
         "url": "https://openreview.net/pdf?id=B1gTShAct7",
         "orgs": [
             {
-                "name": "Massachusetts Institute of Technology",
-                "country": "USA"
-            },
-            {
                 "name": "Stanford University",
-                "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
-            },
-            {
-                "name": "Massachusetts Institute of Technology",
                 "country": "USA"
             },
             {
                 "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Massachusetts Institute of Technology",
                 "country": "USA"
             }
         ]
@@ -913,7 +873,11 @@
         "url": "https://openreview.net/pdf?id=B1lKS2AqtX",
         "orgs": [
             {
-                "name": "University of California Merced",
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
                 "country": "USA"
             },
             {
@@ -921,11 +885,7 @@
                 "country": "China"
             },
             {
-                "name": "Google",
-                "country": "USA"
-            },
-            {
-                "name": "Stanford University",
+                "name": "University of California Merced",
                 "country": "USA"
             }
         ]
@@ -969,11 +929,11 @@
         "url": "https://openreview.net/pdf?id=B1lz-3Rct7",
         "orgs": [
             {
-                "name": "Vector Institute",
+                "name": "University of Toronto",
                 "country": "Canada"
             },
             {
-                "name": "University of Toronto",
+                "name": "Vector Institute",
                 "country": "Canada"
             }
         ]
@@ -1012,11 +972,11 @@
         "url": "https://openreview.net/pdf?id=B1xVTjCqKQ",
         "orgs": [
             {
-                "name": "Arizona State University",
+                "name": "Rice University",
                 "country": "USA"
             },
             {
-                "name": "Rice University",
+                "name": "Arizona State University",
                 "country": "USA"
             },
             {
@@ -1040,12 +1000,12 @@
         "url": "https://openreview.net/pdf?id=B1xWcj0qYm",
         "orgs": [
             {
-                "name": "University of Tokyo",
-                "country": "Japan"
-            },
-            {
                 "name": "Google",
                 "country": "USA"
+            },
+            {
+                "name": "University of Tokyo",
+                "country": "Japan"
             }
         ]
     },
@@ -1065,6 +1025,10 @@
         ],
         "url": "https://openreview.net/pdf?id=B1xY-hRctX",
         "orgs": [
+            {
+                "name": "ByteDance",
+                "country": "China"
+            },
             {
                 "name": "Tsinghua University",
                 "country": "China"
@@ -1163,15 +1127,11 @@
                 "country": "USA"
             },
             {
-                "name": "Google",
-                "country": "USA"
-            },
-            {
-                "name": "Massachusetts Institute of Technology",
-                "country": "USA"
-            },
-            {
                 "name": "IBM",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
                 "country": "USA"
             }
         ]
@@ -1191,12 +1151,12 @@
         "url": "https://openreview.net/pdf?id=BJe0Gn0cY7",
         "orgs": [
             {
-                "name": "Google",
-                "country": "USA"
-            },
-            {
                 "name": "DeepMind",
                 "country": "UK"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
             }
         ]
     },
@@ -1217,7 +1177,7 @@
         "url": "https://openreview.net/pdf?id=BJe1E2R5KX",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "UC Berkeley",
                 "country": "USA"
             },
             {
@@ -1225,11 +1185,11 @@
                 "country": "USA"
             },
             {
-                "name": "Facebook",
+                "name": "Princeton University",
                 "country": "USA"
             },
             {
-                "name": "UC Berkeley",
+                "name": "Facebook",
                 "country": "USA"
             }
         ]
@@ -1394,6 +1354,10 @@
             {
                 "name": "Sorbonne University",
                 "country": "France"
+            },
+            {
+                "name": "Criteo",
+                "country": "France"
             }
         ]
     },
@@ -1469,16 +1433,16 @@
         "url": "https://openreview.net/pdf?id=BJgRDjR9tQ",
         "orgs": [
             {
+                "name": "Yale University",
+                "country": "USA"
+            },
+            {
                 "name": "University of Chicago",
                 "country": "USA"
             },
             {
                 "name": "Hong Kong University of Science and Technology",
                 "country": "China"
-            },
-            {
-                "name": "Yale University",
-                "country": "USA"
             }
         ]
     },
@@ -1500,16 +1464,12 @@
                 "country": "UK"
             },
             {
-                "name": "University of Oxford",
-                "country": "UK"
-            },
-            {
                 "name": "Alan Turing Institute",
                 "country": "UK"
             },
             {
-                "name": "University of California Los Angeles",
-                "country": "USA"
+                "name": "University of Oxford",
+                "country": "UK"
             }
         ]
     },
@@ -1552,11 +1512,11 @@
         "url": "https://openreview.net/pdf?id=BJgqqsAct7",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "Columbia University",
                 "country": "USA"
             },
             {
-                "name": "Columbia University",
+                "name": "Princeton University",
                 "country": "USA"
             }
         ]
@@ -1673,10 +1633,6 @@
                 "country": "USA"
             },
             {
-                "name": "Université de Montréal",
-                "country": "Canada"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
             }
@@ -1697,11 +1653,11 @@
         "url": "https://openreview.net/pdf?id=BJx0sjC5FX",
         "orgs": [
             {
-                "name": "Microsoft",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             },
             {
-                "name": "Johns Hopkins University",
+                "name": "Microsoft",
                 "country": "USA"
             }
         ]
@@ -1745,10 +1701,6 @@
                 "country": "Macau"
             },
             {
-                "name": "Shenzhen Institutes of Advanced Technology",
-                "country": "China"
-            },
-            {
                 "name": "University of Cambridge",
                 "country": "UK"
             }
@@ -1768,10 +1720,6 @@
         ],
         "url": "https://openreview.net/pdf?id=BJxhijAcY7",
         "orgs": [
-            {
-                "name": "UC Irvine",
-                "country": "USA"
-            },
             {
                 "name": "Nanjing University",
                 "country": "China"
@@ -1793,11 +1741,11 @@
         "url": "https://openreview.net/pdf?id=BJxssoA5KX",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
+                "name": "Adobe Research",
                 "country": "USA"
             },
             {
-                "name": "Adobe Research",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             }
         ]
@@ -1817,11 +1765,11 @@
         "url": "https://openreview.net/pdf?id=BJxvEh0cFQ",
         "orgs": [
             {
-                "name": "University of Chicago",
+                "name": "Google",
                 "country": "USA"
             },
             {
-                "name": "Google",
+                "name": "University of Chicago",
                 "country": "USA"
             }
         ]
@@ -1838,12 +1786,7 @@
             "Miguel P. Eckstein"
         ],
         "url": "https://openreview.net/pdf?id=BJzbG20cFQ",
-        "orgs": [
-            {
-                "name": "UC Santa Barbara",
-                "country": "USA"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICLR19-77",
@@ -1863,28 +1806,28 @@
         "url": "https://openreview.net/pdf?id=BkG5SjR5YQ",
         "orgs": [
             {
-                "name": "Nagoya Institute of Technology",
-                "country": "Japan"
+                "name": "University of Toronto",
+                "country": "Canada"
             },
             {
                 "name": "Kyoto University",
                 "country": "Japan"
             },
             {
-                "name": "University of Tokyo",
+                "name": "Nagoya Institute of Technology",
                 "country": "Japan"
-            },
-            {
-                "name": "Carnegie Mellon University",
-                "country": "USA"
             },
             {
                 "name": "Vector Institute",
                 "country": "Canada"
             },
             {
-                "name": "University of Toronto",
-                "country": "Canada"
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Tokyo",
+                "country": "Japan"
             }
         ]
     },
@@ -2013,12 +1956,8 @@
         "url": "https://openreview.net/pdf?id=BkedznAqKQ",
         "orgs": [
             {
-                "name": "University of Illinois",
-                "country": "USA"
-            },
-            {
-                "name": "Uber AI Labs",
-                "country": "USA"
+                "name": "University of Toronto",
+                "country": "Canada"
             },
             {
                 "name": "Canadian Institute for Advanced Research",
@@ -2029,8 +1968,12 @@
                 "country": "Canada"
             },
             {
-                "name": "University of Toronto",
-                "country": "Canada"
+                "name": "University of Illinois",
+                "country": "USA"
+            },
+            {
+                "name": "Uber AI Labs",
+                "country": "USA"
             }
         ]
     },
@@ -2049,15 +1992,15 @@
         "url": "https://openreview.net/pdf?id=BkfbpsAcF7",
         "orgs": [
             {
-                "name": "Universität Bremen",
-                "country": "Germany"
-            },
-            {
                 "name": "University of Toronto",
                 "country": "Canada"
             },
             {
                 "name": "University of Tübingen",
+                "country": "Germany"
+            },
+            {
+                "name": "Universität Bremen",
                 "country": "Germany"
             }
         ]
@@ -2075,7 +2018,12 @@
             "Jürgen Schmidhuber"
         ],
         "url": "https://openreview.net/pdf?id=Bkg2viA5FQ",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Istituto Dalle Molle di Studi sull’Intelligenza Artificiale",
+                "country": "Switzerland"
+            }
+        ]
     },
     {
         "id": "ICLR19-87",
@@ -2092,19 +2040,19 @@
         "url": "https://openreview.net/pdf?id=Bkg3g2R9FX",
         "orgs": [
             {
-                "name": "University of Southern California",
-                "country": "USA"
-            },
-            {
                 "name": "Beijing Institute of Big Data Research",
                 "country": "China"
             },
             {
-                "name": "Peking University",
-                "country": "China"
+                "name": "University of Southern California",
+                "country": "USA"
             },
             {
                 "name": "Zhejiang University",
+                "country": "China"
+            },
+            {
+                "name": "Peking University",
                 "country": "China"
             }
         ]
@@ -2144,10 +2092,6 @@
         "url": "https://openreview.net/pdf?id=Bkg8jjC9KQ",
         "orgs": [
             {
-                "name": "Singapore University of Technology and Design",
-                "country": "Singapore"
-            },
-            {
                 "name": "Grenoble Alps University",
                 "country": "France"
             },
@@ -2157,6 +2101,10 @@
             },
             {
                 "name": "Institute for Infocomm Research",
+                "country": "Singapore"
+            },
+            {
+                "name": "Singapore University of Technology and Design",
                 "country": "Singapore"
             }
         ]
@@ -2175,10 +2123,6 @@
         ],
         "url": "https://openreview.net/pdf?id=BkgBvsC9FQ",
         "orgs": [
-            {
-                "name": "New York University",
-                "country": "USA"
-            },
             {
                 "name": "Naver Corp",
                 "country": "South Korea"
@@ -2226,11 +2170,15 @@
         "url": "https://openreview.net/pdf?id=BkgWHnR5tm",
         "orgs": [
             {
-                "name": "Vector Institute",
-                "country": "Canada"
+                "name": "NVIDIA Corporation",
+                "country": "USA"
             },
             {
                 "name": "University of Toronto",
+                "country": "Canada"
+            },
+            {
+                "name": "Vector Institute",
                 "country": "Canada"
             }
         ]
@@ -2275,11 +2223,7 @@
         "url": "https://openreview.net/pdf?id=BkgzniCqY7",
         "orgs": [
             {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
-                "name": "Massachusetts Institute of Technology",
+                "name": "University of California Los Angeles",
                 "country": "USA"
             },
             {
@@ -2287,7 +2231,7 @@
                 "country": "China"
             },
             {
-                "name": "University of California Los Angeles",
+                "name": "IBM",
                 "country": "USA"
             }
         ]
@@ -2309,16 +2253,16 @@
         "url": "https://openreview.net/pdf?id=Bkl-43C9FQ",
         "orgs": [
             {
-                "name": "Stanford University",
-                "country": "USA"
+                "name": "Technical University of Munich",
+                "country": "Germany"
             },
             {
                 "name": "UC Berkeley",
                 "country": "USA"
             },
             {
-                "name": "Technical University of Munich",
-                "country": "Germany"
+                "name": "Stanford University",
+                "country": "USA"
             }
         ]
     },
@@ -2379,15 +2323,11 @@
         "url": "https://openreview.net/pdf?id=BklMjsRqY7",
         "orgs": [
             {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
                 "name": "University of Illinois",
-                "country": "USA"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
-                "name": "IBM",
                 "country": "USA"
             }
         ]
@@ -2430,10 +2370,6 @@
                 "country": "Netherlands"
             },
             {
-                "name": "UC San Diego",
-                "country": "USA"
-            },
-            {
                 "name": "NEC Corporation",
                 "country": "Japan"
             }
@@ -2465,12 +2401,12 @@
         "url": "https://openreview.net/pdf?id=BkltNhC9FX",
         "orgs": [
             {
-                "name": "IIT Bombay",
-                "country": "India"
-            },
-            {
                 "name": "University of Massachusetts Amherst",
                 "country": "USA"
+            },
+            {
+                "name": "IIT Bombay",
+                "country": "India"
             }
         ]
     },
@@ -2524,6 +2460,10 @@
         "url": "https://openreview.net/pdf?id=Bkxbrn0cYX",
         "orgs": [
             {
+                "name": "Katholieke Universiteit Leuven",
+                "country": "Belgium"
+            },
+            {
                 "name": "Facebook",
                 "country": "USA"
             }
@@ -2542,11 +2482,11 @@
         "url": "https://openreview.net/pdf?id=BkzeUiRcY7",
         "orgs": [
             {
-                "name": "Facebook",
+                "name": "University of California Los Angeles",
                 "country": "USA"
             },
             {
-                "name": "University of California Los Angeles",
+                "name": "Facebook",
                 "country": "USA"
             }
         ]
@@ -2567,24 +2507,24 @@
         "url": "https://openreview.net/pdf?id=ByGuynAct7",
         "orgs": [
             {
+                "name": "Samsung Research",
+                "country": "South Korea"
+            },
+            {
                 "name": "University of Amsterdam",
                 "country": "Netherlands"
             },
             {
-                "name": "National Research University Higher School of Economics",
-                "country": "Russia"
-            },
-            {
-                "name": "Samsung Research",
-                "country": "South Korea"
+                "name": "Canadian Institute for Advanced Research",
+                "country": "Canada"
             },
             {
                 "name": "Skolkovo Institute of Science and Technology",
                 "country": "Russia"
             },
             {
-                "name": "Canadian Institute for Advanced Research",
-                "country": "Canada"
+                "name": "National Research University Higher School of Economics",
+                "country": "Russia"
             }
         ]
     },
@@ -2629,11 +2569,11 @@
         "url": "https://openreview.net/pdf?id=ByMHvs0cFQ",
         "orgs": [
             {
-                "name": "McGill University",
+                "name": "Université de Montréal",
                 "country": "Canada"
             },
             {
-                "name": "Université de Montréal",
+                "name": "McGill University",
                 "country": "Canada"
             },
             {
@@ -2654,12 +2594,7 @@
             "Miller Puckette"
         ],
         "url": "https://openreview.net/pdf?id=ByMVTsR5KQ",
-        "orgs": [
-            {
-                "name": "UC San Diego",
-                "country": "USA"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICLR19-111",
@@ -2689,11 +2624,11 @@
         "url": "https://openreview.net/pdf?id=ByeMB3Act7",
         "orgs": [
             {
-                "name": "Google",
+                "name": "University of California Los Angeles",
                 "country": "USA"
             },
             {
-                "name": "University of California Los Angeles",
+                "name": "Google",
                 "country": "USA"
             }
         ]
@@ -2735,10 +2670,6 @@
         ],
         "url": "https://openreview.net/pdf?id=ByetGn0cYX",
         "orgs": [
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
-            },
             {
                 "name": "Université de Montréal",
                 "country": "Canada"
@@ -2785,7 +2716,12 @@
             "Tong Zhang"
         ],
         "url": "https://openreview.net/pdf?id=Byf5-30qFX",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Tencent",
+                "country": "China"
+            }
+        ]
     },
     {
         "id": "ICLR19-117",
@@ -2828,10 +2764,6 @@
         ],
         "url": "https://openreview.net/pdf?id=ByfyHh05tQ",
         "orgs": [
-            {
-                "name": "Robert Bosch GmbH",
-                "country": "Germany"
-            },
             {
                 "name": "Robert Bosch GmbH",
                 "country": "Germany"
@@ -2943,11 +2875,11 @@
                 "country": "USA"
             },
             {
-                "name": "University of Pennsylvania",
+                "name": "New York University",
                 "country": "USA"
             },
             {
-                "name": "New York University",
+                "name": "University of Pennsylvania",
                 "country": "USA"
             }
         ]
@@ -3004,12 +2936,12 @@
         "url": "https://openreview.net/pdf?id=BylE1205Fm",
         "orgs": [
             {
-                "name": "Facebook",
-                "country": "USA"
-            },
-            {
                 "name": "Tel Aviv University",
                 "country": "Israel"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
             }
         ]
     },
@@ -3029,11 +2961,7 @@
         "url": "https://openreview.net/pdf?id=BylIciRcYQ",
         "orgs": [
             {
-                "name": "University of Science and Technology of China",
-                "country": "China"
-            },
-            {
-                "name": "Duke University",
+                "name": "Microsoft",
                 "country": "USA"
             },
             {
@@ -3041,8 +2969,12 @@
                 "country": "USA"
             },
             {
-                "name": "Microsoft",
+                "name": "Duke University",
                 "country": "USA"
+            },
+            {
+                "name": "University of Science and Technology of China",
+                "country": "China"
             }
         ]
     },
@@ -3129,6 +3061,10 @@
         "url": "https://openreview.net/pdf?id=Bylmkh05KX",
         "orgs": [
             {
+                "name": "Tencent",
+                "country": "China"
+            },
+            {
                 "name": "Carnegie Mellon University",
                 "country": "USA"
             }
@@ -3147,12 +3083,12 @@
         "url": "https://openreview.net/pdf?id=Bylnx209YX",
         "orgs": [
             {
-                "name": "Facebook",
-                "country": "USA"
-            },
-            {
                 "name": "Technical University of Munich",
                 "country": "Germany"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
             }
         ]
     },
@@ -3351,10 +3287,6 @@
                 "country": "USA"
             },
             {
-                "name": "Microsoft",
-                "country": "USA"
-            },
-            {
                 "name": "State University of New York at Buffalo",
                 "country": "USA"
             }
@@ -3393,16 +3325,16 @@
         "url": "https://openreview.net/pdf?id=H1MgjoR9tQ",
         "orgs": [
             {
-                "name": "Idiap Research Institute",
-                "country": "Switzerland"
+                "name": "Christian-Albrechts-Universität zu Kiel",
+                "country": "Germany"
             },
             {
                 "name": "University of Essex",
                 "country": "UK"
             },
             {
-                "name": "Christian-Albrechts-Universität zu Kiel",
-                "country": "Germany"
+                "name": "Idiap Research Institute",
+                "country": "Switzerland"
             }
         ]
     },
@@ -3455,12 +3387,7 @@
             "Stefan Wermter"
         ],
         "url": "https://openreview.net/pdf?id=H1edIiA9KQ",
-        "orgs": [
-            {
-                "name": "University of Hamburg",
-                "country": "Germany"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICLR19-148",
@@ -3478,10 +3405,6 @@
         "orgs": [
             {
                 "name": "Google",
-                "country": "USA"
-            },
-            {
-                "name": "UC Berkeley",
                 "country": "USA"
             }
         ]
@@ -3539,11 +3462,15 @@
         "url": "https://openreview.net/pdf?id=H1ewdiR5tQ",
         "orgs": [
             {
-                "name": "University of Chinese Academy of Sciences",
+                "name": "Huawei",
                 "country": "China"
             },
             {
                 "name": "Chinese Academy of Sciences",
+                "country": "China"
+            },
+            {
+                "name": "University of Chinese Academy of Sciences",
                 "country": "China"
             }
         ]
@@ -3569,6 +3496,10 @@
         "url": "https://openreview.net/pdf?id=H1fU8iAqKX",
         "orgs": [
             {
+                "name": "Center for Neuroscience and Artificial Intelligence BCM",
+                "country": "USA"
+            },
+            {
                 "name": "University of Tübingen",
                 "country": "Germany"
             },
@@ -3579,14 +3510,6 @@
             {
                 "name": "Max Planck Institute for Biological Cybernetics",
                 "country": "Germany"
-            },
-            {
-                "name": "Rice University",
-                "country": "USA"
-            },
-            {
-                "name": "Center for Neuroscience and Artificial Intelligence BCM",
-                "country": "USA"
             }
         ]
     },
@@ -3634,16 +3557,12 @@
                 "country": "France"
             },
             {
-                "name": "Université de Montréal",
-                "country": "Canada"
+                "name": "Facebook",
+                "country": "USA"
             },
             {
                 "name": "Sorbonne University",
                 "country": "France"
-            },
-            {
-                "name": "Facebook",
-                "country": "USA"
             }
         ]
     },
@@ -3703,6 +3622,10 @@
         "url": "https://openreview.net/pdf?id=H1gKYo09tX",
         "orgs": [
             {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            },
+            {
                 "name": "Facebook",
                 "country": "USA"
             }
@@ -3742,6 +3665,10 @@
         ],
         "url": "https://openreview.net/pdf?id=H1gMCsAqY7",
         "orgs": [
+            {
+                "name": "ByteDance",
+                "country": "China"
+            },
             {
                 "name": "University of Illinois",
                 "country": "USA"
@@ -3825,12 +3752,12 @@
         "url": "https://openreview.net/pdf?id=H1goBoR9F7",
         "orgs": [
             {
-                "name": "Tsinghua University",
-                "country": "China"
-            },
-            {
                 "name": "University of California Santa Barbara",
                 "country": "USA"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -3910,12 +3837,12 @@
         "url": "https://openreview.net/pdf?id=H1lqZhRcFm",
         "orgs": [
             {
-                "name": "Facebook",
-                "country": "USA"
-            },
-            {
                 "name": "Tel Aviv University",
                 "country": "Israel"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
             }
         ]
     },
@@ -3934,11 +3861,7 @@
         "url": "https://openreview.net/pdf?id=H1x-x309tm",
         "orgs": [
             {
-                "name": "University of Illinois",
-                "country": "USA"
-            },
-            {
-                "name": "Massachusetts Institute of Technology",
+                "name": "University of Minnesota Twin Cities",
                 "country": "USA"
             },
             {
@@ -3946,7 +3869,7 @@
                 "country": "USA"
             },
             {
-                "name": "University of Minnesota Twin Cities",
+                "name": "University of Illinois",
                 "country": "USA"
             }
         ]
@@ -4006,11 +3929,11 @@
         "url": "https://openreview.net/pdf?id=H1xaJn05FQ",
         "orgs": [
             {
-                "name": "University of Virginia",
+                "name": "General Motors",
                 "country": "USA"
             },
             {
-                "name": "General Motors",
+                "name": "University of Virginia",
                 "country": "USA"
             }
         ]
@@ -4056,10 +3979,6 @@
         ],
         "url": "https://openreview.net/pdf?id=H1xsSjC9Ym",
         "orgs": [
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
-            },
             {
                 "name": "DeepMind",
                 "country": "UK"
@@ -4132,10 +4051,6 @@
             {
                 "name": "Rice University",
                 "country": "USA"
-            },
-            {
-                "name": "Rice University",
-                "country": "USA"
             }
         ]
     },
@@ -4151,7 +4066,12 @@
             "Tinne Tuytelaars"
         ],
         "url": "https://openreview.net/pdf?id=H1ziPjC5Fm",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Katholieke Universiteit Leuven",
+                "country": "Belgium"
+            }
+        ]
     },
     {
         "id": "ICLR19-178",
@@ -4207,10 +4127,6 @@
             {
                 "name": "Facebook",
                 "country": "USA"
-            },
-            {
-                "name": "Facebook",
-                "country": "USA"
             }
         ]
     },
@@ -4228,12 +4144,12 @@
         "url": "https://openreview.net/pdf?id=HJGven05Y7",
         "orgs": [
             {
-                "name": "University of Edinburgh",
-                "country": "UK"
-            },
-            {
                 "name": "OpenAI",
                 "country": "USA"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
             }
         ]
     },
@@ -4254,15 +4170,11 @@
         "url": "https://openreview.net/pdf?id=HJMC_iA5tm",
         "orgs": [
             {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
                 "name": "Microsoft",
-                "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
-            },
-            {
-                "name": "Stanford University",
                 "country": "USA"
             }
         ]
@@ -4304,10 +4216,6 @@
             {
                 "name": "IBM",
                 "country": "USA"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
             }
         ]
     },
@@ -4346,11 +4254,11 @@
                 "country": "USA"
             },
             {
-                "name": "Allen Institute for Artificial Intelligence",
+                "name": "Facebook",
                 "country": "USA"
             },
             {
-                "name": "Apple",
+                "name": "Allen Institute for Artificial Intelligence",
                 "country": "USA"
             },
             {
@@ -4358,12 +4266,12 @@
                 "country": "USA"
             },
             {
-                "name": "The Chinese University of Hong Kong",
-                "country": "China"
+                "name": "Apple",
+                "country": "USA"
             },
             {
-                "name": "Facebook",
-                "country": "USA"
+                "name": "The Chinese University of Hong Kong",
+                "country": "China"
             }
         ]
     },
@@ -4381,11 +4289,11 @@
         "url": "https://openreview.net/pdf?id=HJeu43ActQ",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "University of Minnesota Twin Cities",
                 "country": "USA"
             },
             {
-                "name": "University of Minnesota Twin Cities",
+                "name": "Princeton University",
                 "country": "USA"
             }
         ]
@@ -4423,15 +4331,15 @@
         "url": "https://openreview.net/pdf?id=HJfSEnRqKQ",
         "orgs": [
             {
+                "name": "Amazon",
+                "country": "USA"
+            },
+            {
                 "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
                 "name": "California Institute of Technology",
-                "country": "USA"
-            },
-            {
-                "name": "Amazon",
                 "country": "USA"
             }
         ]
@@ -4493,11 +4401,11 @@
         "url": "https://openreview.net/pdf?id=HJgXsjA5tQ",
         "orgs": [
             {
-                "name": "Saarland University",
+                "name": "University of Tübingen",
                 "country": "Germany"
             },
             {
-                "name": "University of Tübingen",
+                "name": "Saarland University",
                 "country": "Germany"
             }
         ]
@@ -4520,11 +4428,11 @@
                 "country": "USA"
             },
             {
-                "name": "Vector Institute",
+                "name": "University of Toronto",
                 "country": "Canada"
             },
             {
-                "name": "University of Toronto",
+                "name": "Vector Institute",
                 "country": "Canada"
             }
         ]
@@ -4569,10 +4477,6 @@
             {
                 "name": "NEC Laboratories America",
                 "country": "USA"
-            },
-            {
-                "name": "UC San Diego",
-                "country": "USA"
             }
         ]
     },
@@ -4595,12 +4499,12 @@
                 "country": "China"
             },
             {
-                "name": "University of Hong Kong",
-                "country": "China"
-            },
-            {
                 "name": "SenseTime Research",
                 "country": "Hong Kong"
+            },
+            {
+                "name": "University of Hong Kong",
+                "country": "China"
             }
         ]
     },
@@ -4661,11 +4565,11 @@
         "url": "https://openreview.net/pdf?id=HJlmHoR5tQ",
         "orgs": [
             {
-                "name": "Georgia Institute of Technology",
+                "name": "University of California San Diego",
                 "country": "USA"
             },
             {
-                "name": "University of California San Diego",
+                "name": "Georgia Institute of Technology",
                 "country": "USA"
             }
         ]
@@ -4687,11 +4591,11 @@
         "url": "https://openreview.net/pdf?id=HJx9EhC9tQ",
         "orgs": [
             {
-                "name": "Massachusetts Institute of Technology",
+                "name": "UC Berkeley",
                 "country": "USA"
             },
             {
-                "name": "UC Berkeley",
+                "name": "Massachusetts Institute of Technology",
                 "country": "USA"
             }
         ]
@@ -4712,12 +4616,12 @@
         "url": "https://openreview.net/pdf?id=HJxB5sRcFQ",
         "orgs": [
             {
-                "name": "Beijing Institute of Technology",
-                "country": "China"
-            },
-            {
                 "name": "Adobe Research",
                 "country": "USA"
+            },
+            {
+                "name": "Beijing Institute of Technology",
+                "country": "China"
             }
         ]
     },
@@ -4735,10 +4639,6 @@
         ],
         "url": "https://openreview.net/pdf?id=HJxeWnCcF7",
         "orgs": [
-            {
-                "name": "Stanford University",
-                "country": "USA"
-            },
             {
                 "name": "Stanford University",
                 "country": "USA"
@@ -4813,11 +4713,11 @@
         "url": "https://openreview.net/pdf?id=HJz6tiCqYm",
         "orgs": [
             {
-                "name": "Oregon State University",
+                "name": "UC Berkeley",
                 "country": "USA"
             },
             {
-                "name": "UC Berkeley",
+                "name": "Oregon State University",
                 "country": "USA"
             }
         ]
@@ -4893,15 +4793,15 @@
                 "country": "USA"
             },
             {
-                "name": "University of Oxford",
-                "country": "UK"
-            },
-            {
                 "name": "New York University",
                 "country": "USA"
             },
             {
                 "name": "DeepMind",
+                "country": "UK"
+            },
+            {
+                "name": "University of Oxford",
                 "country": "UK"
             }
         ]
@@ -5006,11 +4906,11 @@
         "url": "https://openreview.net/pdf?id=HkeGhoA5FX",
         "orgs": [
             {
-                "name": "Huaqiao University",
+                "name": "Northeastern University",
                 "country": "China"
             },
             {
-                "name": "Northeastern University",
+                "name": "Huaqiao University",
                 "country": "China"
             }
         ]
@@ -5029,12 +4929,12 @@
         "url": "https://openreview.net/pdf?id=HkeoOo09YX",
         "orgs": [
             {
-                "name": "University of Cambridge",
-                "country": "UK"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
             }
         ]
     },
@@ -5057,10 +4957,6 @@
             {
                 "name": "University of Oregon",
                 "country": "USA"
-            },
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
             }
         ]
     },
@@ -5103,11 +4999,11 @@
         "url": "https://openreview.net/pdf?id=HkfPSh05K7",
         "orgs": [
             {
-                "name": "UMass Amherst",
+                "name": "Microsoft",
                 "country": "USA"
             },
             {
-                "name": "Microsoft",
+                "name": "University of Massachusetts Amherst",
                 "country": "USA"
             },
             {
@@ -5131,6 +5027,10 @@
         "url": "https://openreview.net/pdf?id=HkfYOoCcYX",
         "orgs": [
             {
+                "name": "Pohang University of Science and Technology",
+                "country": "South Korea"
+            },
+            {
                 "name": "Samsung Research",
                 "country": "South Korea"
             }
@@ -5146,12 +5046,7 @@
             "José Lezama"
         ],
         "url": "https://openreview.net/pdf?id=Hkg4W2AcFm",
-        "orgs": [
-            {
-                "name": "Universidad de la República",
-                "country": "Uruguay"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICLR19-221",
@@ -5173,10 +5068,6 @@
             },
             {
                 "name": "Montreal Institute of Learning Algorithms",
-                "country": "Canada"
-            },
-            {
-                "name": "Université de Montréal",
                 "country": "Canada"
             }
         ]
@@ -5243,6 +5134,10 @@
         "url": "https://openreview.net/pdf?id=HkgYmhR9KX",
         "orgs": [
             {
+                "name": "Tencent",
+                "country": "China"
+            },
+            {
                 "name": "Peking University",
                 "country": "China"
             }
@@ -5263,11 +5158,11 @@
         "url": "https://openreview.net/pdf?id=HkgqFiAcFm",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "Northwestern University",
                 "country": "USA"
             },
             {
-                "name": "Northwestern University",
+                "name": "Princeton University",
                 "country": "USA"
             },
             {
@@ -5321,11 +5216,11 @@
                 "country": "USA"
             },
             {
-                "name": "University of Illinois",
+                "name": "Northwestern University",
                 "country": "USA"
             },
             {
-                "name": "Northwestern University",
+                "name": "University of Illinois",
                 "country": "USA"
             },
             {
@@ -5394,6 +5289,14 @@
             {
                 "name": "University of Technology Sydney",
                 "country": "Australia"
+            },
+            {
+                "name": "Alibaba AI Labs",
+                "country": "China"
+            },
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
             }
         ]
     },
@@ -5461,16 +5364,16 @@
                 "country": "USA"
             },
             {
-                "name": "Max Planck Institute for Intelligent Systems",
-                "country": "Germany"
+                "name": "Google",
+                "country": "USA"
             },
             {
                 "name": "University of Cambridge",
                 "country": "UK"
             },
             {
-                "name": "Google",
-                "country": "USA"
+                "name": "Max Planck Institute for Intelligent Systems",
+                "country": "Germany"
             }
         ]
     },
@@ -5522,12 +5425,12 @@
         "url": "https://openreview.net/pdf?id=HkxjYoCqKX",
         "orgs": [
             {
-                "name": "Qualcomm",
-                "country": "USA"
-            },
-            {
                 "name": "University of Amsterdam",
                 "country": "Netherlands"
+            },
+            {
+                "name": "Qualcomm",
+                "country": "USA"
             }
         ]
     },
@@ -5599,12 +5502,7 @@
             "Pablo Barceló"
         ],
         "url": "https://openreview.net/pdf?id=HyGBdo0qFm",
-        "orgs": [
-            {
-                "name": "Universidad de Chile",
-                "country": "Chile"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICLR19-240",
@@ -5617,7 +5515,12 @@
             "Juergen Schmidhuber"
         ],
         "url": "https://openreview.net/pdf?id=HyGEM3C9KQ",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Istituto Dalle Molle di Studi sull’Intelligenza Artificiale",
+                "country": "Switzerland"
+            }
+        ]
     },
     {
         "id": "ICLR19-241",
@@ -5684,12 +5587,12 @@
                 "country": "USA"
             },
             {
-                "name": "University of Illinois",
-                "country": "USA"
-            },
-            {
                 "name": "University of Science and Technology of China",
                 "country": "China"
+            },
+            {
+                "name": "University of Illinois",
+                "country": "USA"
             }
         ]
     },
@@ -5859,19 +5762,15 @@
         "url": "https://openreview.net/pdf?id=HyeVtoRqtQ",
         "orgs": [
             {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
                 "name": "Robert Bosch GmbH",
                 "country": "Germany"
             },
             {
-                "name": "Carnegie Mellon University",
-                "country": "USA"
-            },
-            {
                 "name": "Intel Labs",
-                "country": "USA"
-            },
-            {
-                "name": "Carnegie Mellon University",
                 "country": "USA"
             }
         ]
@@ -5952,15 +5851,15 @@
                 "country": "USA"
             },
             {
-                "name": "Microsoft",
-                "country": "USA"
-            },
-            {
                 "name": "New York University",
                 "country": "USA"
             },
             {
                 "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
                 "country": "USA"
             }
         ]
@@ -5983,19 +5882,15 @@
         "url": "https://openreview.net/pdf?id=Hyg_X2C5FX",
         "orgs": [
             {
-                "name": "Massachusetts Institute of Technology",
-                "country": "USA"
-            },
-            {
                 "name": "The Chinese University of Hong Kong",
                 "country": "China"
             },
             {
-                "name": "Massachusetts Institute of Technology",
+                "name": "IBM",
                 "country": "USA"
             },
             {
-                "name": "IBM",
+                "name": "Massachusetts Institute of Technology",
                 "country": "USA"
             }
         ]
@@ -6014,11 +5909,11 @@
         "url": "https://openreview.net/pdf?id=HygjqjR9Km",
         "orgs": [
             {
-                "name": "University of Melbourne",
+                "name": "Royal Melbourne Institute of Technology",
                 "country": "Australia"
             },
             {
-                "name": "Royal Melbourne Institute of Technology",
+                "name": "University of Melbourne",
                 "country": "Australia"
             }
         ]
@@ -6036,16 +5931,12 @@
         "url": "https://openreview.net/pdf?id=Hygn2o0qKX",
         "orgs": [
             {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
                 "name": "Robert Bosch GmbH",
                 "country": "Germany"
-            },
-            {
-                "name": "Carnegie Mellon University",
-                "country": "USA"
-            },
-            {
-                "name": "Carnegie Mellon University",
-                "country": "USA"
             }
         ]
     },
@@ -6102,10 +5993,6 @@
         ],
         "url": "https://openreview.net/pdf?id=HylTBhA5tQ",
         "orgs": [
-            {
-                "name": "University of California Los Angeles",
-                "country": "USA"
-            },
             {
                 "name": "Massachusetts Institute of Technology",
                 "country": "USA"
@@ -6251,15 +6138,15 @@
         "url": "https://openreview.net/pdf?id=HyxCxhRcY7",
         "orgs": [
             {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
                 "name": "University of Chicago",
                 "country": "USA"
             },
             {
                 "name": "Oregon State University",
-                "country": "USA"
-            },
-            {
-                "name": "UC Berkeley",
                 "country": "USA"
             }
         ]
@@ -6341,10 +6228,6 @@
         "url": "https://openreview.net/pdf?id=HyxnZh0ct7",
         "orgs": [
             {
-                "name": "FiveAI",
-                "country": "UK"
-            },
-            {
                 "name": "University of Oxford",
                 "country": "UK"
             }
@@ -6363,6 +6246,10 @@
         ],
         "url": "https://openreview.net/pdf?id=HyxzRsR9Y7",
         "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            },
             {
                 "name": "UT Austin",
                 "country": "USA"
@@ -6388,10 +6275,6 @@
             },
             {
                 "name": "Stanford University",
-                "country": "USA"
-            },
-            {
-                "name": "UC Santa Barbara",
                 "country": "USA"
             }
         ]
@@ -6463,11 +6346,11 @@
         "url": "https://openreview.net/pdf?id=S1E3Ko09F7",
         "orgs": [
             {
-                "name": "Georgia Institute of Technology",
+                "name": "UC Berkeley",
                 "country": "USA"
             },
             {
-                "name": "UC Berkeley",
+                "name": "Georgia Institute of Technology",
                 "country": "USA"
             }
         ]
@@ -6512,10 +6395,6 @@
             },
             {
                 "name": "Max Planck Institute for Biological Cybernetics",
-                "country": "Germany"
-            },
-            {
-                "name": "University of Tübingen",
                 "country": "Germany"
             }
         ]
@@ -6565,10 +6444,6 @@
             {
                 "name": "Chinese Academy of Sciences",
                 "country": "China"
-            },
-            {
-                "name": "Google",
-                "country": "USA"
             }
         ]
     },
@@ -6635,10 +6510,6 @@
         ],
         "url": "https://openreview.net/pdf?id=S1eOHo09KX",
         "orgs": [
-            {
-                "name": "University of California Los Angeles",
-                "country": "USA"
-            },
             {
                 "name": "University of California Los Angeles",
                 "country": "USA"
@@ -6741,10 +6612,6 @@
             {
                 "name": "Facebook",
                 "country": "USA"
-            },
-            {
-                "name": "Facebook",
-                "country": "USA"
             }
         ]
     },
@@ -6832,12 +6699,12 @@
         "url": "https://openreview.net/pdf?id=S1lDV3RcKm",
         "orgs": [
             {
-                "name": "Shanghai Jiao Tong University",
-                "country": "China"
-            },
-            {
                 "name": "University of Massachusetts Amherst",
                 "country": "USA"
+            },
+            {
+                "name": "Shanghai Jiao Tong University",
+                "country": "China"
             }
         ]
     },
@@ -6900,6 +6767,10 @@
             {
                 "name": "ETH Zürich",
                 "country": "Switzerland"
+            },
+            {
+                "name": "Huawei",
+                "country": "China"
             }
         ]
     },
@@ -6937,7 +6808,7 @@
         "url": "https://openreview.net/pdf?id=S1lhbnRqF7",
         "orgs": [
             {
-                "name": "UMass Amherst",
+                "name": "University of Massachusetts Amherst",
                 "country": "USA"
             },
             {
@@ -6989,15 +6860,15 @@
         "url": "https://openreview.net/pdf?id=S1lvm305YQ",
         "orgs": [
             {
-                "name": "Vector Institute",
-                "country": "Canada"
-            },
-            {
                 "name": "University of Toronto",
                 "country": "Canada"
             },
             {
                 "name": "Dalhousie University",
+                "country": "Canada"
+            },
+            {
+                "name": "Vector Institute",
                 "country": "Canada"
             }
         ]
@@ -7035,12 +6906,12 @@
         "url": "https://openreview.net/pdf?id=S1xLN3C9YX",
         "orgs": [
             {
-                "name": "Peking University",
-                "country": "China"
-            },
-            {
                 "name": "Carnegie Mellon University",
                 "country": "USA"
+            },
+            {
+                "name": "Peking University",
+                "country": "China"
             }
         ]
     },
@@ -7058,7 +6929,12 @@
             "Ruitong Huang"
         ],
         "url": "https://openreview.net/pdf?id=S1xNEhR9KX",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Borealis AI",
+                "country": "Canada"
+            }
+        ]
     },
     {
         "id": "ICLR19-304",
@@ -7128,8 +7004,8 @@
         "url": "https://openreview.net/pdf?id=S1xtAjR5tX",
         "orgs": [
             {
-                "name": "Microsoft",
-                "country": "USA"
+                "name": "Baidu",
+                "country": "China"
             },
             {
                 "name": "Microsoft",
@@ -7138,10 +7014,6 @@
             {
                 "name": "Duke University",
                 "country": "USA"
-            },
-            {
-                "name": "Baidu",
-                "country": "China"
             }
         ]
     },
@@ -7169,10 +7041,6 @@
             {
                 "name": "University of Oxford",
                 "country": "UK"
-            },
-            {
-                "name": "University of California Los Angeles",
-                "country": "USA"
             }
         ]
     },
@@ -7216,11 +7084,11 @@
                 "country": "USA"
             },
             {
-                "name": "DeepMind",
+                "name": "University of Oxford",
                 "country": "UK"
             },
             {
-                "name": "University of Oxford",
+                "name": "DeepMind",
                 "country": "UK"
             }
         ]
@@ -7275,12 +7143,12 @@
         "url": "https://openreview.net/pdf?id=SJe3HiC5KX",
         "orgs": [
             {
-                "name": "Monash University",
-                "country": "Australia"
-            },
-            {
                 "name": "Ecole Polytechnique Fédérale de Lausanne",
                 "country": "Switzerland"
+            },
+            {
+                "name": "Monash University",
+                "country": "Australia"
             },
             {
                 "name": "University of Queensland",
@@ -7303,15 +7171,11 @@
         "url": "https://openreview.net/pdf?id=SJe9rh0cFX",
         "orgs": [
             {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
                 "name": "University of Notre Dame",
-                "country": "USA"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
-                "name": "IBM",
                 "country": "USA"
             }
         ]
@@ -7351,15 +7215,15 @@
         "url": "https://openreview.net/pdf?id=SJfPFjA9Fm",
         "orgs": [
             {
-                "name": "University of Illinois",
-                "country": "USA"
-            },
-            {
                 "name": "Columbia University",
                 "country": "USA"
             },
             {
                 "name": "Northwestern University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Illinois",
                 "country": "USA"
             }
         ]
@@ -7383,11 +7247,11 @@
                 "country": "China"
             },
             {
-                "name": "Peking University",
+                "name": "Beijing University",
                 "country": "China"
             },
             {
-                "name": "Beijing University",
+                "name": "Peking University",
                 "country": "China"
             }
         ]
@@ -7426,12 +7290,16 @@
         "url": "https://openreview.net/pdf?id=SJgEl3A5tm",
         "orgs": [
             {
+                "name": "University of Central Florida",
+                "country": "USA"
+            },
+            {
                 "name": "Army Research Laboratory",
                 "country": "USA"
             },
             {
-                "name": "University of Central Florida",
-                "country": "USA"
+                "name": "Tencent",
+                "country": "China"
             }
         ]
     },
@@ -7451,6 +7319,10 @@
         "orgs": [
             {
                 "name": "The Education University of Hong Kong",
+                "country": "China"
+            },
+            {
+                "name": "Hong Kong University of Science and Technology",
                 "country": "China"
             }
         ]
@@ -7489,12 +7361,12 @@
         "url": "https://openreview.net/pdf?id=SJgsCjCqt7",
         "orgs": [
             {
-                "name": "California Institute of Technology",
-                "country": "USA"
-            },
-            {
                 "name": "Simon Fraser University",
                 "country": "Canada"
+            },
+            {
+                "name": "California Institute of Technology",
+                "country": "USA"
             }
         ]
     },
@@ -7515,7 +7387,11 @@
         "url": "https://openreview.net/pdf?id=SJgw_sRqFQ",
         "orgs": [
             {
-                "name": "Singapore University of Technology and Design",
+                "name": "National University of Singapore",
+                "country": "Singapore"
+            },
+            {
+                "name": "Institute for Infocomm Research",
                 "country": "Singapore"
             },
             {
@@ -7523,11 +7399,7 @@
                 "country": "Singapore"
             },
             {
-                "name": "National University of Singapore",
-                "country": "Singapore"
-            },
-            {
-                "name": "Institute for Infocomm Research",
+                "name": "Singapore University of Technology and Design",
                 "country": "Singapore"
             }
         ]
@@ -7548,12 +7420,12 @@
         "url": "https://openreview.net/pdf?id=SJl2niR9KQ",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
-                "country": "USA"
-            },
-            {
                 "name": "McGill University",
                 "country": "Canada"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
             },
             {
                 "name": "University of Toronto",
@@ -7580,11 +7452,11 @@
                 "country": "USA"
             },
             {
-                "name": "Carnegie Mellon University",
+                "name": "UC Berkeley",
                 "country": "USA"
             },
             {
-                "name": "UC Berkeley",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             }
         ]
@@ -7602,10 +7474,6 @@
         ],
         "url": "https://openreview.net/pdf?id=SJxTroR9F7",
         "orgs": [
-            {
-                "name": "New York University",
-                "country": "USA"
-            },
             {
                 "name": "New York University",
                 "country": "USA"
@@ -7648,7 +7516,12 @@
             "Yung Yi"
         ],
         "url": "https://openreview.net/pdf?id=SJxu5iR9KQ",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Korea Advanced Institute of Science and Technology",
+                "country": "South Korea"
+            }
+        ]
     },
     {
         "id": "ICLR19-328",
@@ -7669,11 +7542,11 @@
                 "country": "USA"
             },
             {
-                "name": "Facebook",
+                "name": "New York University",
                 "country": "USA"
             },
             {
-                "name": "New York University",
+                "name": "Facebook",
                 "country": "USA"
             }
         ]
@@ -7693,10 +7566,6 @@
         ],
         "url": "https://openreview.net/pdf?id=SJzR2iRcK7",
         "orgs": [
-            {
-                "name": "Georgia Institute of Technology",
-                "country": "USA"
-            },
             {
                 "name": "Georgia Institute of Technology",
                 "country": "USA"
@@ -7725,15 +7594,7 @@
         "url": "https://openreview.net/pdf?id=SJzSgnRcKX",
         "orgs": [
             {
-                "name": "Johns Hopkins University",
-                "country": "USA"
-            },
-            {
-                "name": "Google",
-                "country": "USA"
-            },
-            {
-                "name": "New York University",
+                "name": "Swarthmore College",
                 "country": "USA"
             },
             {
@@ -7741,7 +7602,15 @@
                 "country": "USA"
             },
             {
-                "name": "Swarthmore College",
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
                 "country": "USA"
             }
         ]
@@ -7791,8 +7660,16 @@
                 "country": "USA"
             },
             {
+                "name": "Istituto Dalle Molle di Studi sull’Intelligenza Artificiale",
+                "country": "Switzerland"
+            },
+            {
                 "name": "Imperial College London",
                 "country": "UK"
+            },
+            {
+                "name": "Intel Labs",
+                "country": "USA"
             }
         ]
     },
@@ -7815,11 +7692,11 @@
         "url": "https://openreview.net/pdf?id=SkE6PjC9KX",
         "orgs": [
             {
-                "name": "University of Oxford",
+                "name": "DeepMind",
                 "country": "UK"
             },
             {
-                "name": "DeepMind",
+                "name": "University of Oxford",
                 "country": "UK"
             }
         ]
@@ -7841,24 +7718,24 @@
         "url": "https://openreview.net/pdf?id=SkEYojRqtm",
         "orgs": [
             {
-                "name": "Microsoft",
-                "country": "USA"
-            },
-            {
                 "name": "Beijing Institute of Big Data Research",
                 "country": "China"
             },
             {
-                "name": "Peking University",
-                "country": "China"
+                "name": "University of Toronto",
+                "country": "Canada"
             },
             {
                 "name": "Vector Institute",
                 "country": "Canada"
             },
             {
-                "name": "University of Toronto",
-                "country": "Canada"
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Peking University",
+                "country": "China"
             }
         ]
     },
@@ -7920,15 +7797,11 @@
         "url": "https://openreview.net/pdf?id=SkMQg3C5K7",
         "orgs": [
             {
+                "name": "Princeton University",
+                "country": "USA"
+            },
+            {
                 "name": "Harvard University",
-                "country": "USA"
-            },
-            {
-                "name": "Princeton University",
-                "country": "USA"
-            },
-            {
-                "name": "Princeton University",
                 "country": "USA"
             }
         ]
@@ -7981,10 +7854,6 @@
         ],
         "url": "https://openreview.net/pdf?id=SkNksoRctQ",
         "orgs": [
-            {
-                "name": "Facebook",
-                "country": "USA"
-            },
             {
                 "name": "Facebook",
                 "country": "USA"
@@ -8049,11 +7918,11 @@
         "url": "https://openreview.net/pdf?id=SkeRTsAcYm",
         "orgs": [
             {
-                "name": "Naver Corp",
+                "name": "Seoul National University",
                 "country": "South Korea"
             },
             {
-                "name": "Seoul National University",
+                "name": "Naver Corp",
                 "country": "South Korea"
             }
         ]
@@ -8072,12 +7941,12 @@
         "url": "https://openreview.net/pdf?id=SkeVsiAcYm",
         "orgs": [
             {
-                "name": "Georgia Institute of Technology",
-                "country": "USA"
-            },
-            {
                 "name": "DeepMind",
                 "country": "UK"
+            },
+            {
+                "name": "Georgia Institute of Technology",
+                "country": "USA"
             }
         ]
     },
@@ -8186,8 +8055,8 @@
         "url": "https://openreview.net/pdf?id=SkgEaj05t7",
         "orgs": [
             {
-                "name": "Ruhr University Bochum",
-                "country": "Germany"
+                "name": "Montreal Institute of Learning Algorithms",
+                "country": "Canada"
             },
             {
                 "name": "Jagiellonian University",
@@ -8202,8 +8071,8 @@
                 "country": "UK"
             },
             {
-                "name": "Montreal Institute of Learning Algorithms",
-                "country": "Canada"
+                "name": "Ruhr University Bochum",
+                "country": "Germany"
             }
         ]
     },
@@ -8233,8 +8102,8 @@
                 "country": "USA"
             },
             {
-                "name": "Université de Montréal",
-                "country": "Canada"
+                "name": "Facebook",
+                "country": "USA"
             }
         ]
     },
@@ -8255,15 +8124,15 @@
         "url": "https://openreview.net/pdf?id=Skh4jRcKQ",
         "orgs": [
             {
-                "name": "UC Irvine",
-                "country": "USA"
-            },
-            {
                 "name": "Qualcomm",
                 "country": "USA"
             },
             {
                 "name": "University of California Los Angeles",
+                "country": "USA"
+            },
+            {
+                "name": "UC Irvine",
                 "country": "USA"
             }
         ]
@@ -8341,12 +8210,7 @@
             "Steve J. Altschuler"
         ],
         "url": "https://openreview.net/pdf?id=Sklv5iRqYX",
-        "orgs": [
-            {
-                "name": "INRIA",
-                "country": "France"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICLR19-356",
@@ -8406,11 +8270,11 @@
                 "country": "UK"
             },
             {
-                "name": "University of Oxford",
+                "name": "DeepMind",
                 "country": "UK"
             },
             {
-                "name": "DeepMind",
+                "name": "University of Oxford",
                 "country": "UK"
             }
         ]
@@ -8495,11 +8359,15 @@
         "url": "https://openreview.net/pdf?id=SyNPk2R9K7",
         "orgs": [
             {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            },
+            {
                 "name": "Shanghai Jiao Tong University",
                 "country": "China"
             },
             {
-                "name": "Massachusetts Institute of Technology",
+                "name": "Brown University",
                 "country": "USA"
             },
             {
@@ -8508,10 +8376,6 @@
             },
             {
                 "name": "Google",
-                "country": "USA"
-            },
-            {
-                "name": "Brown University",
                 "country": "USA"
             }
         ]
@@ -8579,12 +8443,16 @@
                 "country": "Australia"
             },
             {
-                "name": "University of Oxford",
-                "country": "UK"
+                "name": "Korea Advanced Institute of Science and Technology",
+                "country": "South Korea"
             },
             {
                 "name": "Baidu",
                 "country": "China"
+            },
+            {
+                "name": "University of Oxford",
+                "country": "UK"
             }
         ]
     },
@@ -8603,16 +8471,16 @@
         "url": "https://openreview.net/pdf?id=SyfIfnC5Ym",
         "orgs": [
             {
+                "name": "Huazhong University of Science and Technology",
+                "country": "China"
+            },
+            {
                 "name": "Peking University",
                 "country": "China"
             },
             {
                 "name": "Cornell University",
                 "country": "USA"
-            },
-            {
-                "name": "Huazhong University of Science and Technology",
-                "country": "China"
             }
         ]
     },
@@ -8632,15 +8500,15 @@
         "url": "https://openreview.net/pdf?id=SygD-hCcF7",
         "orgs": [
             {
+                "name": "University of Toronto",
+                "country": "Canada"
+            },
+            {
                 "name": "Uber AI Labs",
                 "country": "USA"
             },
             {
                 "name": "Vector Institute",
-                "country": "Canada"
-            },
-            {
-                "name": "University of Toronto",
                 "country": "Canada"
             }
         ]
@@ -8727,11 +8595,11 @@
         "url": "https://openreview.net/pdf?id=Syl7OsRqY7",
         "orgs": [
             {
-                "name": "University of Washington",
+                "name": "Salesforce Research",
                 "country": "USA"
             },
             {
-                "name": "Salesforce Research",
+                "name": "University of Washington",
                 "country": "USA"
             }
         ]
@@ -8836,12 +8704,12 @@
         "url": "https://openreview.net/pdf?id=SylPMnR9Ym",
         "orgs": [
             {
-                "name": "University of Southern California",
-                "country": "USA"
-            },
-            {
                 "name": "Ryerson University",
                 "country": "Canada"
+            },
+            {
+                "name": "University of Southern California",
+                "country": "USA"
             },
             {
                 "name": "University of Pennsylvania",
@@ -8864,11 +8732,11 @@
         "url": "https://openreview.net/pdf?id=Syx0Mh05YQ",
         "orgs": [
             {
-                "name": "Hikvision Research Institute",
+                "name": "University of California Los Angeles",
                 "country": "USA"
             },
             {
-                "name": "University of California Los Angeles",
+                "name": "Hikvision Research Institute",
                 "country": "USA"
             }
         ]
@@ -8890,16 +8758,16 @@
         "url": "https://openreview.net/pdf?id=Syx5V2CcFm",
         "orgs": [
             {
+                "name": "JD AI Research",
+                "country": "China"
+            },
+            {
                 "name": "University of Science and Technology of China",
                 "country": "China"
             },
             {
                 "name": "University of Iowa",
                 "country": "USA"
-            },
-            {
-                "name": "JD AI Research",
-                "country": "China"
             }
         ]
     },
@@ -8960,12 +8828,12 @@
         "url": "https://openreview.net/pdf?id=SyxZJn05YX",
         "orgs": [
             {
-                "name": "University of Sydney",
-                "country": "Australia"
-            },
-            {
                 "name": "The Chinese University of Hong Kong",
                 "country": "China"
+            },
+            {
+                "name": "University of Sydney",
+                "country": "Australia"
             }
         ]
     },
@@ -9011,12 +8879,12 @@
                 "country": "China"
             },
             {
-                "name": "Microsoft",
-                "country": "USA"
-            },
-            {
                 "name": "University of Chinese Academy of Sciences",
                 "country": "China"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
             }
         ]
     },
@@ -9116,12 +8984,12 @@
         "url": "https://openreview.net/pdf?id=r14EOsCqKX",
         "orgs": [
             {
-                "name": "Ecole Polytechnique Fédérale de Lausanne",
-                "country": "Switzerland"
-            },
-            {
                 "name": "Salesforce Research",
                 "country": "USA"
+            },
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
             }
         ]
     },
@@ -9239,12 +9107,12 @@
                 "country": "Israel"
             },
             {
-                "name": "Bar Ilan University",
-                "country": "Israel"
-            },
-            {
                 "name": "IBM",
                 "country": "USA"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
             },
             {
                 "name": "Allen Institute for Artificial Intelligence",
@@ -9268,11 +9136,11 @@
         "url": "https://openreview.net/pdf?id=r1eEG20qKQ",
         "orgs": [
             {
-                "name": "Vector Institute",
+                "name": "University of Toronto",
                 "country": "Canada"
             },
             {
-                "name": "University of Toronto",
+                "name": "Vector Institute",
                 "country": "Canada"
             }
         ]
@@ -9367,7 +9235,7 @@
         "url": "https://openreview.net/pdf?id=r1g4E3C9t7",
         "orgs": [
             {
-                "name": "University of Illinois at Urbana–Champaign",
+                "name": "IBM",
                 "country": "USA"
             },
             {
@@ -9375,7 +9243,11 @@
                 "country": "China"
             },
             {
-                "name": "IBM",
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "University of Illinois at Urbana–Champaign",
                 "country": "USA"
             }
         ]
@@ -9399,12 +9271,12 @@
                 "country": "France"
             },
             {
-                "name": "Facebook",
-                "country": "USA"
-            },
-            {
                 "name": "University of Rennes 1",
                 "country": "France"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
             }
         ]
     },
@@ -9422,15 +9294,15 @@
         "url": "https://openreview.net/pdf?id=r1gNni0qtm",
         "orgs": [
             {
+                "name": "Skolkovo Institute of Science and Technology",
+                "country": "Russia"
+            },
+            {
                 "name": "Moscow Institute of Physics and Technology",
                 "country": "Russia"
             },
             {
                 "name": "Russian Academy of Sciences",
-                "country": "Russia"
-            },
-            {
-                "name": "Skolkovo Institute of Science and Technology",
                 "country": "Russia"
             }
         ]
@@ -9489,12 +9361,12 @@
         "url": "https://openreview.net/pdf?id=r1laEnA5Ym",
         "orgs": [
             {
-                "name": "Université de Montréal",
-                "country": "Canada"
-            },
-            {
                 "name": "Facebook",
                 "country": "USA"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
             }
         ]
     },
@@ -9793,12 +9665,12 @@
         "url": "https://openreview.net/pdf?id=rJe10iC5K7",
         "orgs": [
             {
-                "name": "Shanghai Jiao Tong University",
-                "country": "China"
-            },
-            {
                 "name": "Massachusetts Institute of Technology",
                 "country": "USA"
+            },
+            {
+                "name": "Shanghai Jiao Tong University",
+                "country": "China"
             },
             {
                 "name": "Google",
@@ -9850,16 +9722,16 @@
         "url": "https://openreview.net/pdf?id=rJeXCo0cYX",
         "orgs": [
             {
-                "name": "University of Oregon",
-                "country": "USA"
-            },
-            {
                 "name": "Université de Montréal",
                 "country": "Canada"
             },
             {
                 "name": "IIT Bombay",
                 "country": "India"
+            },
+            {
+                "name": "University of Oregon",
+                "country": "USA"
             }
         ]
     },
@@ -9901,15 +9773,7 @@
                 "country": "USA"
             },
             {
-                "name": "Rice University",
-                "country": "USA"
-            },
-            {
                 "name": "VMware Research",
-                "country": "USA"
-            },
-            {
-                "name": "Rice University",
                 "country": "USA"
             }
         ]
@@ -9989,10 +9853,6 @@
         ],
         "url": "https://openreview.net/pdf?id=rJg4J3CqFm",
         "orgs": [
-            {
-                "name": "Massachusetts Institute of Technology",
-                "country": "USA"
-            },
             {
                 "name": "Massachusetts Institute of Technology",
                 "country": "USA"
@@ -10104,15 +9964,15 @@
         "url": "https://openreview.net/pdf?id=rJl0r3R9KX",
         "orgs": [
             {
-                "name": "UC Irvine",
-                "country": "USA"
-            },
-            {
                 "name": "ETH Zürich",
                 "country": "Switzerland"
             },
             {
                 "name": "California Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "UC Irvine",
                 "country": "USA"
             }
         ]
@@ -10179,12 +10039,12 @@
         "url": "https://openreview.net/pdf?id=rJlWOj0qF7",
         "orgs": [
             {
-                "name": "Tsinghua University",
-                "country": "China"
-            },
-            {
                 "name": "University of Bonn",
                 "country": "Germany"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -10254,11 +10114,11 @@
                 "country": "China"
             },
             {
-                "name": "University of California Davis",
+                "name": "IBM",
                 "country": "USA"
             },
             {
-                "name": "IBM",
+                "name": "University of California Davis",
                 "country": "USA"
             },
             {
@@ -10283,12 +10143,12 @@
         "url": "https://openreview.net/pdf?id=rJlnB3C5Ym",
         "orgs": [
             {
-                "name": "Tsinghua University",
-                "country": "China"
-            },
-            {
                 "name": "UC Berkeley",
                 "country": "USA"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -10350,16 +10210,7 @@
             "Cho-Jui Hsieh"
         ],
         "url": "https://openreview.net/pdf?id=rk4Qso0cKm",
-        "orgs": [
-            {
-                "name": "UC Davis",
-                "country": "USA"
-            },
-            {
-                "name": "University of California Los Angeles",
-                "country": "USA"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICLR19-442",
@@ -10415,11 +10266,11 @@
         "url": "https://openreview.net/pdf?id=rkeSiiA5Fm",
         "orgs": [
             {
-                "name": "Purdue University",
+                "name": "Honda Research Institute",
                 "country": "USA"
             },
             {
-                "name": "Honda Research Institute",
+                "name": "Purdue University",
                 "country": "USA"
             }
         ]
@@ -10476,7 +10327,7 @@
         "url": "https://openreview.net/pdf?id=rkevMnRqYQ",
         "orgs": [
             {
-                "name": "Stanford University",
+                "name": "UC Berkeley",
                 "country": "USA"
             },
             {
@@ -10484,7 +10335,7 @@
                 "country": "Netherlands"
             },
             {
-                "name": "UC Berkeley",
+                "name": "Stanford University",
                 "country": "USA"
             }
         ]
@@ -10582,16 +10433,16 @@
         "url": "https://openreview.net/pdf?id=rkgW0oA9FX",
         "orgs": [
             {
+                "name": "Uber AI Labs",
+                "country": "USA"
+            },
+            {
                 "name": "University of Toronto",
                 "country": "Canada"
             },
             {
                 "name": "University of Waterloo",
                 "country": "Canada"
-            },
-            {
-                "name": "Uber AI Labs",
-                "country": "USA"
             }
         ]
     },
@@ -10618,10 +10469,6 @@
             {
                 "name": "University of Illinois",
                 "country": "USA"
-            },
-            {
-                "name": "Baidu",
-                "country": "China"
             }
         ]
     },
@@ -10720,16 +10567,16 @@
         "url": "https://openreview.net/pdf?id=rkluJ2R9KQ",
         "orgs": [
             {
-                "name": "University of British Columbia",
-                "country": "Canada"
+                "name": "Google",
+                "country": "USA"
             },
             {
                 "name": "Georgia Institute of Technology",
                 "country": "USA"
             },
             {
-                "name": "Google",
-                "country": "USA"
+                "name": "University of British Columbia",
+                "country": "Canada"
             }
         ]
     },
@@ -10758,19 +10605,15 @@
                 "country": "Canada"
             },
             {
-                "name": "Montreal Institute of Learning Algorithms",
-                "country": "Canada"
+                "name": "University of Cambridge",
+                "country": "UK"
             },
             {
                 "name": "Microsoft",
                 "country": "USA"
             },
             {
-                "name": "University of Cambridge",
-                "country": "UK"
-            },
-            {
-                "name": "Université de Montréal",
+                "name": "Montreal Institute of Learning Algorithms",
                 "country": "Canada"
             }
         ]
@@ -10788,10 +10631,6 @@
         ],
         "url": "https://openreview.net/pdf?id=rkxQ-nA9FX",
         "orgs": [
-            {
-                "name": "Princeton University",
-                "country": "USA"
-            },
             {
                 "name": "Princeton University",
                 "country": "USA"
@@ -10835,15 +10674,15 @@
         "url": "https://openreview.net/pdf?id=rkxacs0qY7",
         "orgs": [
             {
+                "name": "University of Toronto",
+                "country": "Canada"
+            },
+            {
                 "name": "Tsinghua University",
                 "country": "China"
             },
             {
                 "name": "Vector Institute",
-                "country": "Canada"
-            },
-            {
-                "name": "University of Toronto",
                 "country": "Canada"
             }
         ]
@@ -10881,11 +10720,11 @@
         "url": "https://openreview.net/pdf?id=rkxoNnC5FQ",
         "orgs": [
             {
-                "name": "Intel Labs",
+                "name": "Toyota Technological Institute at Chicago",
                 "country": "USA"
             },
             {
-                "name": "Toyota Technological Institute at Chicago",
+                "name": "Intel Labs",
                 "country": "USA"
             }
         ]
@@ -10930,15 +10769,15 @@
                 "country": "USA"
             },
             {
+                "name": "Yale University",
+                "country": "USA"
+            },
+            {
                 "name": "Georgia Institute of Technology",
                 "country": "USA"
             },
             {
                 "name": "Stony Brook University",
-                "country": "USA"
-            },
-            {
-                "name": "Yale University",
                 "country": "USA"
             }
         ]
@@ -11030,11 +10869,11 @@
         "url": "https://openreview.net/pdf?id=ryGfnoC5KQ",
         "orgs": [
             {
-                "name": "Massachusetts Institute of Technology",
+                "name": "University of Texas at Austin",
                 "country": "USA"
             },
             {
-                "name": "University of Texas at Austin",
+                "name": "Massachusetts Institute of Technology",
                 "country": "USA"
             }
         ]
@@ -11068,11 +10907,11 @@
                 "country": "Switzerland"
             },
             {
-                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "name": "Swiss Data Science Center",
                 "country": "Switzerland"
             },
             {
-                "name": "Swiss Data Science Center",
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
                 "country": "Switzerland"
             }
         ]
@@ -11157,11 +10996,11 @@
         "url": "https://openreview.net/pdf?id=rye7knCqK7",
         "orgs": [
             {
-                "name": "Facebook",
+                "name": "New York University",
                 "country": "USA"
             },
             {
-                "name": "New York University",
+                "name": "Facebook",
                 "country": "USA"
             }
         ]
@@ -11212,6 +11051,10 @@
                 "country": "USA"
             },
             {
+                "name": "Korea Advanced Institute of Science and Technology",
+                "country": "South Korea"
+            },
+            {
                 "name": "Microsoft",
                 "country": "USA"
             }
@@ -11249,10 +11092,6 @@
         ],
         "url": "https://openreview.net/pdf?id=ryetZ20ctX",
         "orgs": [
-            {
-                "name": "Massachusetts Institute of Technology",
-                "country": "USA"
-            },
             {
                 "name": "Massachusetts Institute of Technology",
                 "country": "USA"
@@ -11343,12 +11182,12 @@
                 "country": "China"
             },
             {
-                "name": "University of Hong Kong",
-                "country": "China"
-            },
-            {
                 "name": "SenseTime Research",
                 "country": "Hong Kong"
+            },
+            {
+                "name": "University of Hong Kong",
+                "country": "China"
             }
         ]
     },
@@ -11400,11 +11239,11 @@
         "url": "https://openreview.net/pdf?id=rygkk305YQ",
         "orgs": [
             {
-                "name": "Massachusetts Institute of Technology",
+                "name": "Google",
                 "country": "USA"
             },
             {
-                "name": "Google",
+                "name": "Massachusetts Institute of Technology",
                 "country": "USA"
             }
         ]
@@ -11490,11 +11329,11 @@
         "url": "https://openreview.net/pdf?id=ryl8-3AcFX",
         "orgs": [
             {
-                "name": "Facebook",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
-                "name": "Carnegie Mellon University",
+                "name": "Facebook",
                 "country": "USA"
             }
         ]
@@ -11514,11 +11353,11 @@
         "url": "https://openreview.net/pdf?id=rylDfnCqF7",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
+                "name": "University of California San Diego",
                 "country": "USA"
             },
             {
-                "name": "University of California San Diego",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             }
         ]
@@ -11560,15 +11399,15 @@
         "url": "https://openreview.net/pdf?id=rylNH20qFQ",
         "orgs": [
             {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
                 "name": "Princeton University",
                 "country": "USA"
             },
             {
                 "name": "Massachusetts Institute of Technology",
-                "country": "USA"
-            },
-            {
-                "name": "Google",
                 "country": "USA"
             }
         ]
@@ -11665,6 +11504,10 @@
             {
                 "name": "Salesforce Research",
                 "country": "USA"
+            },
+            {
+                "name": "Hong Kong University of Science and Technology",
+                "country": "China"
             }
         ]
     },
@@ -11682,11 +11525,11 @@
         "url": "https://openreview.net/pdf?id=ryxwJhC9YX",
         "orgs": [
             {
-                "name": "Korea Advanced Institute of Science and Technology",
+                "name": "Pohang University of Science and Technology",
                 "country": "South Korea"
             },
             {
-                "name": "Pohang University of Science and Technology",
+                "name": "Korea Advanced Institute of Science and Technology",
                 "country": "South Korea"
             }
         ]
@@ -11708,6 +11551,10 @@
             {
                 "name": "Intel Labs",
                 "country": "USA"
+            },
+            {
+                "name": "King Abdullah University of Science and Technology",
+                "country": "Saudi Arabia"
             }
         ]
     },
@@ -11730,11 +11577,11 @@
                 "country": "China"
             },
             {
-                "name": "Boston University",
+                "name": "Brown University",
                 "country": "USA"
             },
             {
-                "name": "Brown University",
+                "name": "Boston University",
                 "country": "USA"
             }
         ]

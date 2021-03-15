@@ -37,11 +37,11 @@
                 "country": "USA"
             },
             {
-                "name": "Stanford University",
+                "name": "University of Massachusetts Amherst",
                 "country": "USA"
             },
             {
-                "name": "Google",
+                "name": "Stanford University",
                 "country": "USA"
             }
         ]
@@ -62,12 +62,12 @@
         "url": "https://www.aclweb.org/anthology/K16-1003.pdf",
         "orgs": [
             {
-                "name": "Dublin City University",
-                "country": "Ireland"
-            },
-            {
                 "name": "University of Caen Normandy",
                 "country": "France"
+            },
+            {
+                "name": "Dublin City University",
+                "country": "Ireland"
             }
         ]
     },
@@ -84,10 +84,6 @@
         ],
         "url": "https://www.aclweb.org/anthology/K16-1004.pdf",
         "orgs": [
-            {
-                "name": "IBM",
-                "country": "USA"
-            },
             {
                 "name": "IBM",
                 "country": "USA"
@@ -147,15 +143,15 @@
         "url": "https://www.aclweb.org/anthology/K16-1007.pdf",
         "orgs": [
             {
+                "name": "Northwestern University",
+                "country": "USA"
+            },
+            {
                 "name": "University of Rochester",
                 "country": "USA"
             },
             {
                 "name": "Florida Institute for Human and Machine Cognition",
-                "country": "USA"
-            },
-            {
-                "name": "Northwestern University",
                 "country": "USA"
             }
         ]
@@ -210,12 +206,12 @@
         "url": "https://www.aclweb.org/anthology/K16-1010.pdf",
         "orgs": [
             {
-                "name": "Tohoku University",
-                "country": "Japan"
-            },
-            {
                 "name": "University of Colorado Boulder",
                 "country": "USA"
+            },
+            {
+                "name": "Tohoku University",
+                "country": "Japan"
             }
         ]
     },
@@ -309,16 +305,16 @@
         "url": "https://www.aclweb.org/anthology/K16-1015.pdf",
         "orgs": [
             {
-                "name": "Monash University",
-                "country": "Australia"
+                "name": "Indian Institute of Technology Bombay",
+                "country": "India"
             },
             {
                 "name": "IITB Monash Research Academy",
                 "country": "India"
             },
             {
-                "name": "Indian Institute of Technology Bombay",
-                "country": "India"
+                "name": "Monash University",
+                "country": "Australia"
             }
         ]
     },
@@ -338,7 +334,7 @@
         "url": "https://www.aclweb.org/anthology/K16-1016.pdf",
         "orgs": [
             {
-                "name": "IITB Monash Research Academy",
+                "name": "Indian Institute of Technology Bombay",
                 "country": "India"
             },
             {
@@ -346,7 +342,7 @@
                 "country": "USA"
             },
             {
-                "name": "Indian Institute of Technology Bombay",
+                "name": "IITB Monash Research Academy",
                 "country": "India"
             }
         ]
@@ -494,12 +490,7 @@
             "Phillippe Langlais"
         ],
         "url": "https://www.aclweb.org/anthology/K16-1023.pdf",
-        "orgs": [
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "CoNLL16-23",
@@ -540,11 +531,11 @@
         "url": "https://www.aclweb.org/anthology/K16-1025.pdf",
         "orgs": [
             {
-                "name": "Keio University",
+                "name": "National Institute of Informatics",
                 "country": "Japan"
             },
             {
-                "name": "National Institute of Informatics",
+                "name": "Keio University",
                 "country": "Japan"
             }
         ]
@@ -565,19 +556,19 @@
         "url": "https://www.aclweb.org/anthology/K16-1026.pdf",
         "orgs": [
             {
-                "name": "Dartmouth College",
-                "country": "USA"
-            },
-            {
                 "name": "Sun Yat-sen University",
                 "country": "China"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
             },
             {
                 "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
-                "name": "Microsoft",
+                "name": "Dartmouth College",
                 "country": "USA"
             }
         ]
@@ -596,12 +587,12 @@
         "url": "https://www.aclweb.org/anthology/K16-1027.pdf",
         "orgs": [
             {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
                 "name": "Indian Institute of Technology Bombay",
                 "country": "India"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
             }
         ]
     },
@@ -621,12 +612,12 @@
         "url": "https://www.aclweb.org/anthology/K16-1028.pdf",
         "orgs": [
             {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
                 "name": "Université de Montréal",
                 "country": "Canada"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
             }
         ]
     },
@@ -643,10 +634,6 @@
         ],
         "url": "https://www.aclweb.org/anthology/K16-1029.pdf",
         "orgs": [
-            {
-                "name": "Stanford University",
-                "country": "USA"
-            },
             {
                 "name": "Stanford University",
                 "country": "USA"
@@ -668,16 +655,16 @@
         "url": "https://www.aclweb.org/anthology/K16-1030.pdf",
         "orgs": [
             {
-                "name": "University of Edinburgh",
-                "country": "UK"
-            },
-            {
                 "name": "Nara Institute of Science and Technology",
                 "country": "Japan"
             },
             {
                 "name": "Johns Hopkins Univeristy",
                 "country": "USA"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
             }
         ]
     },

@@ -37,16 +37,12 @@
                 "country": "USA"
             },
             {
-                "name": "Slovak Academy of Sciences",
-                "country": "Slovakia"
-            },
-            {
-                "name": "University of Buenos Aires",
-                "country": "Argentina"
-            },
-            {
                 "name": "University of Pennsylvania",
                 "country": "USA"
+            },
+            {
+                "name": "Slovak Academy of Sciences",
+                "country": "Slovakia"
             }
         ]
     },
@@ -65,11 +61,11 @@
         "url": "https://www.aclweb.org/anthology/N12-1003.pdf",
         "orgs": [
             {
-                "name": "Educational Testing Service",
+                "name": "Hunter College and the Graduate Center",
                 "country": "USA"
             },
             {
-                "name": "Hunter College and the Graduate Center",
+                "name": "Educational Testing Service",
                 "country": "USA"
             }
         ]
@@ -106,10 +102,6 @@
         "url": "https://www.aclweb.org/anthology/N12-1005.pdf",
         "orgs": [
             {
-                "name": "CNRS University of Paris",
-                "country": "France"
-            },
-            {
                 "name": "Univ Paris Sud",
                 "country": "France"
             }
@@ -139,11 +131,11 @@
                 "country": "USA"
             },
             {
-                "name": "Raytheon BBN Technologies",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             },
             {
-                "name": "Johns Hopkins University",
+                "name": "Raytheon BBN Technologies",
                 "country": "USA"
             }
         ]
@@ -164,11 +156,11 @@
         "url": "https://www.aclweb.org/anthology/N12-1007.pdf",
         "orgs": [
             {
-                "name": "Stanford University",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             },
             {
-                "name": "Johns Hopkins University",
+                "name": "Stanford University",
                 "country": "USA"
             }
         ]
@@ -384,11 +376,11 @@
         "url": "https://www.aclweb.org/anthology/N12-1019.pdf",
         "orgs": [
             {
-                "name": "Educational Testing Service",
+                "name": "Hunter College and the Graduate Center",
                 "country": "USA"
             },
             {
-                "name": "Hunter College and the Graduate Center",
+                "name": "Educational Testing Service",
                 "country": "USA"
             }
         ]
@@ -425,16 +417,16 @@
         "url": "https://www.aclweb.org/anthology/N12-1021.pdf",
         "orgs": [
             {
+                "name": "University of Colorado Boulder",
+                "country": "USA"
+            },
+            {
                 "name": "Educational Testing Service",
                 "country": "USA"
             },
             {
                 "name": "University of Edinburgh",
                 "country": "UK"
-            },
-            {
-                "name": "University of Colorado Boulder",
-                "country": "USA"
             }
         ]
     },
@@ -450,10 +442,6 @@
         ],
         "url": "https://www.aclweb.org/anthology/N12-1022.pdf",
         "orgs": [
-            {
-                "name": "University of Ottawa",
-                "country": "Canada"
-            },
             {
                 "name": "University of Ottawa",
                 "country": "Canada"
@@ -493,7 +481,12 @@
             "Jason Eisner"
         ],
         "url": "https://www.aclweb.org/anthology/N12-1024.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
     },
     {
         "id": "NAACL12-24",
@@ -510,12 +503,12 @@
         "url": "https://www.aclweb.org/anthology/N12-1025.pdf",
         "orgs": [
             {
-                "name": "Cairo University",
-                "country": "Egypt"
-            },
-            {
                 "name": "Qatar Computing Research Institute",
                 "country": "Qatar"
+            },
+            {
+                "name": "Cairo University",
+                "country": "Egypt"
             }
         ]
     },
@@ -586,15 +579,15 @@
         "url": "https://www.aclweb.org/anthology/N12-1029.pdf",
         "orgs": [
             {
+                "name": "Hunter College and the Graduate Center",
+                "country": "USA"
+            },
+            {
                 "name": "Educational Testing Service",
                 "country": "USA"
             },
             {
                 "name": "Indiana University",
-                "country": "USA"
-            },
-            {
-                "name": "Hunter College and the Graduate Center",
                 "country": "USA"
             }
         ]
@@ -738,11 +731,11 @@
         "url": "https://www.aclweb.org/anthology/N12-1037.pdf",
         "orgs": [
             {
-                "name": "Harvard University",
+                "name": "Brown University",
                 "country": "USA"
             },
             {
-                "name": "Brown University",
+                "name": "Harvard University",
                 "country": "USA"
             }
         ]
@@ -797,12 +790,12 @@
         "url": "https://www.aclweb.org/anthology/N12-1040.pdf",
         "orgs": [
             {
-                "name": "University of Sheffield",
-                "country": "UK"
-            },
-            {
                 "name": "University of Melbourne",
                 "country": "Australia"
+            },
+            {
+                "name": "University of Sheffield",
+                "country": "UK"
             }
         ]
     },
@@ -875,11 +868,11 @@
         "url": "https://www.aclweb.org/anthology/N12-1044.pdf",
         "orgs": [
             {
-                "name": "University of Alberta",
+                "name": "University of Toronto",
                 "country": "Canada"
             },
             {
-                "name": "University of Toronto",
+                "name": "University of Alberta",
                 "country": "Canada"
             }
         ]
@@ -976,10 +969,6 @@
             {
                 "name": "Stanford University",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -1033,12 +1022,12 @@
         "url": "https://www.aclweb.org/anthology/N12-1052.pdf",
         "orgs": [
             {
-                "name": "Google",
-                "country": "USA"
-            },
-            {
                 "name": "Uppsala University",
                 "country": "Sweden"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
             }
         ]
     },
@@ -1073,11 +1062,11 @@
         "url": "https://www.aclweb.org/anthology/N12-1054.pdf",
         "orgs": [
             {
-                "name": "Google",
+                "name": "Massachusetts Institute of Technology",
                 "country": "USA"
             },
             {
-                "name": "Massachusetts Institute of Technology",
+                "name": "Google",
                 "country": "USA"
             }
         ]
@@ -1094,12 +1083,7 @@
             "Hinrich Schütze"
         ],
         "url": "https://www.aclweb.org/anthology/N12-1055.pdf",
-        "orgs": [
-            {
-                "name": "University of Stuttgart",
-                "country": "Germany"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "NAACL12-55",
@@ -1391,10 +1375,6 @@
             {
                 "name": "University of Edinburgh",
                 "country": "UK"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -1532,10 +1512,6 @@
             {
                 "name": "University of Michigan",
                 "country": "USA"
-            },
-            {
-                "name": "Microsoft",
-                "country": "USA"
             }
         ]
     },
@@ -1628,12 +1604,7 @@
             "Martín Domínguez"
         ],
         "url": "https://www.aclweb.org/anthology/N12-1082.pdf",
-        "orgs": [
-            {
-                "name": "University of Córdoba",
-                "country": "Spain"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "NAACL12-82",
@@ -1879,19 +1850,19 @@
         "url": "https://www.aclweb.org/anthology/N12-1094.pdf",
         "orgs": [
             {
-                "name": "University of Washington",
-                "country": "USA"
-            },
-            {
-                "name": "Columbia University",
-                "country": "USA"
-            },
-            {
                 "name": "University of Maryland",
                 "country": "USA"
             },
             {
+                "name": "University of Washington",
+                "country": "USA"
+            },
+            {
                 "name": "Stony Brook University",
+                "country": "USA"
+            },
+            {
+                "name": "Columbia University",
                 "country": "USA"
             },
             {
@@ -1918,11 +1889,11 @@
         "url": "https://www.aclweb.org/anthology/N12-1095.pdf",
         "orgs": [
             {
-                "name": "Google",
+                "name": "UC Berkeley",
                 "country": "USA"
             },
             {
-                "name": "UC Berkeley",
+                "name": "Google",
                 "country": "USA"
             }
         ]

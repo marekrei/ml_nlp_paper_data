@@ -12,12 +12,12 @@
         "url": "https://www.aclweb.org/anthology/J16-1001.pdf",
         "orgs": [
             {
-                "name": "Google",
-                "country": "USA"
-            },
-            {
                 "name": "Nara Institute of Science and Technology",
                 "country": "Japan"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
             }
         ]
     },
@@ -36,14 +36,6 @@
             {
                 "name": "University of Guilan",
                 "country": "Iran"
-            },
-            {
-                "name": "Aix Marseille University",
-                "country": "France"
-            },
-            {
-                "name": "Aix Marseille University",
-                "country": "France"
             }
         ]
     },
@@ -127,10 +119,6 @@
             {
                 "name": "University of Rochester",
                 "country": "USA"
-            },
-            {
-                "name": "University of Padua",
-                "country": "Italy"
             }
         ]
     },
@@ -148,19 +136,15 @@
         "url": "https://www.aclweb.org/anthology/J16-2003.pdf",
         "orgs": [
             {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            },
+            {
                 "name": "University of Cambridge",
                 "country": "UK"
             },
             {
                 "name": "LIMSI",
-                "country": "France"
-            },
-            {
-                "name": "University of Texas at Austin",
-                "country": "USA"
-            },
-            {
-                "name": "Université́ Paris Saclay",
                 "country": "France"
             }
         ]
@@ -179,12 +163,12 @@
         "url": "https://www.aclweb.org/anthology/J16-2004.pdf",
         "orgs": [
             {
-                "name": "National University of Singapore",
-                "country": "Singapore"
-            },
-            {
                 "name": "Qatar Computing Research Institute",
                 "country": "Qatar"
+            },
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
             }
         ]
     },
@@ -204,23 +188,23 @@
         "url": "https://www.aclweb.org/anthology/J16-2005.pdf",
         "orgs": [
             {
-                "name": "Facebook",
-                "country": "USA"
-            },
-            {
-                "name": "University of Lisbon",
-                "country": "Portugal"
+                "name": "DeepMind",
+                "country": "UK"
             },
             {
                 "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
-                "name": "DeepMind",
-                "country": "UK"
+                "name": "Feedzai Research",
+                "country": "Portugal"
             },
             {
-                "name": "Feedzai Research",
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "University of Lisbon",
                 "country": "Portugal"
             }
         ]
@@ -258,12 +242,12 @@
         "url": "https://www.aclweb.org/anthology/J16-2007.pdf",
         "orgs": [
             {
-                "name": "University of Malta",
-                "country": "Malta"
-            },
-            {
                 "name": "University of Geneva",
                 "country": "Switzerland"
+            },
+            {
+                "name": "University of Malta",
+                "country": "Malta"
             },
             {
                 "name": "University of Groeningen",
@@ -363,12 +347,12 @@
         "url": "https://www.aclweb.org/anthology/J16-3005.pdf",
         "orgs": [
             {
-                "name": "University of Bucharest",
-                "country": "Romania"
-            },
-            {
                 "name": "Educational Testing Service",
                 "country": "USA"
+            },
+            {
+                "name": "University of Bucharest",
+                "country": "Romania"
             }
         ]
     },
@@ -404,19 +388,11 @@
         "url": "https://www.aclweb.org/anthology/J16-3007.pdf",
         "orgs": [
             {
-                "name": "University of Twente",
-                "country": "Netherlands"
-            },
-            {
                 "name": "Tilburg University",
                 "country": "Netherlands"
             },
             {
                 "name": "University of Twente",
-                "country": "Netherlands"
-            },
-            {
-                "name": "Erasmus University Rotterdam",
                 "country": "Netherlands"
             },
             {
@@ -424,7 +400,7 @@
                 "country": "USA"
             },
             {
-                "name": "Tilburg University",
+                "name": "Erasmus University Rotterdam",
                 "country": "Netherlands"
             }
         ]
@@ -443,12 +419,12 @@
         "url": "https://www.aclweb.org/anthology/J16-3008.pdf",
         "orgs": [
             {
-                "name": "Chinese Academy of Sciences",
-                "country": "China"
-            },
-            {
                 "name": "University of Illinois at Chicago",
                 "country": "USA"
+            },
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
             }
         ]
     },
@@ -476,10 +452,6 @@
         ],
         "url": "https://www.aclweb.org/anthology/J16-4002.pdf",
         "orgs": [
-            {
-                "name": "University of Trento",
-                "country": "Italy"
-            },
             {
                 "name": "University of Trento",
                 "country": "Italy"
@@ -523,10 +495,6 @@
             {
                 "name": "University of Cambridge",
                 "country": "UK"
-            },
-            {
-                "name": "University of Cambridge",
-                "country": "UK"
             }
         ]
     },
@@ -543,12 +511,7 @@
             "Márta Abrusán"
         ],
         "url": "https://www.aclweb.org/anthology/J16-4005.pdf",
-        "orgs": [
-            {
-                "name": "Paul Sabatier University",
-                "country": "France"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "CL16-24",
@@ -621,12 +584,12 @@
         "url": "https://www.aclweb.org/anthology/J16-4009.pdf",
         "orgs": [
             {
-                "name": "Linköping University",
-                "country": "Sweden"
-            },
-            {
                 "name": "University of Oslo",
                 "country": "Norway"
+            },
+            {
+                "name": "Linköping University",
+                "country": "Sweden"
             }
         ]
     },
@@ -680,12 +643,12 @@
         "url": "https://www.aclweb.org/anthology/J16-4012.pdf",
         "orgs": [
             {
-                "name": "National University of Singapore",
-                "country": "Singapore"
-            },
-            {
                 "name": "Utrecht University",
                 "country": "Netherlands"
+            },
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
             }
         ]
     }

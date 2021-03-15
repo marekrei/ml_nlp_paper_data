@@ -50,12 +50,12 @@
                 "country": "USA"
             },
             {
-                "name": "Google",
-                "country": "USA"
-            },
-            {
                 "name": "Baidu",
                 "country": "China"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
             }
         ]
     },
@@ -111,10 +111,6 @@
         "url": "https://papers.nips.cc//paper/5312-zeta-hull-pursuits-learning-nonconvex-data-hulls.pdf",
         "orgs": [
             {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
                 "name": "The Chinese University of Hong Kong",
                 "country": "China"
             },
@@ -139,15 +135,11 @@
         "url": "https://papers.nips.cc//paper/5414-grouping-based-low-rank-trajectory-completion-and-3d-reconstruction.pdf",
         "orgs": [
             {
-                "name": "Universidad de los Andes",
-                "country": "Colombia"
-            },
-            {
-                "name": "University of Zaragoza",
-                "country": "Spain"
-            },
-            {
                 "name": "University of California",
+                "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
                 "country": "USA"
             }
         ]
@@ -245,10 +237,6 @@
             {
                 "name": "Stanford University",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -304,15 +292,15 @@
         "url": "https://papers.nips.cc//paper/5630-multivariate-regression-with-calibration.pdf",
         "orgs": [
             {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            },
+            {
                 "name": "Princeton University",
                 "country": "USA"
             },
             {
                 "name": "Massachusetts Institute of Technology",
-                "country": "USA"
-            },
-            {
-                "name": "Johns Hopkins University",
                 "country": "USA"
             }
         ]
@@ -329,10 +317,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5292-exact-post-model-selection-inference-for-marginal-screening.pdf",
         "orgs": [
-            {
-                "name": "Stanford University",
-                "country": "USA"
-            },
             {
                 "name": "Stanford University",
                 "country": "USA"
@@ -355,12 +339,12 @@
         "url": "https://papers.nips.cc//paper/5304-on-a-theory-of-nonparametric-pairwise-similarity-for-clustering-connecting-clustering-to-classification.pdf",
         "orgs": [
             {
-                "name": "University of Illinois",
-                "country": "USA"
-            },
-            {
                 "name": "National University of Singapore",
                 "country": "Singapore"
+            },
+            {
+                "name": "University of Illinois",
+                "country": "USA"
             }
         ]
     },
@@ -450,11 +434,11 @@
         "url": "https://papers.nips.cc//paper/5453-almost-no-label-no-cry.pdf",
         "orgs": [
             {
-                "name": "Australian National University",
+                "name": "University of New South Wales",
                 "country": "Australia"
             },
             {
-                "name": "University of New South Wales",
+                "name": "Australian National University",
                 "country": "Australia"
             }
         ]
@@ -479,10 +463,6 @@
             {
                 "name": "Columbia University",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -501,8 +481,8 @@
         "url": "https://papers.nips.cc//paper/5561-object-localization-based-on-structural-svm-using-privileged-information.pdf",
         "orgs": [
             {
-                "name": "INRIA",
-                "country": "France"
+                "name": "Pohang University of Science and Technology",
+                "country": "South Korea"
             }
         ]
     },
@@ -520,10 +500,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5546-multi-view-perceptron-a-deep-model-for-learning-face-identity-and-view-representations.pdf",
         "orgs": [
-            {
-                "name": "Shenzhen Institutes of Advanced Technology",
-                "country": "China"
-            },
             {
                 "name": "The Chinese University of Hong Kong",
                 "country": "China"
@@ -604,12 +580,16 @@
         "url": "https://papers.nips.cc//paper/5515-robust-logistic-regression-and-classification.pdf",
         "orgs": [
             {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
                 "name": "National University of Singapore",
                 "country": "Singapore"
             },
             {
-                "name": "UC Berkeley",
-                "country": "USA"
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
             }
         ]
     },
@@ -625,6 +605,10 @@
         ],
         "url": "https://papers.nips.cc//paper/5607-extracting-certainty-from-uncertainty-transductive-pairwise-classification-from-pairwise-similarities.pdf",
         "orgs": [
+            {
+                "name": "Alibaba AI Labs",
+                "country": "China"
+            },
             {
                 "name": "University of Iowa",
                 "country": "USA"
@@ -664,12 +648,7 @@
             "Judea Pearl"
         ],
         "url": "https://papers.nips.cc//paper/5536-transportability-from-multiple-environments-with-limited-experiments-completeness-results.pdf",
-        "orgs": [
-            {
-                "name": "University of California Los Angeles",
-                "country": "USA"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "NeurIPS14-32",
@@ -727,10 +706,6 @@
             {
                 "name": "Florida State University",
                 "country": "USA"
-            },
-            {
-                "name": "UC San Diego",
-                "country": "USA"
             }
         ]
     },
@@ -767,10 +742,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5277-iterative-neural-autoregressive-distribution-estimator-nade-k.pdf",
         "orgs": [
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
-            },
             {
                 "name": "Aalto University",
                 "country": "Finland"
@@ -814,16 +785,12 @@
                 "country": "USA"
             },
             {
-                "name": "Max Planck Institute for Biological Cybernetics",
-                "country": "Germany"
-            },
-            {
-                "name": "Princeton University",
-                "country": "USA"
-            },
-            {
                 "name": "UC Berkeley",
                 "country": "USA"
+            },
+            {
+                "name": "Max Planck Institute for Biological Cybernetics",
+                "country": "Germany"
             }
         ]
     },
@@ -883,11 +850,11 @@
         "url": "https://papers.nips.cc//paper/5528-near-optimal-sample-compression-for-nearest-neighbors.pdf",
         "orgs": [
             {
-                "name": "Ariel University",
+                "name": "Ben-Gurion University of the Negev",
                 "country": "Israel"
             },
             {
-                "name": "Ben-Gurion University of the Negev",
+                "name": "Ariel University",
                 "country": "Israel"
             }
         ]
@@ -908,7 +875,7 @@
         "url": "https://papers.nips.cc//paper/5433-combinatorial-pure-exploration-of-multi-armed-bandits.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
+                "name": "The Chinese University of Hong Kong",
                 "country": "China"
             },
             {
@@ -916,7 +883,7 @@
                 "country": "USA"
             },
             {
-                "name": "The Chinese University of Hong Kong",
+                "name": "Tsinghua University",
                 "country": "China"
             }
         ]
@@ -972,15 +939,15 @@
         "url": "https://papers.nips.cc//paper/5520-spectral-clustering-of-graphs-with-the-bethe-hessian.pdf",
         "orgs": [
             {
+                "name": "Université́ Paris Saclay",
+                "country": "France"
+            },
+            {
                 "name": "UPMC Univ Paris",
                 "country": "France"
             },
             {
                 "name": "Sorbonne University",
-                "country": "France"
-            },
-            {
-                "name": "Université́ Paris Saclay",
                 "country": "France"
             }
         ]
@@ -1016,6 +983,10 @@
             {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Pohang University of Science and Technology",
+                "country": "South Korea"
             }
         ]
     },
@@ -1031,10 +1002,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5228-robust-kernel-density-estimation-by-scaling-and-projection-in-hilbert-space.pdf",
         "orgs": [
-            {
-                "name": "University of Michigan",
-                "country": "USA"
-            },
             {
                 "name": "University of Michigan",
                 "country": "USA"
@@ -1116,12 +1083,12 @@
         "url": "https://papers.nips.cc//paper/5468-active-regression-by-stratification.pdf",
         "orgs": [
             {
-                "name": "Ben-Gurion University of the Negev",
-                "country": "Israel"
-            },
-            {
                 "name": "INRIA",
                 "country": "France"
+            },
+            {
+                "name": "Ben-Gurion University of the Negev",
+                "country": "Israel"
             }
         ]
     },
@@ -1205,6 +1172,10 @@
                 "country": "China"
             },
             {
+                "name": "Hong Kong University of Science and Technology",
+                "country": "China"
+            },
+            {
                 "name": "IDG/McGovern Institute for Brain Research",
                 "country": "China"
             }
@@ -1267,12 +1238,12 @@
         "url": "https://papers.nips.cc//paper/5305-robust-bayesian-max-margin-clustering.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
-                "country": "China"
-            },
-            {
                 "name": "Duke University",
                 "country": "USA"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
             },
             {
                 "name": "Australian National University",
@@ -1317,12 +1288,12 @@
         "url": "https://papers.nips.cc//paper/5461-bounded-regret-for-finite-armed-structured-bandits.pdf",
         "orgs": [
             {
-                "name": "University of Alberta",
-                "country": "Canada"
-            },
-            {
                 "name": "INRIA",
                 "country": "France"
+            },
+            {
+                "name": "University of Alberta",
+                "country": "Canada"
             }
         ]
     },
@@ -1419,11 +1390,11 @@
         "url": "https://papers.nips.cc//paper/5225-learning-mixed-multinomial-logit-model-from-ordinal-data.pdf",
         "orgs": [
             {
-                "name": "University of Illinois",
+                "name": "Massachusetts Institute of Technology",
                 "country": "USA"
             },
             {
-                "name": "Massachusetts Institute of Technology",
+                "name": "University of Illinois",
                 "country": "USA"
             }
         ]
@@ -1527,6 +1498,10 @@
             {
                 "name": "University of California",
                 "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
             }
         ]
     },
@@ -1589,6 +1564,10 @@
         "url": "https://papers.nips.cc//paper/5576-optimization-methods-for-sparse-pseudo-likelihood-graphical-model-selection.pdf",
         "orgs": [
             {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
                 "name": "Stanford University",
                 "country": "USA"
             },
@@ -1613,11 +1592,11 @@
         "url": "https://papers.nips.cc//paper/5621-on-prior-distributions-and-approximate-inference-for-structured-variables.pdf",
         "orgs": [
             {
-                "name": "UT Austin",
+                "name": "Stanford University",
                 "country": "USA"
             },
             {
-                "name": "Stanford University",
+                "name": "UT Austin",
                 "country": "USA"
             }
         ]
@@ -1720,10 +1699,6 @@
             {
                 "name": "Ecole Polytechnique Fédérale de Lausanne",
                 "country": "Switzerland"
-            },
-            {
-                "name": "Ecole Polytechnique Fédérale de Lausanne",
-                "country": "Switzerland"
             }
         ]
     },
@@ -1776,10 +1751,6 @@
             {
                 "name": "University of Barcelona",
                 "country": "Spain"
-            },
-            {
-                "name": "University of Geneva",
-                "country": "Switzerland"
             }
         ]
     },
@@ -1871,7 +1842,7 @@
         "url": "https://papers.nips.cc//paper/5600-projective-dictionary-pair-learning-for-pattern-classification.pdf",
         "orgs": [
             {
-                "name": "Xidian University",
+                "name": "The Hong Kong Polytechnic University",
                 "country": "China"
             },
             {
@@ -1879,7 +1850,7 @@
                 "country": "China"
             },
             {
-                "name": "The Hong Kong Polytechnic University",
+                "name": "Xidian University",
                 "country": "China"
             }
         ]
@@ -1975,16 +1946,16 @@
         "url": "https://papers.nips.cc//paper/5373-mind-the-nuisance-gaussian-process-classification-using-privileged-noise.pdf",
         "orgs": [
             {
-                "name": "University of Sussex",
-                "country": "UK"
-            },
-            {
                 "name": "Technische Universität Dortmund",
                 "country": "Germany"
             },
             {
-                "name": "Autonomous University of Madrid",
-                "country": "Spain"
+                "name": "Institute of Science and Technology Austria",
+                "country": "Austria"
+            },
+            {
+                "name": "University of Sussex",
+                "country": "UK"
             }
         ]
     },
@@ -2061,24 +2032,20 @@
         "url": "https://papers.nips.cc//paper/5382-multilabel-structured-output-learning-with-random-spanning-trees-of-max-margin-markov-networks.pdf",
         "orgs": [
             {
-                "name": "University College London",
-                "country": "UK"
-            },
-            {
-                "name": "Helsinki Institute for Information Technology",
-                "country": "Finland"
+                "name": "Jean Monnet University",
+                "country": "France"
             },
             {
                 "name": "Aalto University",
                 "country": "Finland"
             },
             {
-                "name": "Université Laval",
-                "country": "Canada"
+                "name": "University College London",
+                "country": "UK"
             },
             {
-                "name": "Jean Monnet University",
-                "country": "France"
+                "name": "Helsinki Institute for Information Technology",
+                "country": "Finland"
             }
         ]
     },
@@ -2096,11 +2063,11 @@
         "url": "https://papers.nips.cc//paper/5493-stochastic-network-design-in-bidirected-trees.pdf",
         "orgs": [
             {
-                "name": "Mount Holyoke College",
+                "name": "University of Massachusetts Amherst",
                 "country": "USA"
             },
             {
-                "name": "University of Massachusetts Amherst",
+                "name": "Mount Holyoke College",
                 "country": "USA"
             }
         ]
@@ -2234,15 +2201,11 @@
         "url": "https://papers.nips.cc//paper/5335-scalable-methods-for-nonnegative-matrix-factorizations-of-near-separable-tall-and-skinny-matrices.pdf",
         "orgs": [
             {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
                 "name": "Purdue University",
-                "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
-            },
-            {
-                "name": "Stanford University",
                 "country": "USA"
             }
         ]
@@ -2270,15 +2233,15 @@
                 "country": "USA"
             },
             {
-                "name": "Princeton University",
-                "country": "USA"
-            },
-            {
                 "name": "University of Texas at Austin",
                 "country": "USA"
             },
             {
                 "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "Howard Hughes Medical Institute",
                 "country": "USA"
             }
         ]
@@ -2297,12 +2260,12 @@
         "url": "https://papers.nips.cc//paper/5269-expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights.pdf",
         "orgs": [
             {
-                "name": "Columbia University",
-                "country": "USA"
-            },
-            {
                 "name": "Israel Institute of Technology",
                 "country": "Israel"
+            },
+            {
+                "name": "Columbia University",
+                "country": "USA"
             }
         ]
     },
@@ -2320,12 +2283,12 @@
         "url": "https://papers.nips.cc//paper/5594-incremental-local-gaussian-regression.pdf",
         "orgs": [
             {
-                "name": "Max Planck Institute for Intelligent Systems",
-                "country": "Germany"
-            },
-            {
                 "name": "University of Southern California",
                 "country": "USA"
+            },
+            {
+                "name": "Max Planck Institute for Intelligent Systems",
+                "country": "Germany"
             }
         ]
     },
@@ -2342,12 +2305,12 @@
         "url": "https://papers.nips.cc//paper/5231-general-table-completion-using-a-bayesian-nonparametric-model.pdf",
         "orgs": [
             {
-                "name": "Carlos III University of Madrid",
-                "country": "Spain"
-            },
-            {
                 "name": "University of Cambridge",
                 "country": "UK"
+            },
+            {
+                "name": "Carlos III University of Madrid",
+                "country": "Spain"
             }
         ]
     },
@@ -2430,15 +2393,19 @@
         "url": "https://papers.nips.cc//paper/5355-stochastic-gradient-descent-weighted-sampling-and-the-randomized-kaczmarz-algorithm.pdf",
         "orgs": [
             {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            },
+            {
                 "name": "University of Texas at Austin",
                 "country": "USA"
             },
             {
-                "name": "Claremont McKenna College",
+                "name": "Toyota Technological Institute at Chicago",
                 "country": "USA"
             },
             {
-                "name": "Toyota Technological Institute at Chicago",
+                "name": "Claremont McKenna College",
                 "country": "USA"
             }
         ]
@@ -2457,12 +2424,12 @@
         "url": "https://papers.nips.cc//paper/5553-a-framework-for-testing-identifiability-of-bayesian-models-of-perception.pdf",
         "orgs": [
             {
-                "name": "University of Edinburgh",
-                "country": "UK"
-            },
-            {
                 "name": "New York University",
                 "country": "USA"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
             }
         ]
     },
@@ -2520,11 +2487,11 @@
         "url": "https://papers.nips.cc//paper/5294-a-safe-screening-rule-for-sparse-logistic-regression.pdf",
         "orgs": [
             {
-                "name": "Arizona State University",
+                "name": "SAS Institute Inc",
                 "country": "USA"
             },
             {
-                "name": "SAS Institute Inc",
+                "name": "Arizona State University",
                 "country": "USA"
             }
         ]
@@ -2645,11 +2612,11 @@
         "url": "https://papers.nips.cc//paper/5430-non-convex-robust-pca.pdf",
         "orgs": [
             {
-                "name": "UC Irvine",
+                "name": "Microsoft",
                 "country": "USA"
             },
             {
-                "name": "Microsoft",
+                "name": "UC Irvine",
                 "country": "USA"
             },
             {
@@ -2733,11 +2700,11 @@
         "url": "https://papers.nips.cc//paper/5285-encoding-high-dimensional-local-features-by-sparse-coding-based-fisher-vectors.pdf",
         "orgs": [
             {
-                "name": "University of Adelaide",
+                "name": "University of Wollongong",
                 "country": "Australia"
             },
             {
-                "name": "University of Wollongong",
+                "name": "University of Adelaide",
                 "country": "Australia"
             }
         ]
@@ -2761,12 +2728,12 @@
                 "country": "USA"
             },
             {
-                "name": "University of Texas at Austin",
-                "country": "USA"
-            },
-            {
                 "name": "Institute for Infocomm Research",
                 "country": "Singapore"
+            },
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
             }
         ]
     },
@@ -2824,16 +2791,16 @@
         "url": "https://papers.nips.cc//paper/5448-reducing-the-rank-in-relational-factorization-models-by-including-observable-patterns.pdf",
         "orgs": [
             {
-                "name": "Massachusetts Institute of Technology",
-                "country": "USA"
+                "name": "Istituto Italiano di Tecnologia",
+                "country": "Italy"
             },
             {
                 "name": "University of Munich",
                 "country": "Germany"
             },
             {
-                "name": "Istituto Italiano di Tecnologia",
-                "country": "Italy"
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
             }
         ]
     },
@@ -2872,10 +2839,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5434-from-stochastic-mixability-to-fast-rates.pdf",
         "orgs": [
-            {
-                "name": "Australian National University",
-                "country": "Australia"
-            },
             {
                 "name": "Australian National University",
                 "country": "Australia"
@@ -2919,10 +2882,6 @@
                 "country": "USA"
             },
             {
-                "name": "Princeton University",
-                "country": "USA"
-            },
-            {
                 "name": "University of Texas at Austin",
                 "country": "USA"
             }
@@ -2944,15 +2903,15 @@
         "url": "https://papers.nips.cc//paper/5558-analysis-of-variational-bayesian-latent-dirichlet-allocation-weaker-sparsity-than-map.pdf",
         "orgs": [
             {
+                "name": "Toyohashi University of Technology",
+                "country": "Japan"
+            },
+            {
                 "name": "University of Tokyo",
                 "country": "Japan"
             },
             {
                 "name": "Nikon Corporation",
-                "country": "Japan"
-            },
-            {
-                "name": "Toyohashi University of Technology",
                 "country": "Japan"
             }
         ]
@@ -3027,15 +2986,15 @@
         "url": "https://papers.nips.cc//paper/5431-spectral-methods-meet-em-a-provably-optimal-algorithm-for-crowdsourcing.pdf",
         "orgs": [
             {
+                "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
                 "name": "Microsoft",
                 "country": "USA"
             },
             {
                 "name": "New York University",
-                "country": "USA"
-            },
-            {
-                "name": "UC Berkeley",
                 "country": "USA"
             }
         ]
@@ -3108,10 +3067,6 @@
             {
                 "name": "Columbia University",
                 "country": "USA"
-            },
-            {
-                "name": "UC San Diego",
-                "country": "USA"
             }
         ]
     },
@@ -3163,10 +3118,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5369-conditional-swap-regret-and-conditional-correlated-equilibrium.pdf",
         "orgs": [
-            {
-                "name": "Courant Institute of Mathematical Sciences",
-                "country": "USA"
-            },
             {
                 "name": "Courant Institute of Mathematical Sciences",
                 "country": "USA"
@@ -3230,6 +3181,10 @@
         ],
         "url": "https://papers.nips.cc//paper/5565-submodular-attribute-selection-for-action-recognition-in-video.pdf",
         "orgs": [
+            {
+                "name": "Huawei",
+                "country": "China"
+            },
             {
                 "name": "University of Maryland",
                 "country": "USA"
@@ -3355,10 +3310,6 @@
         "url": "https://papers.nips.cc//paper/5251-near-optimal-sample-estimators-for-spherical-gaussian-mixtures.pdf",
         "orgs": [
             {
-                "name": "UC San Diego",
-                "country": "USA"
-            },
-            {
                 "name": "Massachusetts Institute of Technology",
                 "country": "USA"
             }
@@ -3397,16 +3348,16 @@
         "url": "https://papers.nips.cc//paper/5415-learning-mixtures-of-submodular-functions-for-image-collection-summarization.pdf",
         "orgs": [
             {
-                "name": "Graz University of Technology",
-                "country": "Austria"
+                "name": "University of Washington",
+                "country": "USA"
             },
             {
                 "name": "Facebook",
                 "country": "USA"
             },
             {
-                "name": "University of Washington",
-                "country": "USA"
+                "name": "Graz University of Technology",
+                "country": "Austria"
             }
         ]
     },
@@ -3532,7 +3483,12 @@
             "Jiaming Xu"
         ],
         "url": "https://papers.nips.cc//paper/5361-minimax-optimal-inference-from-partial-rankings.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            }
+        ]
     },
     {
         "id": "NeurIPS14-165",
@@ -3546,10 +3502,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5516-spectral-methods-for-indian-buffet-process-inference.pdf",
         "orgs": [
-            {
-                "name": "Carnegie Mellon University",
-                "country": "USA"
-            },
             {
                 "name": "Carnegie Mellon University",
                 "country": "USA"
@@ -3690,10 +3642,6 @@
             {
                 "name": "Ecole Polytechnique Fédérale de Lausanne",
                 "country": "Switzerland"
-            },
-            {
-                "name": "Ecole Polytechnique Fédérale de Lausanne",
-                "country": "Switzerland"
             }
         ]
     },
@@ -3763,10 +3711,6 @@
             {
                 "name": "Stanford University",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -3823,6 +3767,10 @@
             {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
             }
         ]
     },
@@ -3865,20 +3813,16 @@
         "url": "https://papers.nips.cc//paper/5233-sparse-bayesian-structure-learning-with-dependent-relevance-determination-priors.pdf",
         "orgs": [
             {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
                 "name": "Princeton University",
                 "country": "USA"
             },
             {
                 "name": "University College London",
                 "country": "UK"
-            },
-            {
-                "name": "Princeton University",
-                "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -3920,12 +3864,12 @@
         "url": "https://papers.nips.cc//paper/5258-saga-a-fast-incremental-gradient-method-with-support-for-non-strongly-convex-composite-objectives.pdf",
         "orgs": [
             {
-                "name": "Australian National University",
-                "country": "Australia"
-            },
-            {
                 "name": "INRIA",
                 "country": "France"
+            },
+            {
+                "name": "Australian National University",
+                "country": "Australia"
             }
         ]
     },
@@ -3945,15 +3889,15 @@
         "url": "https://papers.nips.cc//paper/5631-exclusive-feature-learning-on-arbitrary-structures-via-ell_12-norm.pdf",
         "orgs": [
             {
+                "name": "University of Texas at Arlington",
+                "country": "USA"
+            },
+            {
                 "name": "University of Rochester",
                 "country": "USA"
             },
             {
                 "name": "NEC Laboratories America",
-                "country": "USA"
-            },
-            {
-                "name": "University of Texas at Arlington",
                 "country": "USA"
             }
         ]
@@ -3973,12 +3917,12 @@
         "url": "https://papers.nips.cc//paper/5259-time-data-tradeoffs-by-aggressive-smoothing.pdf",
         "orgs": [
             {
-                "name": "Ecole Polytechnique Fédérale de Lausanne",
-                "country": "Switzerland"
-            },
-            {
                 "name": "University of Colorado Boulder",
                 "country": "USA"
+            },
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
             },
             {
                 "name": "California Institute of Technology",
@@ -4106,12 +4050,12 @@
         "url": "https://papers.nips.cc//paper/5401-online-optimization-for-max-norm-regularization.pdf",
         "orgs": [
             {
-                "name": "National University of Singapore",
-                "country": "Singapore"
-            },
-            {
                 "name": "Rutgers University",
                 "country": "USA"
+            },
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
             }
         ]
     },
@@ -4128,12 +4072,7 @@
             "Joseph Salmon"
         ],
         "url": "https://papers.nips.cc//paper/5358-probabilistic-low-rank-matrix-completion-on-finite-alphabets.pdf",
-        "orgs": [
-            {
-                "name": "University of Paris",
-                "country": "France"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "NeurIPS14-193",
@@ -4209,6 +4148,10 @@
             {
                 "name": "The Chinese University of Hong Kong",
                 "country": "China"
+            },
+            {
+                "name": "Huawei",
+                "country": "China"
             }
         ]
     },
@@ -4262,11 +4205,11 @@
         "url": "https://papers.nips.cc//paper/5485-deep-convolutional-neural-network-for-image-deconvolution.pdf",
         "orgs": [
             {
-                "name": "Lenovo Research",
+                "name": "The Chinese University of Hong Kong",
                 "country": "China"
             },
             {
-                "name": "The Chinese University of Hong Kong",
+                "name": "Lenovo Research",
                 "country": "China"
             },
             {
@@ -4365,7 +4308,12 @@
             "Shie Mannor"
         ],
         "url": "https://papers.nips.cc//paper/5441-how-hard-is-my-mdp-the-distribution-norm-to-the-rescue.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            }
+        ]
     },
     {
         "id": "NeurIPS14-205",
@@ -4413,16 +4361,12 @@
         "url": "https://papers.nips.cc//paper/5270-an-autoencoder-approach-to-learning-bilingual-word-representations.pdf",
         "orgs": [
             {
-                "name": "Université de Sherbrooke",
-                "country": "Canada"
+                "name": "IBM",
+                "country": "USA"
             },
             {
                 "name": "Indian Institute of Technology Madras",
                 "country": "India"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
             }
         ]
     },
@@ -4440,16 +4384,16 @@
         "url": "https://papers.nips.cc//paper/5570-sequential-monte-carlo-for-graphical-models.pdf",
         "orgs": [
             {
-                "name": "University of Cambridge",
-                "country": "UK"
-            },
-            {
                 "name": "Linköping University",
                 "country": "Sweden"
             },
             {
                 "name": "Uppsala University",
                 "country": "Sweden"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
             }
         ]
     },
@@ -4465,10 +4409,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5438-optimal-regret-minimization-in-posted-price-auctions-with-strategic-buyers.pdf",
         "orgs": [
-            {
-                "name": "Courant Institute of Mathematical Sciences",
-                "country": "USA"
-            },
             {
                 "name": "Courant Institute of Mathematical Sciences",
                 "country": "USA"
@@ -4494,10 +4434,6 @@
             {
                 "name": "University College London",
                 "country": "UK"
-            },
-            {
-                "name": "Princeton University",
-                "country": "USA"
             }
         ]
     },
@@ -4514,10 +4450,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5281-deep-fragment-embeddings-for-bidirectional-image-sentence-mapping.pdf",
         "orgs": [
-            {
-                "name": "Stanford University",
-                "country": "USA"
-            },
             {
                 "name": "Stanford University",
                 "country": "USA"
@@ -4554,10 +4486,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5248-probabilistic-differential-dynamic-programming.pdf",
         "orgs": [
-            {
-                "name": "Georgia Institute of Technology",
-                "country": "USA"
-            },
             {
                 "name": "Georgia Institute of Technology",
                 "country": "USA"
@@ -4675,10 +4603,6 @@
         "url": "https://papers.nips.cc//paper/5480-latent-support-measure-machines-for-bag-of-words-data-classification.pdf",
         "orgs": [
             {
-                "name": "NTT Corporation",
-                "country": "Japan"
-            },
-            {
                 "name": "Nara Institute of Science and Technology",
                 "country": "Japan"
             },
@@ -4700,16 +4624,7 @@
             "Gabriel Peyré"
         ],
         "url": "https://papers.nips.cc//paper/5260-local-linear-convergence-of-forward-backward-under-partial-smoothness.pdf",
-        "orgs": [
-            {
-                "name": "University of Caen Normandy",
-                "country": "France"
-            },
-            {
-                "name": "Paris Dauphine University",
-                "country": "France"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "NeurIPS14-220",
@@ -4723,10 +4638,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5447-raam-the-benefits-of-robustness-in-approximating-aggregated-mdps-in-reinforcement-learning.pdf",
         "orgs": [
-            {
-                "name": "IBM",
-                "country": "USA"
-            },
             {
                 "name": "IBM",
                 "country": "USA"
@@ -4747,10 +4658,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5416-deep-learning-face-representation-by-joint-identification-verification.pdf",
         "orgs": [
-            {
-                "name": "Shenzhen Institutes of Advanced Technology",
-                "country": "China"
-            },
             {
                 "name": "The Chinese University of Hong Kong",
                 "country": "China"
@@ -4800,15 +4707,11 @@
         "url": "https://papers.nips.cc//paper/5578-quic-dirty-a-quadratic-approximation-approach-for-dirty-statistical-models.pdf",
         "orgs": [
             {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
                 "name": "University of Colorado Boulder",
+                "country": "USA"
+            },
+            {
+                "name": "IBM",
                 "country": "USA"
             },
             {
@@ -4846,7 +4749,12 @@
             "Sophie Denève"
         ],
         "url": "https://papers.nips.cc//paper/5343-spatio-temporal-representations-of-uncertainty-in-spiking-neural-networks.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Institute of Science and Technology Austria",
+                "country": "Austria"
+            }
+        ]
     },
     {
         "id": "NeurIPS14-226",
@@ -4863,12 +4771,16 @@
         "url": "https://papers.nips.cc//paper/5268-attentional-neural-network-feature-selection-using-cognitive-feedback.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
-                "country": "China"
+                "name": "New York University",
+                "country": "USA"
             },
             {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -4889,6 +4801,10 @@
             {
                 "name": "Harbin Institute of Technology",
                 "country": "China"
+            },
+            {
+                "name": "Huawei",
+                "country": "China"
             }
         ]
     },
@@ -4908,19 +4824,19 @@
         "url": "https://papers.nips.cc//paper/5397-scalable-non-linear-learning-with-adaptive-polynomial-expansions.pdf",
         "orgs": [
             {
-                "name": "Columbia University",
-                "country": "USA"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
             },
             {
-                "name": "Yahoo",
+                "name": "Rutgers University",
                 "country": "USA"
             },
             {
-                "name": "Rutgers University",
+                "name": "Columbia University",
+                "country": "USA"
+            },
+            {
+                "name": "Yahoo",
                 "country": "USA"
             }
         ]
@@ -4960,11 +4876,11 @@
         "url": "https://papers.nips.cc//paper/5413-diverse-sequential-subset-selection-for-supervised-video-summarization.pdf",
         "orgs": [
             {
-                "name": "University of Southern California",
+                "name": "University of Texas at Austin",
                 "country": "USA"
             },
             {
-                "name": "University of Texas at Austin",
+                "name": "University of Southern California",
                 "country": "USA"
             }
         ]
@@ -4986,12 +4902,12 @@
         "url": "https://papers.nips.cc//paper/5568-self-paced-learning-with-diversity.pdf",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
-                "country": "USA"
-            },
-            {
                 "name": "Xi'an Jiaotong University",
                 "country": "China"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
             },
             {
                 "name": "Chinese Academy of Sciences",
@@ -5056,10 +4972,6 @@
             {
                 "name": "Université Paris-Est",
                 "country": "France"
-            },
-            {
-                "name": "California Institute of Technology",
-                "country": "USA"
             }
         ]
     },
@@ -5097,12 +5009,7 @@
             "Yves Grandvalet"
         ],
         "url": "https://papers.nips.cc//paper/5508-optimizing-f-measures-by-cost-sensitive-classification.pdf",
-        "orgs": [
-            {
-                "name": "University of Technology of Compiègne",
-                "country": "France"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "NeurIPS14-237",
@@ -5153,10 +5060,6 @@
         "url": "https://papers.nips.cc//paper/5410-pewa-patch-based-exponentially-weighted-aggregation-for-image-denoising.pdf",
         "orgs": [
             {
-                "name": "Universitaire de Beaulieu",
-                "country": "France"
-            },
-            {
                 "name": "INRIA",
                 "country": "France"
             }
@@ -5175,10 +5078,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5318-elementary-estimators-for-graphical-models.pdf",
         "orgs": [
-            {
-                "name": "IBM",
-                "country": "USA"
-            },
             {
                 "name": "IBM",
                 "country": "USA"
@@ -5238,11 +5137,11 @@
         "url": "https://papers.nips.cc//paper/5513-multi-resolution-cascades-for-multiclass-object-detection.pdf",
         "orgs": [
             {
-                "name": "Yahoo",
+                "name": "University of California San Diego",
                 "country": "USA"
             },
             {
-                "name": "University of California San Diego",
+                "name": "Yahoo",
                 "country": "USA"
             }
         ]
@@ -5323,7 +5222,12 @@
             "Le Song"
         ],
         "url": "https://papers.nips.cc//paper/5474-active-learning-and-best-response-dynamics.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
     },
     {
         "id": "NeurIPS14-248",
@@ -5358,11 +5262,11 @@
         "url": "https://papers.nips.cc//paper/5265-fast-sampling-based-inference-in-balanced-neuronal-networks.pdf",
         "orgs": [
             {
-                "name": "University College London",
+                "name": "University of Cambridge",
                 "country": "UK"
             },
             {
-                "name": "University of Cambridge",
+                "name": "University College London",
                 "country": "UK"
             }
         ]
@@ -5399,14 +5303,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5240-subspace-embeddings-for-the-polynomial-kernel.pdf",
         "orgs": [
-            {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
-            },
             {
                 "name": "IBM",
                 "country": "USA"
@@ -5495,16 +5391,12 @@
         "url": "https://papers.nips.cc//paper/5241-learning-the-learning-rate-for-prediction-with-expert-advice.pdf",
         "orgs": [
             {
+                "name": "Leiden University",
+                "country": "Netherlands"
+            },
+            {
                 "name": "Queensland University of Technology",
                 "country": "Australia"
-            },
-            {
-                "name": "Leiden University",
-                "country": "Netherlands"
-            },
-            {
-                "name": "Leiden University",
-                "country": "Netherlands"
             }
         ]
     },
@@ -5544,10 +5436,6 @@
             {
                 "name": "INRIA",
                 "country": "France"
-            },
-            {
-                "name": "IIIT Hyderabad",
-                "country": "India"
             }
         ]
     },
@@ -5564,11 +5452,11 @@
         "url": "https://papers.nips.cc//paper/5329-asymmetric-lsh-alsh-for-sublinear-time-maximum-inner-product-search-mips.pdf",
         "orgs": [
             {
-                "name": "Cornell University",
+                "name": "Rutgers University",
                 "country": "USA"
             },
             {
-                "name": "Rutgers University",
+                "name": "Cornell University",
                 "country": "USA"
             }
         ]
@@ -5586,10 +5474,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5274-a-framework-for-studying-synaptic-plasticity-with-neural-spike-train-data.pdf",
         "orgs": [
-            {
-                "name": "Harvard University",
-                "country": "USA"
-            },
             {
                 "name": "Harvard University",
                 "country": "USA"
@@ -5652,11 +5536,11 @@
         "url": "https://papers.nips.cc//paper/5577-learning-chordal-markov-networks-by-dynamic-programming.pdf",
         "orgs": [
             {
-                "name": "Helsinki Institute for Information Technology",
+                "name": "University of Helsinki",
                 "country": "Finland"
             },
             {
-                "name": "University of Helsinki",
+                "name": "Helsinki Institute for Information Technology",
                 "country": "Finland"
             }
         ]
@@ -5813,6 +5697,10 @@
             {
                 "name": "Huaqiao University",
                 "country": "China"
+            },
+            {
+                "name": "Chinese Academy of Sciences",
+                "country": "China"
             }
         ]
     },
@@ -5829,11 +5717,11 @@
         "url": "https://papers.nips.cc//paper/5557-smoothed-gradients-for-stochastic-variational-inference.pdf",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "Columbia University",
                 "country": "USA"
             },
             {
-                "name": "Columbia University",
+                "name": "Princeton University",
                 "country": "USA"
             }
         ]
@@ -5892,16 +5780,12 @@
         "url": "https://papers.nips.cc//paper/5541-optimal-teaching-for-limited-capacity-human-learners.pdf",
         "orgs": [
             {
-                "name": "University College London",
-                "country": "UK"
-            },
-            {
-                "name": "University College London",
-                "country": "UK"
-            },
-            {
                 "name": "University of Wisconsin–Madison",
                 "country": "USA"
+            },
+            {
+                "name": "University College London",
+                "country": "UK"
             }
         ]
     },
@@ -5922,12 +5806,12 @@
         "url": "https://papers.nips.cc//paper/5365-shaping-social-activity-by-incentivizing-users.pdf",
         "orgs": [
             {
-                "name": "Carlos III University of Madrid",
-                "country": "Spain"
-            },
-            {
                 "name": "Georgia Institute of Technology",
                 "country": "USA"
+            },
+            {
+                "name": "Carlos III University of Madrid",
+                "country": "Spain"
             }
         ]
     },
@@ -5967,16 +5851,16 @@
         "url": "https://papers.nips.cc//paper/5393-reputation-based-worker-filtering-in-crowdsourcing.pdf",
         "orgs": [
             {
-                "name": "Amazon",
-                "country": "USA"
+                "name": "New York University Abu Dhabi",
+                "country": "UAE"
             },
             {
                 "name": "New York University",
                 "country": "USA"
             },
             {
-                "name": "New York University Abu Dhabi",
-                "country": "UAE"
+                "name": "Amazon",
+                "country": "USA"
             }
         ]
     },
@@ -5995,10 +5879,6 @@
         "orgs": [
             {
                 "name": "Courant Institute of Mathematical Sciences",
-                "country": "USA"
-            },
-            {
-                "name": "Google",
                 "country": "USA"
             },
             {
@@ -6023,10 +5903,6 @@
             {
                 "name": "Stanford University",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -6045,10 +5921,6 @@
         "orgs": [
             {
                 "name": "Univ Lille",
-                "country": "France"
-            },
-            {
-                "name": "Institut Universitaire de France",
                 "country": "France"
             }
         ]
@@ -6072,10 +5944,6 @@
             },
             {
                 "name": "Massachusetts Institute of Technology",
-                "country": "USA"
-            },
-            {
-                "name": "Princeton University",
                 "country": "USA"
             }
         ]
@@ -6130,11 +5998,11 @@
         "url": "https://papers.nips.cc//paper/5387-optimal-rates-for-k-nn-density-and-mode-estimation.pdf",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "University of California San Diego",
                 "country": "USA"
             },
             {
-                "name": "University of California San Diego",
+                "name": "Princeton University",
                 "country": "USA"
             }
         ]
@@ -6197,11 +6065,11 @@
         "url": "https://papers.nips.cc//paper/5363-ranking-via-robust-binary-classification.pdf",
         "orgs": [
             {
-                "name": "Amazon",
+                "name": "University of California",
                 "country": "USA"
             },
             {
-                "name": "University of California",
+                "name": "Amazon",
                 "country": "USA"
             }
         ]
@@ -6243,6 +6111,10 @@
         "url": "https://papers.nips.cc//paper/5531-augur-data-parallel-probabilistic-modeling.pdf",
         "orgs": [
             {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
                 "name": "Oracle Labs",
                 "country": "USA"
             }
@@ -6263,11 +6135,11 @@
         "url": "https://papers.nips.cc//paper/5437-learning-mixtures-of-ranking-models.pdf",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
-                "name": "Carnegie Mellon University",
+                "name": "Princeton University",
                 "country": "USA"
             },
             {
@@ -6318,10 +6190,6 @@
             },
             {
                 "name": "Grenoble Alps University",
-                "country": "France"
-            },
-            {
-                "name": "INRIA",
                 "country": "France"
             }
         ]
@@ -6426,12 +6294,7 @@
             "Yoshua Bengio"
         ],
         "url": "https://papers.nips.cc//paper/5423-generative-adversarial-nets.pdf",
-        "orgs": [
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "NeurIPS14-298",
@@ -6465,12 +6328,16 @@
         "url": "https://papers.nips.cc//paper/5472-global-sensitivity-analysis-for-map-inference-in-graphical-models.pdf",
         "orgs": [
             {
+                "name": "Ghent University",
+                "country": "Belgium"
+            },
+            {
                 "name": "Queen's University",
                 "country": "Canada"
             },
             {
-                "name": "Ghent University",
-                "country": "Belgium"
+                "name": "Istituto Dalle Molle di Studi sull’Intelligenza Artificiale",
+                "country": "Switzerland"
             }
         ]
     },
@@ -6493,10 +6360,6 @@
             },
             {
                 "name": "Indiana University",
-                "country": "USA"
-            },
-            {
-                "name": "Stanford University",
                 "country": "USA"
             }
         ]
@@ -6552,11 +6415,11 @@
         "url": "https://papers.nips.cc//paper/5442-on-communication-cost-of-distributed-statistical-estimation-and-dimensionality.pdf",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "UC Berkeley",
                 "country": "USA"
             },
             {
-                "name": "UC Berkeley",
+                "name": "Princeton University",
                 "country": "USA"
             }
         ]
@@ -6658,11 +6521,11 @@
         "url": "https://papers.nips.cc//paper/5613-multi-step-stochastic-admm-in-high-dimensions-applications-to-sparse-optimization-and-matrix-decomposition.pdf",
         "orgs": [
             {
-                "name": "University of Southern California",
+                "name": "University of California",
                 "country": "USA"
             },
             {
-                "name": "University of California",
+                "name": "University of Southern California",
                 "country": "USA"
             }
         ]
@@ -6701,12 +6564,12 @@
         "url": "https://papers.nips.cc//paper/5483-sampling-for-inference-in-probabilistic-models-with-fast-bayesian-quadrature.pdf",
         "orgs": [
             {
-                "name": "University of Oxford",
-                "country": "UK"
-            },
-            {
                 "name": "University of Bonn",
                 "country": "Germany"
+            },
+            {
+                "name": "University of Oxford",
+                "country": "UK"
             }
         ]
     },
@@ -6784,11 +6647,11 @@
         "url": "https://papers.nips.cc//paper/5628-multitask-learning-meets-tensor-factorization-task-imputation-via-convex-optimization.pdf",
         "orgs": [
             {
-                "name": "University of Tokyo",
+                "name": "Tokyo Institute of Technology",
                 "country": "Japan"
             },
             {
-                "name": "Tokyo Institute of Technology",
+                "name": "University of Tokyo",
                 "country": "Japan"
             }
         ]
@@ -6926,10 +6789,6 @@
             {
                 "name": "Stanford University",
                 "country": "USA"
-            },
-            {
-                "name": "Stanford University",
-                "country": "USA"
             }
         ]
     },
@@ -6986,10 +6845,6 @@
                 "country": "USA"
             },
             {
-                "name": "Google",
-                "country": "USA"
-            },
-            {
                 "name": "Duolingo",
                 "country": "USA"
             }
@@ -7008,12 +6863,7 @@
             "Yoshua Bengio"
         ],
         "url": "https://papers.nips.cc//paper/5422-on-the-number-of-linear-regions-of-deep-neural-networks.pdf",
-        "orgs": [
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "NeurIPS14-326",
@@ -7034,10 +6884,6 @@
             {
                 "name": "Stanford University",
                 "country": "USA"
-            },
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
             }
         ]
     },
@@ -7117,11 +6963,11 @@
         "url": "https://papers.nips.cc//paper/5446-optimizing-energy-production-using-policy-search-and-predictive-state-representations.pdf",
         "orgs": [
             {
-                "name": "Université de Montréal",
+                "name": "McGill University",
                 "country": "Canada"
             },
             {
-                "name": "McGill University",
+                "name": "Université de Montréal",
                 "country": "Canada"
             }
         ]
@@ -7164,6 +7010,10 @@
             {
                 "name": "Technische Universität Berlin (TUB)",
                 "country": "Germany"
+            },
+            {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
             }
         ]
     },
@@ -7199,11 +7049,11 @@
         "url": "https://papers.nips.cc//paper/5566-scale-adaptive-blind-deblurring.pdf",
         "orgs": [
             {
-                "name": "Duke University",
+                "name": "Adobe Research",
                 "country": "USA"
             },
             {
-                "name": "Adobe Research",
+                "name": "Duke University",
                 "country": "USA"
             }
         ]
@@ -7282,11 +7132,11 @@
         "url": "https://papers.nips.cc//paper/5238-scalable-kernel-methods-via-doubly-stochastic-gradients.pdf",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
-                "name": "Carnegie Mellon University",
+                "name": "Princeton University",
                 "country": "USA"
             },
             {
@@ -7329,15 +7179,15 @@
         "url": "https://papers.nips.cc//paper/5356-an-accelerated-proximal-coordinate-gradient-method.pdf",
         "orgs": [
             {
-                "name": "University of Iowa",
-                "country": "USA"
-            },
-            {
                 "name": "Simon Fraser University",
                 "country": "Canada"
             },
             {
                 "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "University of Iowa",
                 "country": "USA"
             }
         ]
@@ -7360,7 +7210,7 @@
         "url": "https://papers.nips.cc//paper/5599-communication-efficient-distributed-dual-coordinate-ascent.pdf",
         "orgs": [
             {
-                "name": "Lehigh University",
+                "name": "UC Berkeley",
                 "country": "USA"
             },
             {
@@ -7368,7 +7218,7 @@
                 "country": "Switzerland"
             },
             {
-                "name": "UC Berkeley",
+                "name": "Lehigh University",
                 "country": "USA"
             }
         ]
@@ -7387,10 +7237,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5261-simple-map-inference-via-low-rank-relaxations.pdf",
         "orgs": [
-            {
-                "name": "Stanford University",
-                "country": "USA"
-            },
             {
                 "name": "Stanford University",
                 "country": "USA"
@@ -7435,11 +7281,11 @@
         "url": "https://papers.nips.cc//paper/5338-a-bayesian-model-for-identifying-hierarchically-organised-states-in-neural-population-activity.pdf",
         "orgs": [
             {
-                "name": "Max Planck Institute for Biological Cybernetics",
+                "name": "University of Tübingen",
                 "country": "Germany"
             },
             {
-                "name": "University of Tübingen",
+                "name": "Max Planck Institute for Biological Cybernetics",
                 "country": "Germany"
             }
         ]
@@ -7478,6 +7324,10 @@
         "url": "https://papers.nips.cc//paper/5619-improved-distributed-principal-component-analysis.pdf",
         "orgs": [
             {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
                 "name": "Princeton University",
                 "country": "USA"
             },
@@ -7487,10 +7337,6 @@
             },
             {
                 "name": "Georgia Institute of Technology",
-                "country": "USA"
-            },
-            {
-                "name": "IBM",
                 "country": "USA"
             }
         ]
@@ -7548,11 +7394,11 @@
         "url": "https://papers.nips.cc//paper/5234-mondrian-forests-efficient-online-random-forests.pdf",
         "orgs": [
             {
-                "name": "University College London",
+                "name": "University of Cambridge",
                 "country": "UK"
             },
             {
-                "name": "University of Cambridge",
+                "name": "University College London",
                 "country": "UK"
             },
             {
@@ -7576,15 +7422,15 @@
         "url": "https://papers.nips.cc//paper/5564-expectation-maximization-for-learning-determinantal-point-processes.pdf",
         "orgs": [
             {
+                "name": "University of Michigan",
+                "country": "USA"
+            },
+            {
                 "name": "University of Washington",
                 "country": "USA"
             },
             {
                 "name": "University of Pennsylvania",
-                "country": "USA"
-            },
-            {
-                "name": "University of Michigan",
                 "country": "USA"
             }
         ]
@@ -7626,8 +7472,8 @@
                 "country": "France"
             },
             {
-                "name": "INRIA",
-                "country": "France"
+                "name": "KTH Royal Institute of Technology",
+                "country": "Sweden"
             }
         ]
     },
@@ -7645,11 +7491,11 @@
         "url": "https://papers.nips.cc//paper/5360-content-based-recommendations-with-poisson-factorization.pdf",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "Columbia University",
                 "country": "USA"
             },
             {
-                "name": "Columbia University",
+                "name": "Princeton University",
                 "country": "USA"
             }
         ]
@@ -7692,11 +7538,11 @@
         "url": "https://papers.nips.cc//paper/5403-compressive-sensing-of-signals-from-a-gmm-with-sparse-precision-matrices.pdf",
         "orgs": [
             {
-                "name": "University of Chicago",
+                "name": "Duke University",
                 "country": "USA"
             },
             {
-                "name": "Duke University",
+                "name": "University of Chicago",
                 "country": "USA"
             }
         ]
@@ -7718,15 +7564,15 @@
         "url": "https://papers.nips.cc//paper/5592-bayesian-sampling-using-stochastic-gradient-thermostats.pdf",
         "orgs": [
             {
+                "name": "Duke University",
+                "country": "USA"
+            },
+            {
                 "name": "Purdue University",
                 "country": "USA"
             },
             {
                 "name": "Google",
-                "country": "USA"
-            },
-            {
-                "name": "Duke University",
                 "country": "USA"
             }
         ]
@@ -7776,12 +7622,12 @@
         "url": "https://papers.nips.cc//paper/5243-efficient-minimax-strategies-for-square-loss-games.pdf",
         "orgs": [
             {
-                "name": "Queensland University of Technology",
-                "country": "Australia"
-            },
-            {
                 "name": "UC Berkeley",
                 "country": "USA"
+            },
+            {
+                "name": "Queensland University of Technology",
+                "country": "Australia"
             }
         ]
     },
@@ -7893,10 +7739,6 @@
         "url": "https://papers.nips.cc//paper/5408-tight-convex-relaxations-for-sparse-matrix-factorization.pdf",
         "orgs": [
             {
-                "name": "Université Paris-Est",
-                "country": "France"
-            },
-            {
                 "name": "Stanford University",
                 "country": "USA"
             }
@@ -7979,12 +7821,12 @@
         "url": "https://papers.nips.cc//paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf",
         "orgs": [
             {
-                "name": "Cornell University",
-                "country": "USA"
-            },
-            {
                 "name": "Université de Montréal",
                 "country": "Canada"
+            },
+            {
+                "name": "Cornell University",
+                "country": "USA"
             },
             {
                 "name": "University of Wyoming",
@@ -8008,7 +7850,7 @@
         "url": "https://papers.nips.cc//paper/5614-accelerated-mini-batch-randomized-block-coordinate-descent-method.pdf",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             },
             {
@@ -8016,7 +7858,7 @@
                 "country": "China"
             },
             {
-                "name": "Johns Hopkins University",
+                "name": "Princeton University",
                 "country": "USA"
             }
         ]
@@ -8077,16 +7919,16 @@
         "url": "https://papers.nips.cc//paper/5596-distributed-bayesian-posterior-sampling-via-moment-sharing.pdf",
         "orgs": [
             {
+                "name": "University of Oxford",
+                "country": "UK"
+            },
+            {
                 "name": "University College London",
                 "country": "UK"
             },
             {
                 "name": "Tsinghua University",
                 "country": "China"
-            },
-            {
-                "name": "University of Oxford",
-                "country": "UK"
             }
         ]
     },
@@ -8124,11 +7966,11 @@
         "url": "https://papers.nips.cc//paper/5366-learning-time-varying-coverage-functions.pdf",
         "orgs": [
             {
-                "name": "Princeton University",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
-                "name": "Carnegie Mellon University",
+                "name": "Princeton University",
                 "country": "USA"
             },
             {
@@ -8229,15 +8071,11 @@
         "url": "https://papers.nips.cc//paper/5332-discrete-graph-hashing.pdf",
         "orgs": [
             {
+                "name": "IBM",
+                "country": "USA"
+            },
+            {
                 "name": "Columbia University",
-                "country": "USA"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
-                "name": "IBM",
                 "country": "USA"
             }
         ]
@@ -8295,10 +8133,6 @@
             {
                 "name": "Ben-Gurion University of the Negev",
                 "country": "Israel"
-            },
-            {
-                "name": "Ben-Gurion University of the Negev",
-                "country": "Israel"
             }
         ]
     },
@@ -8350,11 +8184,11 @@
         "url": "https://papers.nips.cc//paper/5571-concavity-of-reweighted-kikuchi-approximation.pdf",
         "orgs": [
             {
-                "name": "University of Pennsylvania",
+                "name": "UC Berkeley",
                 "country": "USA"
             },
             {
-                "name": "UC Berkeley",
+                "name": "University of Pennsylvania",
                 "country": "USA"
             }
         ]
@@ -8493,12 +8327,16 @@
         "url": "https://papers.nips.cc//paper/5418-lsda-large-scale-detection-through-adaptation.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
-                "country": "China"
+                "name": "University of Massachusetts Lowell",
+                "country": "USA"
             },
             {
                 "name": "UC Berkeley",
                 "country": "USA"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -8515,7 +8353,12 @@
             "Jürgen Schmidhuber"
         ],
         "url": "https://papers.nips.cc//paper/5276-deep-networks-with-internal-selective-attention-through-feedback-connections.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Istituto Dalle Molle di Studi sull’Intelligenza Artificiale",
+                "country": "Switzerland"
+            }
+        ]
     },
     {
         "id": "NeurIPS14-395",
@@ -8535,7 +8378,7 @@
         "url": "https://papers.nips.cc//paper/5296-parallel-feature-selection-inspired-by-group-testing.pdf",
         "orgs": [
             {
-                "name": "Stanford University",
+                "name": "University of Wisconsin–Madison",
                 "country": "USA"
             },
             {
@@ -8543,7 +8386,7 @@
                 "country": "USA"
             },
             {
-                "name": "University of Wisconsin–Madison",
+                "name": "Stanford University",
                 "country": "USA"
             }
         ]
@@ -8559,16 +8402,7 @@
             "Matthieu Kowalski"
         ],
         "url": "https://papers.nips.cc//paper/5522-low-rank-time-frequency-synthesis.pdf",
-        "orgs": [
-            {
-                "name": "University of Nice Sophia Antipolis",
-                "country": "France"
-            },
-            {
-                "name": "Univ Paris Sud",
-                "country": "France"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "NeurIPS14-397",
@@ -8664,10 +8498,6 @@
         ],
         "url": "https://papers.nips.cc//paper/5452-a-wild-bootstrap-for-degenerate-kernel-tests.pdf",
         "orgs": [
-            {
-                "name": "University College London",
-                "country": "UK"
-            },
             {
                 "name": "University College London",
                 "country": "UK"
@@ -8800,7 +8630,7 @@
         "url": "https://papers.nips.cc//paper/5303-learning-a-concept-hierarchy-from-multi-labeled-documents.pdf",
         "orgs": [
             {
-                "name": "Facebook",
+                "name": "University of Maryland",
                 "country": "USA"
             },
             {
@@ -8808,7 +8638,7 @@
                 "country": "USA"
             },
             {
-                "name": "University of Maryland",
+                "name": "Facebook",
                 "country": "USA"
             }
         ]

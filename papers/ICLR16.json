@@ -53,6 +53,10 @@
             {
                 "name": "University of California",
                 "country": "USA"
+            },
+            {
+                "name": "Intel Labs",
+                "country": "USA"
             }
         ]
     },
@@ -158,15 +162,15 @@
         "url": "http://arxiv.org/pdf/1511.06499.pdf",
         "orgs": [
             {
-                "name": "Harvard University",
-                "country": "USA"
-            },
-            {
                 "name": "Columbia University",
                 "country": "USA"
             },
             {
                 "name": "Princeton University",
+                "country": "USA"
+            },
+            {
+                "name": "Harvard University",
                 "country": "USA"
             }
         ]
@@ -187,7 +191,7 @@
         "url": "http://arxiv.org/pdf/1511.00830.pdf",
         "orgs": [
             {
-                "name": "University of Toronto",
+                "name": "Canadian Institute for Advanced Research",
                 "country": "Canada"
             },
             {
@@ -199,7 +203,7 @@
                 "country": "USA"
             },
             {
-                "name": "Canadian Institute for Advanced Research",
+                "name": "University of Toronto",
                 "country": "Canada"
             }
         ]
@@ -245,12 +249,12 @@
                 "country": "USA"
             },
             {
-                "name": "Tsinghua University",
-                "country": "China"
+                "name": "NVIDIA Corporation",
+                "country": "USA"
             },
             {
-                "name": "Stanford University",
-                "country": "USA"
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -267,12 +271,7 @@
             "Yoshua Bengio"
         ],
         "url": "http://arxiv.org/pdf/1510.03009.pdf",
-        "orgs": [
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICLR16-12",
@@ -370,11 +369,11 @@
         "url": "http://arxiv.org/pdf/1511.03677.pdf",
         "orgs": [
             {
-                "name": "University of Southern California",
+                "name": "University of California San Diego",
                 "country": "USA"
             },
             {
-                "name": "University of California San Diego",
+                "name": "University of Southern California",
                 "country": "USA"
             }
         ]
@@ -480,16 +479,16 @@
         "url": "http://arxiv.org/pdf/1511.06068.pdf",
         "orgs": [
             {
-                "name": "Microsoft",
-                "country": "USA"
+                "name": "Université de Montréal",
+                "country": "Canada"
             },
             {
                 "name": "Facebook",
                 "country": "USA"
             },
             {
-                "name": "Université de Montréal",
-                "country": "Canada"
+                "name": "Microsoft",
+                "country": "USA"
             }
         ]
     },
@@ -526,15 +525,15 @@
         "url": "http://arxiv.org/pdf/1509.06664.pdf",
         "orgs": [
             {
+                "name": "DeepMind",
+                "country": "USA"
+            },
+            {
                 "name": "University College London",
                 "country": "UK"
             },
             {
-                "name": "DeepMind",
-                "country": "UK"
-            },
-            {
-                "name": "DeepMind",
+                "name": "University of Oxford",
                 "country": "UK"
             }
         ]
@@ -555,15 +554,15 @@
         "url": "http://arxiv.org/pdf/1511.06067.pdf",
         "orgs": [
             {
-                "name": "Princeton University",
-                "country": "USA"
-            },
-            {
                 "name": "The Chinese University of Hong Kong",
                 "country": "China"
             },
             {
                 "name": "University of Michigan",
+                "country": "USA"
+            },
+            {
+                "name": "Princeton University",
                 "country": "USA"
             }
         ]
@@ -582,10 +581,6 @@
         ],
         "url": "http://arxiv.org/pdf/1511.03643.pdf",
         "orgs": [
-            {
-                "name": "Facebook",
-                "country": "USA"
-            },
             {
                 "name": "Facebook",
                 "country": "USA"
@@ -641,7 +636,12 @@
             "Gunnar Rätsch"
         ],
         "url": "http://arxiv.org/pdf/1506.05011.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            }
+        ]
     },
     {
         "id": "ICLR16-29",
@@ -682,6 +682,10 @@
         "orgs": [
             {
                 "name": "University of California",
+                "country": "USA"
+            },
+            {
+                "name": "UC Berkeley",
                 "country": "USA"
             }
         ]
@@ -866,11 +870,11 @@
         "url": "http://arxiv.org/pdf/1511.06410.pdf",
         "orgs": [
             {
-                "name": "Facebook",
+                "name": "Rutgers University",
                 "country": "USA"
             },
             {
-                "name": "Rutgers University",
+                "name": "Facebook",
                 "country": "USA"
             }
         ]
@@ -933,20 +937,20 @@
         "url": "http://arxiv.org/pdf/1511.04581.pdf",
         "orgs": [
             {
+                "name": "INRIA",
+                "country": "France"
+            },
+            {
+                "name": "Katholieke Universiteit Leuven",
+                "country": "Belgium"
+            },
+            {
                 "name": "University College London",
                 "country": "UK"
             },
             {
                 "name": "DeepMind",
                 "country": "UK"
-            },
-            {
-                "name": "INRIA",
-                "country": "France"
-            },
-            {
-                "name": "Université́ Paris Saclay",
-                "country": "France"
             }
         ]
     },
@@ -1055,10 +1059,6 @@
         "url": "http://arxiv.org/pdf/1411.7676.pdf",
         "orgs": [
             {
-                "name": "University of Padua",
-                "country": "Italy"
-            },
-            {
                 "name": "University of California Los Angeles",
                 "country": "USA"
             }
@@ -1079,15 +1079,15 @@
         "url": "http://arxiv.org/pdf/1511.07069.pdf",
         "orgs": [
             {
-                "name": "Massachusetts Institute of Technology",
-                "country": "USA"
-            },
-            {
                 "name": "National University of Singapore",
                 "country": "Singapore"
             },
             {
                 "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "Massachusetts Institute of Technology",
                 "country": "USA"
             }
         ]
@@ -1180,11 +1180,11 @@
                 "country": "USA"
             },
             {
-                "name": "Facebook",
+                "name": "Massachusetts Institute of Technology",
                 "country": "USA"
             },
             {
-                "name": "Massachusetts Institute of Technology",
+                "name": "Facebook",
                 "country": "USA"
             }
         ]
@@ -1248,10 +1248,6 @@
             {
                 "name": "Université de Montréal",
                 "country": "Canada"
-            },
-            {
-                "name": "Université de Montréal",
-                "country": "Canada"
             }
         ]
     },
@@ -1265,12 +1261,7 @@
             "Tim Dettmers"
         ],
         "url": "http://arxiv.org/pdf/1511.04561.pdf",
-        "orgs": [
-            {
-                "name": "Università della Svizzera italiana",
-                "country": "Switzerland"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICLR16-57",
@@ -1288,6 +1279,10 @@
         "orgs": [
             {
                 "name": "UC Berkeley",
+                "country": "USA"
+            },
+            {
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             }
         ]
@@ -1530,10 +1525,6 @@
             {
                 "name": "IBM",
                 "country": "USA"
-            },
-            {
-                "name": "IBM",
-                "country": "USA"
             }
         ]
     },
@@ -1624,11 +1615,11 @@
                 "country": "USA"
             },
             {
-                "name": "Cornell University",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             },
             {
-                "name": "Johns Hopkins University",
+                "name": "Cornell University",
                 "country": "USA"
             }
         ]
@@ -1665,6 +1656,10 @@
         ],
         "url": "http://arxiv.org/pdf/1511.05946.pdf",
         "orgs": [
+            {
+                "name": "NVIDIA Corporation",
+                "country": "USA"
+            },
             {
                 "name": "University of Oxford",
                 "country": "UK"
@@ -1704,11 +1699,15 @@
         "url": "http://arxiv.org/pdf/1511.06394.pdf",
         "orgs": [
             {
-                "name": "Courant Institute of Mathematical Sciences",
+                "name": "Howard Hughes Medical Institute",
                 "country": "USA"
             },
             {
                 "name": "New York University",
+                "country": "USA"
+            },
+            {
+                "name": "Courant Institute of Mathematical Sciences",
                 "country": "USA"
             }
         ]
@@ -1755,11 +1754,11 @@
                 "country": "USA"
             },
             {
-                "name": "New York University",
+                "name": "UC Berkeley",
                 "country": "USA"
             },
             {
-                "name": "UC Berkeley",
+                "name": "New York University",
                 "country": "USA"
             }
         ]
