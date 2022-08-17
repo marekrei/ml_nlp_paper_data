@@ -36,12 +36,12 @@
         "url": "http://arxiv.org/pdf/1312.5650.pdf",
         "orgs": [
             {
-                "name": "University of Toronto",
-                "country": "Canada"
-            },
-            {
                 "name": "Google",
                 "country": "USA"
+            },
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
             }
         ]
     },
@@ -75,7 +75,12 @@
             "Yoshua Bengio"
         ],
         "url": "http://arxiv.org/pdf/1301.3584.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "University of Montreal",
+                "country": "Canada"
+            }
+        ]
     },
     {
         "id": "ICLR14-4",
@@ -128,6 +133,10 @@
             {
                 "name": "Aalto University",
                 "country": "Finland"
+            },
+            {
+                "name": "University of Montreal",
+                "country": "Canada"
             }
         ]
     },
@@ -145,11 +154,11 @@
         "url": "http://arxiv.org/pdf/1312.5857.pdf",
         "orgs": [
             {
-                "name": "Adobe Research",
+                "name": "Columbia University",
                 "country": "USA"
             },
             {
-                "name": "Columbia University",
+                "name": "Adobe Research",
                 "country": "USA"
             }
         ]
@@ -171,6 +180,10 @@
             {
                 "name": "Aalto University",
                 "country": "Finland"
+            },
+            {
+                "name": "University of Montreal",
+                "country": "Canada"
             }
         ]
     },
@@ -193,7 +206,7 @@
                 "country": "USA"
             },
             {
-                "name": "Université de Montréal",
+                "name": "University of Montreal",
                 "country": "Canada"
             }
         ]
@@ -211,7 +224,12 @@
             "Yoshua Bengio"
         ],
         "url": "http://arxiv.org/pdf/1312.6197.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "University of Montreal",
+                "country": "Canada"
+            }
+        ]
     },
     {
         "id": "ICLR14-11",
@@ -282,7 +300,12 @@
             "Max Welling"
         ],
         "url": "http://arxiv.org/pdf/1312.6114.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
     },
     {
         "id": "ICLR14-15",
@@ -366,7 +389,12 @@
             "Yoshua Bengio"
         ],
         "url": "http://arxiv.org/pdf/1312.6098.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "University of Montreal",
+                "country": "Canada"
+            }
+        ]
     },
     {
         "id": "ICLR14-19",
@@ -386,12 +414,12 @@
         "url": "http://arxiv.org/pdf/1312.6199.pdf",
         "orgs": [
             {
-                "name": "Facebook",
-                "country": "USA"
+                "name": "University of Montreal",
+                "country": "Canada"
             },
             {
-                "name": "Université de Montréal",
-                "country": "Canada"
+                "name": "Facebook",
+                "country": "USA"
             },
             {
                 "name": "New York University",
@@ -417,11 +445,11 @@
         "url": "http://arxiv.org/pdf/1312.5851.pdf",
         "orgs": [
             {
-                "name": "Courant Institute of Mathematical Sciences",
+                "name": "New York University",
                 "country": "USA"
             },
             {
-                "name": "New York University",
+                "name": "Courant Institute of Mathematical Sciences",
                 "country": "USA"
             }
         ]
@@ -437,12 +465,7 @@
             "Viren Jain"
         ],
         "url": "http://arxiv.org/pdf/1310.0354.pdf",
-        "orgs": [
-            {
-                "name": "Howard Hughes Medical Institute",
-                "country": "USA"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICLR14-22",
@@ -472,11 +495,11 @@
         "url": "http://arxiv.org/pdf/1312.4894.pdf",
         "orgs": [
             {
-                "name": "University of North Carolina at Chapel Hill",
+                "name": "Google",
                 "country": "USA"
             },
             {
-                "name": "Google",
+                "name": "University of North Carolina at Chapel Hill",
                 "country": "USA"
             }
         ]
@@ -495,7 +518,7 @@
         "url": "http://arxiv.org/pdf/1306.3162.pdf",
         "orgs": [
             {
-                "name": "Université de Montréal",
+                "name": "University of Montreal",
                 "country": "Canada"
             },
             {
@@ -519,12 +542,12 @@
         "url": "http://arxiv.org/pdf/1312.6095.pdf",
         "orgs": [
             {
-                "name": "Stanford University",
-                "country": "USA"
+                "name": "Max Planck Institute Informatics",
+                "country": "Germany"
             },
             {
-                "name": "MMax Planck Institute for Informatics",
-                "country": "Germany"
+                "name": "Stanford University",
+                "country": "USA"
             },
             {
                 "name": "Max Planck Institute for Intelligent Systems",
@@ -567,11 +590,11 @@
         "url": "http://arxiv.org/pdf/1312.6229.pdf",
         "orgs": [
             {
-                "name": "Courant Institute of Mathematical Sciences",
+                "name": "New York University",
                 "country": "USA"
             },
             {
-                "name": "New York University",
+                "name": "Courant Institute of Mathematical Sciences",
                 "country": "USA"
             }
         ]
@@ -611,7 +634,12 @@
             "Gabriel Dulac-Arnold"
         ],
         "url": "http://arxiv.org/pdf/1312.6594.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Sorbonne University",
+                "country": "France"
+            }
+        ]
     },
     {
         "id": "ICLR14-30",
@@ -625,12 +653,7 @@
             "Viren Jain"
         ],
         "url": "http://arxiv.org/pdf/1312.6159.pdf",
-        "orgs": [
-            {
-                "name": "Howard Hughes Medical Institute",
-                "country": "USA"
-            }
-        ]
+        "orgs": []
     },
     {
         "id": "ICLR14-31",

@@ -1,0 +1,2402 @@
+[
+    {
+        "id": "TACL21-0",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Reducing Confusion in Active Learning for Part-Of-Speech Tagging",
+        "authors": [
+            "Aditi Chaudhary",
+            "Antonios Anastasopoulos",
+            "Zaid Sheikh",
+            "Graham Neubig"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.1.pdf",
+        "orgs": [
+            {
+                "name": "George Mason University",
+                "country": "USA"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-1",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Revisiting Multi-Domain Machine Translation",
+        "authors": [
+            "MinhQuang Pham",
+            "Josep Maria Crego",
+            "François Yvon"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.2.pdf",
+        "orgs": [
+            {
+                "name": "LIMSI",
+                "country": "France"
+            },
+            {
+                "name": "Université́ Paris Saclay",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-2",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Conversation Graph: Data Augmentation, Training, and Evaluation for Non-Deterministic Dialogue Management",
+        "authors": [
+            "Milan Gritta",
+            "Gerasimos Lampouras",
+            "Ignacio Iacobacci"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.3.pdf",
+        "orgs": [
+            {
+                "name": "Huawei",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-3",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Efficient Content-Based Sparse Attention with Routing Transformers",
+        "authors": [
+            "Aurko Roy",
+            "Mohammad Saffar",
+            "Ashish Vaswani",
+            "David Grangier"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.4.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-4",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Deciphering Undersegmented Ancient Scripts Using Phonetic Prior",
+        "authors": [
+            "Jiaming Luo",
+            "Frederik Hartmann",
+            "Enrico Santus",
+            "Regina Barzilay",
+            "Yuan Cao"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.5.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
+            },
+            {
+                "name": "Universität Konstanz",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-5",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Augmenting Transformers with KNN-Based Composite Memory for Dialog",
+        "authors": [
+            "Angela Fan",
+            "Claire Gardent",
+            "Chloé Braud",
+            "Antoine Bordes"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.6.pdf",
+        "orgs": [
+            {
+                "name": "Université́ de Lorraine",
+                "country": "France"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-6",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Modeling Content and Context with Deep Relational Learning",
+        "authors": [
+            "Maria Leonor Pacheco",
+            "Dan Goldwasser"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.7.pdf",
+        "orgs": [
+            {
+                "name": "Purdue University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-7",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Recursive Non-Autoregressive Graph-to-Graph Transformer for Dependency Parsing with Iterative Refinement",
+        "authors": [
+            "Alireza Mohammadshahi",
+            "James Henderson"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.8.pdf",
+        "orgs": [
+            {
+                "name": "Idiap Research Institute",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-8",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "On the Relationships Between the Grammatical Genders of Inanimate Nouns and Their Co-Occurring Adjectives and Verbs",
+        "authors": [
+            "Adina Williams",
+            "Ryan Cotterell",
+            "Lawrence Wolf-Sonkin",
+            "Damián Blasi",
+            "Hanna Wallach"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.9.pdf",
+        "orgs": [
+            {
+                "name": "University of Zürich",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "ETH Zürich",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-9",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Amnesic Probing: Behavioral Explanation with Amnesic Counterfactuals",
+        "authors": [
+            "Yanai Elazar",
+            "Shauli Ravfogel",
+            "Alon Jacovi",
+            "Yoav Goldberg"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.10.pdf",
+        "orgs": [
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-10",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation",
+        "authors": [
+            "Xiaozhi Wang",
+            "Tianyu Gao",
+            "Zhaocheng Zhu",
+            "Zhengyan Zhang",
+            "Zhiyuan Liu",
+            "Juanzi Li",
+            "Jian Tang"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.11.pdf",
+        "orgs": [
+            {
+                "name": "Tsinghua University",
+                "country": "China"
+            },
+            {
+                "name": "Princeton University",
+                "country": "USA"
+            },
+            {
+                "name": "Montreal Institute of Learning Algorithms",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-11",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Latent Compositional Representations Improve Systematic Generalization in Grounded Question Answering",
+        "authors": [
+            "Ben Bogin",
+            "Sanjay Subramanian",
+            "Matt Gardner",
+            "Jonathan Berant"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.12.pdf",
+        "orgs": [
+            {
+                "name": "Tel Aviv University",
+                "country": "Israel"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-12",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "WikiAsp: A Dataset for Multi-domain Aspect-based Summarization",
+        "authors": [
+            "Hiroaki Hayashi",
+            "Prashant Budania",
+            "Peng Wang",
+            "Chris Ackerson",
+            "Raj Neervannan",
+            "Graham Neubig"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.13.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-13",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Infusing Finetuning with Semantic Dependencies",
+        "authors": [
+            "Zhaofeng Wu",
+            "Hao Peng",
+            "Noah A. Smith"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.14.pdf",
+        "orgs": [
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-14",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Supertagging the Long Tail with Tree-Structured Decoding of Complex Categories",
+        "authors": [
+            "Jakob Prange",
+            "Nathan Schneider",
+            "Vivek Srikumar"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.15.pdf",
+        "orgs": [
+            {
+                "name": "Georgetown University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Utah",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-15",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Morphology Matters: A Multilingual Language Modeling Analysis",
+        "authors": [
+            "Hyunji Hayley Park",
+            "Katherine J. Zhang",
+            "Coleman Haley",
+            "Kenneth Steimel",
+            "Han Liu",
+            "Lane Schwartz"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.16.pdf",
+        "orgs": [
+            {
+                "name": "University of Chicago",
+                "country": "USA"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Indiana University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-16",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Extractive Opinion Summarization in Quantized Transformer Spaces",
+        "authors": [
+            "Stefanos Angelidis",
+            "Reinald Kim Amplayo",
+            "Yoshihiko Suhara",
+            "Xiaolan Wang",
+            "Mirella Lapata"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.17.pdf",
+        "orgs": [
+            {
+                "name": "Megagon Labs",
+                "country": "USA"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-17",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Aligning Faithful Interpretations with their Social Attribution",
+        "authors": [
+            "Alon Jacovi",
+            "Yoav Goldberg"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.18.pdf",
+        "orgs": [
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-18",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "EDITOR: An Edit-Based Transformer with Repositioning for Neural Machine Translation with Soft Lexical Constraints",
+        "authors": [
+            "Weijia Xu",
+            "Marine Carpuat"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.19.pdf",
+        "orgs": [
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-19",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Sparse, Dense, and Attentional Representations for Text Retrieval",
+        "authors": [
+            "Yi Luan",
+            "Jacob Eisenstein",
+            "Kristina Toutanova",
+            "Michael Collins"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.20.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-20",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies",
+        "authors": [
+            "Mor Geva",
+            "Daniel Khashabi",
+            "Elad Segal",
+            "Tushar Khot",
+            "Dan Roth",
+            "Jonathan Berant"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.21.pdf",
+        "orgs": [
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            },
+            {
+                "name": "Tel Aviv University",
+                "country": "Israel"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-21",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Adaptive Semiparametric Language Models",
+        "authors": [
+            "Dani Yogatama",
+            "Cyprien de Masson d’Autume",
+            "Lingpeng Kong"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.22.pdf",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-22",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Unsupervised Learning of KB Queries in Task-Oriented Dialogs",
+        "authors": [
+            "Dinesh Raghu",
+            "Nikhil Gupta",
+            "Mausam"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.23.pdf",
+        "orgs": [
+            {
+                "name": "IIIT Delhi",
+                "country": "India"
+            },
+            {
+                "name": "IBM",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-23",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "SummEval: Re-evaluating Summarization Evaluation",
+        "authors": [
+            "Alexander R. Fabbri",
+            "Wojciech Kryściński",
+            "Bryan McCann",
+            "Caiming Xiong",
+            "Richard Socher",
+            "Dragomir Radev"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.24.pdf",
+        "orgs": [
+            {
+                "name": "Yale University",
+                "country": "USA"
+            },
+            {
+                "name": "Salesforce Research",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-24",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages",
+        "authors": [
+            "Edoardo M. Ponti",
+            "Ivan Vulić",
+            "Ryan Cotterell",
+            "Marinela Parovic",
+            "Roi Reichart",
+            "Anna Korhonen"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.25.pdf",
+        "orgs": [
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-25",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "An Error Analysis Framework for Shallow Surface Realization",
+        "authors": [
+            "Anastasia Shimorina",
+            "Yannick Parmentier",
+            "Claire Gardent"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.26.pdf",
+        "orgs": [
+            {
+                "name": "Université́ de Lorraine",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-26",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Decontextualization: Making Sentences Stand-Alone",
+        "authors": [
+            "Eunsol Choi",
+            "Jennimaria Palomaki",
+            "Matthew Lamm",
+            "Tom Kwiatkowski",
+            "Dipanjan Das",
+            "Michael Collins"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.27.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-27",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "A Computational Framework for Slang Generation",
+        "authors": [
+            "Zhewei Sun",
+            "Richard Zemel",
+            "Yang Xu"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.28.pdf",
+        "orgs": [
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-28",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Neural OCR Post-Hoc Correction of Historical Corpora",
+        "authors": [
+            "Lijun Lyu",
+            "Maria Koutraki",
+            "Martin Krickl",
+            "Besnik Fetahu"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.29.pdf",
+        "orgs": [
+            {
+                "name": "Amazon",
+                "country": "USA"
+            },
+            {
+                "name": "Gottfried Wilhelm Leibniz Universität Hannover",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-29",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Iterative Paraphrastic Augmentation with Discriminative Span Alignment",
+        "authors": [
+            "Ryan Culkin",
+            "J. Edward Hu",
+            "Elias Stengel-Eskin",
+            "Guanghui Qin",
+            "Benjamin Van Durme"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.30.pdf",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-30",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Data-to-text Generation with Macro Planning",
+        "authors": [
+            "Ratish Puduppully",
+            "Mirella Lapata"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.31.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-31",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Optimizing over subsequences generates context-sensitive languages",
+        "authors": [
+            "Andrew Lamont"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.32.pdf",
+        "orgs": [
+            {
+                "name": "University of Massachusetts Amherst",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-32",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Characterizing English Variation across Social Media Communities with BERT",
+        "authors": [
+            "Li Lucy",
+            "David Bamman"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.33.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-33",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Dialogue State Tracking with Incremental Reasoning",
+        "authors": [
+            "Lizi Liao",
+            "Le Hong Long",
+            "Yunshan Ma",
+            "Wenqiang Lei",
+            "Tat-Seng Chua"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.34.pdf",
+        "orgs": [
+            {
+                "name": "National University of Singapore",
+                "country": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-34",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Decoupling the Role of Data, Attention, and Losses in Multimodal Transformers",
+        "authors": [
+            "Lisa Anne Hendricks",
+            "John Mellor",
+            "Rosalia Schneider",
+            "Jean-Baptiste Alayrac",
+            "Aida Nematzadeh"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.35.pdf",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-35",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Context-aware Adversarial Training for Name Regularity Bias in Named Entity Recognition",
+        "authors": [
+            "Abbas Ghaddar",
+            "Philippe Langlais",
+            "Ahmad Rashid",
+            "Mehdi Rezagholizadeh"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.36.pdf",
+        "orgs": [
+            {
+                "name": "University of Montreal",
+                "country": "Canada"
+            },
+            {
+                "name": "Huawei",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-36",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "There Once Was a Really Bad Poet, It Was Automated but You Didn’t Know It",
+        "authors": [
+            "Jianyou Wang",
+            "Xiaoxuan Zhang",
+            "Yuren Zhou",
+            "Christopher Suh",
+            "Cynthia Rudin"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.37.pdf",
+        "orgs": [
+            {
+                "name": "Duke University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-37",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Evaluating Document Coherence Modeling",
+        "authors": [
+            "Aili Shen",
+            "Meladel Mistica",
+            "Bahar Salehi",
+            "Hang Li",
+            "Timothy Baldwin",
+            "Jianzhong Qi"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.38.pdf",
+        "orgs": [
+            {
+                "name": "ByteDance",
+                "country": "China"
+            },
+            {
+                "name": "University of Melbourne",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-38",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Self-supervised Regularization for Text Classification",
+        "authors": [
+            "Meng Zhou",
+            "Zechen Li",
+            "Pengtao Xie"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.39.pdf",
+        "orgs": [
+            {
+                "name": "UC San Diego",
+                "country": "USA"
+            },
+            {
+                "name": "Shanghai Jiao Tong University",
+                "country": "China"
+            },
+            {
+                "name": "Northeastern University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-39",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Pretraining the Noisy Channel Model for Task-Oriented Dialogue",
+        "authors": [
+            "Qi Liu",
+            "Lei Yu",
+            "Laura Rimell",
+            "Phil Blunsom"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.40.pdf",
+        "orgs": [
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            },
+            {
+                "name": "University of Oxford",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-40",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Efficient Computation of Expectations under Spanning Tree Distributions",
+        "authors": [
+            "Ran Zmigrod",
+            "Tim Vieira",
+            "Ryan Cotterell"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.41.pdf",
+        "orgs": [
+            {
+                "name": "ETH Zürich",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-41",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Revisiting Few-shot Relation Classification: Evaluation Data and Classification Schemes",
+        "authors": [
+            "Ofer Sabo",
+            "Yanai Elazar",
+            "Yoav Goldberg",
+            "Ido Dagan"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.42.pdf",
+        "orgs": [
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-42",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Strong Equivalence of TAG and CCG",
+        "authors": [
+            "Lena Katharina Schiffer",
+            "Andreas Maletti"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.43.pdf",
+        "orgs": [
+            {
+                "name": "Universität Leipzig",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-43",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Classifying Argumentative Relations Using Logical Mechanisms and Argumentation Schemes",
+        "authors": [
+            "Yohan Jo",
+            "Seojin Bang",
+            "Chris Reed",
+            "Eduard Hovy"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.44.pdf",
+        "orgs": [
+            {
+                "name": "University of Dundee",
+                "country": "UK"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-44",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Revisiting Negation in Neural Machine Translation",
+        "authors": [
+            "Gongbo Tang",
+            "Philipp Rönchen",
+            "Rico Sennrich",
+            "Joakim Nivre"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.45.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            },
+            {
+                "name": "University of Zurich",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Uppsala University",
+                "country": "Sweden"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-45",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Joint Universal Syntactic and Semantic Parsing",
+        "authors": [
+            "Elias Stengel-Eskin",
+            "Kenton Murray",
+            "Sheng Zhang",
+            "Aaron Steven White",
+            "Benjamin Van Durme"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.46.pdf",
+        "orgs": [
+            {
+                "name": "University of Rochester",
+                "country": "USA"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-46",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Towards Question-Answering as an Automatic Metric for Evaluating the Content Quality of a Summary",
+        "authors": [
+            "Daniel Deutsch",
+            "Tania Bedrax-Weiss",
+            "Dan Roth"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.47.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-47",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "QED: A Framework and Dataset for Explanations in Question Answering",
+        "authors": [
+            "Matthew Lamm",
+            "Jennimaria Palomaki",
+            "Chris Alberti",
+            "Daniel Andor",
+            "Eunsol Choi",
+            "Livio Baldini Soares",
+            "Michael Collins"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.48.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Texas at Austin",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-48",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Soloist: Building Task Bots at Scale with Transfer Learning and Machine Teaching",
+        "authors": [
+            "Baolin Peng",
+            "Chunyuan Li",
+            "Jinchao Li",
+            "Shahin Shayandeh",
+            "Lars Liden",
+            "Jianfeng Gao"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.49.pdf",
+        "orgs": [
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-49",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Let’s Play Mono-Poly: BERT Can Reveal Words’ Polysemy Level and Partitionability into Senses",
+        "authors": [
+            "Aina Garí Soler",
+            "Marianna Apidianaki"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.50.pdf",
+        "orgs": [
+            {
+                "name": "University of Helsinki",
+                "country": "Finland"
+            },
+            {
+                "name": "Université́ Paris Saclay",
+                "country": "France"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-50",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Gender Bias in Machine Translation",
+        "authors": [
+            "Beatrice Savoldi",
+            "Marco Gaido",
+            "Luisa Bentivogli",
+            "Matteo Negri",
+            "Marco Turchi"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.51.pdf",
+        "orgs": [
+            {
+                "name": "University of Trento",
+                "country": "Italy"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-51",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Neural Event Semantics for Grounded Language Understanding",
+        "authors": [
+            "Shyamal Buch",
+            "Li Fei-Fei",
+            "Noah D. Goodman"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.52.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-52",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Sensitivity as a Complexity Measure for Sequence Classification Tasks",
+        "authors": [
+            "Michael Hahn",
+            "Dan Jurafsky",
+            "Richard Futrell"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.53.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-53",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Neural Modeling for Named Entities and Morphology (NEMO2)",
+        "authors": [
+            "Dan Bareket",
+            "Reut Tsarfaty"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.54.pdf",
+        "orgs": [
+            {
+                "name": "The Open University of Israel",
+                "country": "Israel"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-54",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Relevance-guided Supervision for OpenQA with ColBERT",
+        "authors": [
+            "Omar Khattab",
+            "Christopher Potts",
+            "Matei Zaharia"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.55.pdf",
+        "orgs": [
+            {
+                "name": "Stanford University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-55",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Unsupervised Abstractive Opinion Summarization by Generating Sentences with Tree-Structured Topic Guidance",
+        "authors": [
+            "Masaru Isonuma",
+            "Junichiro Mori",
+            "Danushka Bollegala",
+            "Ichiro Sakata"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.56.pdf",
+        "orgs": [
+            {
+                "name": "University of Tokyo",
+                "country": "Japan"
+            },
+            {
+                "name": "University of Liverpool",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-56",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering",
+        "authors": [
+            "Zhengbao Jiang",
+            "Jun Araki",
+            "Haibo Ding",
+            "Graham Neubig"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.57.pdf",
+        "orgs": [
+            {
+                "name": "Robert Bosch GmbH",
+                "country": "Germany"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-57",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs",
+        "authors": [
+            "Emanuele Bugliarello",
+            "Ryan Cotterell",
+            "Naoaki Okazaki",
+            "Desmond Elliott"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.58.pdf",
+        "orgs": [
+            {
+                "name": "ETH Zürich",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Tokyo Institute of Technology",
+                "country": "Japan"
+            },
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-58",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Maintaining Common Ground in Dynamic Environments",
+        "authors": [
+            "Takuma Udagawa",
+            "Akiko Aizawa"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.59.pdf",
+        "orgs": [
+            {
+                "name": "University of Tokyo",
+                "country": "Japan"
+            },
+            {
+                "name": "National Institute of Informatics",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-59",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Measuring and Improving Consistency in Pretrained Language Models",
+        "authors": [
+            "Yanai Elazar",
+            "Nora Kassner",
+            "Shauli Ravfogel",
+            "Abhilasha Ravichander",
+            "Eduard Hovy",
+            "Hinrich Schütze",
+            "Yoav Goldberg"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.60.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            },
+            {
+                "name": "University of Munich",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-60",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Narrative Question Answering with Cutting-Edge Open-Domain QA Techniques: A Comprehensive Study",
+        "authors": [
+            "Xiangyang Mou",
+            "Chenghao Yang",
+            "Mo Yu",
+            "Bingsheng Yao",
+            "Xiaoxiao Guo",
+            "Saloni Potdar",
+            "Hui Su"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.61.pdf",
+        "orgs": [
+            {
+                "name": "Rensselaer Polytechnic Institute",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-61",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Provable Limitations of Acquiring Meaning from Ungrounded Form: What Will Future Language Models Understand?",
+        "authors": [
+            "William Merrill",
+            "Yoav Goldberg",
+            "Roy Schwartz",
+            "Noah A. Smith"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.62.pdf",
+        "orgs": [
+            {
+                "name": "Hebrew University of Jerusalem",
+                "country": "Israel"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-62",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Compressing Large-Scale Transformer-Based Models: A Case Study on BERT",
+        "authors": [
+            "Prakhar Ganesh",
+            "Yao Chen",
+            "Xin Lou",
+            "Mohammad Ali Khan",
+            "Yin Yang",
+            "Hassan Sajjad",
+            "Preslav Nakov",
+            "Deming Chen",
+            "Marianne Winslett"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.63.pdf",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            },
+            {
+                "name": "Hamad Bin Khalifa University",
+                "country": "Qatar"
+            },
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-63",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "He Thinks He Knows Better than the Doctors: BERT for Event Factuality Fails on Pragmatics",
+        "authors": [
+            "Nanjiang Jiang",
+            "Marie-Catherine de Marneffe"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.64.pdf",
+        "orgs": [
+            {
+                "name": "The Ohio State University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-64",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "PAQ: 65 Million Probably-Asked Questions and What You Can Do With Them",
+        "authors": [
+            "Patrick Lewis",
+            "Yuxiang Wu",
+            "Linqing Liu",
+            "Pasquale Minervini",
+            "Heinrich Küttler",
+            "Aleksandra Piktus",
+            "Pontus Stenetorp",
+            "Sebastian Riedel"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.65.pdf",
+        "orgs": [
+            {
+                "name": "University College London",
+                "country": "UK"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-65",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "MasakhaNER: Named Entity Recognition for African Languages",
+        "authors": [
+            "David Ifeoluwa Adelani",
+            "Jade Abbott",
+            "Graham Neubig",
+            "Daniel D’souza",
+            "Julia Kreutzer",
+            "Constantine Lignos",
+            "Chester Palen-Michel",
+            "Happy Buzaaba",
+            "Shruti Rijhwani",
+            "Sebastian Ruder",
+            "Stephen Mayhew",
+            "Israel Abebe Azime",
+            "Shamsuddeen H. Muhammad",
+            "Chris Chinenye Emezue",
+            "Joyce Nakatumba-Nabende",
+            "Perez Ogayo",
+            "Aremu Anuoluwapo",
+            "Catherine Gitau",
+            "Derguene Mbaye",
+            "Jesujoba Alabi",
+            "Seid Muhie Yimam",
+            "Tajuddeen Rabiu Gwadabe",
+            "Ignatius Ezeani",
+            "Rubungo Andre Niyongabo",
+            "Jonathan Mukiibi",
+            "Verrah Otiende",
+            "Iroro Orife",
+            "Davis David",
+            "Samba Ngom",
+            "Tosin Adewumi",
+            "Paul Rayson",
+            "Mofetoluwa Adeyemi",
+            "Gerald Muriuki",
+            "Emmanuel Anebi",
+            "Chiamaka Chukwuneke",
+            "Nkiruka Odu",
+            "Eric Peter Wairagala",
+            "Samuel Oyerinde",
+            "Clemencia Siro",
+            "Tobius Saul Bateesa",
+            "Temilola Oloyede",
+            "Yvonne Wambui",
+            "Victor Akinode",
+            "Deborah Nabagereka",
+            "Maurice Katusiime",
+            "Ayodele Awokoya",
+            "Mouhamadane MBOUP",
+            "Dibora Gebreyohannes",
+            "Henok Tilaye",
+            "Kelechi Nwaike",
+            "Degaga Wolde",
+            "Abdoulaye Faye",
+            "Blessing Sibanda",
+            "Orevaoghene Ahia",
+            "Bonaventure F. P. Dossou",
+            "Kelechi Ogueji",
+            "Thierno Ibrahima DIOP",
+            "Abdoulaye Diallo",
+            "Adewale Akinfaderin",
+            "Tendai Marengereke",
+            "Salomey Osei"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.66.pdf",
+        "orgs": [
+            {
+                "name": "Duolingo",
+                "country": "USA"
+            },
+            {
+                "name": "Saarland University",
+                "country": "Germany"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "University of Lagos",
+                "country": "Nigeria"
+            },
+            {
+                "name": "Brandeis University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Ibadan",
+                "country": "Nigeria"
+            },
+            {
+                "name": "Jacobs University Bremen",
+                "country": "Germany"
+            },
+            {
+                "name": "University of Tsukuba",
+                "country": "Japan"
+            },
+            {
+                "name": "African Institute for Mathematical Sciences",
+                "country": "South Africa"
+            },
+            {
+                "name": "Makerere University",
+                "country": "Uganda"
+            },
+            {
+                "name": "Luleå University of Technology",
+                "country": "Sweden"
+            },
+            {
+                "name": "University of Waterloo",
+                "country": "Canada"
+            },
+            {
+                "name": "DeepMind",
+                "country": "UK"
+            },
+            {
+                "name": "University of Porto",
+                "country": "Portugal"
+            },
+            {
+                "name": "Technical University of Munich",
+                "country": "Germany"
+            },
+            {
+                "name": "University of Hamburg",
+                "country": "Germany"
+            },
+            {
+                "name": "University of Chinese Academy of Science",
+                "country": "China"
+            },
+            {
+                "name": "African University of Science and Technology",
+                "country": "Nigeria"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Electronic Science and Technology of China",
+                "country": "China"
+            },
+            {
+                "name": "Namibia University of Science and Technology",
+                "country": "Namibia"
+            },
+            {
+                "name": "Bayero University Kano",
+                "country": "Nigeria"
+            },
+            {
+                "name": "United States International University Africa",
+                "country": "Kenya"
+            },
+            {
+                "name": "Max Planck Institute Informatics",
+                "country": "Germany"
+            },
+            {
+                "name": "Lancaster University",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-66",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "A Statistical Analysis of Summarization Evaluation Metrics Using Resampling Methods",
+        "authors": [
+            "Daniel Deutsch",
+            "Rotem Dror",
+            "Dan Roth"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.67.pdf",
+        "orgs": [
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-67",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "ParsiNLU: A Suite of Language Understanding Challenges for Persian",
+        "authors": [
+            "Daniel Khashabi",
+            "Arman Cohan",
+            "Siamak Shakeri",
+            "Pedram Hosseini",
+            "Pouya Pezeshkpour",
+            "Malihe Alikhani",
+            "Moin Aminnaseri",
+            "Marzieh Bitaab",
+            "Faeze Brahman",
+            "Sarik Ghazarian",
+            "Mozhdeh Gheini",
+            "Arman Kabiri",
+            "Rabeeh Karimi Mahabagdi",
+            "Omid Memarrast",
+            "Ahmadreza Mosallanezhad",
+            "Erfan Noury",
+            "Shahab Raji",
+            "Mohammad Sadegh Rasooli",
+            "Sepideh Sadeghi",
+            "Erfan Sadeqi Azer",
+            "Niloofar Safi Samghabadi",
+            "Mahsa Shafaei",
+            "Saber Sheybani",
+            "Ali Tazarv",
+            "Yadollah Yaghoobzadeh"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.68.pdf",
+        "orgs": [
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            },
+            {
+                "name": "The George Washington University",
+                "country": "USA"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "UC Santa Cruz",
+                "country": "USA"
+            },
+            {
+                "name": "University of Southern California",
+                "country": "USA"
+            },
+            {
+                "name": "Indiana University Bloomington",
+                "country": "USA"
+            },
+            {
+                "name": "University of Pennsylvania",
+                "country": "USA"
+            },
+            {
+                "name": "UC Irvine",
+                "country": "USA"
+            },
+            {
+                "name": "IMRSV Data Labs",
+                "country": "Canada"
+            },
+            {
+                "name": "Arizona State University",
+                "country": "USA"
+            },
+            {
+                "name": "Ecole Polytechnique Fédérale de Lausanne",
+                "country": "Switzerland"
+            },
+            {
+                "name": "Rutgers University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Maryland",
+                "country": "USA"
+            },
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            },
+            {
+                "name": "University of Pittsburgh",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-68",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "What Helps Transformers Recognize Conversational Structure? Importance of Context, Punctuation, and Labels in Dialog Act Recognition",
+        "authors": [
+            "Piotr Żelasko",
+            "Raghavendra Pappagari",
+            "Najim Dehak"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.69.pdf",
+        "orgs": [
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-69",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Identity-Based Patterns in Deep Convolutional Networks: Generative Adversarial Phonology and Reduplication",
+        "authors": [
+            "Gašper Beguš"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.70.pdf",
+        "orgs": [
+            {
+                "name": "UC Berkeley",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-70",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Memory-Based Semantic Parsing",
+        "authors": [
+            "Parag Jain",
+            "Mirella Lapata"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.71.pdf",
+        "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-71",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Controllable Summarization with Constrained Markov Decision Process",
+        "authors": [
+            "Hou Pong Chan",
+            "Lu Wang",
+            "Irwin King"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.72.pdf",
+        "orgs": [
+            {
+                "name": "University of Michigan",
+                "country": "USA"
+            },
+            {
+                "name": "The Chinese University of Hong Kong",
+                "country": "China"
+            },
+            {
+                "name": "University of Macau",
+                "country": "Macau"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-72",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "On the Difficulty of Translating Free-Order Case-Marking Languages",
+        "authors": [
+            "Arianna Bisazza",
+            "Ahmet Üstün",
+            "Stephan Sportel"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.73.pdf",
+        "orgs": [
+            {
+                "name": "University of Groningen",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-73",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Quantifying Social Biases in NLP: A Generalization and Empirical Comparison of Extrinsic Fairness Metrics",
+        "authors": [
+            "Paula Czarnowska",
+            "Yogarshi Vyas",
+            "Kashif Shah"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.74.pdf",
+        "orgs": [
+            {
+                "name": "Amazon",
+                "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-74",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Structured Self-Supervised Pretraining for Commonsense Knowledge Graph Completion",
+        "authors": [
+            "Jiayuan Huang",
+            "Yangkai Du",
+            "Shuting Tao",
+            "Kun Xu",
+            "Pengtao Xie"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.75.pdf",
+        "orgs": [
+            {
+                "name": "Zhejiang University",
+                "country": "China"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-75",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Lexically Aware Semi-Supervised Learning for OCR Post-Correction",
+        "authors": [
+            "Shruti Rijhwani",
+            "Daisy Rosenblum",
+            "Antonios Anastasopoulos",
+            "Graham Neubig"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.76.pdf",
+        "orgs": [
+            {
+                "name": "George Mason University",
+                "country": "USA"
+            },
+            {
+                "name": "University of British Columbia",
+                "country": "Canada"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-76",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Continual Learning for Grounded Instruction Generation by Observing Human Following Behavior",
+        "authors": [
+            "Noriyuki Kojima",
+            "Alane Suhr",
+            "Yoav Artzi"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.77.pdf",
+        "orgs": [
+            {
+                "name": "Cornell University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-77",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Partially Supervised Named Entity Recognition via the Expected Entity Ratio Loss",
+        "authors": [
+            "Thomas Effland",
+            "Michael Collins"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.78.pdf",
+        "orgs": [
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-78",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "On Generative Spoken Language Modeling from Raw Audio",
+        "authors": [
+            "Kushal Lakhotia",
+            "Eugene Kharitonov",
+            "Wei-Ning Hsu",
+            "Yossi Adi",
+            "Adam Polyak",
+            "Benjamin Bolte",
+            "Tu-Anh Nguyen",
+            "Jade Copet",
+            "Alexei Baevski",
+            "Abdelrahman Mohamed",
+            "Emmanuel Dupoux"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.79.pdf",
+        "orgs": [
+            {
+                "name": "Facebook",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-79",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Model Compression for Domain Adaptation through Causal Effect Estimation",
+        "authors": [
+            "Guy Rotman",
+            "Amir Feder",
+            "Roi Reichart"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.80.pdf",
+        "orgs": [
+            {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            },
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-80",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "A Biologically Plausible Parser",
+        "authors": [
+            "Daniel Mitropolsky",
+            "Michael J. Collins",
+            "Christos H. Papadimitriou"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.81.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "Columbia University",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-81",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering",
+        "authors": [
+            "Shayne Longpre",
+            "Yi Lu",
+            "Joachim Daiber"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.82.pdf",
+        "orgs": [
+            {
+                "name": "Apple",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-82",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Erratum: Measuring and Improving Consistency in Pretrained Language Models",
+        "authors": [
+            "Yanai Elazar",
+            "Nora Kassner",
+            "Shauli Ravfogel",
+            "Abhilasha Ravichander",
+            "Eduard Hovy",
+            "Hinrich Schütze",
+            "Yoav Goldberg"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.83.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
+            },
+            {
+                "name": "University of Munich",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-83",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP",
+        "authors": [
+            "Timo Schick",
+            "Sahana Udupa",
+            "Hinrich Schütze"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.84.pdf",
+        "orgs": [
+            {
+                "name": "University of Munich",
+                "country": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-84",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Weisfeiler-Leman in the Bamboo: Novel AMR Graph Metrics and a Benchmark for AMR Graph Similarity",
+        "authors": [
+            "Juri Opitz",
+            "Angel Daza",
+            "Anette Frank"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.85.pdf",
+        "orgs": [
+            {
+                "name": "University of Heidelberg",
+                "country": "Germany"
+            },
+            {
+                "name": "Vrije Universitéit Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-85",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Differentiable Subset Pruning of Transformer Heads",
+        "authors": [
+            "Jiaoda Li",
+            "Ryan Cotterell",
+            "Mrinmaya Sachan"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.86.pdf",
+        "orgs": [
+            {
+                "name": "ETH Zürich",
+                "country": "Switzerland"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-86",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Experts, Errors, and Context: A Large-Scale Study of Human Evaluation for Machine Translation",
+        "authors": [
+            "Markus Freitag",
+            "George Foster",
+            "David Grangier",
+            "Viresh Ratnakar",
+            "Qijun Tan",
+            "Wolfgang Macherey"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.87.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-87",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Planning with Learned Entity Prompts for Abstractive Summarization",
+        "authors": [
+            "Shashi Narayan",
+            "Yao Zhao",
+            "Joshua Maynez",
+            "Gonçalo Simões",
+            "Vitaly Nikolaev",
+            "Ryan McDonald"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.88.pdf",
+        "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "ASAPP Inc",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-88",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Instance-Based Neural Dependency Parsing",
+        "authors": [
+            "Hiroki Ouchi",
+            "Jun Suzuki",
+            "Sosuke Kobayashi",
+            "Sho Yokoi",
+            "Tatsuki Kuribayashi",
+            "Masashi Yoshikawa",
+            "Kentaro Inui"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.89.pdf",
+        "orgs": [
+            {
+                "name": "Tohoku University",
+                "country": "Japan"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-89",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Explanation-Based Human Debugging of NLP Models: A Survey",
+        "authors": [
+            "Piyawat Lertvittayakumjorn",
+            "Francesca Toni"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.90.pdf",
+        "orgs": [
+            {
+                "name": "Imperial College London",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-90",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Quantifying Cognitive Factors in Lexical Decline",
+        "authors": [
+            "David Francis",
+            "Ella Rabinovich",
+            "Farhan Samir",
+            "David Mortensen",
+            "Suzanne Stevenson"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.91.pdf",
+        "orgs": [
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Toronto",
+                "country": "Canada"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-91",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Idiomatic Expression Identification using Semantic Compatibility",
+        "authors": [
+            "Ziheng Zeng",
+            "Suma Bhat"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.92.pdf",
+        "orgs": [
+            {
+                "name": "University of Illinois",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "TACL21-92",
+        "source": "TACL21",
+        "source_type": "TACL",
+        "year": "2021",
+        "title": "Word Representation Learning in Multimodal Pre-Trained Transformers: An Intrinsic Evaluation",
+        "authors": [
+            "Sandro Pezzelle",
+            "Ece Takmaz",
+            "Raquel Fernández"
+        ],
+        "url": "https://aclanthology.org/2021.tacl-1.93.pdf",
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
+    }
+]

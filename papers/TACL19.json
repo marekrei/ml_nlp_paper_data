@@ -37,20 +37,20 @@
         "url": "https://www.aclweb.org/anthology/Q19-1002.pdf",
         "orgs": [
             {
-                "name": "IBM",
-                "country": "USA"
-            },
-            {
                 "name": "Xiamen University",
                 "country": "China"
             },
             {
-                "name": "Westlake University",
-                "country": "China"
+                "name": "IBM",
+                "country": "USA"
             },
             {
                 "name": "University of Rochester",
                 "country": "USA"
+            },
+            {
+                "name": "Westlake University",
+                "country": "China"
             }
         ]
     },
@@ -114,6 +114,10 @@
                 "country": "France"
             },
             {
+                "name": "University Paris Diderot",
+                "country": "France"
+            },
+            {
                 "name": "University of Edinburgh",
                 "country": "UK"
             }
@@ -133,7 +137,7 @@
         "url": "https://www.aclweb.org/anthology/Q19-1006.pdf",
         "orgs": [
             {
-                "name": "University of Chinese Academy of Sciences",
+                "name": "Chinese Academy of Sciences",
                 "country": "China"
             }
         ]
@@ -178,12 +182,12 @@
         "url": "https://www.aclweb.org/anthology/Q19-1008.pdf",
         "orgs": [
             {
-                "name": "Qatar Computing Research Institute",
-                "country": "Qatar"
-            },
-            {
                 "name": "Massachusetts Institute of Technology",
                 "country": "USA"
+            },
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
             }
         ]
     },
@@ -218,11 +222,11 @@
         "url": "https://www.aclweb.org/anthology/Q19-1010.pdf",
         "orgs": [
             {
-                "name": "Haverford College",
+                "name": "Rutgers University",
                 "country": "USA"
             },
             {
-                "name": "Rutgers University",
+                "name": "Haverford College",
                 "country": "USA"
             }
         ]
@@ -243,12 +247,12 @@
         "url": "https://www.aclweb.org/anthology/Q19-1011.pdf",
         "orgs": [
             {
-                "name": "University of Fribourg",
-                "country": "Switzerland"
-            },
-            {
                 "name": "Beuth University of Applied Sciences Berlin",
                 "country": "Germany"
+            },
+            {
+                "name": "University of Fribourg",
+                "country": "Switzerland"
             }
         ]
     },
@@ -294,12 +298,12 @@
         "url": "https://www.aclweb.org/anthology/Q19-1013.pdf",
         "orgs": [
             {
-                "name": "University of Edinburgh",
-                "country": "UK"
-            },
-            {
                 "name": "Yonsei University",
                 "country": "South Korea"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
             }
         ]
     },
@@ -320,19 +324,19 @@
         "url": "https://www.aclweb.org/anthology/Q19-1014.pdf",
         "orgs": [
             {
-                "name": "Cornell University",
-                "country": "USA"
-            },
-            {
                 "name": "Tencent",
                 "country": "China"
+            },
+            {
+                "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
             },
             {
                 "name": "University of Washington",
                 "country": "USA"
             },
             {
-                "name": "Allen Institute for Artificial Intelligence",
+                "name": "Cornell University",
                 "country": "USA"
             }
         ]
@@ -392,16 +396,16 @@
         "url": "https://www.aclweb.org/anthology/Q19-1017.pdf",
         "orgs": [
             {
-                "name": "The Chinese University of Hong Kong",
-                "country": "China"
-            },
-            {
                 "name": "Tencent",
                 "country": "China"
             },
             {
                 "name": "University of Warwick",
                 "country": "UK"
+            },
+            {
+                "name": "The Chinese University of Hong Kong",
+                "country": "China"
             }
         ]
     },
@@ -485,11 +489,11 @@
         "url": "https://www.aclweb.org/anthology/Q19-1021.pdf",
         "orgs": [
             {
-                "name": "Johns Hopkins University",
+                "name": "University of Colorado",
                 "country": "USA"
             },
             {
-                "name": "University of Colorado",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             }
         ]
@@ -678,12 +682,12 @@
         "url": "https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00283",
         "orgs": [
             {
-                "name": "Stanford University",
-                "country": "USA"
+                "name": "Catalan Institution of Research",
+                "country": "Spain"
             },
             {
-                "name": "Catalan Institute for Research and Advanced Studies",
-                "country": "Spain"
+                "name": "Stanford University",
+                "country": "USA"
             },
             {
                 "name": "Facebook",
@@ -723,11 +727,11 @@
         "url": "https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00285",
         "orgs": [
             {
-                "name": "Johns Hopkins University",
+                "name": "University of Rochester",
                 "country": "USA"
             },
             {
-                "name": "University of Rochester",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             }
         ]
@@ -768,15 +772,15 @@
         "url": "https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00281",
         "orgs": [
             {
-                "name": "University of Washington",
-                "country": "USA"
-            },
-            {
                 "name": "University of Colorado Boulder",
                 "country": "USA"
             },
             {
                 "name": "Allen Institute for Artificial Intelligence",
+                "country": "USA"
+            },
+            {
+                "name": "University of Washington",
                 "country": "USA"
             }
         ]
@@ -845,12 +849,12 @@
         "url": "https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00288",
         "orgs": [
             {
-                "name": "Facebook",
-                "country": "USA"
-            },
-            {
                 "name": "University of the Basque Country",
                 "country": "Spain"
+            },
+            {
+                "name": "Facebook",
+                "country": "USA"
             }
         ]
     },
@@ -869,12 +873,12 @@
         "url": "https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00289",
         "orgs": [
             {
-                "name": "Peking University",
-                "country": "China"
-            },
-            {
                 "name": "University of California Los Angeles",
                 "country": "USA"
+            },
+            {
+                "name": "Peking University",
+                "country": "China"
             }
         ]
     },
@@ -939,16 +943,16 @@
         "url": "https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00292",
         "orgs": [
             {
-                "name": "New York University",
-                "country": "USA"
+                "name": "University of Oxford",
+                "country": "UK"
             },
             {
                 "name": "Facebook",
                 "country": "USA"
             },
             {
-                "name": "University of Oxford",
-                "country": "UK"
+                "name": "New York University",
+                "country": "USA"
             }
         ]
     },
@@ -965,11 +969,11 @@
         "url": "https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00293",
         "orgs": [
             {
-                "name": "Brown University",
+                "name": "Google",
                 "country": "USA"
             },
             {
-                "name": "Google",
+                "name": "Brown University",
                 "country": "USA"
             }
         ]

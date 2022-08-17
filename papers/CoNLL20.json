@@ -34,11 +34,11 @@
         "url": "https://www.aclweb.org/anthology/2020.conll-1.2.pdf",
         "orgs": [
             {
-                "name": "Universität Konstanz",
+                "name": "University of Stuttgart",
                 "country": "Germany"
             },
             {
-                "name": "University of Stuttgart",
+                "name": "Universität Konstanz",
                 "country": "Germany"
             }
         ]
@@ -89,11 +89,11 @@
                 "country": "USA"
             },
             {
-                "name": "University of Richmond",
+                "name": "Microsoft",
                 "country": "USA"
             },
             {
-                "name": "Microsoft",
+                "name": "University of Richmond",
                 "country": "USA"
             }
         ]
@@ -296,11 +296,11 @@
         "url": "https://www.aclweb.org/anthology/2020.conll-1.14.pdf",
         "orgs": [
             {
-                "name": "Radboud University Nijmegen",
+                "name": "University of Groningen",
                 "country": "Netherlands"
             },
             {
-                "name": "University of Groningen",
+                "name": "Radboud University Nijmegen",
                 "country": "Netherlands"
             }
         ]
@@ -411,12 +411,12 @@
         "url": "https://www.aclweb.org/anthology/2020.conll-1.20.pdf",
         "orgs": [
             {
-                "name": "Université́ de Lyon",
-                "country": "France"
-            },
-            {
                 "name": "University of Gothenburg",
                 "country": "Sweden"
+            },
+            {
+                "name": "Université́ de Lyon",
+                "country": "France"
             },
             {
                 "name": "Uppsala University",
@@ -437,12 +437,12 @@
         "url": "https://www.aclweb.org/anthology/2020.conll-1.21.pdf",
         "orgs": [
             {
-                "name": "University of Amsterdam",
-                "country": "Netherlands"
-            },
-            {
                 "name": "University of Bristol",
                 "country": "UK"
+            },
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
             }
         ]
     },
@@ -550,7 +550,11 @@
         "url": "https://www.aclweb.org/anthology/2020.conll-1.26.pdf",
         "orgs": [
             {
-                "name": "CNRS University of Paris",
+                "name": "INRIA",
+                "country": "France"
+            },
+            {
+                "name": "PSL Research University",
                 "country": "France"
             },
             {
@@ -604,16 +608,16 @@
         "url": "https://www.aclweb.org/anthology/2020.conll-1.29.pdf",
         "orgs": [
             {
-                "name": "University of Toronto",
-                "country": "Canada"
+                "name": "INRIA",
+                "country": "France"
             },
             {
                 "name": "Facebook",
                 "country": "USA"
             },
             {
-                "name": "INRIA",
-                "country": "France"
+                "name": "University of Toronto",
+                "country": "Canada"
             }
         ]
     },
@@ -708,12 +712,12 @@
         "url": "https://www.aclweb.org/anthology/2020.conll-1.34.pdf",
         "orgs": [
             {
-                "name": "University of Gothenburg",
-                "country": "Sweden"
-            },
-            {
                 "name": "Saarland University",
                 "country": "Germany"
+            },
+            {
+                "name": "University of Gothenburg",
+                "country": "Sweden"
             }
         ]
     },
@@ -834,11 +838,11 @@
         "url": "https://www.aclweb.org/anthology/2020.conll-1.40.pdf",
         "orgs": [
             {
-                "name": "Amazon",
+                "name": "University of Florida",
                 "country": "USA"
             },
             {
-                "name": "University of Florida",
+                "name": "Amazon",
                 "country": "USA"
             }
         ]
@@ -877,15 +881,15 @@
         "url": "https://www.aclweb.org/anthology/2020.conll-1.42.pdf",
         "orgs": [
             {
-                "name": "Johns Hopkins University",
-                "country": "USA"
-            },
-            {
                 "name": "Stony Brook University",
                 "country": "USA"
             },
             {
                 "name": "United States Naval Academy",
+                "country": "USA"
+            },
+            {
+                "name": "Johns Hopkins University",
                 "country": "USA"
             }
         ]
@@ -905,8 +909,16 @@
         "url": "https://www.aclweb.org/anthology/2020.conll-1.43.pdf",
         "orgs": [
             {
+                "name": "University of New South Wales",
+                "country": "Australia"
+            },
+            {
                 "name": "University of Pennsylvania",
                 "country": "USA"
+            },
+            {
+                "name": "Hong Kong University of Science and Technology",
+                "country": "China"
             },
             {
                 "name": "Information Sciences Institute",
@@ -926,7 +938,16 @@
             "Jose Ochoa-Luna"
         ],
         "url": "https://www.aclweb.org/anthology/2020.conll-1.44.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "University of Buenos Aires",
+                "country": "Argentina"
+            },
+            {
+                "name": "Universidad Católica San Pablo",
+                "country": "Peru"
+            }
+        ]
     },
     {
         "id": "CoNLL20-44",
@@ -987,15 +1008,15 @@
         "url": "https://www.aclweb.org/anthology/2020.conll-1.47.pdf",
         "orgs": [
             {
-                "name": "University of Sheffield",
-                "country": "UK"
-            },
-            {
                 "name": "Alan Turing Institute",
                 "country": "UK"
             },
             {
                 "name": "University of Liverpool",
+                "country": "UK"
+            },
+            {
+                "name": "University of Sheffield",
                 "country": "UK"
             }
         ]
@@ -1016,16 +1037,16 @@
         "url": "https://www.aclweb.org/anthology/2020.conll-1.48.pdf",
         "orgs": [
             {
+                "name": "University of Chicago",
+                "country": "USA"
+            },
+            {
                 "name": "Peking University",
                 "country": "China"
             },
             {
                 "name": "Beijing University of Posts and Telecommunications",
                 "country": "China"
-            },
-            {
-                "name": "University of Chicago",
-                "country": "USA"
             }
         ]
     },
@@ -1061,12 +1082,12 @@
         "url": "https://www.aclweb.org/anthology/2020.conll-1.50.pdf",
         "orgs": [
             {
-                "name": "University of Zurich",
-                "country": "Switzerland"
-            },
-            {
                 "name": "University of North Texas",
                 "country": "USA"
+            },
+            {
+                "name": "University of Zurich",
+                "country": "Switzerland"
             }
         ]
     },

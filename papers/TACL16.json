@@ -13,11 +13,11 @@
         "url": "https://www.aclweb.org/anthology/Q16-1001.pdf",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
+                "name": "Google",
                 "country": "USA"
             },
             {
-                "name": "Google",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             }
         ]
@@ -37,16 +37,20 @@
         "url": "https://www.aclweb.org/anthology/Q16-1002.pdf",
         "orgs": [
             {
+                "name": "University of Montreal",
+                "country": "Canada"
+            },
+            {
                 "name": "Courant Institute of Mathematical Sciences",
+                "country": "USA"
+            },
+            {
+                "name": "New York University",
                 "country": "USA"
             },
             {
                 "name": "University of Cambridge",
                 "country": "UK"
-            },
-            {
-                "name": "New York University",
-                "country": "USA"
             }
         ]
     },
@@ -84,24 +88,24 @@
         "url": "https://www.aclweb.org/anthology/Q16-1004.pdf",
         "orgs": [
             {
+                "name": "Tsinghua University",
+                "country": "China"
+            },
+            {
                 "name": "University of California San Diego",
                 "country": "USA"
             },
             {
-                "name": "University of Cambridge",
-                "country": "UK"
+                "name": "University of California Merced",
+                "country": "USA"
             },
             {
                 "name": "UC Berkeley",
                 "country": "USA"
             },
             {
-                "name": "Tsinghua University",
-                "country": "China"
-            },
-            {
-                "name": "University of California Merced",
-                "country": "USA"
+                "name": "University of Cambridge",
+                "country": "UK"
             }
         ]
     },
@@ -118,11 +122,11 @@
         "url": "https://www.aclweb.org/anthology/Q16-1005.pdf",
         "orgs": [
             {
-                "name": "University of Pennsylvania",
+                "name": "Yahoo",
                 "country": "USA"
             },
             {
-                "name": "Yahoo",
+                "name": "University of Pennsylvania",
                 "country": "USA"
             }
         ]
@@ -283,11 +287,11 @@
         "url": "https://www.aclweb.org/anthology/Q16-1013.pdf",
         "orgs": [
             {
-                "name": "Johns Hopkins University",
+                "name": "Yahoo",
                 "country": "USA"
             },
             {
-                "name": "Yahoo",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             }
         ]
@@ -343,7 +347,7 @@
         "url": "https://www.aclweb.org/anthology/Q16-1016.pdf",
         "orgs": [
             {
-                "name": "MMax Planck Institute for Informatics",
+                "name": "Max Planck Institute Informatics",
                 "country": "Germany"
             },
             {
@@ -385,6 +389,10 @@
         "orgs": [
             {
                 "name": "Columbia University",
+                "country": "USA"
+            },
+            {
+                "name": "Google",
                 "country": "USA"
             }
         ]
@@ -467,16 +475,12 @@
         "url": "https://www.aclweb.org/anthology/Q16-1022.pdf",
         "orgs": [
             {
-                "name": "INRIA",
-                "country": "France"
+                "name": "University of Groningen",
+                "country": "Netherlands"
             },
             {
                 "name": "University Paris Diderot",
                 "country": "France"
-            },
-            {
-                "name": "University of Groningen",
-                "country": "Netherlands"
             },
             {
                 "name": "Sorbonne University",
@@ -485,6 +489,10 @@
             {
                 "name": "University of Copenhagen",
                 "country": "Denmark"
+            },
+            {
+                "name": "INRIA",
+                "country": "France"
             }
         ]
     },
@@ -675,16 +683,16 @@
         "url": "https://www.aclweb.org/anthology/Q16-1031.pdf",
         "orgs": [
             {
+                "name": "University of Barcelona",
+                "country": "Spain"
+            },
+            {
                 "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
                 "name": "University of Washington",
                 "country": "USA"
-            },
-            {
-                "name": "University of Barcelona",
-                "country": "Spain"
             }
         ]
     },
@@ -799,12 +807,12 @@
         "url": "https://www.aclweb.org/anthology/Q16-1037.pdf",
         "orgs": [
             {
-                "name": "Bar Ilan University",
-                "country": "Israel"
-            },
-            {
                 "name": "PSL Research University",
                 "country": "France"
+            },
+            {
+                "name": "Bar Ilan University",
+                "country": "Israel"
             }
         ]
     },
@@ -840,11 +848,11 @@
         "url": "https://www.aclweb.org/anthology/Q16-1039.pdf",
         "orgs": [
             {
-                "name": "National University of Singapore",
+                "name": "Institute for Infocomm Research",
                 "country": "Singapore"
             },
             {
-                "name": "Institute for Infocomm Research",
+                "name": "National University of Singapore",
                 "country": "Singapore"
             },
             {

@@ -15,16 +15,16 @@
         "url": "https://www.aclweb.org/anthology/Q13-1001.pdf",
         "orgs": [
             {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
                 "name": "California Institute of Technology",
                 "country": "USA"
             },
             {
                 "name": "Uppsala University",
                 "country": "Sweden"
-            },
-            {
-                "name": "Google",
-                "country": "USA"
             }
         ]
     },
@@ -158,12 +158,12 @@
         "url": "https://www.aclweb.org/anthology/Q13-1008.pdf",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
-                "country": "USA"
-            },
-            {
                 "name": "Peking University",
                 "country": "China"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
             }
         ]
     },
@@ -180,6 +180,10 @@
         ],
         "url": "https://www.aclweb.org/anthology/Q13-1009.pdf",
         "orgs": [
+            {
+                "name": "Princeton University",
+                "country": "USA"
+            },
             {
                 "name": "Educational Testing Service",
                 "country": "USA"
@@ -286,11 +290,11 @@
         "url": "https://www.aclweb.org/anthology/Q13-1014.pdf",
         "orgs": [
             {
-                "name": "Johns Hopkins University",
+                "name": "University of Pennsylvania",
                 "country": "USA"
             },
             {
-                "name": "University of Pennsylvania",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             }
         ]
@@ -419,12 +423,12 @@
         "url": "https://www.aclweb.org/anthology/Q13-1021.pdf",
         "orgs": [
             {
-                "name": "Tallinn University of Technology",
-                "country": "Estonia"
-            },
-            {
                 "name": "University of Edinburgh",
                 "country": "UK"
+            },
+            {
+                "name": "Tallinn University of Technology",
+                "country": "Estonia"
             }
         ]
     },
@@ -441,12 +445,12 @@
         "url": "https://www.aclweb.org/anthology/Q13-1022.pdf",
         "orgs": [
             {
-                "name": "Uppsala University",
-                "country": "Sweden"
-            },
-            {
                 "name": "University of Padua",
                 "country": "Italy"
+            },
+            {
+                "name": "Uppsala University",
+                "country": "Sweden"
             }
         ]
     },
@@ -590,15 +594,11 @@
         "url": "https://www.aclweb.org/anthology/Q13-1030.pdf",
         "orgs": [
             {
-                "name": "University of North Carolina at Chapel Hill",
-                "country": "USA"
-            },
-            {
-                "name": "University of Washington",
-                "country": "USA"
-            },
-            {
                 "name": "Carnegie Mellon University",
+                "country": "USA"
+            },
+            {
+                "name": "University of North Carolina at Chapel Hill",
                 "country": "USA"
             },
             {
@@ -607,6 +607,10 @@
             },
             {
                 "name": "Google",
+                "country": "USA"
+            },
+            {
+                "name": "University of Washington",
                 "country": "USA"
             }
         ]
@@ -625,15 +629,15 @@
         "url": "https://www.aclweb.org/anthology/Q13-1031.pdf",
         "orgs": [
             {
+                "name": "Google",
+                "country": "USA"
+            },
+            {
                 "name": "Shanghai Jiao Tong University",
                 "country": "China"
             },
             {
                 "name": "Microsoft",
-                "country": "USA"
-            },
-            {
-                "name": "Google",
                 "country": "USA"
             }
         ]
@@ -696,28 +700,32 @@
         "url": "https://www.aclweb.org/anthology/Q13-1034.pdf",
         "orgs": [
             {
-                "name": "University of Turku",
-                "country": "Finland"
-            },
-            {
-                "name": "Uppsala University",
-                "country": "Sweden"
-            },
-            {
-                "name": "University of Birmingham",
-                "country": "UK"
-            },
-            {
-                "name": "Charles University in Prague",
-                "country": "Czech Republic"
+                "name": "Russian Academy of Sciences",
+                "country": "Russia"
             },
             {
                 "name": "University of Szeged",
                 "country": "Hungary"
             },
             {
-                "name": "Russian Academy of Sciences",
-                "country": "Russia"
+                "name": "University of Birmingham",
+                "country": "UK"
+            },
+            {
+                "name": "Uppsala University",
+                "country": "Sweden"
+            },
+            {
+                "name": "Technical University of Madrid",
+                "country": "Spain"
+            },
+            {
+                "name": "Charles University in Prague",
+                "country": "Czech Republic"
+            },
+            {
+                "name": "University of Turku",
+                "country": "Finland"
             }
         ]
     },
@@ -737,7 +745,7 @@
         "url": "https://www.aclweb.org/anthology/Q13-1035.pdf",
         "orgs": [
             {
-                "name": "Johns Hopkins University",
+                "name": "University of Maryland",
                 "country": "USA"
             },
             {
@@ -745,11 +753,11 @@
                 "country": "Canada"
             },
             {
-                "name": "University of Maryland",
+                "name": "SDL Research",
                 "country": "USA"
             },
             {
-                "name": "SDL Research",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             }
         ]

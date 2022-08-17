@@ -62,12 +62,12 @@
         "url": "https://www.aclweb.org/anthology/K16-1003.pdf",
         "orgs": [
             {
-                "name": "University of Caen Normandy",
-                "country": "France"
-            },
-            {
                 "name": "Dublin City University",
                 "country": "Ireland"
+            },
+            {
+                "name": "University of Caen Normandy",
+                "country": "France"
             }
         ]
     },
@@ -143,11 +143,11 @@
         "url": "https://www.aclweb.org/anthology/K16-1007.pdf",
         "orgs": [
             {
-                "name": "Northwestern University",
+                "name": "University of Rochester",
                 "country": "USA"
             },
             {
-                "name": "University of Rochester",
+                "name": "Northwestern University",
                 "country": "USA"
             },
             {
@@ -186,6 +186,10 @@
         ],
         "url": "https://www.aclweb.org/anthology/K16-1009.pdf",
         "orgs": [
+            {
+                "name": "Research Training Group AIPHES",
+                "country": "Germany"
+            },
             {
                 "name": "Technische Universität Darmstadt",
                 "country": "Germany"
@@ -305,11 +309,11 @@
         "url": "https://www.aclweb.org/anthology/K16-1015.pdf",
         "orgs": [
             {
-                "name": "Indian Institute of Technology Bombay",
+                "name": "IITB Monash Research Academy",
                 "country": "India"
             },
             {
-                "name": "IITB Monash Research Academy",
+                "name": "Indian Institute of Technology Bombay",
                 "country": "India"
             },
             {
@@ -334,16 +338,16 @@
         "url": "https://www.aclweb.org/anthology/K16-1016.pdf",
         "orgs": [
             {
+                "name": "IITB Monash Research Academy",
+                "country": "India"
+            },
+            {
                 "name": "Indian Institute of Technology Bombay",
                 "country": "India"
             },
             {
                 "name": "IBM",
                 "country": "USA"
-            },
-            {
-                "name": "IITB Monash Research Academy",
-                "country": "India"
             }
         ]
     },
@@ -363,7 +367,7 @@
         "url": "https://www.aclweb.org/anthology/K16-1017.pdf",
         "orgs": [
             {
-                "name": "Universidade de Lisboa Instituto de Telecomunicações",
+                "name": "Universidade de Lisboa",
                 "country": "Portugal"
             },
             {
@@ -405,20 +409,20 @@
         "url": "https://www.aclweb.org/anthology/K16-1019.pdf",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
-                "country": "USA"
-            },
-            {
                 "name": "DeepMind",
                 "country": "UK"
             },
             {
-                "name": "University of Washington",
+                "name": "University of Barcelona",
+                "country": "Spain"
+            },
+            {
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
-                "name": "University of Barcelona",
-                "country": "Spain"
+                "name": "University of Washington",
+                "country": "USA"
             }
         ]
     },
@@ -451,12 +455,12 @@
         "url": "https://www.aclweb.org/anthology/K16-1021.pdf",
         "orgs": [
             {
-                "name": "University of Sheffield",
-                "country": "UK"
-            },
-            {
                 "name": "University of Melbourne",
                 "country": "Australia"
+            },
+            {
+                "name": "University of Sheffield",
+                "country": "UK"
             }
         ]
     },
@@ -490,7 +494,12 @@
             "Phillippe Langlais"
         ],
         "url": "https://www.aclweb.org/anthology/K16-1023.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "University of Montreal",
+                "country": "Canada"
+            }
+        ]
     },
     {
         "id": "CoNLL16-23",
@@ -506,10 +515,6 @@
         ],
         "url": "https://www.aclweb.org/anthology/K16-1024.pdf",
         "orgs": [
-            {
-                "name": "DFKI",
-                "country": "Germany"
-            },
             {
                 "name": "German Research Center for Artificial Intelligence",
                 "country": "Germany"
@@ -556,6 +561,10 @@
         "url": "https://www.aclweb.org/anthology/K16-1026.pdf",
         "orgs": [
             {
+                "name": "Dartmouth College",
+                "country": "USA"
+            },
+            {
                 "name": "Sun Yat-sen University",
                 "country": "China"
             },
@@ -565,10 +574,6 @@
             },
             {
                 "name": "Carnegie Mellon University",
-                "country": "USA"
-            },
-            {
-                "name": "Dartmouth College",
                 "country": "USA"
             }
         ]
@@ -612,12 +617,12 @@
         "url": "https://www.aclweb.org/anthology/K16-1028.pdf",
         "orgs": [
             {
-                "name": "Université de Montréal",
-                "country": "Canada"
-            },
-            {
                 "name": "IBM",
                 "country": "USA"
+            },
+            {
+                "name": "Université de Montréal",
+                "country": "Canada"
             }
         ]
     },
@@ -655,16 +660,16 @@
         "url": "https://www.aclweb.org/anthology/K16-1030.pdf",
         "orgs": [
             {
-                "name": "Nara Institute of Science and Technology",
-                "country": "Japan"
-            },
-            {
                 "name": "Johns Hopkins Univeristy",
                 "country": "USA"
             },
             {
                 "name": "University of Edinburgh",
                 "country": "UK"
+            },
+            {
+                "name": "Nara Institute of Science and Technology",
+                "country": "Japan"
             }
         ]
     },

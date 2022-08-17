@@ -67,16 +67,16 @@
         "url": "https://www.aclweb.org/anthology/E12-1004.pdf",
         "orgs": [
             {
-                "name": "Cornell University",
-                "country": "USA"
+                "name": "Free University of Bozen-Bolzano",
+                "country": "Italy"
             },
             {
                 "name": "University of Trento",
                 "country": "Italy"
             },
             {
-                "name": "Free University of Bozen-Bolzano",
-                "country": "Italy"
+                "name": "Cornell University",
+                "country": "USA"
             }
         ]
     },
@@ -131,12 +131,12 @@
         "url": "https://www.aclweb.org/anthology/E12-1007.pdf",
         "orgs": [
             {
-                "name": "Hungarian Academy of Sciences",
-                "country": "Hungary"
-            },
-            {
                 "name": "University of Stuttgart",
                 "country": "Germany"
+            },
+            {
+                "name": "Hungarian Academy of Sciences",
+                "country": "Hungary"
             }
         ]
     },
@@ -224,12 +224,16 @@
         "url": "https://www.aclweb.org/anthology/E12-1012.pdf",
         "orgs": [
             {
-                "name": "Xerox",
+                "name": "Google",
                 "country": "USA"
             },
             {
                 "name": "University of Amsterdam",
                 "country": "Netherlands"
+            },
+            {
+                "name": "Xerox",
+                "country": "USA"
             }
         ]
     },
@@ -362,6 +366,10 @@
             {
                 "name": "IBM",
                 "country": "USA"
+            },
+            {
+                "name": "Apple",
+                "country": "USA"
             }
         ]
     },
@@ -397,11 +405,11 @@
         "url": "https://www.aclweb.org/anthology/E12-1021.pdf",
         "orgs": [
             {
-                "name": "University of Maryland",
+                "name": "Microsoft",
                 "country": "USA"
             },
             {
-                "name": "Microsoft",
+                "name": "University of Maryland",
                 "country": "USA"
             }
         ]
@@ -460,6 +468,10 @@
             {
                 "name": "University of Edinburgh",
                 "country": "UK"
+            },
+            {
+                "name": "University of Washington",
+                "country": "USA"
             }
         ]
     },
@@ -509,7 +521,7 @@
         "url": "https://www.aclweb.org/anthology/E12-1027.pdf",
         "orgs": [
             {
-                "name": "Universidade de Lisboa Instituto de Telecomunicações",
+                "name": "Universidade de Lisboa",
                 "country": "Portugal"
             }
         ]
@@ -563,12 +575,12 @@
         "url": "https://www.aclweb.org/anthology/E12-1030.pdf",
         "orgs": [
             {
-                "name": "Polish Academy of Sciences",
-                "country": "Poland"
-            },
-            {
                 "name": "University at Albany",
                 "country": "USA"
+            },
+            {
+                "name": "Polish Academy of Sciences",
+                "country": "Poland"
             }
         ]
     },
@@ -586,11 +598,11 @@
         "url": "https://www.aclweb.org/anthology/E12-1031.pdf",
         "orgs": [
             {
-                "name": "Johns Hopkins University",
+                "name": "Microsoft",
                 "country": "USA"
             },
             {
-                "name": "Microsoft",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             }
         ]
@@ -796,6 +808,10 @@
         "url": "https://www.aclweb.org/anthology/E12-1042.pdf",
         "orgs": [
             {
+                "name": "University of Córdoba",
+                "country": "Spain"
+            },
+            {
                 "name": "Polytechnic University of Catalonia",
                 "country": "Spain"
             }
@@ -970,11 +986,11 @@
         "url": "https://www.aclweb.org/anthology/E12-1051.pdf",
         "orgs": [
             {
-                "name": "University of Washington",
+                "name": "Google",
                 "country": "USA"
             },
             {
-                "name": "Google",
+                "name": "University of Washington",
                 "country": "USA"
             }
         ]
@@ -994,11 +1010,11 @@
         "url": "https://www.aclweb.org/anthology/E12-1052.pdf",
         "orgs": [
             {
-                "name": "Bielefeld University",
+                "name": "University of Hamburg",
                 "country": "Germany"
             },
             {
-                "name": "University of Hamburg",
+                "name": "Bielefeld University",
                 "country": "Germany"
             },
             {
@@ -1150,16 +1166,16 @@
         "url": "https://www.aclweb.org/anthology/E12-1060.pdf",
         "orgs": [
             {
-                "name": "UC Irvine",
-                "country": "USA"
+                "name": "University of Melbourne",
+                "country": "Australia"
             },
             {
                 "name": "NICTA Victoria Research Laboratory",
                 "country": "Australia"
             },
             {
-                "name": "University of Melbourne",
-                "country": "Australia"
+                "name": "UC Irvine",
+                "country": "USA"
             }
         ]
     },
@@ -1193,11 +1209,11 @@
         "url": "https://www.aclweb.org/anthology/E12-1062.pdf",
         "orgs": [
             {
-                "name": "Microsoft",
+                "name": "United States Naval Academy",
                 "country": "USA"
             },
             {
-                "name": "United States Naval Academy",
+                "name": "Microsoft",
                 "country": "USA"
             }
         ]
@@ -1232,12 +1248,12 @@
         "url": "https://www.aclweb.org/anthology/E12-1064.pdf",
         "orgs": [
             {
-                "name": "Indian Institute of Technology",
-                "country": "India"
-            },
-            {
                 "name": "University of Heidelberg",
                 "country": "Germany"
+            },
+            {
+                "name": "Indian Institute of Technology",
+                "country": "India"
             }
         ]
     },
@@ -1302,7 +1318,20 @@
             "Fabienne Cap"
         ],
         "url": "https://www.aclweb.org/anthology/E12-1068.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Princeton University",
+                "country": "USA"
+            },
+            {
+                "name": "Educational Testing Service",
+                "country": "USA"
+            },
+            {
+                "name": "University of Stuttgart",
+                "country": "Germany"
+            }
+        ]
     },
     {
         "id": "EACL12-68",
@@ -1373,12 +1402,16 @@
         "url": "https://www.aclweb.org/anthology/E12-1072.pdf",
         "orgs": [
             {
+                "name": "University of Barcelona",
+                "country": "Spain"
+            },
+            {
                 "name": "Yahoo",
                 "country": "USA"
             },
             {
-                "name": "University of Barcelona",
-                "country": "Spain"
+                "name": "University of Wolverhampton",
+                "country": "UK"
             }
         ]
     },
@@ -1463,11 +1496,11 @@
                 "country": "USA"
             },
             {
-                "name": "Massachusetts Institute of Technology",
+                "name": "Stony Brook University",
                 "country": "USA"
             },
             {
-                "name": "Stony Brook University",
+                "name": "Massachusetts Institute of Technology",
                 "country": "USA"
             }
         ]
@@ -1508,12 +1541,16 @@
         "url": "https://www.aclweb.org/anthology/E12-1078.pdf",
         "orgs": [
             {
+                "name": "University of Stuttgart",
+                "country": "Germany"
+            },
+            {
                 "name": "Educational Testing Service",
                 "country": "USA"
             },
             {
-                "name": "University of Stuttgart",
-                "country": "Germany"
+                "name": "Princeton University",
+                "country": "USA"
             }
         ]
     },

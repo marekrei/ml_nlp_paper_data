@@ -12,19 +12,19 @@
             "Hassan Sajjad",
             "James Glass"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-1.1.pdf",
+        "url": "https://aclanthology.org/2020.cl-1.1.pdf",
         "orgs": [
             {
-                "name": "Qatar Computing Research Institute",
-                "country": "Qatar"
+                "name": "Massachusetts Institute of Technology",
+                "country": "USA"
             },
             {
                 "name": "Harvard University",
                 "country": "USA"
             },
             {
-                "name": "Massachusetts Institute of Technology",
-                "country": "USA"
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
             }
         ]
     },
@@ -40,7 +40,7 @@
             "Di Li",
             "Heung-Yeung Shum"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-1.2.pdf",
+        "url": "https://aclanthology.org/2020.cl-1.2.pdf",
         "orgs": [
             {
                 "name": "Microsoft",
@@ -58,7 +58,7 @@
             "Shudong Hao",
             "Michael J. Paul"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-1.3.pdf",
+        "url": "https://aclanthology.org/2020.cl-1.3.pdf",
         "orgs": [
             {
                 "name": "University of Colorado",
@@ -81,7 +81,7 @@
             "Carolina Scarton",
             "Lucia Specia"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-1.4.pdf",
+        "url": "https://aclanthology.org/2020.cl-1.4.pdf",
         "orgs": [
             {
                 "name": "Imperial College London",
@@ -105,11 +105,15 @@
             "María Teresa Martín-Valdivia",
             "L. Alfonso Ureña-López"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-1.5.pdf",
+        "url": "https://aclanthology.org/2020.cl-1.5.pdf",
         "orgs": [
             {
                 "name": "VU University Amsterdam",
                 "country": "Netherlands"
+            },
+            {
+                "name": "Universidad de Jaén",
+                "country": "Spain"
             }
         ]
     },
@@ -125,18 +129,22 @@
             "Pascale Fung",
             "Noah A. Smith"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-2.1.pdf",
+        "url": "https://aclanthology.org/2020.cl-2.1.pdf",
         "orgs": [
             {
-                "name": "Allen Institute for Artificial Intelligence",
+                "name": "University of Washington",
                 "country": "USA"
+            },
+            {
+                "name": "German Research Center for Artificial Intelligence",
+                "country": "Germany"
             },
             {
                 "name": "Saarland University",
                 "country": "Germany"
             },
             {
-                "name": "University of Washington",
+                "name": "Allen Institute for Artificial Intelligence",
                 "country": "USA"
             },
             {
@@ -155,7 +163,7 @@
             "Tasnim Mohiuddin",
             "Shafiq Joty"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-2.2.pdf",
+        "url": "https://aclanthology.org/2020.cl-2.2.pdf",
         "orgs": [
             {
                 "name": "Salesforce Research",
@@ -178,7 +186,7 @@
             "Enrico Mensa",
             "Daniele P. Radicioni"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-2.3.pdf",
+        "url": "https://aclanthology.org/2020.cl-2.3.pdf",
         "orgs": [
             {
                 "name": "University of Turin",
@@ -198,8 +206,12 @@
             "Ilia Kuznetsov",
             "Iryna Gurevych"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-2.4.pdf",
+        "url": "https://aclanthology.org/2020.cl-2.4.pdf",
         "orgs": [
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
+            },
             {
                 "name": "Technische Universität Darmstadt",
                 "country": "Germany"
@@ -222,7 +234,7 @@
             "Mathias Creutz",
             "Jörg Tiedemann"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-2.5.pdf",
+        "url": "https://aclanthology.org/2020.cl-2.5.pdf",
         "orgs": [
             {
                 "name": "University of Helsinki",
@@ -242,7 +254,7 @@
             "Normunds Gruzitis",
             "Prasanth Kolachina"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-2.6.pdf",
+        "url": "https://aclanthology.org/2020.cl-2.6.pdf",
         "orgs": [
             {
                 "name": "University of Gothenburg",
@@ -269,15 +281,15 @@
             "Rik van Noord",
             "Rob van der Goot"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-2.7.pdf",
+        "url": "https://aclanthology.org/2020.cl-2.7.pdf",
         "orgs": [
-            {
-                "name": "University of Copenhagen",
-                "country": "Denmark"
-            },
             {
                 "name": "University of Groningen",
                 "country": "Netherlands"
+            },
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
             }
         ]
     },
@@ -293,14 +305,14 @@
             "Darsh J. Shah",
             "Regina Barzilay"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-2.8.pdf",
+        "url": "https://aclanthology.org/2020.cl-2.8.pdf",
         "orgs": [
             {
-                "name": "Cornell University",
+                "name": "Massachusetts Institute of Technology",
                 "country": "USA"
             },
             {
-                "name": "Massachusetts Institute of Technology",
+                "name": "Cornell University",
                 "country": "USA"
             }
         ]
@@ -315,7 +327,7 @@
             "Jürgen Wedekind",
             "Ronald M. Kaplan"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-3.1.pdf",
+        "url": "https://aclanthology.org/2020.cl-3.1.pdf",
         "orgs": [
             {
                 "name": "Stanford University",
@@ -337,8 +349,17 @@
             "Lisa Beinborn",
             "Rochelle Choenni"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-3.2.pdf",
-        "orgs": []
+        "url": "https://aclanthology.org/2020.cl-3.2.pdf",
+        "orgs": [
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
+            },
+            {
+                "name": "Vrije Universitéit Amsterdam",
+                "country": "Netherlands"
+            }
+        ]
     },
     {
         "id": "CL20-15",
@@ -351,7 +372,7 @@
             "Daniel Zeman",
             "Magda Ševčíková"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-3.3.pdf",
+        "url": "https://aclanthology.org/2020.cl-3.3.pdf",
         "orgs": [
             {
                 "name": "Charles University",
@@ -370,11 +391,133 @@
             "Amir Feder",
             "Roi Reichart"
         ],
-        "url": "https://www.aclweb.org/anthology/2020.cl-3.4.pdf",
+        "url": "https://aclanthology.org/2020.cl-3.4.pdf",
         "orgs": [
             {
                 "name": "Israel Institute of Technology",
                 "country": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "CL20-17",
+        "source": "CL20",
+        "source_type": "CL",
+        "year": "2020",
+        "title": "Sparse Transcription",
+        "authors": [
+            "Steven Bird"
+        ],
+        "url": "https://aclanthology.org/2020.cl-4.1.pdf",
+        "orgs": [
+            {
+                "name": "Charles Darwin University",
+                "country": "Australia"
+            }
+        ]
+    },
+    {
+        "id": "CL20-18",
+        "source": "CL20",
+        "source_type": "CL",
+        "year": "2020",
+        "title": "Efficient Outside Computation",
+        "authors": [
+            "Daniel Gildea"
+        ],
+        "url": "https://aclanthology.org/2020.cl-4.2.pdf",
+        "orgs": [
+            {
+                "name": "University of Rochester",
+                "country": "USA"
+            }
+        ]
+    },
+    {
+        "id": "CL20-19",
+        "source": "CL20",
+        "source_type": "CL",
+        "year": "2020",
+        "title": "What Should/Do/Can LSTMs Learn When Parsing Auxiliary Verb Constructions?",
+        "authors": [
+            "Miryam de Lhoneux",
+            "Sara Stymne",
+            "Joakim Nivre"
+        ],
+        "url": "https://aclanthology.org/2020.cl-4.3.pdf",
+        "orgs": [
+            {
+                "name": "Uppsala University",
+                "country": "Sweden"
+            },
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
+            }
+        ]
+    },
+    {
+        "id": "CL20-20",
+        "source": "CL20",
+        "source_type": "CL",
+        "year": "2020",
+        "title": "A Graph-Based Framework for Structured Prediction Tasks in Sanskrit",
+        "authors": [
+            "Amrith Krishna",
+            "Bishal Santra",
+            "Ashim Gupta",
+            "Pavankumar Satuluri",
+            "Pawan Goyal"
+        ],
+        "url": "https://aclanthology.org/2020.cl-4.4.pdf",
+        "orgs": [
+            {
+                "name": "Indian Institute of Technology",
+                "country": "India"
+            },
+            {
+                "name": "University of Utah",
+                "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
+            }
+        ]
+    },
+    {
+        "id": "CL20-21",
+        "source": "CL20",
+        "source_type": "CL",
+        "year": "2020",
+        "title": "Multi-SimLex: A Large-Scale Evaluation of Multilingual and Crosslingual Lexical Semantic Similarity",
+        "authors": [
+            "Ivan Vulić",
+            "Simon Baker",
+            "Edoardo Maria Ponti",
+            "Ulla Petti",
+            "Ira Leviant",
+            "Kelly Wing",
+            "Olga Majewska",
+            "Eden Bar",
+            "Matt Malone",
+            "Thierry Poibeau",
+            "Roi Reichart",
+            "Anna Korhonen"
+        ],
+        "url": "https://aclanthology.org/2020.cl-4.5.pdf",
+        "orgs": [
+            {
+                "name": "IIT Bombay",
+                "country": "India"
+            },
+            {
+                "name": "Israel Institute of Technology",
+                "country": "Israel"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
             }
         ]
     }

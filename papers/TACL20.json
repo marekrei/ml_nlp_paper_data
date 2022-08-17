@@ -102,15 +102,15 @@
                 "country": "USA"
             },
             {
-                "name": "University of Washington",
-                "country": "USA"
-            },
-            {
                 "name": "Princeton University",
                 "country": "USA"
             },
             {
                 "name": "Facebook",
+                "country": "USA"
+            },
+            {
+                "name": "University of Washington",
                 "country": "USA"
             }
         ]
@@ -194,11 +194,11 @@
         "url": "https://www.aclweb.org/anthology/2020.tacl-1.9.pdf",
         "orgs": [
             {
-                "name": "Johns Hopkins University",
+                "name": "Yale University",
                 "country": "USA"
             },
             {
-                "name": "Yale University",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             }
         ]
@@ -218,12 +218,12 @@
         "url": "https://www.aclweb.org/anthology/2020.tacl-1.10.pdf",
         "orgs": [
             {
-                "name": "Cornell University",
-                "country": "USA"
-            },
-            {
                 "name": "Tencent",
                 "country": "China"
+            },
+            {
+                "name": "Cornell University",
+                "country": "USA"
             }
         ]
     },
@@ -258,7 +258,12 @@
             "Cane Wing-Ki Leung"
         ],
         "url": "https://www.aclweb.org/anthology/2020.tacl-1.12.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Wisers Information Limited",
+                "country": "China"
+            }
+        ]
     },
     {
         "id": "TACL20-12",
@@ -345,12 +350,12 @@
         "url": "https://www.aclweb.org/anthology/2020.tacl-1.16.pdf",
         "orgs": [
             {
-                "name": "University of Amsterdam",
-                "country": "Netherlands"
-            },
-            {
                 "name": "University of Cambridge",
                 "country": "UK"
+            },
+            {
+                "name": "University of Amsterdam",
+                "country": "Netherlands"
             }
         ]
     },
@@ -433,28 +438,28 @@
         "url": "https://www.aclweb.org/anthology/2020.tacl-1.20.pdf",
         "orgs": [
             {
-                "name": "King's College London",
-                "country": "UK"
-            },
-            {
-                "name": "University of Gothenburg",
-                "country": "Sweden"
-            },
-            {
-                "name": "University of Nottingham Ningbo China",
-                "country": "China"
-            },
-            {
-                "name": "Jozef Stefan Institute",
-                "country": "Slovenia"
-            },
-            {
                 "name": "University of Melbourne",
                 "country": "Australia"
             },
             {
                 "name": "Queen Mary University of London",
                 "country": "UK"
+            },
+            {
+                "name": "Jozef Stefan Institute",
+                "country": "Slovenia"
+            },
+            {
+                "name": "King's College London",
+                "country": "UK"
+            },
+            {
+                "name": "University of Nottingham Ningbo China",
+                "country": "China"
+            },
+            {
+                "name": "University of Gothenburg",
+                "country": "Sweden"
             }
         ]
     },
@@ -604,11 +609,11 @@
         "url": "https://www.aclweb.org/anthology/2020.tacl-1.27.pdf",
         "orgs": [
             {
-                "name": "King's College London",
+                "name": "Alan Turing Institute",
                 "country": "UK"
             },
             {
-                "name": "Alan Turing Institute",
+                "name": "King's College London",
                 "country": "UK"
             }
         ]
@@ -628,12 +633,12 @@
         "url": "https://www.aclweb.org/anthology/2020.tacl-1.28.pdf",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
-                "country": "USA"
-            },
-            {
                 "name": "Robert Bosch GmbH",
                 "country": "Germany"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
             }
         ]
     },
@@ -697,12 +702,12 @@
         "url": "https://www.aclweb.org/anthology/2020.tacl-1.31.pdf",
         "orgs": [
             {
-                "name": "University of Warwick",
-                "country": "UK"
-            },
-            {
                 "name": "Southeast University",
                 "country": "China"
+            },
+            {
+                "name": "University of Warwick",
+                "country": "UK"
             }
         ]
     },
@@ -784,20 +789,20 @@
         "url": "https://www.aclweb.org/anthology/2020.tacl-1.35.pdf",
         "orgs": [
             {
-                "name": "Imperial College London",
-                "country": "UK"
+                "name": "University of Tartu",
+                "country": "Estonia"
             },
             {
                 "name": "University of Sheffield",
                 "country": "UK"
             },
             {
-                "name": "University of Tartu",
-                "country": "Estonia"
-            },
-            {
                 "name": "Facebook",
                 "country": "USA"
+            },
+            {
+                "name": "Imperial College London",
+                "country": "UK"
             },
             {
                 "name": "Johns Hopkins University",
@@ -894,12 +899,12 @@
         "url": "https://www.aclweb.org/anthology/2020.tacl-1.38.pdf",
         "orgs": [
             {
-                "name": "Technische Universität Darmstadt",
-                "country": "Germany"
-            },
-            {
                 "name": "Westlake University",
                 "country": "China"
+            },
+            {
+                "name": "Technische Universität Darmstadt",
+                "country": "Germany"
             }
         ]
     },
@@ -916,12 +921,12 @@
         "url": "https://www.aclweb.org/anthology/2020.tacl-1.39.pdf",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
-                "country": "USA"
-            },
-            {
                 "name": "Sony",
                 "country": "Japan"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
             }
         ]
     },

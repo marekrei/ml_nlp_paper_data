@@ -34,11 +34,11 @@
         "url": "https://www.aclweb.org/anthology/K18-1002.pdf",
         "orgs": [
             {
-                "name": "Microsoft",
+                "name": "Georgia Institute of Technology",
                 "country": "USA"
             },
             {
-                "name": "Georgia Institute of Technology",
+                "name": "Microsoft",
                 "country": "USA"
             }
         ]
@@ -193,11 +193,11 @@
         "url": "https://www.aclweb.org/anthology/K18-1010.pdf",
         "orgs": [
             {
-                "name": "Grenoble Alps University",
+                "name": "INRIA",
                 "country": "France"
             },
             {
-                "name": "INRIA",
+                "name": "Grenoble Alps University",
                 "country": "France"
             }
         ]
@@ -216,7 +216,12 @@
             "Ngoc Thang Vu"
         ],
         "url": "https://www.aclweb.org/anthology/K18-1011.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "University of Stuttgart",
+                "country": "Germany"
+            }
+        ]
     },
     {
         "id": "CoNLL18-11",
@@ -340,7 +345,7 @@
         "url": "https://www.aclweb.org/anthology/K18-1017.pdf",
         "orgs": [
             {
-                "name": "UPV EHU University of the Basque Country",
+                "name": "University of the Basque Country",
                 "country": "Spain"
             }
         ]
@@ -380,12 +385,12 @@
         "url": "https://www.aclweb.org/anthology/K18-1019.pdf",
         "orgs": [
             {
-                "name": "Microsoft",
-                "country": "USA"
-            },
-            {
                 "name": "University of Science and Technology of China",
                 "country": "China"
+            },
+            {
+                "name": "Microsoft",
+                "country": "USA"
             }
         ]
     },
@@ -422,16 +427,16 @@
         "url": "https://www.aclweb.org/anthology/K18-1021.pdf",
         "orgs": [
             {
-                "name": "University of Cambridge",
-                "country": "UK"
+                "name": "National University of Ireland",
+                "country": "Ireland"
             },
             {
                 "name": "University of Copenhagen",
                 "country": "Denmark"
             },
             {
-                "name": "National University of Ireland",
-                "country": "Ireland"
+                "name": "University of Cambridge",
+                "country": "UK"
             },
             {
                 "name": "Insight Research Centre",
@@ -492,15 +497,15 @@
         "url": "https://www.aclweb.org/anthology/K18-1024.pdf",
         "orgs": [
             {
-                "name": "Capital Normal University",
-                "country": "China"
-            },
-            {
                 "name": "Beijing Advanced Innovation Center",
                 "country": "China"
             },
             {
                 "name": "Tsinghua University",
+                "country": "China"
+            },
+            {
+                "name": "Capital Normal University",
                 "country": "China"
             }
         ]
@@ -523,12 +528,12 @@
         "url": "https://www.aclweb.org/anthology/K18-1025.pdf",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
-                "country": "USA"
-            },
-            {
                 "name": "Emotech Labs",
                 "country": "UK"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
             }
         ]
     },
@@ -625,16 +630,16 @@
         "url": "https://www.aclweb.org/anthology/K18-1030.pdf",
         "orgs": [
             {
-                "name": "University of Cambridge",
-                "country": "UK"
-            },
-            {
                 "name": "ETH Zürich",
                 "country": "Switzerland"
             },
             {
                 "name": "University of Copenhagen",
                 "country": "Denmark"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
             }
         ]
     },
@@ -812,16 +817,16 @@
         "url": "https://www.aclweb.org/anthology/K18-1039.pdf",
         "orgs": [
             {
-                "name": "University of Copenhagen",
-                "country": "Denmark"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
             },
             {
                 "name": "Tilburg University",
                 "country": "Netherlands"
+            },
+            {
+                "name": "University of Copenhagen",
+                "country": "Denmark"
             }
         ]
     },
@@ -955,6 +960,10 @@
         "url": "https://www.aclweb.org/anthology/K18-1046.pdf",
         "orgs": [
             {
+                "name": "Baidu",
+                "country": "China"
+            },
+            {
                 "name": "Harbin Institute of Technology",
                 "country": "China"
             },
@@ -965,10 +974,6 @@
             {
                 "name": "Microsoft",
                 "country": "USA"
-            },
-            {
-                "name": "Baidu",
-                "country": "China"
             }
         ]
     },
@@ -1005,11 +1010,11 @@
         "url": "https://www.aclweb.org/anthology/K18-1048.pdf",
         "orgs": [
             {
-                "name": "University of Bonn",
+                "name": "Ruhr University Bochum",
                 "country": "Germany"
             },
             {
-                "name": "Ruhr University Bochum",
+                "name": "University of Bonn",
                 "country": "Germany"
             }
         ]
@@ -1171,6 +1176,10 @@
         ],
         "url": "https://www.aclweb.org/anthology/K18-1056.pdf",
         "orgs": [
+            {
+                "name": "Google",
+                "country": "USA"
+            },
             {
                 "name": "Monash University",
                 "country": "Australia"

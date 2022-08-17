@@ -70,11 +70,11 @@
         "url": "https://www.aclweb.org/anthology/J19-1003.pdf",
         "orgs": [
             {
-                "name": "Peking University",
+                "name": "City University of Hong Kong",
                 "country": "China"
             },
             {
-                "name": "City University of Hong Kong",
+                "name": "Peking University",
                 "country": "China"
             }
         ]
@@ -117,12 +117,12 @@
                 "country": "China"
             },
             {
-                "name": "Nankai University",
-                "country": "China"
-            },
-            {
                 "name": "Microsoft",
                 "country": "USA"
+            },
+            {
+                "name": "Nankai University",
+                "country": "China"
             }
         ]
     },
@@ -201,16 +201,16 @@
         "url": "https://www.mitpressjournals.org/doi/pdf/10.1162/coli_a_00349",
         "orgs": [
             {
-                "name": "University of Cambridge",
-                "country": "UK"
-            },
-            {
                 "name": "Google",
                 "country": "USA"
             },
             {
                 "name": "Facebook",
                 "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
             }
         ]
     },
@@ -248,6 +248,10 @@
         "url": "https://www.mitpressjournals.org/doi/pdf/10.1162/coli_a_00353",
         "orgs": [
             {
+                "name": "University of the Basque Country",
+                "country": "Spain"
+            },
+            {
                 "name": "University of Santiago de Compostela",
                 "country": "Spain"
             }
@@ -268,15 +272,11 @@
         "url": "https://www.mitpressjournals.org/doi/pdf/10.1162/coli_a_00354",
         "orgs": [
             {
-                "name": "Skolkovo Institute of Science and Technology",
-                "country": "Russia"
-            },
-            {
-                "name": "University of Mannheim",
+                "name": "University of Hamburg",
                 "country": "Germany"
             },
             {
-                "name": "University of Hamburg",
+                "name": "University of Mannheim",
                 "country": "Germany"
             }
         ]
@@ -338,11 +338,11 @@
         "url": "https://www.mitpressjournals.org/doi/pdf/10.1162/coli_a_00360",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
+                "name": "University of Pennsylvania",
                 "country": "USA"
             },
             {
-                "name": "University of Pennsylvania",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             }
         ]
@@ -404,6 +404,10 @@
             {
                 "name": "University of Edinburgh",
                 "country": "UK"
+            },
+            {
+                "name": "University of Montreal",
+                "country": "Canada"
             }
         ]
     }

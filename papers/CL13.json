@@ -33,6 +33,10 @@
                 "country": "Spain"
             },
             {
+                "name": "Universidad Complutense de Madrid",
+                "country": "Spain"
+            },
+            {
                 "name": "Uppsala University",
                 "country": "Sweden"
             }
@@ -53,16 +57,24 @@
         "url": "https://www.aclweb.org/anthology/J13-1003.pdf",
         "orgs": [
             {
-                "name": "Sorbonne University",
-                "country": "France"
-            },
-            {
                 "name": "Uppsala University",
                 "country": "Sweden"
             },
             {
+                "name": "INRIA",
+                "country": "France"
+            },
+            {
                 "name": "Indiana University",
                 "country": "USA"
+            },
+            {
+                "name": "University of Paris",
+                "country": "France"
+            },
+            {
+                "name": "Sorbonne University",
+                "country": "France"
             }
         ]
     },
@@ -131,7 +143,7 @@
         "url": "https://www.aclweb.org/anthology/J13-1007.pdf",
         "orgs": [
             {
-                "name": "Ben-Gurion University of the Negev",
+                "name": "Ben Gurion University of the Negev",
                 "country": "Israel"
             }
         ]
@@ -279,12 +291,12 @@
         "url": "https://www.aclweb.org/anthology/J13-2006.pdf",
         "orgs": [
             {
-                "name": "Carnegie Mellon University",
-                "country": "USA"
-            },
-            {
                 "name": "Uppsala University",
                 "country": "Sweden"
+            },
+            {
+                "name": "Carnegie Mellon University",
+                "country": "USA"
             }
         ]
     },
@@ -340,12 +352,12 @@
         "url": "https://www.aclweb.org/anthology/J13-3002.pdf",
         "orgs": [
             {
-                "name": "University of Gothenburg",
-                "country": "Sweden"
-            },
-            {
                 "name": "University of Trento",
                 "country": "Italy"
+            },
+            {
+                "name": "University of Gothenburg",
+                "country": "Sweden"
             }
         ]
     },
@@ -391,11 +403,11 @@
                 "country": "USA"
             },
             {
-                "name": "University of Toronto",
+                "name": "National Research Council Canada",
                 "country": "Canada"
             },
             {
-                "name": "National Research Council Canada",
+                "name": "University of Toronto",
                 "country": "Canada"
             }
         ]
@@ -415,6 +427,18 @@
         ],
         "url": "https://www.aclweb.org/anthology/J13-3005.pdf",
         "orgs": [
+            {
+                "name": "Université Paris Nord",
+                "country": "France"
+            },
+            {
+                "name": "University Paris Diderot",
+                "country": "France"
+            },
+            {
+                "name": "University of Orléans",
+                "country": "France"
+            },
             {
                 "name": "University of Paris",
                 "country": "France"
@@ -436,16 +460,16 @@
         "url": "https://www.aclweb.org/anthology/J13-3006.pdf",
         "orgs": [
             {
-                "name": "University of Arizona",
-                "country": "USA"
-            },
-            {
                 "name": "Polytechnic University of Catalonia",
                 "country": "Spain"
             },
             {
                 "name": "University of the Basque Country",
                 "country": "Spain"
+            },
+            {
+                "name": "University of Arizona",
+                "country": "USA"
             }
         ]
     },
@@ -526,12 +550,12 @@
                 "country": "Germany"
             },
             {
-                "name": "Indiana University",
-                "country": "USA"
-            },
-            {
                 "name": "Stockholm University",
                 "country": "Sweden"
+            },
+            {
+                "name": "Indiana University",
+                "country": "USA"
             }
         ]
     },
@@ -546,6 +570,10 @@
         ],
         "url": "https://www.aclweb.org/anthology/J13-4001.pdf",
         "orgs": [
+            {
+                "name": "University of New South Wales",
+                "country": "Australia"
+            },
             {
                 "name": "University of Southern California",
                 "country": "USA"
@@ -614,20 +642,20 @@
         "url": "https://www.aclweb.org/anthology/J13-4004.pdf",
         "orgs": [
             {
-                "name": "University of Arizona",
+                "name": "United States Naval Academy",
                 "country": "USA"
             },
             {
-                "name": "United States Naval Academy",
-                "country": "USA"
+                "name": "Katholieke Universiteit Leuven",
+                "country": "Belgium"
             },
             {
                 "name": "Stanford University",
                 "country": "USA"
             },
             {
-                "name": "Katholieke Universiteit Leuven",
-                "country": "Belgium"
+                "name": "University of Arizona",
+                "country": "USA"
             }
         ]
     },
@@ -674,16 +702,16 @@
         "url": "https://www.aclweb.org/anthology/J13-4006.pdf",
         "orgs": [
             {
-                "name": "University of Geneva",
-                "country": "Switzerland"
-            },
-            {
                 "name": "Saarland University",
                 "country": "Germany"
             },
             {
                 "name": "Xerox",
                 "country": "USA"
+            },
+            {
+                "name": "University of Geneva",
+                "country": "Switzerland"
             }
         ]
     },
@@ -720,11 +748,11 @@
         "url": "https://www.aclweb.org/anthology/J13-4008.pdf",
         "orgs": [
             {
-                "name": "Universität Potsdam",
+                "name": "Saarland University",
                 "country": "Germany"
             },
             {
-                "name": "Saarland University",
+                "name": "Universität Potsdam",
                 "country": "Germany"
             },
             {
@@ -751,12 +779,12 @@
                 "country": "Sweden"
             },
             {
-                "name": "Uppsala University",
-                "country": "Sweden"
-            },
-            {
                 "name": "Xerox",
                 "country": "USA"
+            },
+            {
+                "name": "Uppsala University",
+                "country": "Sweden"
             }
         ]
     }

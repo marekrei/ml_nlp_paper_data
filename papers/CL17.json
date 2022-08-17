@@ -10,7 +10,12 @@
             "Laura Perez-Beltrachini"
         ],
         "url": "https://www.aclweb.org/anthology/J17-1001.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "Université́ de Lorraine",
+                "country": "France"
+            }
+        ]
     },
     {
         "id": "CL17-1",
@@ -46,7 +51,11 @@
         "url": "https://www.aclweb.org/anthology/J17-1003.pdf",
         "orgs": [
             {
-                "name": "University of California San Diego",
+                "name": "University of California",
+                "country": "USA"
+            },
+            {
+                "name": "Merced",
                 "country": "USA"
             },
             {
@@ -54,12 +63,16 @@
                 "country": "USA"
             },
             {
-                "name": "University of Cambridge",
-                "country": "UK"
+                "name": "University of California San Diego",
+                "country": "USA"
             },
             {
                 "name": "University of California Merced",
                 "country": "USA"
+            },
+            {
+                "name": "University of Cambridge",
+                "country": "UK"
             }
         ]
     },
@@ -113,6 +126,10 @@
         "url": "https://www.aclweb.org/anthology/J17-1006.pdf",
         "orgs": [
             {
+                "name": "University of Paris",
+                "country": "France"
+            },
+            {
                 "name": "Simon Fraser University",
                 "country": "Canada"
             }
@@ -147,11 +164,11 @@
         "url": "https://www.aclweb.org/anthology/J17-1008.pdf",
         "orgs": [
             {
-                "name": "IBM",
+                "name": "Montclair State University",
                 "country": "USA"
             },
             {
-                "name": "Montclair State University",
+                "name": "IBM",
                 "country": "USA"
             }
         ]
@@ -169,11 +186,11 @@
         "url": "https://www.aclweb.org/anthology/J17-2001.pdf",
         "orgs": [
             {
-                "name": "Johns Hopkins University",
+                "name": "University of Pennsylvania",
                 "country": "USA"
             },
             {
-                "name": "University of Pennsylvania",
+                "name": "Johns Hopkins University",
                 "country": "USA"
             }
         ]
@@ -193,11 +210,11 @@
         "url": "https://www.aclweb.org/anthology/J17-2002.pdf",
         "orgs": [
             {
-                "name": "University of Washington",
+                "name": "IBM",
                 "country": "USA"
             },
             {
-                "name": "IBM",
+                "name": "Carnegie Mellon University",
                 "country": "USA"
             },
             {
@@ -205,7 +222,7 @@
                 "country": "Israel"
             },
             {
-                "name": "Carnegie Mellon University",
+                "name": "University of Washington",
                 "country": "USA"
             }
         ]
@@ -225,12 +242,12 @@
         "url": "https://www.aclweb.org/anthology/J17-2003.pdf",
         "orgs": [
             {
-                "name": "Qatar Computing Research Institute",
-                "country": "Qatar"
-            },
-            {
                 "name": "University of Munich",
                 "country": "Germany"
+            },
+            {
+                "name": "Qatar Computing Research Institute",
+                "country": "Qatar"
             }
         ]
     },
@@ -307,12 +324,12 @@
         "url": "https://www.aclweb.org/anthology/J17-2007.pdf",
         "orgs": [
             {
-                "name": "Technische Universität Darmstadt",
-                "country": "Germany"
-            },
-            {
                 "name": "Ecole Polytechnique Fédérale de Lausanne",
                 "country": "Switzerland"
+            },
+            {
+                "name": "Technische Universität Darmstadt",
+                "country": "Germany"
             }
         ]
     },
@@ -348,12 +365,12 @@
         "url": "https://www.aclweb.org/anthology/J17-3002.pdf",
         "orgs": [
             {
-                "name": "Tsinghua University",
-                "country": "China"
-            },
-            {
                 "name": "Brandeis University",
                 "country": "USA"
+            },
+            {
+                "name": "Tsinghua University",
+                "country": "China"
             }
         ]
     },
@@ -425,7 +442,12 @@
             "Yann Mathet"
         ],
         "url": "https://www.aclweb.org/anthology/J17-3006.pdf",
-        "orgs": []
+        "orgs": [
+            {
+                "name": "University of Caen Normandy",
+                "country": "France"
+            }
+        ]
     },
     {
         "id": "CL17-21",
@@ -465,11 +487,11 @@
         "url": "https://www.aclweb.org/anthology/J17-4002.pdf",
         "orgs": [
             {
-                "name": "City University of New York",
+                "name": "University of Illinois",
                 "country": "USA"
             },
             {
-                "name": "University of Illinois",
+                "name": "City University of New York",
                 "country": "USA"
             },
             {
@@ -513,7 +535,7 @@
         "url": "https://www.aclweb.org/anthology/J17-4004.pdf",
         "orgs": [
             {
-                "name": "University of Cambridge",
+                "name": "DeepMind",
                 "country": "UK"
             },
             {
@@ -521,7 +543,7 @@
                 "country": "USA"
             },
             {
-                "name": "DeepMind",
+                "name": "University of Cambridge",
                 "country": "UK"
             }
         ]
@@ -544,23 +566,23 @@
         "url": "https://www.aclweb.org/anthology/J17-4005.pdf",
         "orgs": [
             {
-                "name": "University of Malta",
-                "country": "Malta"
+                "name": "Istanbul Technical University",
+                "country": "Turkey"
             },
             {
-                "name": "Aix Marseille University",
+                "name": "Université́ de Lorraine",
                 "country": "France"
+            },
+            {
+                "name": "University of Malta",
+                "country": "Malta"
             },
             {
                 "name": "University of Strasbourg",
                 "country": "France"
             },
             {
-                "name": "Istanbul Technical University",
-                "country": "Turkey"
-            },
-            {
-                "name": "Université́ de Lorraine",
+                "name": "Aix Marseille University",
                 "country": "France"
             }
         ]
@@ -577,20 +599,20 @@
         "url": "https://www.aclweb.org/anthology/J17-4006.pdf",
         "orgs": [
             {
-                "name": "Johns Hopkins University",
-                "country": "USA"
-            },
-            {
                 "name": "National University of Singapore",
                 "country": "Singapore"
             },
             {
-                "name": "University of Edinburgh",
-                "country": "UK"
-            },
-            {
                 "name": "Johns Hopkins Univeristy",
                 "country": "USA"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "country": "USA"
+            },
+            {
+                "name": "University of Edinburgh",
+                "country": "UK"
             }
         ]
     },
